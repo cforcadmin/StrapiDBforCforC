@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "auth_tokens",
+  "info": {
+    "singularName": "auth-token",
+    "pluralName": "auth-tokens",
+    "displayName": "AuthToken",
+    "description": "Stores authentication tokens and credentials for members"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email",
+      "required": true,
+      "unique": true
+    },
+    "passwordHash": {
+      "type": "text",
+      "required": false
+    },
+    "tokenHash": {
+      "type": "string",
+      "required": false
+    },
+    "tokenExpiry": {
+      "type": "datetime",
+      "required": false
+    },
+    "tokenType": {
+      "type": "enumeration",
+      "enum": ["magic-link", "password-reset"],
+      "required": false
+    },
+    "lastLoginAt": {
+      "type": "datetime",
+      "required": false
+    }
+  }
+}
