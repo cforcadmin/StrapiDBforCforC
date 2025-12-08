@@ -94,16 +94,21 @@ export default {
     }
   },
 
-  async beforeUpdate(event) {
-    const { data } = event.params
+  // Temporarily disabled to fix image migration issues
+  // async beforeUpdate(event) {
+  //   const { data } = event.params
 
-    // Only regenerate slug if Name is explicitly being updated in this request
-    if ('Name' in data && data.Name) {
-      const newSlug = generateSlug(data.Name)
-      // Only update if slug is empty or matches the old auto-generated pattern
-      if (!data.Slug) {
-        data.Slug = newSlug
-      }
-    }
+  //   // Only regenerate slug if Name is explicitly being updated in this request
+  //   if ('Name' in data && data.Name) {
+  //     const newSlug = generateSlug(data.Name)
+  //     // Only update if slug is empty or matches the old auto-generated pattern
+  //     if (!data.Slug) {
+  //       data.Slug = newSlug
+  //     }
+  //   }
+  // },
+
+  async afterUpdate(event) {
+    // Empty hook - just here for debugging
   },
 }
