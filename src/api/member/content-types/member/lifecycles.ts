@@ -97,8 +97,8 @@ export default {
   async beforeUpdate(event) {
     const { data } = event.params
 
-    // Regenerate slug if Name changed and Slug is not manually set
-    if (data.Name) {
+    // Only regenerate slug if Name is being updated
+    if (data.Name !== undefined && data.Name !== null) {
       const newSlug = generateSlug(data.Name)
       // Only update if slug is empty or matches the old auto-generated pattern
       if (!data.Slug) {
