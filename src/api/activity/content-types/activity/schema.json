@@ -39,6 +39,9 @@
     "Featured": {
       "type": "boolean",
       "default": false
+    },
+    "Slug": {
+      "type": "string"
     }
   }
 }
