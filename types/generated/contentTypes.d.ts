@@ -448,6 +448,7 @@ export interface ApiActivityActivity extends Struct.CollectionTypeSchema {
     Date: Schema.Attribute.Date & Schema.Attribute.Required;
     Description: Schema.Attribute.Blocks & Schema.Attribute.Required;
     Featured: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    ImageAltText: Schema.Attribute.String & Schema.Attribute.Required;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
@@ -455,12 +456,49 @@ export interface ApiActivityActivity extends Struct.CollectionTypeSchema {
     > &
       Schema.Attribute.Private;
     publishedAt: Schema.Attribute.DateTime;
+    Slug: Schema.Attribute.String;
     Title: Schema.Attribute.String & Schema.Attribute.Required;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     Visuals: Schema.Attribute.Media<'images' | 'files', true> &
       Schema.Attribute.Required;
+  };
+}
+
+export interface ApiAuthTokenAuthToken extends Struct.CollectionTypeSchema {
+  collectionName: 'auth_tokens';
+  info: {
+    description: 'Stores authentication tokens and credentials for members';
+    displayName: 'AuthToken';
+    pluralName: 'auth-tokens';
+    singularName: 'auth-token';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    email: Schema.Attribute.Email &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    lastLoginAt: Schema.Attribute.DateTime;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::auth-token.auth-token'
+    > &
+      Schema.Attribute.Private;
+    passwordHash: Schema.Attribute.Text;
+    publishedAt: Schema.Attribute.DateTime;
+    tokenExpiry: Schema.Attribute.DateTime;
+    tokenHash: Schema.Attribute.String;
+    tokenType: Schema.Attribute.Enumeration<['magic-link', 'password-reset']>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
   };
 }
 
@@ -517,6 +555,7 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
     Project2Title: Schema.Attribute.String;
     Province: Schema.Attribute.String & Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
+    Slug: Schema.Attribute.String & Schema.Attribute.Unique;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -542,6 +581,7 @@ export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
     Description: Schema.Attribute.Blocks & Schema.Attribute.Required;
     Image: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'> &
       Schema.Attribute.Required;
+    ImageAltText: Schema.Attribute.String & Schema.Attribute.Required;
     Link: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.SetMinMaxLength<{
@@ -1077,6 +1117,7 @@ declare module '@strapi/strapi' {
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
       'api::activity.activity': ApiActivityActivity;
+      'api::auth-token.auth-token': ApiAuthTokenAuthToken;
       'api::member.member': ApiMemberMember;
       'api::open-call.open-call': ApiOpenCallOpenCall;
       'plugin::content-releases.release': PluginContentReleasesRelease;

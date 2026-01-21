@@ -42,6 +42,10 @@
     },
     "Slug": {
       "type": "string"
+    },
+    "ImageAltText": {
+      "type": "string",
+      "required": true
     }
   }
 }

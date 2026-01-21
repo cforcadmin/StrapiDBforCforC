@@ -43,6 +43,10 @@
         "videos",
         "audios"
       ]
+    },
+    "ImageAltText": {
+      "type": "string",
+      "required": true
     }
   }
 }
