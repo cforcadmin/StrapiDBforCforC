@@ -539,11 +539,13 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
     Name: Schema.Attribute.String & Schema.Attribute.Required;
     password: Schema.Attribute.String;
     Phone: Schema.Attribute.String;
+    ProfileImageAltText: Schema.Attribute.String & Schema.Attribute.Required;
     Project1Description: Schema.Attribute.Blocks;
     Project1Pictures: Schema.Attribute.Media<
       'images' | 'files' | 'videos' | 'audios',
       true
     >;
+    Project1PicturesAltText: Schema.Attribute.String;
     Project1Tags: Schema.Attribute.String;
     Project1Title: Schema.Attribute.String;
     Project2Description: Schema.Attribute.Blocks;
@@ -551,6 +553,7 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
       'images' | 'files' | 'videos' | 'audios',
       true
     >;
+    Project2PicturesAltText: Schema.Attribute.String;
     Project2Tags: Schema.Attribute.String;
     Project2Title: Schema.Attribute.String;
     Province: Schema.Attribute.String & Schema.Attribute.Required;
