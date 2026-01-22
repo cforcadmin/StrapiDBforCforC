@@ -29,7 +29,7 @@
       "required": true
     },
     "EngDescription": {
-      "type": "blocks",
+      "type": "text",
       "required": false
     },
     "Priority": {
