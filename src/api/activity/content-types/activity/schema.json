@@ -23,6 +23,10 @@
       "type": "blocks",
       "required": true
     },
+    "EngDescription": {
+      "type": "blocks",
+      "required": false
+    },
     "Date": {
       "type": "date",
       "required": true
