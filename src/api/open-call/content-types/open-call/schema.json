@@ -13,8 +13,12 @@
   "attributes": {
     "Title": {
       "type": "string",
-      "required": true,
-      "maxLength": 500
+      "maxLength": 500,
+      "required": true
+    },
+    "EngTitle": {
+      "type": "string",
+      "required": false
     },
     "Deadline": {
       "type": "date",
@@ -24,14 +28,18 @@
       "type": "blocks",
       "required": true
     },
+    "EngDescription": {
+      "type": "text",
+      "required": false
+    },
     "Priority": {
       "type": "boolean",
       "default": false
     },
     "Link": {
       "type": "string",
-      "required": true,
-      "maxLength": 2000
+      "maxLength": 2000,
+      "required": true
     },
     "Image": {
       "type": "media",

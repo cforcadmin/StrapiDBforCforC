@@ -447,6 +447,8 @@ export interface ApiActivityActivity extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     Date: Schema.Attribute.Date & Schema.Attribute.Required;
     Description: Schema.Attribute.Blocks & Schema.Attribute.Required;
+    EngDescription: Schema.Attribute.Text;
+    EngTitle: Schema.Attribute.String;
     Featured: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     ImageAltText: Schema.Attribute.String & Schema.Attribute.Required;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
@@ -582,6 +584,8 @@ export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     Deadline: Schema.Attribute.Date & Schema.Attribute.Required;
     Description: Schema.Attribute.Blocks & Schema.Attribute.Required;
+    EngDescription: Schema.Attribute.Text;
+    EngTitle: Schema.Attribute.String;
     Image: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'> &
       Schema.Attribute.Required;
     ImageAltText: Schema.Attribute.String & Schema.Attribute.Required;

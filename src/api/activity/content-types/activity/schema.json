@@ -15,9 +15,17 @@
       "type": "string",
       "required": true
     },
+    "EngTitle": {
+      "type": "string",
+      "required": false
+    },
     "Description": {
       "type": "blocks",
       "required": true
+    },
+    "EngDescription": {
+      "type": "text",
+      "required": false
     },
     "Date": {
       "type": "date",
