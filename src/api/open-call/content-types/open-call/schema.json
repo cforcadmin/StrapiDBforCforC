@@ -28,10 +28,6 @@
       "type": "blocks",
       "required": true
     },
-    "EngDescription": {
-      "type": "text",
-      "required": false
-    },
     "Priority": {
       "type": "boolean",
       "default": false
