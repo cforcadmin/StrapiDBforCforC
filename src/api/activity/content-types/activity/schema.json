@@ -24,7 +24,7 @@
       "required": true
     },
     "EngDescription": {
-      "type": "text",
+      "type": "blocks",
       "required": false
     },
     "Date": {
