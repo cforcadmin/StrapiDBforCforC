@@ -447,7 +447,7 @@ export interface ApiActivityActivity extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     Date: Schema.Attribute.Date & Schema.Attribute.Required;
     Description: Schema.Attribute.Blocks & Schema.Attribute.Required;
-    EngDescription: Schema.Attribute.Text;
+    EngDescription: Schema.Attribute.Blocks;
     EngTitle: Schema.Attribute.String;
     Featured: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     ImageAltText: Schema.Attribute.String & Schema.Attribute.Required;
@@ -568,6 +568,42 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiNewsletterNewsletter extends Struct.CollectionTypeSchema {
+  collectionName: 'newsletters';
+  info: {
+    displayName: 'Newsletter';
+    pluralName: 'newsletters';
+    singularName: 'newsletter';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Date: Schema.Attribute.Date & Schema.Attribute.Required;
+    DriveLink: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    Image: Schema.Attribute.Media<'images'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::newsletter.newsletter'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    Slug: Schema.Attribute.UID<'Title'>;
+    Title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
   collectionName: 'open_calls';
   info: {
@@ -584,7 +620,7 @@ export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     Deadline: Schema.Attribute.Date & Schema.Attribute.Required;
     Description: Schema.Attribute.Blocks & Schema.Attribute.Required;
-    EngDescription: Schema.Attribute.Text;
+    EngDescription: Schema.Attribute.Blocks;
     EngTitle: Schema.Attribute.String;
     Image: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'> &
       Schema.Attribute.Required;
@@ -1126,6 +1162,7 @@ declare module '@strapi/strapi' {
       'api::activity.activity': ApiActivityActivity;
       'api::auth-token.auth-token': ApiAuthTokenAuthToken;
       'api::member.member': ApiMemberMember;
+      'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::open-call.open-call': ApiOpenCallOpenCall;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
