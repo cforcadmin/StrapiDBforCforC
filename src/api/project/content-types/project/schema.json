@@ -60,7 +60,7 @@
       "type": "date"
     },
     "category": {
-      "type": "json"
+      "type": "text"
     },
     "sort_order": {
       "type": "integer",

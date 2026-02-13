@@ -42,7 +42,7 @@
       "type": "string"
     },
     "tags": {
-      "type": "json"
+      "type": "text"
     },
     "entry_link": {
       "type": "string",
