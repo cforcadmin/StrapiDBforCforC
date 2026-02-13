@@ -1,0 +1,68 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sima_entries",
+  "info": {
+    "singularName": "sima-entry",
+    "pluralName": "sima-entries",
+    "displayName": "Sima Entry"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    },
+    "description": {
+      "type": "blocks"
+    },
+    "cover_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "category": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "json"
+    },
+    "visibility": {
+      "type": "enumeration",
+      "enum": [
+        "public",
+        "private"
+      ],
+      "default": "private"
+    },
+    "publication_date": {
+      "type": "datetime"
+    },
+    "expiration_date": {
+      "type": "datetime"
+    },
+    "project": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::project.project",
+      "inversedBy": "sima_entries"
+    }
+  }
+}

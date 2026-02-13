@@ -1,0 +1,90 @@
+{
+  "kind": "collectionType",
+  "collectionName": "projects",
+  "info": {
+    "singularName": "project",
+    "pluralName": "projects",
+    "displayName": "Project"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title"
+    },
+    "short_description": {
+      "type": "text"
+    },
+    "full_description": {
+      "type": "blocks"
+    },
+    "cover_image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "project_images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "project_link": {
+      "type": "string",
+      "maxLength": 2000
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "active",
+        "in_progress",
+        "completed"
+      ]
+    },
+    "start_date": {
+      "type": "date"
+    },
+    "end_date": {
+      "type": "date"
+    },
+    "category": {
+      "type": "json"
+    },
+    "sort_order": {
+      "type": "integer",
+      "default": 0
+    },
+    "featured": {
+      "type": "boolean",
+      "default": true
+    },
+    "partners": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project.partner"
+    },
+    "external_links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "project.external-link"
+    },
+    "sima_entries": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::sima-entry.sima-entry",
+      "mappedBy": "project"
+    }
+  }
+}
