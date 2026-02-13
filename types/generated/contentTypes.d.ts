@@ -675,6 +675,10 @@ export interface ApiProjectEntryProjectEntry extends Struct.CollectionTypeSchema
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     description: Schema.Attribute.Blocks;
+    entry_link: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
     expiration_date: Schema.Attribute.DateTime;
     images: Schema.Attribute.Media<'images', true>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;

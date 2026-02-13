@@ -44,6 +44,10 @@
     "tags": {
       "type": "json"
     },
+    "entry_link": {
+      "type": "string",
+      "maxLength": 2000
+    },
     "visibility": {
       "type": "enumeration",
       "enum": [
