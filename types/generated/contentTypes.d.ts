@@ -659,7 +659,7 @@ export interface ApiProjectProject extends Struct.CollectionTypeSchema {
 }
 
 export interface ApiProjectEntryProjectEntry extends Struct.CollectionTypeSchema {
-  collectionName: 'project_entries';
+  collectionName: 'sima_entries';
   info: {
     displayName: 'Project Entry';
     pluralName: 'project-entries';

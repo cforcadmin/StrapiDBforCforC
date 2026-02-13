@@ -1,6 +1,6 @@
 {
   "kind": "collectionType",
-  "collectionName": "project_entries",
+  "collectionName": "sima_entries",
   "info": {
     "singularName": "project-entry",
     "pluralName": "project-entries",
