@@ -604,6 +604,102 @@ export interface ApiNewsletterNewsletter extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiProjectProject extends Struct.CollectionTypeSchema {
+  collectionName: 'projects';
+  info: {
+    displayName: 'Project';
+    pluralName: 'projects';
+    singularName: 'project';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    category: Schema.Attribute.JSON;
+    cover_image: Schema.Attribute.Media<'images'> & Schema.Attribute.Required;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    end_date: Schema.Attribute.Date;
+    external_links: Schema.Attribute.Component<
+      'project.external-link',
+      true
+    >;
+    featured: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    full_description: Schema.Attribute.Blocks;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::project.project'
+    > &
+      Schema.Attribute.Private;
+    partners: Schema.Attribute.Component<'project.partner', true>;
+    project_images: Schema.Attribute.Media<'images', true>;
+    project_link: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    short_description: Schema.Attribute.Text;
+    sima_entries: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::sima-entry.sima-entry'
+    >;
+    slug: Schema.Attribute.UID<'title'>;
+    sort_order: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    start_date: Schema.Attribute.Date;
+    status: Schema.Attribute.Enumeration<
+      ['active', 'in_progress', 'completed']
+    >;
+    title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiSimaEntrySimaEntry extends Struct.CollectionTypeSchema {
+  collectionName: 'sima_entries';
+  info: {
+    displayName: 'Sima Entry';
+    pluralName: 'sima-entries';
+    singularName: 'sima-entry';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    category: Schema.Attribute.String;
+    cover_image: Schema.Attribute.Media<'images'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.Blocks;
+    expiration_date: Schema.Attribute.DateTime;
+    images: Schema.Attribute.Media<'images', true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::sima-entry.sima-entry'
+    > &
+      Schema.Attribute.Private;
+    project: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::project.project'
+    >;
+    publication_date: Schema.Attribute.DateTime;
+    publishedAt: Schema.Attribute.DateTime;
+    slug: Schema.Attribute.UID<'title'>;
+    tags: Schema.Attribute.JSON;
+    title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    visibility: Schema.Attribute.Enumeration<['public', 'private']> &
+      Schema.Attribute.DefaultTo<'private'>;
+  };
+}
+
 export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
   collectionName: 'open_calls';
   info: {
@@ -1164,6 +1260,8 @@ declare module '@strapi/strapi' {
       'api::member.member': ApiMemberMember;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::open-call.open-call': ApiOpenCallOpenCall;
+      'api::project.project': ApiProjectProject;
+      'api::sima-entry.sima-entry': ApiSimaEntrySimaEntry;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;
