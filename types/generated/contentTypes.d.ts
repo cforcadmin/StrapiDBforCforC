@@ -641,16 +641,16 @@ export interface ApiProjectProject extends Struct.CollectionTypeSchema {
       }>;
     publishedAt: Schema.Attribute.DateTime;
     short_description: Schema.Attribute.Text;
-    sima_entries: Schema.Attribute.Relation<
+    project_entries: Schema.Attribute.Relation<
       'oneToMany',
-      'api::sima-entry.sima-entry'
+      'api::project-entry.project-entry'
+    >;
+    project_status: Schema.Attribute.Enumeration<
+      ['active', 'in_progress', 'completed']
     >;
     slug: Schema.Attribute.UID<'title'>;
     sort_order: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     start_date: Schema.Attribute.Date;
-    status: Schema.Attribute.Enumeration<
-      ['active', 'in_progress', 'completed']
-    >;
     title: Schema.Attribute.String & Schema.Attribute.Required;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
@@ -658,12 +658,12 @@ export interface ApiProjectProject extends Struct.CollectionTypeSchema {
   };
 }
 
-export interface ApiSimaEntrySimaEntry extends Struct.CollectionTypeSchema {
-  collectionName: 'sima_entries';
+export interface ApiProjectEntryProjectEntry extends Struct.CollectionTypeSchema {
+  collectionName: 'project_entries';
   info: {
-    displayName: 'Sima Entry';
-    pluralName: 'sima-entries';
-    singularName: 'sima-entry';
+    displayName: 'Project Entry';
+    pluralName: 'project-entries';
+    singularName: 'project-entry';
   };
   options: {
     draftAndPublish: true;
@@ -680,7 +680,7 @@ export interface ApiSimaEntrySimaEntry extends Struct.CollectionTypeSchema {
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
-      'api::sima-entry.sima-entry'
+      'api::project-entry.project-entry'
     > &
       Schema.Attribute.Private;
     project: Schema.Attribute.Relation<
@@ -1261,7 +1261,7 @@ declare module '@strapi/strapi' {
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::open-call.open-call': ApiOpenCallOpenCall;
       'api::project.project': ApiProjectProject;
-      'api::sima-entry.sima-entry': ApiSimaEntrySimaEntry;
+      'api::project-entry.project-entry': ApiProjectEntryProjectEntry;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

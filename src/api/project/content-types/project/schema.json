@@ -45,7 +45,7 @@
       "type": "string",
       "maxLength": 2000
     },
-    "status": {
+    "project_status": {
       "type": "enumeration",
       "enum": [
         "active",
@@ -80,10 +80,10 @@
       "repeatable": true,
       "component": "project.external-link"
     },
-    "sima_entries": {
+    "project_entries": {
       "type": "relation",
       "relation": "oneToMany",
-      "target": "api::sima-entry.sima-entry",
+      "target": "api::project-entry.project-entry",
       "mappedBy": "project"
     }
   }

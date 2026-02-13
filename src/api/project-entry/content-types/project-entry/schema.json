@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "sima_entries",
+  "collectionName": "project_entries",
   "info": {
-    "singularName": "sima-entry",
-    "pluralName": "sima-entries",
-    "displayName": "Sima Entry"
+    "singularName": "project-entry",
+    "pluralName": "project-entries",
+    "displayName": "Project Entry"
   },
   "options": {
     "draftAndPublish": true
@@ -62,7 +62,7 @@
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::project.project",
-      "inversedBy": "sima_entries"
+      "inversedBy": "project_entries"
     }
   }
 }
