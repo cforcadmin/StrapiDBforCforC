@@ -85,6 +85,14 @@
       "relation": "oneToMany",
       "target": "api::project-entry.project-entry",
       "mappedBy": "project"
+    },
+    "supporters_banner": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
     }
   }
 }
