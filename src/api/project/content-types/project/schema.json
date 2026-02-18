@@ -19,8 +19,13 @@
       "type": "uid",
       "targetField": "title"
     },
-    "short_description": {
-      "type": "text"
+    "CforC_project_role": {
+      "type": "string",
+      "description": "Ο ρόλος του CforC στο έργο, π.χ. «Συντονιστής», «Εταίρος», «Υπεύθυνος Επικοινωνίας»"
+    },
+    "project_partners": {
+      "type": "text",
+      "description": "Εταίροι του έργου, χωρισμένοι με κόμμα. π.χ. «Ίδρυμα Μποδοσάκη, Ευρωπαϊκή Ένωση, NGO Support Centre»"
     },
     "full_description": {
       "type": "blocks"
@@ -86,13 +91,23 @@
       "target": "api::project-entry.project-entry",
       "mappedBy": "project"
     },
-    "supporters_banner": {
+    "supporters_banner_light": {
       "type": "media",
       "multiple": false,
       "required": false,
       "allowedTypes": [
         "images"
-      ]
+      ],
+      "description": "Banner χορηγών/υποστηρικτών για light theme (ανοιχτό φόντο). Ιδανικές διαστάσεις: 1200x300px"
+    },
+    "supporters_banner_dark": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ],
+      "description": "Banner χορηγών/υποστηρικτών για dark theme (σκούρο φόντο). Ιδανικές διαστάσεις: 1200x300px"
     }
   }
 }
