@@ -132,6 +132,11 @@
     "lastLoginAt": {
       "type": "datetime",
       "required": false
+    },
+    "HideProfile": {
+      "type": "boolean",
+      "default": false,
+      "required": false
     }
   }
 }
