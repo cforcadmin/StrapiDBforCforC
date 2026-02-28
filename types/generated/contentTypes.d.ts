@@ -704,6 +704,44 @@ export interface ApiProjectEntryProjectEntry extends Struct.CollectionTypeSchema
   };
 }
 
+export interface ApiWorkingGroupWorkingGroup
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'working_groups';
+  info: {
+    displayName: 'Working Group';
+    pluralName: 'working-groups';
+    singularName: 'working-group';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    Coordinator: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Description: Schema.Attribute.Text & Schema.Attribute.Required;
+    EngDescription: Schema.Attribute.Text;
+    EngName: Schema.Attribute.String;
+    Image: Schema.Attribute.Media<'images'>;
+    ImageAltText: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::working-group.working-group'
+    > &
+      Schema.Attribute.Private;
+    Members: Schema.Attribute.Relation<'manyToMany', 'api::member.member'>;
+    Name: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    Slug: Schema.Attribute.UID<'Name'> & Schema.Attribute.Required;
+    SortOrder: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
   collectionName: 'open_calls';
   info: {
@@ -1264,6 +1302,7 @@ declare module '@strapi/strapi' {
       'api::member.member': ApiMemberMember;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::open-call.open-call': ApiOpenCallOpenCall;
+      'api::working-group.working-group': ApiWorkingGroupWorkingGroup;
       'api::project.project': ApiProjectProject;
       'api::project-entry.project-entry': ApiProjectEntryProjectEntry;
       'plugin::content-releases.release': PluginContentReleasesRelease;
