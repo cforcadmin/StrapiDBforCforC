@@ -1,0 +1,63 @@
+{
+  "kind": "collectionType",
+  "collectionName": "working_groups",
+  "info": {
+    "singularName": "working-group",
+    "pluralName": "working-groups",
+    "displayName": "Working Group"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "EngName": {
+      "type": "string",
+      "required": false
+    },
+    "Description": {
+      "type": "text",
+      "required": true
+    },
+    "EngDescription": {
+      "type": "text",
+      "required": false
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "ImageAltText": {
+      "type": "string",
+      "required": false
+    },
+    "Coordinator": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "Members": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::member.member"
+    },
+    "SortOrder": {
+      "type": "integer",
+      "default": 0,
+      "required": false
+    },
+    "Slug": {
+      "type": "uid",
+      "targetField": "Name",
+      "required": true
+    }
+  }
+}
