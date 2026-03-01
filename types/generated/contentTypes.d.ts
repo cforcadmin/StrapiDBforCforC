@@ -548,6 +548,7 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
       true
     >;
     Project1PicturesAltText: Schema.Attribute.String;
+    Project1Links: Schema.Attribute.Text;
     Project1Tags: Schema.Attribute.String;
     Project1Title: Schema.Attribute.String;
     Project2Description: Schema.Attribute.Blocks;
@@ -556,6 +557,7 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
       true
     >;
     Project2PicturesAltText: Schema.Attribute.String;
+    Project2Links: Schema.Attribute.Text;
     Project2Tags: Schema.Attribute.String;
     Project2Title: Schema.Attribute.String;
     Province: Schema.Attribute.String & Schema.Attribute.Required;

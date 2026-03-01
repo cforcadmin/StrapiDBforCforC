@@ -90,6 +90,10 @@
       "type": "string",
       "required": false
     },
+    "Project1Links": {
+      "type": "text",
+      "required": false
+    },
     "Project2Title": {
       "type": "string",
       "required": false
@@ -115,6 +119,10 @@
     },
     "Project2Tags": {
       "type": "string",
+      "required": false
+    },
+    "Project2Links": {
+      "type": "text",
       "required": false
     },
     "password": {
