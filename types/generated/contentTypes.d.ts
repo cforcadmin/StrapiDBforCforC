@@ -704,6 +704,46 @@ export interface ApiProjectEntryProjectEntry extends Struct.CollectionTypeSchema
   };
 }
 
+export interface ApiCoordinationTeamCoordinationTeam
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'coordination_teams';
+  info: {
+    displayName: 'Coordination Team';
+    pluralName: 'coordination-teams';
+    singularName: 'coordination-team';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    Coordinator: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Description: Schema.Attribute.Text;
+    EngDescription: Schema.Attribute.Text;
+    EngName: Schema.Attribute.String;
+    Image: Schema.Attribute.Media<'images'>;
+    ImageAltText: Schema.Attribute.String;
+    IsCurrent: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::coordination-team.coordination-team'
+    > &
+      Schema.Attribute.Private;
+    Members: Schema.Attribute.Relation<'manyToMany', 'api::member.member'>;
+    Name: Schema.Attribute.String & Schema.Attribute.Required;
+    Period: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    Slug: Schema.Attribute.UID<'Name'> & Schema.Attribute.Required;
+    SortOrder: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiWorkingGroupWorkingGroup
   extends Struct.CollectionTypeSchema {
   collectionName: 'working_groups';
@@ -1299,6 +1339,7 @@ declare module '@strapi/strapi' {
       'admin::user': AdminUser;
       'api::activity.activity': ApiActivityActivity;
       'api::auth-token.auth-token': ApiAuthTokenAuthToken;
+      'api::coordination-team.coordination-team': ApiCoordinationTeamCoordinationTeam;
       'api::member.member': ApiMemberMember;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::open-call.open-call': ApiOpenCallOpenCall;
