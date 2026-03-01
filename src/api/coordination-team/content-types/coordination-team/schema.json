@@ -1,0 +1,72 @@
+{
+  "kind": "collectionType",
+  "collectionName": "coordination_teams",
+  "info": {
+    "singularName": "coordination-team",
+    "pluralName": "coordination-teams",
+    "displayName": "Coordination Team"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "EngName": {
+      "type": "string",
+      "required": false
+    },
+    "Description": {
+      "type": "text",
+      "required": false
+    },
+    "EngDescription": {
+      "type": "text",
+      "required": false
+    },
+    "Period": {
+      "type": "string",
+      "required": true
+    },
+    "IsCurrent": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "ImageAltText": {
+      "type": "string",
+      "required": false
+    },
+    "Coordinator": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "Members": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::member.member"
+    },
+    "SortOrder": {
+      "type": "integer",
+      "default": 0,
+      "required": false
+    },
+    "Slug": {
+      "type": "uid",
+      "targetField": "Name",
+      "required": true
+    }
+  }
+}
