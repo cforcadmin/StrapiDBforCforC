@@ -637,6 +637,37 @@ export interface ApiNewsletterSubscriberNewsletterSubscriber
   };
 }
 
+export interface ApiProfileChangeLogProfileChangeLog
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'profile_change_logs';
+  info: {
+    displayName: 'Profile Change Log';
+    pluralName: 'profile-change-logs';
+    singularName: 'profile-change-log';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    changedAt: Schema.Attribute.DateTime & Schema.Attribute.Required;
+    changedFields: Schema.Attribute.Text & Schema.Attribute.Required;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::profile-change-log.profile-change-log'
+    > &
+      Schema.Attribute.Private;
+    memberEmail: Schema.Attribute.Email & Schema.Attribute.Required;
+    memberName: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiProjectProject extends Struct.CollectionTypeSchema {
   collectionName: 'projects';
   info: {
@@ -1377,6 +1408,7 @@ declare module '@strapi/strapi' {
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::newsletter-subscriber.newsletter-subscriber': ApiNewsletterSubscriberNewsletterSubscriber;
       'api::open-call.open-call': ApiOpenCallOpenCall;
+      'api::profile-change-log.profile-change-log': ApiProfileChangeLogProfileChangeLog;
       'api::working-group.working-group': ApiWorkingGroupWorkingGroup;
       'api::project.project': ApiProjectProject;
       'api::project-entry.project-entry': ApiProjectEntryProjectEntry;

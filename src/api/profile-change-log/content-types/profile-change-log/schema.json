@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "profile_change_logs",
+  "info": {
+    "singularName": "profile-change-log",
+    "pluralName": "profile-change-logs",
+    "displayName": "Profile Change Log"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "memberName": {
+      "type": "string",
+      "required": true
+    },
+    "memberEmail": {
+      "type": "email",
+      "required": true
+    },
+    "changedFields": {
+      "type": "text",
+      "required": true
+    },
+    "changedAt": {
+      "type": "datetime",
+      "required": true
+    }
+  }
+}
