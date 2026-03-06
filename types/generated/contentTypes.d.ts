@@ -878,7 +878,7 @@ export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
       'api::open-call.open-call'
     > &
       Schema.Attribute.Private;
-    Priority: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    Category: Schema.Attribute.String & Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
     Title: Schema.Attribute.String &
       Schema.Attribute.Required &

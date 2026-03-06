@@ -32,9 +32,9 @@
       "type": "blocks",
       "required": false
     },
-    "Priority": {
-      "type": "boolean",
-      "default": false
+    "Category": {
+      "type": "string",
+      "required": true
     },
     "Link": {
       "type": "string",
