@@ -54,6 +54,10 @@
     "ImageAltText": {
       "type": "string",
       "required": true
+    },
+    "Tags": {
+      "type": "string",
+      "required": false
     }
   }
 }
