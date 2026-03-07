@@ -780,6 +780,7 @@ export interface ApiCoordinationTeamCoordinationTeam
     draftAndPublish: true;
   };
   attributes: {
+    Admin: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
     Coordinator: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &

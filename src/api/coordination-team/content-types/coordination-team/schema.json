@@ -58,6 +58,11 @@
       "relation": "manyToMany",
       "target": "api::member.member"
     },
+    "Admin": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
     "SortOrder": {
       "type": "integer",
       "default": 0,
