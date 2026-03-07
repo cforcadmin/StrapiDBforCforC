@@ -15,9 +15,17 @@
       "type": "string",
       "required": true
     },
+    "EngName": {
+      "type": "string",
+      "required": false
+    },
     "Bio": {
       "type": "blocks",
       "required": true
+    },
+    "EngBio": {
+      "type": "blocks",
+      "required": false
     },
     "FieldsOfWork": {
       "type": "string",

@@ -518,6 +518,8 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
   attributes: {
     Bio: Schema.Attribute.Blocks & Schema.Attribute.Required;
     City: Schema.Attribute.String & Schema.Attribute.Required;
+    EngBio: Schema.Attribute.Blocks;
+    EngName: Schema.Attribute.String;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
