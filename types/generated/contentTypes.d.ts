@@ -626,6 +626,8 @@ export interface ApiNewsletterSubscriberNewsletterSubscriber
     Email: Schema.Attribute.Email &
       Schema.Attribute.Required &
       Schema.Attribute.Unique;
+    FirstName: Schema.Attribute.String;
+    LastName: Schema.Attribute.String;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',

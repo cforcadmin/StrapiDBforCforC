@@ -15,6 +15,12 @@
       "required": true,
       "unique": true
     },
+    "FirstName": {
+      "type": "string"
+    },
+    "LastName": {
+      "type": "string"
+    },
     "ConfirmedAt": {
       "type": "datetime",
       "required": true
