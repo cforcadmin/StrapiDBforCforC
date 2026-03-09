@@ -884,7 +884,16 @@ export interface ApiOpenCallOpenCall extends Struct.CollectionTypeSchema {
       'api::open-call.open-call'
     > &
       Schema.Attribute.Private;
-    Category: Schema.Attribute.String & Schema.Attribute.Required;
+    Category: Schema.Attribute.Enumeration<
+      [
+        'Δικτύωση & Συνέδρια',
+        'Εκπαίδευση & Κατάρτιση',
+        'Καλλιτεχνικές Προσκλήσεις',
+        'Χρηματοδοτήσεις & Επιχορηγήσεις',
+        'Ψηφιακός Μετασχηματισμός',
+      ]
+    > &
+      Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
     Title: Schema.Attribute.String &
       Schema.Attribute.Required &
