@@ -841,6 +841,7 @@ export interface ApiWorkingGroupWorkingGroup
       'api::working-group.working-group'
     > &
       Schema.Attribute.Private;
+    MaterialUrl: Schema.Attribute.String;
     Members: Schema.Attribute.Relation<'manyToMany', 'api::member.member'>;
     Name: Schema.Attribute.String & Schema.Attribute.Required;
     publishedAt: Schema.Attribute.DateTime;
