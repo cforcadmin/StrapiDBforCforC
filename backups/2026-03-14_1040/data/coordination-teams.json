@@ -1,0 +1,2454 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "documentId": "me5sfhx6rsm7g8g4is7jao7y",
+      "Name": "Ομάδα Συντονισμού #1",
+      "EngName": null,
+      "Description": null,
+      "EngDescription": null,
+      "Period": "2021-2023",
+      "IsCurrent": false,
+      "ImageAltText": null,
+      "SortOrder": 2,
+      "Slug": "omada-syntonismoy-1",
+      "createdAt": "2026-03-02T12:50:15.162Z",
+      "updatedAt": "2026-03-02T12:57:14.496Z",
+      "publishedAt": "2026-03-02T12:57:14.916Z",
+      "Image": {
+        "id": 350,
+        "documentId": "u5it57jxu91tfqv1timdzc61",
+        "name": "3_1765316710452_d5249e701a_20f6929a7a.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 3000,
+        "height": 2000,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc.jpg",
+            "hash": "large_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc",
+            "mime": "image/jpeg",
+            "name": "large_3_1765316710452_d5249e701a_20f6929a7a.jpg",
+            "path": null,
+            "size": 102.88,
+            "width": 1000,
+            "height": 667,
+            "sizeInBytes": 102883
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc.jpg",
+            "hash": "small_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc",
+            "mime": "image/jpeg",
+            "name": "small_3_1765316710452_d5249e701a_20f6929a7a.jpg",
+            "path": null,
+            "size": 33.2,
+            "width": 500,
+            "height": 333,
+            "sizeInBytes": 33200
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc.jpg",
+            "hash": "medium_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc",
+            "mime": "image/jpeg",
+            "name": "medium_3_1765316710452_d5249e701a_20f6929a7a.jpg",
+            "path": null,
+            "size": 65.04,
+            "width": 750,
+            "height": 500,
+            "sizeInBytes": 65036
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc.jpg",
+            "hash": "thumbnail_3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc",
+            "mime": "image/jpeg",
+            "name": "thumbnail_3_1765316710452_d5249e701a_20f6929a7a.jpg",
+            "path": null,
+            "size": 9.9,
+            "width": 234,
+            "height": 156,
+            "sizeInBytes": 9901
+          }
+        },
+        "hash": "3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 606.83,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/3_1765316710452_d5249e701a_20f6929a7a_6ab656b5bc.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-02T12:46:30.021Z",
+        "updatedAt": "2026-03-02T12:50:36.123Z",
+        "publishedAt": "2026-03-02T12:46:30.022Z"
+      },
+      "Coordinator": {
+        "id": 943,
+        "documentId": "pc2bopuntv8qg6ve80gvz3ym",
+        "Name": "Στέλιος Βούλγαρης",
+        "Bio": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Ο Στέλιος έχει σπουδάσει Νομική στην Αθήνα και έχει μεταπτυχιακό στο Ιδιωτικό Διεθνές Δίκαιο. Ασχολήθηκε με τα κοινά στην πόλη από το 2010 συμμετέχοντας σε πολλές τοπικές πρωτοβουλίες και συμμετείχε στην ομάδα που σχεδίασε και υποστήριξε τη δημοτική πλατφόρμα συνΑθηνά από το 2013 έως και το 2016. Το 2017 συνίδρυσε την Α.Μ.Κ.Ε COMM’ON όπου υποστηρίζει διατομεακές συνεργασίες σε τοπικό και διατοπικό επίπεδο, ιδίως σε μικρές κοινότητες της περιφέρειας, στην Ελλάδα αλλά και σε πολλές ακόμα χώρες της υπόλοιπης Ευρώπης και σχεδιάζει και υλοποιεί συμμετοχικές διαδικασίες οργανωσιακής εξέλιξης για την ενδυνάμωση ομάδων της Κοινωνίας των Πολιτών. Από το 2019 είναι μέλος της ομάδας σχεδιασμού και ανάπτυξης της Εργαλειοθήκης του προγράμματος Tools for Citizens (www.civilsocietytoolbox.org) ενώ παράλληλα έχει συμμετάσχει στη διοργάνωση των ευρωπαϊκών προγραμμάτων Tandem Europe, Tandem Regions (www.tandemforculture.org) και Civic Europe (www.civic-europe.eu). Είναι μέλος του Διοικητικού Συμβουλίου του Ευρωπαϊκου Δικτύου MitOst. Το 2020, μαζί με μία ομάδα επαγγελματιών στο χώρο του πολιτισμού και της αρχιτεκτονικής ίδρυσαν τον χώρο SEEDathens (www.seedathens.gr) στην Αθήνα.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "FieldsOfWork": "Συμμετοχικές Πρακτικές, Πολιτιστική Διαχείριση & Επικοινωνία, Συνηγορία",
+        "City": "Αθήνα",
+        "Province": "Αττική",
+        "Email": "stelios@common.city",
+        "Slug": "stelios-voylgaris",
+        "Phone": "6944247363",
+        "Websites": "https://www.common.city",
+        "Project1Title": "Shaping Advocates",
+        "Project1Description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Το 'Shaping Advocates' είναι μια έρευνα πεδίου που εξερευνά το ρόλο και η δυναμική της δημοτικής εκπαίδευσης, ειδικά όσο αφορά στον ενδυναμωτικό χαρακτήρα των μαθητών και των μελλοντικών ενηλίκων πολιτών για να συμμετέχουν πιο δημιουργικά στα Κοινά.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Η προαναφερόμενη έρευνα πεδίου έχει τα ακόλουθα στοιχεία-στόχους:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "καταγραφή των δυσκολιών που αντιμετωπίζουν οι εκπαιδευτικοί στο ρόλο τους ως 'μεσάζοντες' μεταξύ των μαθητών και της τοπικής διοίκησης",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "text": "υποστήριξη των εκπαιδευτικών σε αυτόν τον ρόλο μέσω της συνανάπτυξης εκπαιδευτικού υλικού και μαθημάτων, μέσω των οποίων θα έχουν τη δυνατότητα να εκπληρώνουν αυτούς τους εκπαιδευτικούς στόχους.",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "‍",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "Project1Tags": "",
+        "Project2Title": "",
+        "Project2Description": [],
+        "Project2Tags": "",
+        "password": null,
+        "magicLinkToken": null,
+        "magicLinkExpiry": null,
+        "lastLoginAt": null,
+        "createdAt": "2026-01-12T15:06:29.841Z",
+        "updatedAt": "2026-03-08T06:24:38.042Z",
+        "publishedAt": "2026-03-08T06:24:38.140Z",
+        "ProfileImageAltText": " ",
+        "Project1PicturesAltText": "Shaping Advocates",
+        "Project2PicturesAltText": null,
+        "HideProfile": null,
+        "Project1Links": "https://www.common.city/post/shaping-advocates-for-elementary-school\nhttps://www.common.city/postaping-advocates-for-elementary-school",
+        "Project2Links": null,
+        "EngName": "Stelios Voulgaris",
+        "EngBio": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Stelios studied Law in Athens and has a master's degree in Private International Law. He has been involved with the commons in the city since 2010, participating in many local initiatives and was part of the team that designed and supported the municipal platform Syathina from 2013 to 2016. In 2017, he co-founded the A.M.K.E COMM'ON, where it supports cross-sectoral collaborations at local and translocal level, especially in small communities in the region, in Greece and in many other countries of the rest of Europe and designs and implements participatory organizational development processes for the empowerment of civil society groups. Since 2019 he has been a member of the design and development team of the Tools for Citizens Toolbox (www.civilsocietytoolbox.org) and has also participated in the organization of the European programs Tandem Europe, Tandem Regions (www.tandemforculture.org) and Civic Europe (www.civic-europe.eu). He is a member of the Board of Directors of the European MitoST Network. In 2020, together with a team of professionals in the field of culture and architecture, they founded SeedAthens (www.seedathens.gr) in Athens.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "Members": [
+        {
+          "id": 933,
+          "documentId": "pwmsxlm404txvib14k0o9c63",
+          "Name": "Στέλα Αναστασάκη",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Στέλα είναι ιστορικός τέχνης, cultural manager και συν-ιδρύτρια της Off Stream από το 2021. Έχει σπουδάσει Αρχαιολογία και κατέχει τίτλο μεταπτυχιακών σπουδών στην Ιστορίας της Τέχνης. Η επαγγελματική της εμπειρία προέρχεται κυρίως από την απασχόλησή της σε μουσεία, πολιτιστικά και εκπαιδευτικά ιδρύματα της Θεσσαλονίκης. Για περισσότερα από 8 χρόνια εργάστηκε στο πρώην ΜΜΣΤ (νυν MOMus-Μουσείο Σύγχρονης Τέχνης) ως υπεύθυνη της εκπαίδευσης, σχεδιάζοντας και υλοποιώντας ξεναγήσεις και προγράμματα για όλες τις ομάδες κοινού. Το διάστημα 2008-2012 ήταν ιδρυτικό μέλος της καλλιτεχνικής ομάδας NoMeOlvides μέσω της οποίας συν-διοργάνωσε τη σειρά φεστιβάλ Espacio στο πρώην Στρατόπεδο Κόδρα. Έχει συν-επιμεληθεί ατομικές και ομαδικές εκθέσεις εικαστικών και έχει γράψει κείμενα για καταλόγους εκθέσεων. Το 2019 έλαβε την υποτροφία START στο πλαίσιο της οποίας υλοποίησε το project «Mind’s Eye | Ψηλαφώντας την Τέχνη». Έχει διδάξει ιστορία της τέχνης σε ενήλικες και έχει δημοσιεύσει άρθρα σχετικά με την σύγχρονη τέχνη, την μουσειοπαιδαγωγική και την συμπερίληψη στην τέχνη.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Εικαστικά / Visual Arts, Τέχνες & Πολιτισμός, Συμπερίληψη / Προσβασιμότητα, Μουσεία",
+          "City": "Θεσσαλονίκη",
+          "Province": " Κεντρική Μακεδονία",
+          "Email": "stela.anast@gmail.com",
+          "Slug": "stela-anastasaki",
+          "Phone": "6974408658",
+          "Websites": "https://offstream.org/",
+          "Project1Title": "Mind's Eye | Ψηλαφώντας την Τέχνη",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το Mind’s Eye είναι μια πρωτοβουλία που δημιουργεί τη συνθήκη και την επιλογή, ώστε άτομα που βιώνουν μερική ή ολική απώλεια όρασης να έρθουν σε επαφή με την τέχνη. Σκοπός του είναι η άρση των αποκλεισμών και η προώθηση της ισότιμης πρόσβασης ατόμων με οπτική αναπηρία στις διάφορες εκφάνσεις του πολιτισμού. Το Mind’s Eye υλοποιήθηκε το 2020 σε συνεργασία με το MOMus-Μουσείο Σύγχρονης και το Κέντρο Εκπαίδευσης και Αποκατάστασης Τυφλών του Παραρτήματος Θεσσαλονίκης, στο πλαίσιο του προγράμματος START-Create Cultural Change. Στο πλαίσιο του project επαγγελματίες από διαφορετικά επιστημονικά πεδία συνέπραξαν με ειδικούς από την κοινότητα ατόμων με οπτική αναπηρία και ανέπτυξαν συμπεριληπτικές πρακτικές για την ερμηνεία των έργων τέχνης προτείνοντας νέους τρόπους προσέγγισης και πρόσληψης της τέχνης πέρα από την όραση.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:05:23.890Z",
+          "updatedAt": "2026-03-08T06:17:11.616Z",
+          "publishedAt": "2026-03-08T06:17:11.697Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Mind's Eye | Ψηλαφώντας την Τέχνη",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://mindseye.gr/",
+          "Project2Links": null,
+          "EngName": "Stela Anastasaki",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Stela has studied Archaeology and holds a master's degree in Art History (Aristotle University of Thessaloniki). Her professional experience comes from her employment in museums, cultural and educational institutions of Thessaloniki (Macedonian Museum of Contemporary Art, PlantCult, LaBattoir Project). As a culture professional, Stella seeks to develop appropriate tools and practices that lift exclusions and promote the equal participation of people experiencing partial or total vision loss in museums and cultural institutions. Her aspiration is that the right to experiencing culture, becomes part of our daily life and be as easy and natural for all people. Since 2021 she is a founding member of Off Stream.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 936,
+          "documentId": "ipieoume9krg6cb8jixt9jre",
+          "Name": "Κωνσταντίνα Αγγελέτου",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Κωνσταντίνα, γεννήθηκε και μεγάλωσε στη Σκόπελο.Είναι απόφοιτος του μεταπτυχιακού Πολιτιστική Διαχείριση: Θέατρο, Μουσική και Χορός του Universidad Complutense της Μαδρίτης, όπου υπήρξε υπότροφος του ICCMU. Το πρώτο της πτυχίο ήταν από τη  σχολή Διοίκησης Επιχειρήσεων του Τ.Ε.Ι. Πειραιά, με ειδίκευση στο Marketing και τις Διεθνείς Σχέσεις.Σε μικρή ηλικία ξεκίνησε να εργάζεται εποχιακά σε τουριστικές επιχειρήσεις ενώ από τα φοιτητικά της χρόνια απασχολήθηκε στη Greenpeace Ελλάδος. Αργότερα δούλεψε σε πολιτιστικούς οργανισμούς, φεστιβάλ και μεγάλες διοργανώσεις στη Μαδρίτη έως το 2009. Εργάστηκε ως βοηθός και υπεύθυνη παραγωγής, project manager, tour manager, ενώ απέκτησε σημαντική εμπειρία σε τμήματα promotion, communication και δημοσίων σχέσεων (Asociación Cultural Plural Ensemble, IV Festival Commedia Della Arte, El Teatro del Finikito, IV Encuentros de Creación en Maggalia). Έχει εργαστεί ώς διευθύντρια παραγωγής σε θεατρικές παραστάσεις στο Αρχαίο Θέατρο Επιδαύρου, στο Ηρώδειο Αττικού, στην Εθνική Λυρική Σκηνή, στο Φεστιβάλ Αθηνών και Επιδαύρου, στο Μέγαρο Μουσικής Αθηνών, στο Θέατρο Παλλάς καθώς και σε πλήθος άλλων θεάτρων στην Ελλάδα και στο εξωτερικό. Έχει συνεργαστεί με πολλούς σημαντικούς σκηνοθέτες όπως η Κατερίνα Ευαγγελάτου, Cezaris Graužinis, Έλλη Παπακωνσταντίνου, Ζωή Χατζιαντωνίου, Βασίλης Μαυρογεωργίου κ.α. Σήμερα συνεργάζεται με τον πολιτιστικό οργανισμό ΛΥΚΟΦΩΣ.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Έρευνα, Μουσική / Ήχος, Θέατρο, Διαγενεακά",
+          "City": "Αθήνα, Σκόπελος",
+          "Province": "Αττική, Θεσσαλία",
+          "Email": "k.ang@plegma.org",
+          "Slug": "konstantia-aggeletoy",
+          "Phone": "6951004630",
+          "Websites": "http://www.plegma.org",
+          "Project1Title": "Απο Γενια Σε Γενια",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Αστική Μη Κερδοσκοπική Εταιρία Πλέγμα (www.plegma.org) ξεκίνησε πιλοτικά ένα διαγενεακό πρόγραμμα προφορικής ιστορίας μεταξύ παιδιών από 5 έως 8 ετών και άτομα 3ης ηλικίας, στη Σκόπελο το 2017.  Ο σκοπός του προγράμματος ήταν να φέρει σε επαφή τα παιδιά με τα άτομα 3ης ηλικίας, να μάθουν τα παιδιά πώς οι παππούδες και οι γιαγιάδες τους έχουν πολλά ενδιαφέροντα πράγματα να πουν, αρκεί να τους ρωτήσεις. Μέχρι σήμερα η δράση «Από γενιά σε γενιά» έχει υλοποιηθεί σε περισσότερα από 11 νησιά της Ελλάδας ενώ έχει ταξιδέψει και στη Βηρυτό. Έχουν συμμετάσχει συνολικά περισσότερα από  450 παιδιά, 45 εκπαιδευτικοί, 177 αφηγητές.Τα παιδιά και οι εκπαιδευτικοί μυούνται στον κόσμο της προφορικής ιστορίας και μαθαίνουν πώς να κάνουν ερωτήσεις / συνεντεύξεις γύρω από τις θεματικές του προγράμματος:  καθημερινή ζωή, τα παιχνίδια που έπαιζαν όταν ήταν μικροί και τα παραμύθια που άκουγαν από τους δικούς τους παππούδες και γιαγιάδες. Τα παιδιά συναντιούνται με τους αφηγητές και κατόπιν αναπτύσσουν εικαστικά έργα από ότι τους έκανε περισσότερο εντύπωση.Αυτές οι ζωγραφιές αποκτούν κίνηση, αφήγηση, μουσική και γίνονται animation που εμπνέονται από τις ζωγραφιές των παιδιών και τις αφηγήσεις των γιαγιάδων και παππούδων. Τα video animation που είναι ελεύθερα προς θέαση διαθέτουν αγγλικούς υπότιτλους, ενδογλωσσικούς υπότιτλους για κωφούς/ές και βαρήκοους/ες (SDH)  και ταυτόχρονη διερμηνεία νοηματικής γλώσσας (ΕΝΓ).",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/inline_0_20132370ae.jpg | Απο Γενια Σε Γενια | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:05:44.284Z",
+          "updatedAt": "2026-03-08T06:19:44.715Z",
+          "publishedAt": "2026-03-08T06:19:44.808Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Απο Γενια Σε Γενια",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://www.youtube.com/playlist?list=PLglSda8cUp6LBATrFZMNQScV-mMxoE5ES",
+          "Project2Links": null,
+          "EngName": "Konstantina Angeletou",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Konstantina, was born and raised in Skopelos. She is a graduate of the postgraduate Cultural Management: Theater, Music and Dance of the Universidad Complutense of Madrid, where she was a Fellow of the ICCMU. Her first degree was from the School of Business Administration of T.E.I. Piraeus, specializing in Marketing and International Relations. At an early age she started working seasonally in tourism companies while from her student years she worked for Greenpeace Greece. Later she worked in cultural organizations, festivals and major competitions in Madrid until 2009. She worked as an assistant and production manager, project manager, tour manager, and gained significant experience in promotion, communication and public relations departments. (Asociación Cultural Plural Ensemble, IV Festival Commedia Della Arte, El Teatro del Finikito, IV Encuentros de Creación en Maggalia). She has worked as a production director in plays at the Ancient Theatre of Epidaurus, the Herodion of Atticus, the National Opera, the Athens and Epidaurus Festivals, the Athens Concert Hall, the Pallas Theater and many other theatres in Greece and abroad. She has collaborated with many important directors such as Katerina Evangelatou, Cezaris Graušinis, Elli Papakonstantinou, Zoe Hatziantoniou, Vasilis Mavrogeorgiou etc. Today she collaborates with the cultural organization LYKOPHOS.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 953,
+          "documentId": "j647aptsogklbv0ux97akc3w",
+          "Name": "Νατάσσα Δουρίδα",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Νατάσσα αυτοπροσδιορίζεται ως πολιτιστική μηχανικός: Η δουλειά της συνίσταται στην εφεύρεση μεθόδων συσπείρωσης κοινοτήτων δημιουργικών επαγγελματιών και ενεργοποίησης τους προς την αναβίωση εγκαταλειμμένων ιστορικών μνημείων της Αθήνας. Σπούδασε πολιτικός μηχανικός και ειδικεύτηκε στην προστασία μνημείων στην αρχιτεκτονική του ΕΜΠ. Κατά τη διάρκεια του fellowship stArt του Robert Bosch Stiftung, διατύπωσε το project Communitism, το οποίο συνίστατο στη μεθοδολογία ανάπτυξης κοινότητας που θα ίδρυε ένα community-run κοινωνικό και πολιτισμικό κέντρο, σε ένα κτήριο που οι ιδιοκτήτες θα παρείχαν δωρεάν προκειμένου να εξασφαλίσουν τη συντήρησή του. Το project εξελίχθηκε στο σωματείο με τίτλο \"Ένωση πολιτών για τη διατήρηση της νεότερης πολιτισμικής κληρονομιάς με το διακριτικό τίτλο Communitism\", το οποίο λειτούργησε για 6 χρόνια το sociocultural κέντρο Communitism στην Κεραμεικού 28, στο Μεταξουργείο. Μέσα σε αυτό το περιβάλλον, συνεισφέρει ως μέλος του Δ.Σ. του σωματείου, ενώ παράλληλα αναπτύσσει τις διεθνείς, στρατηγικές  συνεργασίες και δημιουργεί εκπαιδευτικά και καλλιτεχνικά προγράμματα χρηματοδοτήσεων. Ανέπτυξε πρακτικές οργάνωσης συμμετοχικών καλλιτεχνικών events, και παρέχει συμβουλευτική υποστήριξη σε κοινότητες σε όλη την Ευρώπη για ζητήματα που άπτονται των δραστηριοτήτων της. Η δυναμική του συνδιασμού αναξιοποίητης πολιτισμικής κληρονομιάς και αναξιοποίητων δημιουργικών ατόμων, είναι αντικείμενο έρευνας μέσω της συνεργασίας μου με την έδρα Newrope του πολυτεχνέιου ETH Zurich.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Κληρονομιά, Κοινοτική Τέχνη / Community Arts, Κοινωνική Επιχειρηματικότητα, Commons",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "ddourida@gmail.com",
+          "Slug": "natassa-doyrida",
+          "Phone": "0030 6949543832",
+          "Websites": "https://www.linkedin.com/in/natassa-dourida-b367a423/",
+          "Project1Title": "Communitism",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το Communitism αναλαμβάνει την ανάκτηση ανεκμετάλλευτων κτιρίων κληρονομιάς στην Αθήνα με σκοπό την αναζωογόνησή τους μέσω δημιουργικών κοινοτικών πρωτοβουλιών. Μέσω της πρακτικής της κοινότητας και της τέχνης, δημιουργούνται εναλλακτικές λύσεις στις υφιστάμενες δομές.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Communitism_inline_0_c1e8c72bf0.jpg | Communitism | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:08:15.175Z",
+          "updatedAt": "2026-03-08T06:31:04.523Z",
+          "publishedAt": "2026-03-08T06:31:04.609Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Communitism",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://communitism.space/",
+          "Project2Links": null,
+          "EngName": "Natassa Dourida",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Natassa defines herself as a cultural engineer: Her work consists of inventing methods of gathering communities of creative professionals and activating them towards the revival of abandoned historical monuments of Athens. She studied civil engineering and specialized in monument protection in NTUA architecture. During the Robert Bosch Stiftung's StarT fellowship, she formulated the Communitism project, which consisted of a community development methodology that would establish a community-run social and cultural center, in a building that the owners would provide free of charge in order to ensure its maintenance. The project developed into the association entitled “Union of Citizens for the Preservation of the Newest Cultural Heritage with the distinctive title Communitism”, which operated for 6 years the sociocultural center Communitism at Kerameikos 28, in Metaxourgio. Within this environment, she contributes as a member of the Board of Directors of the association, while developing international strategic partnerships and creating educational and artistic funding programs. She has developed a practice of organizing participatory art events, and she provides advisory support to communities across Europe on issues related to her activities. The dynamics of combining untapped cultural heritage and untapped creative individuals is the subject of research through her collaboration with the Newrope headquarters of the ETH Zurich Polytechnic.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 928,
+          "documentId": "gx5etpomniaihg8jxbhkt086",
+          "Name": "Γιώργος Μονογιούδης",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ο Γιώργος σπούδασε πολιτική επιστήμη και ιστορία στο Πάντειο και συνέχισε τις μεταπτυχιακές του σπουδές στη Γερμανία και τις διδακτορικές στην Αγγλία. Η διδακτορική μου έρευνα εστίασε στο καθεστώς δημόσιας λογοδοσίας στη μετα-σοσιαλιστική Σερβία έχοντας ως παράδειγμα τους θεσμούς του συνηγόρου του πολίτη και βασιζόμενη στη θεωρία των δικτύων. Το 2014-15 συμμετείχε στο πρόγραμμα του Ιδρύματος Bosch \"Europa gestalten - politische Bildung in Aktion\" με θέμα την πολιτειακή παιδεία. Από το 2015 εργάζεται στο μορφωτικό/πολιτιστικό τμήμα της γερμανικής Πρεσβείας στην Αθήνα ως project manager. Μιλάει αγγλικά, γερμανικά, λίγα σερβικά και ακόμα λιγότερα γαλλικά.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Έρευνα, Εκπαίδευση & Μάθηση, Μη Τυπική Εκπαίδευση, Κοινοτική Τέχνη / Community Arts, Παραγωγή & Οργάνωση",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "georg_mono@yahoo.gr",
+          "Slug": "giorgos-monogioydis",
+          "Phone": "-",
+          "Websites": "-",
+          "Project1Title": "",
+          "Project1Description": [],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:06:57.528Z",
+          "updatedAt": "2026-03-08T06:12:25.140Z",
+          "publishedAt": "2026-03-08T06:12:25.260Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": null,
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": null,
+          "Project2Links": null,
+          "EngName": "George Monogioudis",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Giorgos studied political science and history at Panteion and continued his postgraduate studies in Germany and my PhD in England. His doctoral research focused on the public accountability regime in post-socialist Serbia, exemplifying the institutions of the citizen's advocate and based on network theory. In 2014-15 he participated in the Bosch Foundation's “Europa gestalten - politische Bildung in Aktion” programme on state education. Since 2015 he has been working in the educational/cultural department of the German Embassy in Athens as a project manager. He speaks English, German, a little Serbian and even less French.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 935,
+          "documentId": "a0lao2bpc23pi39z8l6fn3rm",
+          "Name": "Γιάννης Παππάς",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "O Γιάννης σπούδασε Ιταλική Γλώσσα & Φιλολογία στο ΕΚΠΑ, απέκτησε μεταπτυχιακό στη Διερμηνεία Συνεδρίων από το Πανεπιστήμιο του Στρασβούργου (EN & FR > GR) και έχει επίσης επαγγελματικό δίπλωμα στο Digital Marketing από το Alba Graduate Business School. Είναι COO της MENTOR, μιας επιτυχημένης εταιρείας που συνίδρυσε το 2014, η οποία παρέχει καινοτόμες υπηρεσίες πολιτιστικής παραγωγής και διαχείρισης. Η MENTOR επενδύει στην ανάπτυξη συνεργειών με δημόσιους και ιδιωτικούς φορείς και επαγγελματίες του πολιτιστικού και δημιουργικού τομέα, καθώς και με την ακαδημαϊκή και ερευνητική κοινότητα σε εθνικό και διεθνές επίπεδο. Είναι επίσης συνιδρυτής της CHORUS, ενός μη κερδοσκοπικού οργανισμού που υποστηρίζει πρωτοβουλίες της κοινωνίας των πολιτών, προωθεί τον σεβασμό των ανθρωπίνων δικαιωμάτων και υπερασπίζεται τα ανθρωπιστικά ιδανικά μέσω της τέχνης, του πολιτισμού και της εκπαίδευσης. Το Study Abroad in Greece (SAiG) είναι μια από τις σημαντικότερες πρωτοβουλίες της CHORUS, μέσω της οποίας διεθνείς φοιτητές συμμετέχουν σε εξειδικευμένα προγράμματα ακαδημαϊκού τουρισμού σε όλη την Ελλάδα. Συνοψίζοντας, είναι ένας Χιώτης, που εργάζεται και αναπτύσσεται στο πεδίο του πολιτισμού ως creative producer, με αλλεργία στις προκαταλήψεις, τον φανατισμό, τη σωματική και λεκτική κακοποίηση οποιουδήποτε πλάσματος, και που επίσης πιστεύει ακράδαντα στη δύναμη των κοινωνικά ενεργών ανθρώπων να επηρεάζουν θετικά την αλλαγή στον κόσμο μέσω των λόγων, των πράξεων, των πεποιθήσεων και των αντιλήψεών τους.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Πολιτιστική Επικοινωνία, Παραγωγή & Οργάνωση, Εκπαίδευση & Μάθηση, Περιβάλλον & Βιωσιμότητα",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "yanniszofospappas@gmail.com",
+          "Slug": "giannis-pappas",
+          "Phone": "306972431313",
+          "Websites": "https://www.linkedin.com/in/yannis-pappas",
+          "Project1Title": "myEleusis",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το myEleusis στοχεύει στην αξιοποίηση και ανάδειξη αρχαιολογικών χώρων και μνημείων με τη χρήση νέων τεχνολογιών και καινοτόμων ψηφιακων εφαρμογών. Εφαρμόζεται πιλοτικά στην Ελευσίνα και αποσκοπεί στη μύηση των επισκεπτών του αρχαιολογικού χώρου και του μουσείου στην ιστορία των Ελευσινίων Μυστηρίων και της αρχαίας Ελευσίνας μέσα από διαδραστικές εφαρμογές (τεχνολογίες 3D ψηφιοποίησης, εικονική και επαυξημένη πραγματικότητα, ψηφιακή αφήγηση κ.ά.).Πρόκειται για ερευνητικό έργο που συγχρηματοδοτείται από την Ελλάδα, την Ευρωπαϊκή Ένωση και τους συμμετέχοντες ιδιωτικούς φορείς (MENTOR και CITE), το οποίο υλοποιείται από την Εφορεία Αρχαιοτήτων Δυτικής Αττικής, το Ερευνητικό Κέντρο «Αθηνά», την εταιρεία πολιτιστικής διαχείρισης MENTOR και την εταιρεία πληροφορικής και τηλεπικοινωνιών CITE.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/my_Eleusis_inline_0_acf29b52fc.jpg | myEleusis | medium | center]",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:06:18.847Z",
+          "updatedAt": "2026-03-08T06:18:52.384Z",
+          "publishedAt": "2026-03-08T06:18:52.459Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "myEleusis",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://myeleusis.com/el",
+          "Project2Links": null,
+          "EngName": "Yiannis Pappas",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yiannis studied Italian Language & Philology at the University of Strasbourg, obtained a master's degree in Conference Interpretation from the University of Strasbourg (EN & FR > GR) and he also has a professional diploma in Digital Marketing from Alba Graduate Business School. I am the COO of MENTOR, a successful company he co-founded in 2014, which provides innovative cultural production and management services. MENTOR invests in developing synergies with public and private actors and professionals in the cultural and creative sectors, as well as with the academic and research community at national and international levels. He is also a co-founder of CHORUS, a non-profit organization that supports civil society initiatives, promotes respect for human rights and upholds humanitarian ideals through art, culture and education. [Study Abroad in Greece] (SaiG) is one of CHORUS's most important initiatives, through which international students participate in specialized academic tourism programs throughout Greece. Τo sum it all up, he is a culturepreneur hailing from Chios, Greece, who is both sensitive to and repulsed by prejudice, bigotry, physical and verbal abuse, and mistreatment of any living creature, and who is also a firm believer in the power of socially active citizens to affect positive change in the world through their words, deeds, beliefs, and outlook on life.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 976,
+          "documentId": "d54msw6cfsldvum4c1oq7ogm",
+          "Name": "Ευαγγελία Πελεντρίδου",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Ευαγγελία, συνιδρύτρια και διαχειρίστρια της κοινωνικοπολιτισμικής εταιρείας πeripatos, είναι πτυ��ιούχος του τμήματος Πλαστικών Τεχνών και Επιστημών της Τέχνης του Πανεπιστημίου Ιωαννίνων και κάτοχος δύο μεταπτυχιακών τίτλων: MA in Museum Studies (University of Leicester) και MA in Heritage Management (University of Kent/ ΟΠΑ). Από το 2007 συνεργάζεται με Μουσεία και Πολιτιστικούς Οργανισμούς και έχει χρόνια εμπειρία στον σχεδιασμό και την υλοποίηση εκπαιδευτικών προγραμμάτων και βιωματικών εικαστικών εργαστηρίων. Μεγάλη της αδυναμία είναι τα συμμετοχικά κοινωνικο-πολιτιστικά έργα σε διεθνές περιβάλλον, όπως το MemoArt Project και το Mardin Pasaji και τα πολιτιστικά παιχνίδια μυστηρίου, όπως τα escape rooms σε μουσεία. Είναι μέλος της Εταιρείας Συμβούλων Διαχείρισης Πολιτιστικής Κληρονομιάς (ΕΣΔΙΑΠΟΚ), απόφοιτος του Bosch Alumni Network και ιδρυτικό μέλος του Culture for Change.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Επιχειρηματικότητα, Εικαστικά / Visual Arts, Εκπαίδευση & Μάθηση, Περιβάλλον & Βιωσιμότητα, Game Dev",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "epelentridou@hotmail.com",
+          "Slug": "eyaggelia-pelentridoy",
+          "Phone": "306948807797",
+          "Websites": "https://peripatos.net, https://www.linkedin.com/in/evangelia-pelentridou-52672236/",
+          "Project1Title": "Artemis & Diana",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το έργο Artemis & Diana (Erasmus+ KA2) επικεντρώνεται στην ενδυνάμωση των γυναικών, σε προσωπικό και επαγγελματικό επίπεδο, μέσω εξατομικευμένων εργαστηρίων, αφιερωμένων στην καλλιέργεια των δεξιοτήτων τους, όσον αφορά την τοπική πολιτιστική και φυσική κληρονομιά, καθώς και την επιχειρηματικότητα. Συνδυάζοντας την ενδυνάμωση των γυναικών, την ισότητα των φύλων, τη διατήρηση της πολιτιστικής κληρονομιάς και την προστασία του περιβάλλοντος, το έργο στοχεύει να έχει θετικό αντίκτυπο στις μη αστικές κοινότητες, ενισχύοντας τόσο την κοινωνικοπολιτιστική όσο και την περιβαλλοντική ευημερία.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:11:15.340Z",
+          "updatedAt": "2026-03-08T06:49:27.320Z",
+          "publishedAt": "2026-03-08T06:49:27.406Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Artemis & Diana",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "",
+          "Project2Links": null,
+          "EngName": "Evangelia Pelentridou",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Evangelia, co-founder and director of the sociocultural enterprise Peripatos, is a graduate of the Department of Fine Arts and Art Sciences of the University of Ioannina and holds two master's degrees: MA in Museum Studies (University of Leicester) and MA in Heritage Management (University of Kent/OPA). Since 2007, she has been collaborating with Museums and Cultural Organisations and has years of experience in designing and implementing educational programmes and experiential art workshops. She is passionate about participatory socio-cultural projects in international contexts, such as the MemoArt Project and the Mardin Pasaji; and about cultural mystery games, such as museum escape rooms. She is a member of the Association of Cultural Heritage Consultants in Greece (ESDIAPOK), alumna of the Bosch Alumni Network and founding member of the Culture for Change.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 986,
+          "documentId": "zz5iaegvkcpggz28eralvvhr",
+          "Name": "Αγγελική Τσέλιου",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Πολιτιστική διαχειρίστρια και επιμελήτρια περιεχομένου, με ειδίκευση στην εκπαίδευση, των πολιτισμό και την κοινωνική καινοτομία. Σπούδασε Γλωσσολογία και Λογοτεχνική Μετάφραση στην Αθήνα, και απέκτησε μεταπτυχιακό τίτλο D.E.A. στις Νεοελληνικές Σπουδές από το Institut Néohellénique της Σορβόννης. Υπότροφος του Κοινωφελούς Ιδρύματος «Αλέξανδρος Σ. Ωνάσης» και του Centre de la Traduction Littéraire, Institut Français d’Athènes. Έχει συνεργαστεί, μεταξύ άλλων, με το Εθνικό Κέντρο Βιβλίου (διαχειρίστρια προγραμμάτων και ιστοχώρου), με το ένθετο της εφημερίδας ΚΑΘΗΜΕΡΙΝΗ, Οι Ερευνητές πάνε παντού(αρχισυντάκτρια), με την Ο.Ε.Ο.Α. «ΑΘΗΝΑ 2004» (project manager), με την εταιρεία PostScriptum (content manager) και με διάφορους εκδότες (Πατάκης,Πόλις, Μεταίχμιο, Κριτική, Ερευνητές, Explorer κ.ά.) ως διαχειρίστρια έργου, σύμβουλος περιεχομένου και επικοινωνίας, υπεύθυνη εκδόσεων και μεταφράστρια βιβλίων. Από το 2016, εστιάζει σε προγράμματα πολιτιστικής εκπαίδευσης με ευδιάκριτο κοινωνικό αποτύπωμα, ενδεικτικά: “Ανοιχτά Σχολεία” του Δήμου Αθηναίων(συνεργάτιδα του Άξονα Συμμετοχής της Τοπικής Κοινωνίας, 2016), “Το παιδί, η πόλη και τα μνημεία” (Διαχειρίστρια προγράμματος, 2016-2019), “Επόμενοςσταθμός: Βικτώρια | Nächste Station:Victoriaplatz” (ιδέα & συντονισμός, 2020). Τον Αύγουστο 2021, συν-ίδρυσε την AMKE Places & Traces, με στόχο τον σχεδιασμό και την υλοποίηση έργων που αναδεικνύουν τη σύγχρονη ταυτότητα τόπου μέσα από διαθεματικές δράσεις πολιτιστικής εκπαίδευσης.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Εκπαίδευση & Μάθηση, Παραγωγή & Οργάνωση, Πολιτιστική Κληρονομιά, Πολιτιστική Επικοινωνία",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "angelikitseliou@gmail.com",
+          "Slug": "aggeliki-tselioy",
+          "Phone": "0030 6972004986",
+          "Websites": "http://linkedin.com/in/angeliki-tseliou-9a654733/, http://placesandtraces.eu",
+          "Project1Title": "Που Κρυβεται Η Υψιπυλη;",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Στα τρία Κεφάλαια του προγράμματος πολιτιστικής εκπαίδευσης “Πού κρύβεται η Υψιπύλη;” η φύση, τα κτήρια, οι γεύσεις, η Τέχνη τα μνημεία και οι άνθρωποι της Λήμνου διηγούνται τις ιστορίες τους και μας προσκαλούν να τις αναδιηγηθούμε με δημιουργικά μέσα. Μούσα και οδηγός μας σε αυτό το ταξίδι, η μυθική βασίλισσα Υψιπύλη, η οποία, στην προσπάθειά της να επιστρέψει στο σπίτι και την εποχή της, ψάχνει να βρει καταφύγιο σε εμβληματικά τοπόσημα του νησιού. To πρόγραμμα τελεί υπό την αιγίδα του Υπουργείου Πολιτισμού και Αθλητισμού και του Δήμου Λήμνου. Υποστηρίζεται από διεπιστημονική ομάδα ειδικών και τον Τομέα Αρχαιολογίας και Ιστορίας της Τέχνης του ΕΚΠΑ.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Περισσότερα: ypsipyliproject.gr, #YpsipyliProject",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/inline_0_06d218dd03.jpg | Που Κρυβεται Η Υψιπυλη; | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/inline_1_4eac23b2e3.jpg | Που Κρυβεται Η Υψιπυλη; | medium | center]",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:07:41.590Z",
+          "updatedAt": "2026-03-08T06:56:00.051Z",
+          "publishedAt": "2026-03-08T06:56:00.153Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Που Κρυβεται Η Υψιπυλη;",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "",
+          "Project2Links": null,
+          "EngName": "Angeliki Tseliou",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Angeliki studied Linguistics and Literary Translation and holds a D.E.A. in Modern Greek Studies from the Institut Néohellénique of the University Paris IV-Paris Sorbonne. She is a scholar of the Alexandros S. Onassis Foundation and of the Centre de la Traduction Littéraire, Institut Français d'Athènes.She has worked with the National Book Centre as a programme and website manager, the youth supplement of the newspaper Kathimerini as an editor-in-chief, ATHOC 2004 as a project manager, with PostScriptum, Information Architecture as a content manager, and various publishing houses such as Patakis, Polis, Metaixmio, Kritiki, Erevnites, and Explorer as a project manager, content and communication consultant, publishing manager, and book translator.Since 2016, she has focused on cultural education programmes with a strong social impact, such as the \"Open Schools\" of the Municipality of Athens (partner of the Local Society Participation Axis, 2016), \"Kids4thecity\" (project manager, 2016-2019), \"Next Station: Victoria\" (concept & coordination, 2020), and more.Since September 2021, she has been coordinating the NPO Places & Traces, which aims to design and implement projects that highlight contemporary place identity through interdisciplinary cultural education activities, contribute to strengthening community ties, and promote local partnerships and inclusion. Some indicative projects include the 'Ypsipyli Project' (2022-24), 'The Lemnian mandra Project' (2024) and others.She is a member of several civil society networks such as the Bosch Alumni Network, Culture for Change (board member 2020-2022), European Forum for Freedom in Education (EFFE, board member 2019-present), and local grassroots initiatives (coordinator, 2011-2021).",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Admin": null
+    },
+    {
+      "id": 13,
+      "documentId": "mx9ncpixcaiv6xamrdgeaf84",
+      "Name": "Ομάδα Συντονισμού #2",
+      "EngName": null,
+      "Description": null,
+      "EngDescription": null,
+      "Period": "2023-2025",
+      "IsCurrent": false,
+      "ImageAltText": null,
+      "SortOrder": 1,
+      "Slug": "omada-syntonismoy-2",
+      "createdAt": "2026-03-02T12:56:56.461Z",
+      "updatedAt": "2026-03-02T12:59:37.486Z",
+      "publishedAt": "2026-03-02T12:59:37.914Z",
+      "Image": {
+        "id": 351,
+        "documentId": "zg53ipuozxp0fdu0d9kror3m",
+        "name": "3_1765316707070_f9f1134189_029d202aa3.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2048,
+        "height": 1535,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9.jpg",
+            "hash": "large_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9",
+            "mime": "image/jpeg",
+            "name": "large_3_1765316707070_f9f1134189_029d202aa3.jpg",
+            "path": null,
+            "size": 213.94,
+            "width": 1000,
+            "height": 750,
+            "sizeInBytes": 213938
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9.jpg",
+            "hash": "small_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9",
+            "mime": "image/jpeg",
+            "name": "small_3_1765316707070_f9f1134189_029d202aa3.jpg",
+            "path": null,
+            "size": 53.71,
+            "width": 500,
+            "height": 375,
+            "sizeInBytes": 53713
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9.jpg",
+            "hash": "medium_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9",
+            "mime": "image/jpeg",
+            "name": "medium_3_1765316707070_f9f1134189_029d202aa3.jpg",
+            "path": null,
+            "size": 120.76,
+            "width": 750,
+            "height": 562,
+            "sizeInBytes": 120756
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9.jpg",
+            "hash": "thumbnail_3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9",
+            "mime": "image/jpeg",
+            "name": "thumbnail_3_1765316707070_f9f1134189_029d202aa3.jpg",
+            "path": null,
+            "size": 10.36,
+            "width": 209,
+            "height": 156,
+            "sizeInBytes": 10356
+          }
+        },
+        "hash": "3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 789.91,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/3_1765316707070_f9f1134189_029d202aa3_56acaf4fe9.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-02T12:46:37.108Z",
+        "updatedAt": "2026-03-02T12:46:37.108Z",
+        "publishedAt": "2026-03-02T12:46:37.108Z"
+      },
+      "Coordinator": {
+        "id": 965,
+        "documentId": "oo6zggf3xf2c20umgu042kqn",
+        "Name": "Αργυρώ Μπαράτα",
+        "Bio": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Η Αργυρώ έχει μια εκτεταμένη εμπειρία 20 ετών στο σχεδιασμό και τη διοργάνωση πολιτιστικών πρότζεκτ για τουριστικούς προορισμούς, σημαντικά ελληνικά φεστιβάλ και διεθνείς οργανισμούς. Το 2014, εν μέσω της οικονομικής κρίσης, ξεκίνησε μια πρωτοβουλία για την υποστήριξη της δημιουργικής κοινότητας με συμμετοχικές πρακτικές, το FEAST Greece. Σήμερα, το FEAST λειτουργεί ως μια μη κερδοσκοπική πλατφόρμα που βοηθά του δημιουργούς να αναπτύξουν τις επιχειρηματικές ιδέες τους μέσω ενός προγράμματος εξατομικευμένης υποστήριξης.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Υποστηρίζει με σθένος την ενεργό συμμετοχή των πολιτών στη δημόσια ζωή και έχει ασχοληθεί κατά καιρούς στο παρελθόν είτε ως συντονίστρια ή μέντορας και σύμβουλος στην ανάπτυξη προγραμμάτων και εργαστηρίων με σκοπό την ανάπτυξη της συλλογικής επίδρασης των πολιτών μέσα από συμμετοχικές διαδικασίες. Χαρακτηριστικό παράδειγμα της δράσης της: υπήρξε μέλος ομάδας Resilient Thessaloniki, η οποία εφάρμοσε το διεθνές πρόγραμμα 100 Resilient Cities του Rockefeller Foundation με το οποίο υποστηρίχθηκαν 100 πόλεις σε όλο τον κόσμο να γίνουν πιο ανθεκτικές στις φυσικές καταστροφές και τις κοινωνικές και οικονομικές πιέσεις. Επίσης, ανέπτυξε 2 προγράμματα που παρουσιάστηκαν στα American Tech Labs σε τέσσερις Δημοτικές Βιβλιοθήκες στην Ελλάδα, το Active Communities Tools και το CrowdfundABLE.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Σήμερα συντονίζει τη Συμμαχία Πολιτισμού Θεσσαλονίκης, ένα δίκτυο που αποτελείται από περισσότερους από 25 οργανισμούς και προωθεί τη βιώσιμη ανάπτυξη της Θεσσαλονίκης μέσω καινοτόμων πολιτιστικών δραστηριοτήτων και διατομεακών συνεργασιών.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "FieldsOfWork": "Μουσική / Ήχος, Παραγωγή & Οργάνωση, Εκπαίδευση & Μάθηση, Πολιτιστική Διαχείριση & Επικοινωνία, Συμμετοχικές Πρακτικές",
+        "City": "Θεσσαλονίκη",
+        "Province": "Κεντρική Μακεδονία",
+        "Email": "argyro.barata@gmail.com",
+        "Slug": "argyro-mparata",
+        "Phone": "+30 6945903959",
+        "Websites": "https://www.argyrobarata.com/",
+        "Project1Title": "Thessaloniki Alliance for Culture",
+        "Project1Description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Η Συμμαχία για τον Πολιτισμό της Θεσσαλονίκης είναι ένα άτυπο, διατομεακό δίκτυο συνεργασίας. Πρόκειται για ένα ανοιχτό χώρο ανάπτυξης κοινών πρακτικών μεταξύ των μελών που το απαρτίζουν, ώστε να μετατρέψουν το μέλλον της Θεσσαλονίκης σε πιο βιώσιμο για τους κατοίκους και τους επισκέπτες της.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Thessaloniki_Alliance_for_Culture_inline_0_9d6d8fe445.jpg | Thessaloniki Alliance for Culture | medium | center]",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "‍",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "Project1Tags": "",
+        "Project2Title": "",
+        "Project2Description": [],
+        "Project2Tags": "",
+        "password": null,
+        "magicLinkToken": null,
+        "magicLinkExpiry": null,
+        "lastLoginAt": null,
+        "createdAt": "2026-01-12T15:07:48.003Z",
+        "updatedAt": "2026-03-08T06:39:12.054Z",
+        "publishedAt": "2026-03-08T06:39:12.141Z",
+        "ProfileImageAltText": "Χαμογελαστή γυναίκα κρατώντας μια νέον πινακίδα Hello μπροστά της",
+        "Project1PicturesAltText": "Thessaloniki Alliance for Culture",
+        "Project2PicturesAltText": null,
+        "HideProfile": null,
+        "Project1Links": "",
+        "Project2Links": null,
+        "EngName": "Argyro Barata",
+        "EngBio": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Argyro has an extensive experience of 20 years in the design and organization of cultural projects for tourist destinations, major Greek festivals and international organizations. In 2014, in the midst of the economic crisis, an initiative to support the creative community with participatory practices, FEAST Greece, was launched. Today, FEAST operates as a non-profit platform that helps creators develop their business ideas through a personalized support program.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "She strongly supports the active participation of citizens in public life and has been involved at times in the past either as a coordinator or mentor and consultant in the development of programs and workshops aimed at developing the collective impact of citizens through participatory processes. A typical example of her work: she was a member of the Resilient Thessaloniki Group, which implemented the Rockefeller Foundation's 100 Resilient Cities program, which supported 100 cities around the world to become more resilient to natural disasters and social and economic pressures. She also developed 2 programs presented at American Tech Labs in four Municipal Libraries in Greece, Active Communities Tools and CrowdFundable.",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Today she coordinates the Thessaloniki Cultural Alliance, a network of more than 25 organizations that promotes the sustainable development of Thessaloniki through innovative cultural activities and cross-sectoral collaborations.",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "Members": [
+        {
+          "id": 933,
+          "documentId": "pwmsxlm404txvib14k0o9c63",
+          "Name": "Στέλα Αναστασάκη",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Στέλα είναι ιστορικός τέχνης, cultural manager και συν-ιδρύτρια της Off Stream από το 2021. Έχει σπουδάσει Αρχαιολογία και κατέχει τίτλο μεταπτυχιακών σπουδών στην Ιστορίας της Τέχνης. Η επαγγελματική της εμπειρία προέρχεται κυρίως από την απασχόλησή της σε μουσεία, πολιτιστικά και εκπαιδευτικά ιδρύματα της Θεσσαλονίκης. Για περισσότερα από 8 χρόνια εργάστηκε στο πρώην ΜΜΣΤ (νυν MOMus-Μουσείο Σύγχρονης Τέχνης) ως υπεύθυνη της εκπαίδευσης, σχεδιάζοντας και υλοποιώντας ξεναγήσεις και προγράμματα για όλες τις ομάδες κοινού. Το διάστημα 2008-2012 ήταν ιδρυτικό μέλος της καλλιτεχνικής ομάδας NoMeOlvides μέσω της οποίας συν-διοργάνωσε τη σειρά φεστιβάλ Espacio στο πρώην Στρατόπεδο Κόδρα. Έχει συν-επιμεληθεί ατομικές και ομαδικές εκθέσεις εικαστικών και έχει γράψει κείμενα για καταλόγους εκθέσεων. Το 2019 έλαβε την υποτροφία START στο πλαίσιο της οποίας υλοποίησε το project «Mind’s Eye | Ψηλαφώντας την Τέχνη». Έχει διδάξει ιστορία της τέχνης σε ενήλικες και έχει δημοσιεύσει άρθρα σχετικά με την σύγχρονη τέχνη, την μουσειοπαιδαγωγική και την συμπερίληψη στην τέχνη.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Εικαστικά / Visual Arts, Τέχνες & Πολιτισμός, Συμπερίληψη / Προσβασιμότητα, Μουσεία",
+          "City": "Θεσσαλονίκη",
+          "Province": " Κεντρική Μακεδονία",
+          "Email": "stela.anast@gmail.com",
+          "Slug": "stela-anastasaki",
+          "Phone": "6974408658",
+          "Websites": "https://offstream.org/",
+          "Project1Title": "Mind's Eye | Ψηλαφώντας την Τέχνη",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το Mind’s Eye είναι μια πρωτοβουλία που δημιουργεί τη συνθήκη και την επιλογή, ώστε άτομα που βιώνουν μερική ή ολική απώλεια όρασης να έρθουν σε επαφή με την τέχνη. Σκοπός του είναι η άρση των αποκλεισμών και η προώθηση της ισότιμης πρόσβασης ατόμων με οπτική αναπηρία στις διάφορες εκφάνσεις του πολιτισμού. Το Mind’s Eye υλοποιήθηκε το 2020 σε συνεργασία με το MOMus-Μουσείο Σύγχρονης και το Κέντρο Εκπαίδευσης και Αποκατάστασης Τυφλών του Παραρτήματος Θεσσαλονίκης, στο πλαίσιο του προγράμματος START-Create Cultural Change. Στο πλαίσιο του project επαγγελματίες από διαφορετικά επιστημονικά πεδία συνέπραξαν με ειδικούς από την κοινότητα ατόμων με οπτική αναπηρία και ανέπτυξαν συμπεριληπτικές πρακτικές για την ερμηνεία των έργων τέχνης προτείνοντας νέους τρόπους προσέγγισης και πρόσληψης της τέχνης πέρα από την όραση.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:05:23.890Z",
+          "updatedAt": "2026-03-08T06:17:11.616Z",
+          "publishedAt": "2026-03-08T06:17:11.697Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Mind's Eye | Ψηλαφώντας την Τέχνη",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://mindseye.gr/",
+          "Project2Links": null,
+          "EngName": "Stela Anastasaki",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Stela has studied Archaeology and holds a master's degree in Art History (Aristotle University of Thessaloniki). Her professional experience comes from her employment in museums, cultural and educational institutions of Thessaloniki (Macedonian Museum of Contemporary Art, PlantCult, LaBattoir Project). As a culture professional, Stella seeks to develop appropriate tools and practices that lift exclusions and promote the equal participation of people experiencing partial or total vision loss in museums and cultural institutions. Her aspiration is that the right to experiencing culture, becomes part of our daily life and be as easy and natural for all people. Since 2021 she is a founding member of Off Stream.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 979,
+          "documentId": "hfxresayxy81nr85mjxera2j",
+          "Name": "Έφη Πρόικου",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Έφη είναι πολιτιστική διαχειρίστρια. Σπούδασε Φιλολογία αλλά και Διοίκηση Επιχειρήσεων. Είναι κάτοχος μεταπτυχιακού στην Πολιτιστική Διαχείριση. Υπότροφος του προγράμματος Start Create Cultural Change και μέλος του Bosch Alumni. Δραστηριοποιείται επαγγελματικά στον χώρο του πολιτισμού ως ελεύθερη επαγγελματίας. Συνεργάζεται με τοπικούς φορείς(Δήμους, συλλόγους κτλ) για το σχεδιασμό και την υλοποίηση εκδηλώσεων,φεστιβάλ, προγραμμάτων και άλλων δράσεων. Η δράση της επικεντρώνεται ιδιαίτερα στο χώρο της ερασιτεχνικής πολιτιστικής δημιουργίας,επιδιώκοντας να προσδώσει εξωστρέφεια στις δράσεις των φορέων μέσω πολιτιστικών ανταλλαγών, μετακλήσεων, συμμετοχής σε διεθνή φεστιβάλ στο εξωτερικό. Άλλωστε,ο πολιτισμός δεν είναι απλά δράσεις αλλά ολιστικές εμπειρίες με προστιθέμενη αξία.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Παραγωγή & Οργάνωση, Πολιτιστική Επιχειρηματικότητα",
+          "City": "Θεσσαλονίκη",
+          "Province": "Κεντρική Μακεδονία",
+          "Email": "efipr@yahoo.gr",
+          "Slug": "efi-proikoy",
+          "Phone": "6973969293",
+          "Websites": "http://www.diavloslink.gr",
+          "Project1Title": "",
+          "Project1Description": [],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:11:17.436Z",
+          "updatedAt": "2026-03-08T06:50:47.343Z",
+          "publishedAt": "2026-03-08T06:50:47.436Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": null,
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": null,
+          "Project2Links": null,
+          "EngName": "Efi Proikou",
+          "EngBio": null
+        },
+        {
+          "id": 929,
+          "documentId": "i2yak2xe81vq2yezhknc8y3v",
+          "Name": "Νίκος Μπαρπάκης",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ο Νίκος εδώ και 20 χρόνια είναι από τις σημαντικές παρουσίες  στον χώρο του σύγχρονου πολιτισμού στη χώρα, με διοργανώσεις θεματικών γεγονότων και συλλογικές προσπάθειες δικτύωσης. Ενσωματώνοντας τις τέχνες, κυρίως τη μουσική και το street art, επιδιώκει τη διάδραση των πολιτιστικών υπηρεσιών με τα media, τον τουρισμό και τις εναλλακτικές κοινότητες, σε πόλη και ύπαιθρο.Ο Νίκος είναι διεθνώς αναγνωρισμένος Dj selector, συνιδιοκτήτης του συναυλιακού χώρου Lab Art στον Βόλο, βασικό μέλος της Γιορτής της Μουσικής, αλλά και ιδρυτής των ΑΤΑ Alternative Tours και Plenty Projects, μη κερδοσκοπικών πρωτοβουλιών με ανοικτές δράσεις που πραγματεύονται τον αστικό χώρο. Ως ανεξάρτητος παραγωγός & (συν)διοργανωτής μετείχε σε εκατοντάδες εμφανίσεις επιλεγμένων Ελλήνων και μετακλήσεις ξένων καλλιτεχνών: Bonobo, Imany, Gramatik, Stereo MC’s, Tiger Lillies, Dj Krush, Dj Andy Smith Portishead, Kadebostany, Thievery Corporation, Σωκράτης Μάλαμας, Αλκίνοος Ιωαννίδης, Γιάννης Αγγελάκας, Μαρίνα Σάττι, Φοίβος Δεληβοριάς, Κ.Βήτα, Xylouris White κ.ά.Παράλληλα, ως host agent και travel coordinator,  έχει συμβάλει στην ανάδειξη δεκάδων ανερχόμενων δημιουργών κι έχει συμμετάσχει σε πολυάριθμες διοργανώσεις φεστιβάλ, πιο πρόσφατα και σε κινηματογραφικές παραγωγές. Η διαρκής συμμετοχή του με το κοινό και τα κοινά, αλλά και σε προγράμματα κοινωνικο-πολιτιστικής καινοτομίας αναδεικνύουν τη βαθιά κατανόησή του για το εξελισσόμενο πολιτισμικό γίγνεσθαι.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Μουσική / Ήχος, Συμμετοχικές Πρακτικές, Μη Τυπική Εκπαίδευση, Κοινοτική Τέχνη / Community Arts, Media",
+          "City": "Βόλος",
+          "Province": "Θεσσαλία",
+          "Email": "nick.barpakis@gmail.com",
+          "Slug": "nikos-mparpakis",
+          "Phone": "6972205007",
+          "Websites": "https://www.linkedin.com/in/nick-barpakis, http://www.labart.gr/",
+          "Project1Title": "Συλλογος Πολιτες Μαγνησιας Για Την Υγεια Και Το Περιβαλλον",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ο σύλλογος \"Πολίτες Μαγνησίας για την Υγεία και το Περιβάλλον\" δημιουργήθηκε από ενεργούς πολίτες της περιοχής του Βόλου που αναγνωρίζουν το πολύ σοβαρό πρόβλημα της επιβαρυμένης φύσης (άρα και της ανθρώπινης υγείας) και δρουν πολυεπίπεδα για την επίλυση του. Ο σκοπός του συλλόγου όπως αναφέρεται στον τίτλο είναι η προστασία της υγείας και του περιβάλλοντος στη Μαγνησία, μια ιδιαίτερα επιβαρυμένη με ρύπανση περιοχή με πολλαπλάσια ποσοστά σε σοβαρά νοσήματα από το μέσο όρο στην Ελλάδα, όπως άλλωστε ανέδειξαν και οι σχετικές μελέτες Πανεπιστημίου και Ιατρικού Συλλόγου Μαγνησίας. ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Για να έρθετε σε επαφή μαζί μας στείλετε στο ",
+                  "type": "text"
+                },
+                {
+                  "url": "mailto:politesmagnisias@gmail.com",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "politesmagnisias@gmail.com.",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:11:21.160Z",
+          "updatedAt": "2026-03-08T06:13:42.034Z",
+          "publishedAt": "2026-03-08T06:13:42.107Z",
+          "ProfileImageAltText": "Άντρας με μούσι και αμυδρό χαμόγελο την ώρα της δύσης",
+          "Project1PicturesAltText": "Συλλογος Πολιτες Μαγνησιας Για Την Υγεια Και Το Περιβαλλον",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "",
+          "Project2Links": null,
+          "EngName": "Nikos Barpakis",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For 20 years, Nikos has been one of the important presences in the field of contemporary culture in the country, organizing thematic events and collective networking efforts. By integrating the arts, especially music and street art, he seeks the interaction of cultural services with the media, tourism and alternative communities, both in the city and in the countryside. Nikos is an internationally recognized DJ selector, co-owner of the Lab Art concert venue in Volos, a key member of the Music Festival, as well as the founder of the Music Festival member of ATA Alternative Tours and Plenty Projects, non-profit initiatives with open actions dealing with the urban space. As an independent producer & (plus) organizer, he participated in hundreds of performances of selected Greek artists and collaborations of foreign artists: Bonobo, Imany, Gramatik, Stereo MC's, Tiger Lillies, Dj Krush, Dj Andy Smith Portishead, Kadebostany, Thievery Corporation, Sokratis Malamas, Alkinoos Ioannidis, Yiannis Aggelakas, Marina Satti, Phoebus Delivorias, K.Vivi Xylouris White et al. At the same time, as a host agent and travel coordinator, he has contributed to the promotion of dozens of emerging artists and has participated in numerous festival events, most recently in film productions.His constant involvement with the public and the public, as well as in Socio-cultural innovation programmes highlight his deep understanding of the evolving cultural scene. As a founding member of Culture for Change, he currently served as Vice President",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 959,
+          "documentId": "fl5jnfxpz20m71zck4v1q8vp",
+          "Name": "Ειρήνη Κουτσάκη",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Ειρήνη είναι ηθοποιός και artistic project manager. Από το 2000 ζει μόνιμα και εργάζεται στο Ηράκλειο Κρήτης. Είναι αναπληρώτρια διαχειρίστρια της Α.Μ.Κ.Ε. ΟΜΜΑ ΣΤΟΥΝΤΙΟ, η οποία οργανώνει κάθε είδους εκδηλώσεις που συμβάλλουν στην καλλιέργεια και την ενδυνάμωση των ανθρώπων. Τα τελευταία χρόνια ασχολείται με το θέατρο στην κοινότητα, οργανώνοντας διάφορες συμμετοχικές δράσεις, όπως το Adeste Festival (για την κοινωνική και συναισθηματική απομόνωση), το Care Stories (για την ενδυνάμωση των ηλικιωμένων που ζουν στην περιφέρεια), κ.ά. Ως project manager έχει υλοποιήσει προγράμματα του Creative Europe, Erasmus+, Europe For Citizens. Είναι απόφοιτος του Alumni Bosch Network και ιδρυτικό μέλος του σωματείου Culture For Change.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Κοινοτική Τέχνη / Community Arts, Θέατρο",
+          "City": "Ηράκλειο",
+          "Province": "Κρήτη",
+          "Email": "irenekoutsaki@yahoo.gr",
+          "Slug": "eirini-koytsaki",
+          "Phone": "306972037456",
+          "Websites": "-",
+          "Project1Title": "Care Stories. Walks to nurture care",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το CareStories είναι ένα project μεταξύ Ιταλίας, Πολωνίας και Ελλάδας, που έχει ως στόχο τη δημιουργία ενός δικτύου «πολιτιστικών περιπάτων». Απευθύνεται σε άτομα (ειδικά ηλικιωμένους που ζουν στην ενδοχώρα) που έζησαν μεγάλες περιόδους άγχους, απομόνωσης και φόβου κατά τη διάρκεια της πανδημίας του Covid. Το CareStories στοχεύει να ενισχύσει, μέσω θεατρικών εργαστηρίων που βασίζονται στη μέθοδο του θεάτρου στην κοινότητα, την αίσθηση του ‘ανήκειν’ στην τοπική και ευρωπαϊκή κοινότητα στους συμμετέχοντες και στους κατοίκους των τοπικών περιοχών. Το πρόγραμμα υλοποιήθηκε το 2021 και υποστηρίχθηκε από τον 3ο γύρο του Culture of Solidarity Fund του European Cultural Foundation και το Fondazione CRT.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Care_Stories_Walks_to_nurture_care_inline_0_744d22f6d2.jpg | Care Stories. Walks to nurture care | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://care-stories.org/",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "‍",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Care_Stories_Walks_to_nurture_care_inline_1_d08501f7c8.jpg | Care Stories. Walks to nurture care | medium | center]",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:10:54.837Z",
+          "updatedAt": "2026-03-08T06:34:53.637Z",
+          "publishedAt": "2026-03-08T06:34:53.723Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Care Stories. Walks to nurture care",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://care-stories.org/",
+          "Project2Links": null,
+          "EngName": "Irene Koutsaki",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ιrene is an actor and artistic project manager. Since 2000 she has lived permanently and worked in Heraklion, Crete. She is deputy manager of A.M.K.E. OMMA STUDIO, which organizes all kinds of events that contribute to the cultivation and empowerment of people. In recent years she has been involved in theatre in the community, organizing various participatory events, such as the Adeste Festival (for social and emotional isolation), Care Stories (for the empowerment of the elderly living in the region), etc. As a project manager, she has implemented Creative Europe, Erasmus+, Europe For Citizens programs. She is a graduate of the Bosch Alumni Network and a founding member of Culture For Change.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 953,
+          "documentId": "j647aptsogklbv0ux97akc3w",
+          "Name": "Νατάσσα Δουρίδα",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Νατάσσα αυτοπροσδιορίζεται ως πολιτιστική μηχανικός: Η δουλειά της συνίσταται στην εφεύρεση μεθόδων συσπείρωσης κοινοτήτων δημιουργικών επαγγελματιών και ενεργοποίησης τους προς την αναβίωση εγκαταλειμμένων ιστορικών μνημείων της Αθήνας. Σπούδασε πολιτικός μηχανικός και ειδικεύτηκε στην προστασία μνημείων στην αρχιτεκτονική του ΕΜΠ. Κατά τη διάρκεια του fellowship stArt του Robert Bosch Stiftung, διατύπωσε το project Communitism, το οποίο συνίστατο στη μεθοδολογία ανάπτυξης κοινότητας που θα ίδρυε ένα community-run κοινωνικό και πολιτισμικό κέντρο, σε ένα κτήριο που οι ιδιοκτήτες θα παρείχαν δωρεάν προκειμένου να εξασφαλίσουν τη συντήρησή του. Το project εξελίχθηκε στο σωματείο με τίτλο \"Ένωση πολιτών για τη διατήρηση της νεότερης πολιτισμικής κληρονομιάς με το διακριτικό τίτλο Communitism\", το οποίο λειτούργησε για 6 χρόνια το sociocultural κέντρο Communitism στην Κεραμεικού 28, στο Μεταξουργείο. Μέσα σε αυτό το περιβάλλον, συνεισφέρει ως μέλος του Δ.Σ. του σωματείου, ενώ παράλληλα αναπτύσσει τις διεθνείς, στρατηγικές  συνεργασίες και δημιουργεί εκπαιδευτικά και καλλιτεχνικά προγράμματα χρηματοδοτήσεων. Ανέπτυξε πρακτικές οργάνωσης συμμετοχικών καλλιτεχνικών events, και παρέχει συμβουλευτική υποστήριξη σε κοινότητες σε όλη την Ευρώπη για ζητήματα που άπτονται των δραστηριοτήτων της. Η δυναμική του συνδιασμού αναξιοποίητης πολιτισμικής κληρονομιάς και αναξιοποίητων δημιουργικών ατόμων, είναι αντικείμενο έρευνας μέσω της συνεργασίας μου με την έδρα Newrope του πολυτεχνέιου ETH Zurich.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Κληρονομιά, Κοινοτική Τέχνη / Community Arts, Κοινωνική Επιχειρηματικότητα, Commons",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "ddourida@gmail.com",
+          "Slug": "natassa-doyrida",
+          "Phone": "0030 6949543832",
+          "Websites": "https://www.linkedin.com/in/natassa-dourida-b367a423/",
+          "Project1Title": "Communitism",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το Communitism αναλαμβάνει την ανάκτηση ανεκμετάλλευτων κτιρίων κληρονομιάς στην Αθήνα με σκοπό την αναζωογόνησή τους μέσω δημιουργικών κοινοτικών πρωτοβουλιών. Μέσω της πρακτικής της κοινότητας και της τέχνης, δημιουργούνται εναλλακτικές λύσεις στις υφιστάμενες δομές.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Communitism_inline_0_c1e8c72bf0.jpg | Communitism | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:08:15.175Z",
+          "updatedAt": "2026-03-08T06:31:04.523Z",
+          "publishedAt": "2026-03-08T06:31:04.609Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Communitism",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://communitism.space/",
+          "Project2Links": null,
+          "EngName": "Natassa Dourida",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Natassa defines herself as a cultural engineer: Her work consists of inventing methods of gathering communities of creative professionals and activating them towards the revival of abandoned historical monuments of Athens. She studied civil engineering and specialized in monument protection in NTUA architecture. During the Robert Bosch Stiftung's StarT fellowship, she formulated the Communitism project, which consisted of a community development methodology that would establish a community-run social and cultural center, in a building that the owners would provide free of charge in order to ensure its maintenance. The project developed into the association entitled “Union of Citizens for the Preservation of the Newest Cultural Heritage with the distinctive title Communitism”, which operated for 6 years the sociocultural center Communitism at Kerameikos 28, in Metaxourgio. Within this environment, she contributes as a member of the Board of Directors of the association, while developing international strategic partnerships and creating educational and artistic funding programs. She has developed a practice of organizing participatory art events, and she provides advisory support to communities across Europe on issues related to her activities. The dynamics of combining untapped cultural heritage and untapped creative individuals is the subject of research through her collaboration with the Newrope headquarters of the ETH Zurich Polytechnic.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 591,
+          "documentId": "dg7chkwno6qqs3e2qkevfpe0",
+          "Name": "Ανέστης Χατζηδιάκος",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ο Ανέστης είναι Πληροφορικός με πτυχίο από το ΑΠΘ και δραστηριοποιείται στον χώρο της επικοινωνίας, τεχνολογίας και καινοτομίας με έμφαση σε projects με κοινωνικό αντίκτυπο. Ίδρυσε το TEDxThessaloniki και ήταν ιδρυτικό μέλος της ομάδας του TEDxLesvos, ενώ δημιούργησε τη διαφημιστική εταιρεία Quidro. Είναι επίσης συνιδρυτής του Creative Hub, που υποστηρίζει καινοτόμες ιδέες στη Λέσβο. Εδώ και λίγους μήνες, υπηρετεί ως Ειδικός Σύμβουλος Δημάρχου στον Δήμο Μυτιλήνης μεταξύ άλλων για ζητήματα στρατηγικής, επικοινωνίας, τεχνολογίας και ψηφιακού μετασχηματισμού.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Επικοινωνία",
+          "City": "Λέσβος",
+          "Province": "Βόρειο Αιγαίο",
+          "Email": "a.chatzidiakos@gmail.com",
+          "Slug": "anestis-hatzidiakos",
+          "Phone": "-",
+          "Websites": "https://www.linkedin.com/in/chatzidiakos/?originalSubdomain=gr",
+          "Project1Title": "",
+          "Project1Description": [],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:07:00.589Z",
+          "updatedAt": "2026-02-08T18:26:26.869Z",
+          "publishedAt": "2026-02-08T18:26:27.053Z",
+          "ProfileImageAltText": "",
+          "Project1PicturesAltText": null,
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": null,
+          "Project2Links": null,
+          "EngName": null,
+          "EngBio": null
+        }
+      ],
+      "Admin": null
+    },
+    {
+      "id": 14,
+      "documentId": "amgaozk2emza0tfrkh89o4gv",
+      "Name": "Ομάδα Συντονισμού #3",
+      "EngName": null,
+      "Description": null,
+      "EngDescription": null,
+      "Period": "2025-2027",
+      "IsCurrent": true,
+      "ImageAltText": null,
+      "SortOrder": 0,
+      "Slug": "omada-syntonismoy-3",
+      "createdAt": "2026-03-01T13:34:33.366Z",
+      "updatedAt": "2026-03-07T07:10:01.750Z",
+      "publishedAt": "2026-03-07T07:10:01.847Z",
+      "Image": {
+        "id": 348,
+        "documentId": "xvcn7t0w3mv0kko3032lazt5",
+        "name": "Ομάδα Συντονισμού2.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 2162,
+        "height": 1286,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Omada_Syntonismoy2_e9aeb0b872.png",
+            "hash": "large_Omada_Syntonismoy2_e9aeb0b872",
+            "mime": "image/png",
+            "name": "large_Ομάδα Συντονισμού2.png",
+            "path": null,
+            "size": 666.46,
+            "width": 1000,
+            "height": 595,
+            "sizeInBytes": 666458
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Omada_Syntonismoy2_e9aeb0b872.png",
+            "hash": "small_Omada_Syntonismoy2_e9aeb0b872",
+            "mime": "image/png",
+            "name": "small_Ομάδα Συντονισμού2.png",
+            "path": null,
+            "size": 194.6,
+            "width": 500,
+            "height": 297,
+            "sizeInBytes": 194601
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Omada_Syntonismoy2_e9aeb0b872.png",
+            "hash": "medium_Omada_Syntonismoy2_e9aeb0b872",
+            "mime": "image/png",
+            "name": "medium_Ομάδα Συντονισμού2.png",
+            "path": null,
+            "size": 393.7,
+            "width": 750,
+            "height": 446,
+            "sizeInBytes": 393703
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Omada_Syntonismoy2_e9aeb0b872.png",
+            "hash": "thumbnail_Omada_Syntonismoy2_e9aeb0b872",
+            "mime": "image/png",
+            "name": "thumbnail_Ομάδα Συντονισμού2.png",
+            "path": null,
+            "size": 60.26,
+            "width": 245,
+            "height": 146,
+            "sizeInBytes": 60259
+          }
+        },
+        "hash": "Omada_Syntonismoy2_e9aeb0b872",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 627.6,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Omada_Syntonismoy2_e9aeb0b872.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-01T13:32:50.334Z",
+        "updatedAt": "2026-03-01T13:32:50.334Z",
+        "publishedAt": "2026-03-01T13:32:50.334Z"
+      },
+      "Coordinator": {
+        "id": 979,
+        "documentId": "hfxresayxy81nr85mjxera2j",
+        "Name": "Έφη Πρόικου",
+        "Bio": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Η Έφη είναι πολιτιστική διαχειρίστρια. Σπούδασε Φιλολογία αλλά και Διοίκηση Επιχειρήσεων. Είναι κάτοχος μεταπτυχιακού στην Πολιτιστική Διαχείριση. Υπότροφος του προγράμματος Start Create Cultural Change και μέλος του Bosch Alumni. Δραστηριοποιείται επαγγελματικά στον χώρο του πολιτισμού ως ελεύθερη επαγγελματίας. Συνεργάζεται με τοπικούς φορείς(Δήμους, συλλόγους κτλ) για το σχεδιασμό και την υλοποίηση εκδηλώσεων,φεστιβάλ, προγραμμάτων και άλλων δράσεων. Η δράση της επικεντρώνεται ιδιαίτερα στο χώρο της ερασιτεχνικής πολιτιστικής δημιουργίας,επιδιώκοντας να προσδώσει εξωστρέφεια στις δράσεις των φορέων μέσω πολιτιστικών ανταλλαγών, μετακλήσεων, συμμετοχής σε διεθνή φεστιβάλ στο εξωτερικό. Άλλωστε,ο πολιτισμός δεν είναι απλά δράσεις αλλά ολιστικές εμπειρίες με προστιθέμενη αξία.",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Παραγωγή & Οργάνωση, Πολιτιστική Επιχειρηματικότητα",
+        "City": "Θεσσαλονίκη",
+        "Province": "Κεντρική Μακεδονία",
+        "Email": "efipr@yahoo.gr",
+        "Slug": "efi-proikoy",
+        "Phone": "6973969293",
+        "Websites": "http://www.diavloslink.gr",
+        "Project1Title": "",
+        "Project1Description": [],
+        "Project1Tags": "",
+        "Project2Title": "",
+        "Project2Description": [],
+        "Project2Tags": "",
+        "password": null,
+        "magicLinkToken": null,
+        "magicLinkExpiry": null,
+        "lastLoginAt": null,
+        "createdAt": "2026-01-12T15:11:17.436Z",
+        "updatedAt": "2026-03-08T06:50:47.343Z",
+        "publishedAt": "2026-03-08T06:50:47.436Z",
+        "ProfileImageAltText": " ",
+        "Project1PicturesAltText": null,
+        "Project2PicturesAltText": null,
+        "HideProfile": null,
+        "Project1Links": null,
+        "Project2Links": null,
+        "EngName": "Efi Proikou",
+        "EngBio": null
+      },
+      "Members": [
+        {
+          "id": 956,
+          "documentId": "pqkyyyehjn2aremrc6tjf3kx",
+          "Name": "Κωνσταντίνα Καραμέρη",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Κωνσταντίνα είναι απόφοιτος Νομικής σχολής του Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης και κάτοχος μεταπτυχιακού τίτλου ΜΑ ‘Art Law and Economy’ από το Διεθνές Πανεπιστήμιο Ελλάδος. Έχει καταγωγή από τη Φωκίδα (Δελφοί, Αγία Ευθυμία) αλλά μεγάλωσε στη Θεσσαλονίκη. Σήμερα είναι Senior Project Manager και Ερευνήτρια της Stimmuli for Social Change. Διαχειρίζεται έργα που εστιάζουν στην εφαρμογή της τέχνης και της δημιουργικότητας στην εκπαίδευση με στόχο την ανάπτυξη δεξιοτήτων ενεργούς πολιτειότητας. Είναι υπεύθυνη για τη συγγραφή και το συντονισμό έργων χρηματοδοτούμενων από το Υπουργείο Πολιτισμού, και την Ε.Ε. όπως Erasmus+, Horizon2020, AMIF, Creative Europe κ.α. Σε αυτό το πλαίσιο, έχει αναπτύξει την εμπειρία της στο σχεδιασμό εκπαιδευτικών προγραμμάτων για μαθητές πρωτοβάθμιας και δευτεροβάθμιας εκπαίδευσης αλλά και για εκπαιδευτικούς και νέους επαγγελματίες. Εξειδικεύεται στην ανάπτυξη διεπιστημονικών έργων που αξιοποιούν παρεμβάσεις δημιουργικότητας για την επίτευξη μαθησιακών στόχων και κοινωνικών δράσεων, ενώ διαθέτει εμπειρία σε πρωτοβουλίες και έρευνες συνηγορίας και προάσπισης του πολιτιστικού και δημιουργικού τομέα. Με τη Stimmuli συμμετέχει ως μέλος στο Community Arts Network και στη Συμμαχία για τον Πολιτισμό SKG. Από το 2012 έως το 2016 διέμενε στις Βρυξέλλες όπου εργαζόταν σε ερευνητικά κέντρα και ευρωπαϊκά δίκτυα φορέων πολιτισμού. Από το 2021 είναι ιδρυτικό μέλος της α.μ.κ.ε. ‘ΟμήΓυρη’ Διεθνούς Κέντρου Επιστημών, Πολιτισμού και Εκπαίδευσης στους Δελφούς.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Έρευνα, Χρηματοδοτήσεις / Εύρεση Πόρων, Παραγωγή & Οργάνωση, Συνηγορία",
+          "City": "Θεσσαλονίκη",
+          "Province": "Κεντρική Μακεδονία",
+          "Email": "k.karameri@gmail.com",
+          "Slug": "konstantina-karameri",
+          "Phone": "-",
+          "Websites": "https://www.omiyiri.eu/, https://stimmuli.eu/, https://www.linkedin.com/in/konstantina-karameri-4666a05b/?originalSubdomain=gr",
+          "Project1Title": "Culture for Cities and Regions",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Το Culture for Cities and Regions είναι Ευρωπαϊκό έργο Creative Europe, στο οποίο συμμετείχε στην χαρτογράφηση πολιτιστικών πρακτικών στην Ευρώπη, με άξονες την πολιτιστική κληρονομια, τις πολιτιστικές και δημιουργικές βιομηχανίες και την κοινωνική ενσωμάτωση και την καινοτομία. Το έργο είχε ως στόχο να δημιουργήσει κατάλογο καλών πρακτικών και εργαστήρια ενδυνάμωσης πόλεων και περιφερειών μέσω ανταλλαγής τεχνογνωσίας στο κομμάτι της ένταξης πολιτισμού σε διάφορες περιοχές ανά την Ευρώπη.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://keanet.eu/projects/culture-for-cities-and-regions/",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "https://keanet.eu/projects/culture-for-cities-and-regions/",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "text": " ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://www.youtube.com/watch?v=Bh8K1kyFqtg&feature=youtu.be&ab_channel=Eurocities",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "https://www.youtube.com/watch?v=Bh8K1kyFqtg&feature=youtu.be&ab_channel=Eurocities",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:05:20.530Z",
+          "updatedAt": "2026-03-08T06:33:11.648Z",
+          "publishedAt": "2026-03-08T06:33:11.754Z",
+          "ProfileImageAltText": "  ",
+          "Project1PicturesAltText": "Culture for Cities and Regions",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "",
+          "Project2Links": null,
+          "EngName": "Konstantina Karameri",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Konstantina is a law school graduate of the Aristotle University of Thessaloniki and holds a master's degree in Art Law and Economics from the International University of Greece. She is originally from Fokida (Delphi, Agia Efthymia) but grew up in Thessaloniki. She is currently Senior Project Manager and Researcher at Stimmuli for Social Change. She manages projects focusing on the application of art and creativity to education with the goal of developing active citizenship skills. She is responsible for writing and coordinating projects funded by the Ministry of Culture, and the EU such as Erasmus+, Horizon2020, AMIF, Creative Europe, etc. In this context, she has developed her experience in designing educational programs for primary and secondary school students but also for teachers and young professionals. She specializes in the development of interdisciplinary projects that use creativity interventions to achieve learning objectives and social actions, and has experience in advocacy and research initiatives and research in the cultural and creative field. With Stimmuli she participates as a member of the Community Arts Network and the Alliance for Culture SKG. From 2012 to 2016 she lived in Brussels where she worked in research centres and European networks of cultural institutions. Since 2021 she is a founding member of A.M.K.E. 'Omigyri' International Centre for Science, Culture and Education in Delphi.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 989,
+          "documentId": "lkyhsjonyoroap5y6c46eifx",
+          "Name": "Στέλλα Τσιαρβούλα",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Στεργιανή (Στέλλα) σπούδασε Συστηματική Φιλοσοφία στο ΑΠΘ. Απέκτησε μεταπτυχιακά διπλώματα στα πεδία: Επικοινωνία & Πολιτισμός / Διοίκηση Πολιτισμικών Μονάδων. Είναι Υποψήφια Διδάκτωρ Πολιτισμικής Πολιτικής στο Τμήμα Δημοσιογραφίας & ΜΜΕ- ΑΠΘ. Ξεκίνησε την επαγγελματική της διαδρομή στην Τράπεζα Πειραιώς. Έχει εργαστεί σε μουσεία της Θεσσαλονίκης (Μουσείο Αρχαίων, Βυζαντινών & Μεταβυζαντινών Μουσικών Οργάνων της Τράπεζας Μακεδονίας Θράκης / Μουσείο Φωτογραφίας Θεσσαλονίκης / Αρχαιολογικό Μουσείο Θεσσαλονίκης / Τελλόγλειο Ίδρυμα Τεχνών ΑΠΘ) ως διοικητικό στέλεχος. To διάστημα 7/2019-2/2022 ήταν η Τhessaloniki Area Manager της ActionAid Hellas, έχοντας την ευθύνη για τη δημιουργία της δομής/υποκαταστήματος της οργάνωσης στην πόλη. Στο διάστημα αυτό δημιούργησε το πρώτο ιδιωτικό Κέντρο Νεότητας στην Ελλάδα. Ζει στη Θεσσαλονίκη όπου και δραστηριοποιείται ως Creative-Cultural Manager / Development Expert. Έχει συνεργαστεί με θεσμικούς και μη φορείς, εκδοτικούς οίκους, δημιουργικά γραφεία, καλλιτεχνικά σχήματα σε πληθώρα projects. Συμμετέχει σε συνέδρια και ημερίδες με εισηγήσεις συναφείς με τα ερευνητικά ενδιαφέροντα και την επαγγελματική της πορεία. Είναι μέλος πολλών ακαδημαϊκών φορέων & επαγγελματικών οργανώσεων.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Παραγωγή & Οργάνωση, Πολιτιστική Επικοινωνία, Πολιτιστική Πολιτική, Μουσεία",
+          "City": "Θεσσαλονίκη",
+          "Province": "Κεντρική Μακεδονία",
+          "Email": "stella.tsiarvoula@gmail.com",
+          "Slug": "stella-tsiarvoyla",
+          "Phone": "6972842905",
+          "Websites": "http://www.linkedin.com/in/stella-tsiarvoula-63879029/",
+          "Project1Title": "Το Μουσειο Φωτογραφιας Θες/Νικης Αναμεσα Στα 7 Καλυτερα Της Ευρωπης | 04/07/2016",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:04:28.080Z",
+          "updatedAt": "2026-03-08T06:58:07.735Z",
+          "publishedAt": "2026-03-08T06:58:08.200Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Το Μουσειο Φωτογραφιας Θες/Νικης Αναμεσα Στα 7 Καλυτερα Της Ευρωπης | 04/07/2016",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://www.oneman.gr/synentefxeis/to-moyseio-fwtografias-thessalonikhs-anamesa-sta-7-kalutera-ths-eyrwphs/",
+          "Project2Links": null,
+          "EngName": "Stella Tsiarvoula",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Stergiani (Stella) studied Systematic Philosophy at the Aristotle University of Thessaloniki. She obtained master's degrees in the fields: Communication & Culture/Management of Cultural Units. She is a PhD Candidate in Cultural Policy at the Department of Journalism & Media- Aristotle University of Thessaloniki. She began her professional career at Piraeus Bank. She has worked in museums of Thessaloniki (Museum of Ancient, Byzantine & Post-Byzantine Musical Instruments of the Bank of Macedonia Thrace/Thessaloniki Museum of Photography/Archaeological Museum of Thessaloniki/Teloglio Art Foundation of Thessaloniki) as an administrative executive. During 7/2019-2/2022 she was the Thessaloniki Area Manager of ActionAid Hellas, responsible for setting up the organization's structure/branch in the city. During this time she created the first private Youth Center in Greece. She lives in Thessaloniki where she works as a Creative-Cultural Manager/Development Expert. She has collaborated with institutional and non-governmental organizations, publishing houses, creative agencies, artistic groups on a variety of projects. She participates in conferences and workshops with presentations related to her research interests and professional path. She is a member of many academic institutions & professional organizations.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1013,
+          "documentId": "mqswl7jw67pb1ald7gmmwzic",
+          "Name": "Γιώργος Στυλ",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ο Γιώργος Στυλ, ασχολείται για πάνω από 10 χρόνια με τη σκηνοθεσία, το performing/υποκριτική, τη συγγραφή σεναρίων, τη φωτογραφία, τον προγραμματισμό και πιο πρόσφατα με την ψυχοθεραπεία, τη δημιουργία ασφαλών/συμπεριληπτικών χώρων και την εκπαίδευση καλλιτεχνών. Είναι απόφοιτος της Δραματικής Σχολής του Ωδείου Αθηνών και έχει δημιουργήσει δύο τεχνικές καλλιτεχνικής έκρασης, το  (Why? Ohhh) και το Improv-acting. Ίδρυσε τις καλλιτεχνικές ομάδες , Καλειδοσκόπιο 4, Εκ παραδρομής, Gallactica, Why not? και Κυνιcς και έχει συμμετάσχει σε διάφορες θεατρικές και κινηματογραφικές παραγωγές.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Πολλές φορές δημιουργεί δικά του πρωτότυπα έργα σε συνεργασία με άλλους καλλιτέχνες. Ως Καλλιτεχνικός Συνεργάτης της διεθνούς καλλιτεχνικής ομάδας Duende, δημιουργεί έργα με σκοπό τη σύνθεση και συνομιλία του σύγχρονου τρόπου ζωής, της τεχνολογίας και των βαθιά ριζωμένων ανθρώπινων επιθυμιών, προσπαθώντας να αναδείξει το αυθεντικό μας πρόσωπο, σε αντιδιαστολή με αυτό που νομίζουμε πως θέλουμε να γίνουμε. ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Προσπαθεί να ενσωματώνει συνεχώς νέες προοπτικές, μεθόδους καλλιτεχνικής έκφρασης και να επεκτείνει τις δικές του ικανότητες και αντιληπτικές.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Ψυχική Υγεία, Ψηφιακές Τέχνες / Media / AI art, Θέατρο / Χορός / Performing Arts, Ψηφιακές Πλατφόρμες, Σχεδιασμός Διαμεσικών Εμπειριών",
+          "City": "Αθήνα, Θεσσαλονίκη, Λινζ, Στοκχόλμη",
+          "Province": "Αττική, Κεντρική Μακεδονία",
+          "Email": "contact@yoryosstyl.com",
+          "Slug": "Yoryos-styl",
+          "Phone": "+306906601429",
+          "Websites": "yoryosstyl.com, insidespaceman.com, https://linktr.ee/yoryosstyl",
+          "Project1Title": "Sinners II ",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sinners II | Inside Spaceman Project ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "How sin can make us better human beings?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Should religion be about corporate entities, the status quo, branding, aesthetics, codes of conduct, and merchandise placement?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What if, instead of shame or guilt, we were motivated by owning everything that we do, knowing our limits, treating ourselves and others with kindness?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sinners II is a journey, it is a ritual, an interactive AI experience of transcendence, an attempt to cleanse our minds and souls and give us a glimpse of what a DIY religion may feel like.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The VR confessional booth, designed by the Greek artist Yoryos Styl, offers a unique experience that connects you with your inner self, spirituality, and modern technology.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[The VR project can be viewed in 15 minute time slots]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Crew:",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Concept/ Co-ordination: Yoryos Styl",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Production: Inside Spaceman",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Supporting Venue: Adapter",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Production Execution: Bence Bodo",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3D Designer: Annika Boll",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "VR Specialist: Silvana Callegari",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Set designer: Theodora Soumaleuri",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Technical Expert: Andreas Christopoulos",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Photographer/Videographer: Dorottya Novák",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Beta Testers: Katerina Kas, Katerina Drakopoulou",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "VR, AI, Digital art, confession, religion",
+          "Project2Title": "First Contact ",
+          "Project2Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "First Contact | Inside Spaceman \r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is a brave new world\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What will the future resemble? You can, now, catch a glimpse of it\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Do feelings of loneliness plague your every moment?\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Do you have a vested interest in self-improvement?\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For YOU\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Don't miss out on the chance to be the first to experience it!\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: https://firstcontact.gr\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Crew:\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Concept/ Direction/ Production: Yoryos Styl\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Costume Design: Theodora Soumaleuri\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Video Shoot: Giorgos Voursoukis\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Video Edit: Yoryos Styl\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Photos: Philip Mnis\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "6th Presentation: Eugenidion Foundation",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3rd Presentation: TAF | The Art Foundation\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2nd Presentation: Prague's Biennale\r",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1st Presentation: Thess Fringe",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project2Tags": "AI, Performance, Humanoids, Inside Spaceman, STOFF24",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:05:18.356Z",
+          "updatedAt": "2026-03-10T20:17:17.029Z",
+          "publishedAt": "2026-03-10T20:17:17.090Z",
+          "ProfileImageAltText": "Άντρας στα 50 του με γαλάζια μάτια, ουδέτερη έκφραση, κοντό κούρεμα και καλλιτεχνικό πουκάμισο",
+          "Project1PicturesAltText": "Ενήλικες φοράνε γυαλιά επαυξημένης πραγματικότητας μέσα σ' έναν θόλο επιστημονικής φαντασιας, μωβ χρωματικη παλέτα",
+          "Project2PicturesAltText": "Κοπέλα με άσπρα ρούχα, καθισμένη σε άσπρη καρέκλα μπροστά από θεατή κάνει κίνηση επικοινωνίας προς τον θεατή",
+          "HideProfile": false,
+          "Project1Links": "sinners2.org, insidespaceman.com, https://www.instagram.com/insidespaceman/",
+          "Project2Links": "Insidespaceman.com, firstcontact.gr, yoryosstyl.com",
+          "EngName": "Yoryos Styl",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Yoryos  is an interdisciplinary artist, educator, and curator who founded and directs Inside Spaceman, a creative collective bridging art, technology, and social impact. A professional artist since 2010, he began his digital art career in 2021, developing practices including the YO Performing/healing method and Improv-Acting techniques. He is currently undertaking a job shadowing placement at Ars Electronica in Linz, Austria, co-curating the Features program for Ars Electronica Festival 2026. He advocates for using AI as a \"co-creator\" and he has developed the comprehensive ARTificial workshop series exploring AI and art, delivered at festivals including ADAF & Ithaca Festivals and has collaborated with international institutions/organizations of Sweden, Belgium, Austria, Czech, Hungary, Romania, Malta. He  co-ordinates CforC working groups  Digital Transformation representing and delegating the issues in the respective working groups in CAE, ENCC and Reset! organizations, and Art Synergies that promotes, advocates and works actively in finding new more effective and inclusive ways of artistic and cultural collaboration.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 954,
+          "documentId": "a45w7wreidehdsslncny2lf9",
+          "Name": "Δήμητρα Ερμείδου",
+          "Bio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Η Δήμητρα είναι εισηγήτρια θεραπευτικής φωτογραφίας και εικαστικός φωτογράφος, με πτυχίο Ζωγραφικής από το Α.Π.Θ. και μεταπτυχιακό στη Φωτογραφία από το Temple University των ΗΠΑ. Το εικαστικό της έργο έχει εκτεθεί, δημοσιευτεί και βραβευτεί διεθνώς. Η επαγγελματική της εμπειρία εκτείνεται από πολιτιστική διαχείριση, επιμέλεια εκθέσεων και πολιτιστική επιχειρηματικότητα, μέχρι διάφορες μορφές καλλιτεχνικής εκπαίδευσης και ακαδημαϊκή διδασκαλία στην Αμερική, όπου ανέπτυξε, μεταξύ άλλων, ένα διεθνές πρόγραμμα συμβουλευτικής καθοδήγησης μέσω της φωτογραφίας. Το 2018 δημιούργησε, με υποτροφία του προγράμματος “START - Create Cultural Change”, ένα πρόγραμμα θεραπευτικής φωτογραφίας για ανθρώπους με καρκίνο, το οποίο βραβεύτηκε με Scaling Award από το Κοινωφελές Ίδρυμα Λάτση, και αποτέλεσε την αφορμή για τη δημιουργία του μη-κερδοσκοπικού οργανισμού “Eyes of Light - Φορέα Τέχνης στην Υγεία” το 2019. Ως διαχειρίστρια και υπεύθυνη προγραμμάτων του οργανισμού, συνεπιμελείται διάφορες εικαστικές δράσεις, με αποστολή την βελτίωση της ποιότητας ζωής των ατόμων με εμπειρία καρκίνου, και την ένταξη της τέχνης σε χώρους υγείας. Εισηγείται συστηματικά διάφορα σεμινάρια θεραπευτικής φωτογραφίας για ογκολογικούς ασθενείς και επιζώντες, αλλά και για άλλες ομάδες, και έχει αναγνωριστεί διεθνώς από το Phototherapy Centre στον Καναδά, και έχει βραβευτεί ως “Best Therapeutic Photography Workshop Provider” από την Global Health & Pharma στο Ηνωμένο Βασίλειο.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "FieldsOfWork": "Θεραπευτικές Πρακτικές, Εικαστικά / Visual Arts, Φωτογραφία, Πολιτιστική Διαχείριση & Επικοινωνία",
+          "City": "Αθήνα",
+          "Province": "Αττική",
+          "Email": "dimermeid@gmail.com",
+          "Slug": "dimitra-ermeidoy",
+          "Phone": "6932468377",
+          "Websites": "https://www.linkedin.com/in/dimitra-ermeidou",
+          "Project1Title": "Eyes Of Light - Φορεας Τεχνης Στην Υγεια",
+          "Project1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Ο μη-κερδοσκοπικός οργανισμός \"Eyes of Light - Φορέας Τέχνης στην Υγεία\" βελτιώνει την ποιότητα ζωής των ασθενών με καρκίνο, μέσα από την τέχνη. Δημιουργήθηκε για να συμβάλλει σε μια πιο ανθρώπινη αντιμετώπιση της ασθένειας, και καινοτομεί στην Ελλάδα στην αξιοποίηση του διεθνώς αναγνωρισμένου πεδίου Arts in Health, με εξειδικευμένες δράσεις και ερευνητικό έργο (επιχορηγούμενο από το ΥΠΠΟΑ). Οι ωφελούμενοι του είναι ενήλικα άτομα με καρκίνο και οι οικογένειες τους, από την Αθήνα και όλη την Ελλάδα, και συνεργάζεται με φορείς στήριξης ασθενών από την Ελλάδα και το εξωτερικό. Οι δράσεις του καλύπτουν ανάγκες ψυχολογικής και κοινωνικής υποστήριξης των ογκολογικών ασθενών και σχεδιάζονται με βάση τις μελέτες του Παγκόσμιου Οργανισμού Υγείας.Συγκεκριμένα, υλοποιεί: α) εργαστήρια θεραπευτικής φωτογραφίας, β) συμμετοχικά εικαστικά έργα και εργαστήρια που συνδέουν ασθενείς και καλλιτέχνες, γ) ξεναγήσεις και δραστηριότητες επαφής με την τέχνη, δ) εκθέσεις και καμπάνιες ευαισθητοποίησης και ε) σχεδιασμό προγραμμάτων τέχνης σε χώρους περίθαλψης.Ο φορέας έχει βραβευτεί διεθνώς για την καινοτόμο χρήση της θεραπευτικής φωτογραφίας και το έργο του έχει διακριθεί στην Ελλάδα και το εξωτερικό, για τον αντίκτυπο, την καινοτομία και την αισθητική του αρτιότητα.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Eyes_Of_Light_inline_0_bc1a047798.jpg | Eyes Of Light - Φορεας Τεχνης Στην Υγεια | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://www.eyesoflight.gr",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "‍",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://www.eyesoflight.gr",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "‍",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://www.eyesoflight.gr",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "‍",
+                      "type": "text"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Eyes_Of_Light_inline_1_af65fe9c12.jpg | Eyes Of Light - Φορεας Τεχνης Στην Υγεια | medium | center]",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "url": "https://www.eyesoflight.gr",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "‍",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "url": "https://www.eyesoflight.gr",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "‍",
+                      "type": "text"
+                    }
+                  ]
+                },
+                {
+                  "text": "‍",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project1Tags": "",
+          "Project2Title": "",
+          "Project2Description": [],
+          "Project2Tags": "",
+          "password": null,
+          "magicLinkToken": null,
+          "magicLinkExpiry": null,
+          "lastLoginAt": null,
+          "createdAt": "2026-01-12T15:09:20.453Z",
+          "updatedAt": "2026-03-08T06:31:51.556Z",
+          "publishedAt": "2026-03-08T06:31:51.636Z",
+          "ProfileImageAltText": " ",
+          "Project1PicturesAltText": "Eyes Of Light - Φορεας Τεχνης Στην Υγεια",
+          "Project2PicturesAltText": null,
+          "HideProfile": null,
+          "Project1Links": "https://www.eyesoflight.gr",
+          "Project2Links": null,
+          "EngName": "Dimitra Ermeidou",
+          "EngBio": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Dimitra Ermeidou is a lecturer in therapeutic photography and a visual photographer, with a degree in Painting from the University of Thessaloniki and a master's degree in Photography from Temple University, USA. Her visual work has been exhibited, published and awarded internationally. Her professional experience spans from cultural management, exhibition curation and cultural entrepreneurship, to various forms of artistic education and academic teaching in America, where she developed, among other things, an international mentoring program through photography. In 2018, with a grant from the program “START - Create Cultural Change”, she created a therapeutic photography program for people with cancer, which was awarded a Scaling Award from the Latsis Foundation, and was the reason for the creation of the non-profit organization “Eyes of Light - Art in Health” in 2019. As manager and program manager of the organization, she co-curates various visual activities, with the mission of improving the quality of life of people experiencing cancer, and integrating art into health spaces. She regularly presents various therapeutic photography seminars for cancer patients and survivors, as well as for other groups, and has been recognized internationally by the Phototherapy Centre in Canada and has been awarded “Best Therapeutic Photography Workshop Provider” by Global Health & Pharma in the UK.",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "Admin": {
+        "id": 559,
+        "documentId": "jofy4hp8jvom0g8xv0rkb78q",
+        "Name": "Σόνια Ντόβα ",
+        "Bio": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Τριαλαλο",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "FieldsOfWork": "Διοίκηση CforC",
+        "City": "Καλαμπάκα",
+        "Province": "Θεσσαλία",
+        "Email": "hello@cultureforchange.net",
+        "Slug": "Sonia-ntova",
+        "Phone": "6975121171",
+        "Websites": "",
+        "Project1Title": "",
+        "Project1Description": null,
+        "Project1Tags": "",
+        "Project2Title": "",
+        "Project2Description": null,
+        "Project2Tags": "",
+        "password": null,
+        "magicLinkToken": null,
+        "magicLinkExpiry": null,
+        "lastLoginAt": null,
+        "createdAt": "2026-01-12T15:03:46.410Z",
+        "updatedAt": "2026-02-08T18:25:56.696Z",
+        "publishedAt": "2026-02-08T18:25:57.169Z",
+        "ProfileImageAltText": "Χαμογελαστή γυναίκα με πιασμένα μακρυά μαλιά με φόντο ένα δέντρο ",
+        "Project1PicturesAltText": null,
+        "Project2PicturesAltText": null,
+        "HideProfile": null,
+        "Project1Links": null,
+        "Project2Links": null,
+        "EngName": null,
+        "EngBio": null
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "start": 0,
+      "limit": 100,
+      "total": 3
+    }
+  }
+}
