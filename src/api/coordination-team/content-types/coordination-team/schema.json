@@ -63,6 +63,16 @@
       "relation": "manyToOne",
       "target": "api::member.member"
     },
+    "Comms": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "IT": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
     "SortOrder": {
       "type": "integer",
       "default": 0,
