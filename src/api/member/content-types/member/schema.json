@@ -153,6 +153,11 @@
       "type": "boolean",
       "default": false,
       "required": false
+    },
+    "AddedToPaidGroup": {
+      "type": "boolean",
+      "default": false,
+      "required": false
     }
   }
 }
