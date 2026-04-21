@@ -367,7 +367,7 @@
       "ImageAltText": "",
       "EngTitle": null,
       "EngDescription": null,
-      "Category": "Δικτύωση & Συνέδρ��α",
+      "Category": "Δικτύωση & Συνέδρια",
       "Image": {
         "id": 159,
         "documentId": "unjj8g0075gae8f1b8qxzw4v",
@@ -1929,7 +1929,7 @@
         "provider": "strapi-provider-upload-strapi-cloud",
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:16:22.304Z",
-        "updatedAt": "2026-03-08T20:03:56.325Z",
+        "updatedAt": "2026-03-14T13:18:45.762Z",
         "publishedAt": "2026-03-06T16:16:22.304Z"
       }
     },
@@ -1969,7 +1969,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Υπουργείο Πολιτισμού ανακοίνωσε την πρόσκληση για το πρόγραμμα «Όλη η Ελλάδα ένας Πολιτισμός 2026», το οποίο επανέρχεται με ενισχυμένο αριθμό εκδηλώσεων (95 παραγωγές) και θεματικό άξονα τον στίχο του Μενάνδρου «Ὡς χαρίεν ἔστ’ ἄνθρωπος, ὅταν ἄνθρωπος ᾖ». Η πρόσκληση απευθύνεται σε ΑΜΚΕ που καλούνται να δημιουργήσουν νέα, πρωτότυπα έργα με επίκεντρο την «επιστροφή στον άνθρωπο», συνδυάζοντας δύο από τα εξής πεδία: μουσική, θέατρο, χορό, μουσικό θέατρο, εικαστικές τέχνες/περφόρμανς, δράσεις για παιδιά και εφήβους. Οι επιλεγμένες παραγωγές θα παρουσιαστούν σε αρχαιολογικούς χώρους και μουσεία σε όλη την Ελλάδα από 1/7 έως 31/8/2026.",
+              "text": "Το Υπουργείο Πολιτισμού ανακοίνωσε την πρόσκληση για το πρόγραμμα «Όλη η Ελλάδα ένας Πολιτισμός 2026», το οποίο επανέρχεται με εν��σχυμένο αριθμό εκδηλώσεων (95 παραγωγές) και θεματικό άξονα τον στίχο του Μενάνδρου «Ὡς χαρίεν ἔστ’ ἄνθρωπος, ὅταν ἄνθρωπος ᾖ». Η πρόσκληση απευθύνεται σε ΑΜΚΕ που καλούνται να δημιουργήσουν νέα, πρωτότυπα έργα με επίκεντρο την «επιστροφή στον άνθρωπο», συνδυάζοντας δύο από τα εξής πεδία: μουσική, θέατρο, χορό, μουσικό θέατρο, εικαστικές τέχνες/περφόρμανς, δράσεις για παιδιά και εφήβους. Οι επιλεγμένες παραγωγές θα παρουσιαστούν σε αρχαιολογικούς χώρους και μουσεία σε όλη την Ελλάδα από 1/7 έως 31/8/2026.",
               "type": "text"
             }
           ]
@@ -2215,7 +2215,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Η πρόσκληση Knowledge to Action της Anna Lindh Foundation απευθύνεται σε ερευνητές, οργανισμούς και φορείς που δραστηριοποιούνται στον διαπολιτισμικό διάλογο στην περιοχή της Ευρωμεσογείου. Στόχος είναι η παραγωγή γνώσης με πρακτική και πολιτική αξία, η οποία μπορεί να αξιοποιηθεί από φορείς χάραξης πολιτική�� και την κοινωνία των πολιτών.",
+              "text": "Η πρόσκληση Knowledge to Action της Anna Lindh Foundation απευθύνεται σε ερευνητές, οργανισμούς και φορείς που δραστηριοποιούνται στον διαπολιτισμικό διάλογο στην περιοχή της Ευρωμεσογείου. Στόχος είναι η παραγωγή γνώσης με πρακτική και πολιτική αξία, η οποία μπορεί να αξιοποιηθεί από φορείς χάραξης πολιτικής και την κοινωνία των πολιτών.",
               "type": "text"
             }
           ]
@@ -2884,6 +2884,337 @@
       }
     },
     {
+      "id": 266,
+      "documentId": "bhwc838uux98gbj2y8mq5tei",
+      "Title": "Θεσστιβαλάκι 2026: Φεστιβάλ Παιδικών Θεατρικών Ομάδων",
+      "Deadline": "2026-04-19",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το 5ο Πανελλήνιο Φεστιβάλ Παιδικών Θεατρικών Ομάδων “Θεσστιβαλάκι” προσκαλεί παιδικές θεατρικές ομάδες από όλη την Ελλάδα να συμμετάσχουν σε μια διοργάνωση που προωθεί τη δημιουργική έκφραση και τη θεατρική παιδεία. Απευθύνεται σε παιδικές ομάδες και σχολικά σχήματα, προσφέροντας τη δυνατότητα παρουσίασης παραστάσεων και συμμετοχής σε ένα περιβάλλον ανταλλαγής εμπειριών και καλλιτεχνικής έκφρασης.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOKarFFUQTdXUThHWTZZVzBUT1pVQVJZVTdDUzYySS4u",
+      "createdAt": "2026-04-16T09:35:16.007Z",
+      "updatedAt": "2026-04-16T09:35:16.007Z",
+      "publishedAt": "2026-04-16T09:35:16.283Z",
+      "ImageAltText": "thestivalaki",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Καλλιτεχνικές Προσκλήσεις",
+      "Image": {
+        "id": 1057,
+        "documentId": "xig8y8kitpiudtgaft97ettt",
+        "name": "images (3).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 227,
+        "height": 222,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_3_a6583afa45.jpeg",
+            "hash": "thumbnail_images_3_a6583afa45",
+            "mime": "image/jpeg",
+            "name": "thumbnail_images (3).jpeg",
+            "path": null,
+            "size": 3.57,
+            "width": 160,
+            "height": 156,
+            "sizeInBytes": 3570
+          }
+        },
+        "hash": "images_3_a6583afa45",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 5.72,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_3_a6583afa45.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.200Z",
+        "updatedAt": "2026-04-16T09:34:42.124Z",
+        "publishedAt": "2026-04-16T09:33:53.200Z"
+      }
+    },
+    {
+      "id": 268,
+      "documentId": "y8daj16q838qn709n57xjfnm",
+      "Title": "Creative Innovation Lab 2026",
+      "Deadline": "2026-04-23",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η Ευρωπαϊκή Επιτροπή προκηρύσσει το Creative Innovation Lab (CREA-CROSS-2026-INNOVLAB), στο πλαίσιο του προγράμματος Creative Europe, με στόχο την ενίσχυση της καινοτομίας στους πολιτιστικούς και δημιουργικούς τομείς. Η δράση απευθύνεται σε οργανισμούς και φορείς του χώρου και υποστηρίζει έργα διατομεακής συνεργασίας που αξιοποιούν ψηφιακές τεχνολογίες και νέα μοντέλα ανάπτυξης. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2026-INNOVLAB",
+      "createdAt": "2026-04-16T09:36:23.336Z",
+      "updatedAt": "2026-04-16T09:36:23.336Z",
+      "publishedAt": "2026-04-16T09:36:23.581Z",
+      "ImageAltText": "EU Commission",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1060,
+        "documentId": "cs1dr40i58slvtq3cq7hvf3e",
+        "name": "Untitled design (16).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Untitled_design_16_6c18ff60c8.png",
+            "hash": "large_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "large_Untitled design (16).png",
+            "path": null,
+            "size": 270.59,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 270590
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Untitled_design_16_6c18ff60c8.png",
+            "hash": "small_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "small_Untitled design (16).png",
+            "path": null,
+            "size": 85.28,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 85275
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Untitled_design_16_6c18ff60c8.png",
+            "hash": "medium_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "medium_Untitled design (16).png",
+            "path": null,
+            "size": 168.57,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 168570
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Untitled_design_16_6c18ff60c8.png",
+            "hash": "thumbnail_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "thumbnail_Untitled design (16).png",
+            "path": null,
+            "size": 14.48,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 14475
+          }
+        },
+        "hash": "Untitled_design_16_6c18ff60c8",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 59.76,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Untitled_design_16_6c18ff60c8.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:54.234Z",
+        "updatedAt": "2026-04-16T09:33:54.234Z",
+        "publishedAt": "2026-04-16T09:33:54.234Z"
+      }
+    },
+    {
+      "id": 270,
+      "documentId": "xyuvxbplty1x60o6huvl961q",
+      "Title": "Creativity Pioneers Fund",
+      "Deadline": "2026-04-24",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το Creativity Pioneers Fund απευθύνει ανοιχτή πρόσκληση σε grassroots οργανισμούς που δραστηριοποιούνται σε κοινωνική και πολιτιστική καινοτομία. Το πρόγραμμα παρέχει χρηματοδότηση και πρόσβαση σε ένα διεθνές δίκτυο υποστήριξης, με στόχο την ενίσχυση πρωτοβουλιών με κοινωνικό αντίκτυπο. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.creativitypioneersfund.org/opencall",
+      "createdAt": "2026-04-16T09:37:35.259Z",
+      "updatedAt": "2026-04-16T09:37:35.259Z",
+      "publishedAt": "2026-04-16T09:37:35.508Z",
+      "ImageAltText": "Creative pioneers fund",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1059,
+        "documentId": "u6qj0xw705qmge679bqd8b2w",
+        "name": "αρχείο λήψης (9).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 225,
+        "height": 225,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_arxeio_lipsis_9_7db9bd3c46.jpeg",
+            "hash": "thumbnail_arxeio_lipsis_9_7db9bd3c46",
+            "mime": "image/jpeg",
+            "name": "thumbnail_αρχείο λήψης (9).jpeg",
+            "path": null,
+            "size": 6.38,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 6375
+          }
+        },
+        "hash": "arxeio_lipsis_9_7db9bd3c46",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 10.31,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/arxeio_lipsis_9_7db9bd3c46.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.292Z",
+        "updatedAt": "2026-04-16T09:36:58.771Z",
+        "publishedAt": "2026-04-16T09:33:53.292Z"
+      }
+    },
+    {
+      "id": 272,
+      "documentId": "smj43o02pw9iutq94e6irwoo",
+      "Title": "BAN Reconnection Grant ",
+      "Deadline": "2026-06-07",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το BAN Reconnection Grant (2ος γύρος) υποστηρίζει πρωτοβουλίες που ενισχύουν τη συνεργασία και την επανασύνδεση μεταξύ μελών του Bosch Alumni Network, χρηματοδοτώντ��ς την ανάπτυξη κοινών έργων και δράσεων. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.boschalumni.net/opportunities/337181",
+      "createdAt": "2026-04-16T09:38:17.729Z",
+      "updatedAt": "2026-04-16T09:38:17.729Z",
+      "publishedAt": "2026-04-16T09:38:17.979Z",
+      "ImageAltText": "BAN",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1058,
+        "documentId": "e4j5m20ptxrflqdnjt8p3zw0",
+        "name": "images (19).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+            "hash": "thumbnail_images_19_99c1e15545",
+            "mime": "image/png",
+            "name": "thumbnail_images (19).png",
+            "path": null,
+            "size": 18.41,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 18410
+          }
+        },
+        "hash": "images_19_99c1e15545",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 5.62,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.285Z",
+        "updatedAt": "2026-04-16T09:33:53.285Z",
+        "publishedAt": "2026-04-16T09:33:53.285Z"
+      }
+    },
+    {
+      "id": 274,
+      "documentId": "suzcu8i22b77a2m92k606boe",
+      "Title": "Spaces of Culture 2026",
+      "Deadline": "2026-06-11",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το δίκτυο EUNIC ανακοινώνει την πρόσκληση “Spaces of Culture 2026”, η οποία στηρίζει έργα πολιτιστικής συνεργασίας σε χώρες εκτός Ευρωπαϊκής Ένωσης. Η πρωτοβουλία απευθύνεται σε ευρωπαϊκούς πολιτιστικούς οργανισμούς και τοπικούς εταίρους, ενισχύοντας τον διαπολιτισμικό διάλογο και την ανάπτυξη συνεργασιών με τοπικές κοινότητες. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://eunic.eu/news/spaces-of-culture-2026",
+      "createdAt": "2026-04-16T09:39:33.045Z",
+      "updatedAt": "2026-04-16T09:39:33.045Z",
+      "publishedAt": "2026-04-16T09:39:33.291Z",
+      "ImageAltText": "Spaces of culture",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1056,
+        "documentId": "y4txob7j1iei5h1a5nvjcguq",
+        "name": "images (4).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_4_8d2f7f8fbb.jpeg",
+            "hash": "thumbnail_images_4_8d2f7f8fbb",
+            "mime": "image/jpeg",
+            "name": "thumbnail_images (4).jpeg",
+            "path": null,
+            "size": 7.8,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 7795
+          }
+        },
+        "hash": "images_4_8d2f7f8fbb",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 10.42,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_4_8d2f7f8fbb.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.186Z",
+        "updatedAt": "2026-04-16T09:33:53.186Z",
+        "publishedAt": "2026-04-16T09:33:53.187Z"
+      }
+    },
+    {
       "id": 191,
       "documentId": "gxcarbe6gxeojzzwrpe5sl95",
       "Title": "2025 Creative Europe",
@@ -2976,6 +3307,65 @@
         "createdAt": "2026-01-12T14:59:57.958Z",
         "updatedAt": "2026-01-12T14:59:57.958Z",
         "publishedAt": "2026-01-12T14:59:57.958Z"
+      }
+    },
+    {
+      "id": 276,
+      "documentId": "oxgojvrugnz75glim160xggu",
+      "Title": "BAN Learning Exchange Grants",
+      "Deadline": "2026-06-21",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Τα BAN Learning Exchange Grants απευθύνονται σε μέλη του Bosch Alumni Network και υποστηρίζουν δράσεις ανταλλαγής γνώσης και εμπειριών. Παρέχουν χρηματοδότηση για τη διοργάνωση επισκέψεων, εργαστηρίων και συνεργατικών πρωτοβουλιών μεταξύ μελών του δικτύου. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.boschalumni.net/opportunities/335045",
+      "createdAt": "2026-04-16T09:40:13.247Z",
+      "updatedAt": "2026-04-16T09:40:13.247Z",
+      "publishedAt": "2026-04-16T09:40:13.506Z",
+      "ImageAltText": "ban",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1058,
+        "documentId": "e4j5m20ptxrflqdnjt8p3zw0",
+        "name": "images (19).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+            "hash": "thumbnail_images_19_99c1e15545",
+            "mime": "image/png",
+            "name": "thumbnail_images (19).png",
+            "path": null,
+            "size": 18.41,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 18410
+          }
+        },
+        "hash": "images_19_99c1e15545",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 5.62,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.285Z",
+        "updatedAt": "2026-04-16T09:33:53.285Z",
+        "publishedAt": "2026-04-16T09:33:53.285Z"
       }
     },
     {
@@ -3653,7 +4043,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Η Δημοτική Αγορά Κυψέλης απευθύνει ανοιχτή πρόσκληση σε διοργανωτές, ομάδες δημιουργών και συλλογικότητες χειροτεχνών για τη διοργάνωση θεματικών αγορών μέσα στο 2026. Η πρόσκληση αφορά δράσεις που προωθούν τη βιωσιμότητα, τη δημιουργική επιχειρηματικότητα και τη σύγχρονη ελληνική χειροτεχνία. Επιλέγονται συνεργασίες που θα ενταχθούν στο ετήσιο πρόγραμμα εκδηλώσεων της Αγοράς.",
+              "text": "Η Δημοτική Αγορά Κυψέλης απευθύνει ανοιχτή πρόσκληση σε διοργανωτές, ομάδες δημιουργών και συλλογικότητες χειροτεχνών για τη διοργάνωση θεματικών αγορών μέσα στο 2026. Η πρόσκληση αφορά δράσεις που προω��ούν τη βιωσιμότητα, τη δημιουργική επιχειρηματικότητα και τη σύγχρονη ελληνική χειροτεχνία. Επιλέγονται συνεργασίες που θα ενταχθούν στο ετήσιο πρόγραμμα εκδηλώσεων της Αγοράς.",
               "type": "text"
             }
           ]
@@ -6674,7 +7064,7 @@
     "pagination": {
       "start": 0,
       "limit": 100,
-      "total": 79
+      "total": 85
     }
   }
 }

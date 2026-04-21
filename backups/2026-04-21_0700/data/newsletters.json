@@ -524,8 +524,89 @@
         "provider": "strapi-provider-upload-strapi-cloud",
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:16:22.304Z",
-        "updatedAt": "2026-03-08T20:03:56.325Z",
+        "updatedAt": "2026-03-14T13:18:45.762Z",
         "publishedAt": "2026-03-06T16:16:22.304Z"
+      }
+    },
+    {
+      "id": 19,
+      "documentId": "yv6mdqjksv1ccz5lnkdh1jnj",
+      "Title": "Newsletter Απριλίου 26",
+      "Date": "2026-04-17",
+      "DriveLink": "https://drive.google.com/file/d/1ZtgFt3GKY0kSwtKVOax1hxHkORZ6fcia/view?usp=sharing",
+      "Slug": "Newsletterapriliou26",
+      "createdAt": "2026-04-17T11:42:13.366Z",
+      "updatedAt": "2026-04-17T11:42:13.366Z",
+      "publishedAt": "2026-04-17T11:42:13.414Z",
+      "Image": {
+        "id": 1061,
+        "documentId": "b04sl3uxz9aex4abmo579lck",
+        "name": "Reset_D2_b-1.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1350,
+        "height": 900,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Reset_D2_b_1_eb8a6c6347.jpg",
+            "hash": "large_Reset_D2_b_1_eb8a6c6347",
+            "mime": "image/jpeg",
+            "name": "large_Reset_D2_b-1.jpg",
+            "path": null,
+            "size": 150.53,
+            "width": 1000,
+            "height": 667,
+            "sizeInBytes": 150529
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Reset_D2_b_1_eb8a6c6347.jpg",
+            "hash": "small_Reset_D2_b_1_eb8a6c6347",
+            "mime": "image/jpeg",
+            "name": "small_Reset_D2_b-1.jpg",
+            "path": null,
+            "size": 45.59,
+            "width": 500,
+            "height": 333,
+            "sizeInBytes": 45594
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Reset_D2_b_1_eb8a6c6347.jpg",
+            "hash": "medium_Reset_D2_b_1_eb8a6c6347",
+            "mime": "image/jpeg",
+            "name": "medium_Reset_D2_b-1.jpg",
+            "path": null,
+            "size": 91.35,
+            "width": 750,
+            "height": 500,
+            "sizeInBytes": 91347
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Reset_D2_b_1_eb8a6c6347.jpg",
+            "hash": "thumbnail_Reset_D2_b_1_eb8a6c6347",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Reset_D2_b-1.jpg",
+            "path": null,
+            "size": 12.25,
+            "width": 234,
+            "height": 156,
+            "sizeInBytes": 12248
+          }
+        },
+        "hash": "Reset_D2_b_1_eb8a6c6347",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 257.75,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Reset_D2_b_1_eb8a6c6347.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-17T11:41:52.626Z",
+        "updatedAt": "2026-04-17T11:41:52.626Z",
+        "publishedAt": "2026-04-17T11:41:52.627Z"
       }
     }
   ],
@@ -533,7 +614,7 @@
     "pagination": {
       "start": 0,
       "limit": 100,
-      "total": 8
+      "total": 9
     }
   }
 }

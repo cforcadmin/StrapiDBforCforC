@@ -1,19 +1,19 @@
 {
-  "backupDate": "2026-03-14T10:40:31.104Z",
+  "backupDate": "2026-04-21T07:00:07.891Z",
   "strapiUrl": "https://helpful-wealth-0a46a9eabb.strapiapp.com",
   "collections": {
     "members": {
-      "entryCount": 92,
+      "entryCount": 93,
       "file": "data/members.json",
       "labelField": "Name"
     },
     "activities": {
-      "entryCount": 63,
+      "entryCount": 65,
       "file": "data/activities.json",
       "labelField": "Title"
     },
     "open-calls": {
-      "entryCount": 79,
+      "entryCount": 85,
       "file": "data/open-calls.json",
       "labelField": "Title"
     },
@@ -33,15 +33,9 @@
       "labelField": "name"
     },
     "newsletters": {
-      "entryCount": 8,
+      "entryCount": 9,
       "file": "data/newsletters.json",
       "labelField": "Title"
-    },
-    "pages": {
-      "error": "HTTP 404 for https://helpful-wealth-0a46a9eabb.strapiapp.com/api/pages?populate=*&pagination[limit]=1000"
-    },
-    "hero-section": {
-      "error": "HTTP 404 for https://helpful-wealth-0a46a9eabb.strapiapp.com/api/hero-section?populate=*"
     }
   },
   "media": [
@@ -133,7 +127,7 @@
       "collection": "members",
       "entryDocumentId": "mho24j9b3puibn5muv6wt21q",
       "entryId": 779,
-      "entryLabel": "Πόλυ Νικολακοπούλου",
+      "entryLabel": "Πόλυ Νικολακο��ούλου",
       "field": "Image[0]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/POLY_NIKOLAKOPOYLOY_8dc5151fd0_0426a08ef1.jpg",
       "localFile": "media/_POLY_NIKOLAKOPOYLOY_8dc5151fd0_0426a08ef1.jpg",
@@ -161,7 +155,7 @@
       "collection": "members",
       "entryDocumentId": "mho24j9b3puibn5muv6wt21q",
       "entryId": 779,
-      "entryLabel": "Πόλυ Νικολακοπούλου",
+      "entryLabel": "Πόλυ Νικολακο��ούλου",
       "field": "Project1Pictures[0]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_1a97052575.jpg",
       "localFile": "media/_project1_1a97052575.jpg",
@@ -182,6 +176,34 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_1a97052575.jpg",
           "localFile": "media/thumbnail__thumbnail_project1_1a97052575.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "togmfhdqg2qn9eobrqyybmto",
+      "entryId": 1015,
+      "entryLabel": "Γιολάντα Μαρκοπούλου",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/222_857370c2f7.png",
+      "localFile": "media/_222_857370c2f7.png",
+      "mime": "image/png",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_222_857370c2f7.png",
+          "localFile": "media/large__large_222_857370c2f7.png"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_222_857370c2f7.png",
+          "localFile": "media/small__small_222_857370c2f7.png"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_222_857370c2f7.png",
+          "localFile": "media/medium__medium_222_857370c2f7.png"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_222_857370c2f7.png",
+          "localFile": "media/thumbnail__thumbnail_222_857370c2f7.png"
         }
       }
     },
@@ -1147,6 +1169,130 @@
     },
     {
       "collection": "members",
+      "entryDocumentId": "im5pa4ld0orwdsoi45t8y06i",
+      "entryId": 1018,
+      "entryLabel": "Χριστίνα Βουμβουράκη",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Screenshot_20260310_165628_Viber_2_86ec36e810.png",
+      "localFile": "media/_Screenshot_20260310_165628_Viber_2_86ec36e810.png",
+      "mime": "image/png",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Screenshot_20260310_165628_Viber_2_86ec36e810.png",
+          "localFile": "media/small__small_Screenshot_20260310_165628_Viber_2_86ec36e810.png"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Screenshot_20260310_165628_Viber_2_86ec36e810.png",
+          "localFile": "media/thumbnail__thumbnail_Screenshot_20260310_165628_Viber_2_86ec36e810.png"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "im5pa4ld0orwdsoi45t8y06i",
+      "entryId": 1018,
+      "entryLabel": "Χριστίνα Βουμβουράκη",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/01blealoni_thessaloniki_ffc3dc6f80.jpg",
+      "localFile": "media/_01blealoni_thessaloniki_ffc3dc6f80.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_01blealoni_thessaloniki_ffc3dc6f80.jpg",
+          "localFile": "media/large__large_01blealoni_thessaloniki_ffc3dc6f80.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_01blealoni_thessaloniki_ffc3dc6f80.jpg",
+          "localFile": "media/small__small_01blealoni_thessaloniki_ffc3dc6f80.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_01blealoni_thessaloniki_ffc3dc6f80.jpg",
+          "localFile": "media/medium__medium_01blealoni_thessaloniki_ffc3dc6f80.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_01blealoni_thessaloniki_ffc3dc6f80.jpg",
+          "localFile": "media/thumbnail__thumbnail_01blealoni_thessaloniki_ffc3dc6f80.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "im5pa4ld0orwdsoi45t8y06i",
+      "entryId": 1018,
+      "entryLabel": "Χριστίνα Βουμβουράκη",
+      "field": "Project1Pictures[1]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/blealoni_hearn_skg_1_ab62521e19.jpg",
+      "localFile": "media/_blealoni_hearn_skg_1_ab62521e19.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_blealoni_hearn_skg_1_ab62521e19.jpg",
+          "localFile": "media/large__large_blealoni_hearn_skg_1_ab62521e19.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_blealoni_hearn_skg_1_ab62521e19.jpg",
+          "localFile": "media/small__small_blealoni_hearn_skg_1_ab62521e19.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_blealoni_hearn_skg_1_ab62521e19.jpg",
+          "localFile": "media/medium__medium_blealoni_hearn_skg_1_ab62521e19.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_blealoni_hearn_skg_1_ab62521e19.jpg",
+          "localFile": "media/thumbnail__thumbnail_blealoni_hearn_skg_1_ab62521e19.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "im5pa4ld0orwdsoi45t8y06i",
+      "entryId": 1018,
+      "entryLabel": "Χριστίνα Βουμβουράκη",
+      "field": "Project1Pictures[2]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/blealoni_tsepis_1_5d52df99d3.jpg",
+      "localFile": "media/_blealoni_tsepis_1_5d52df99d3.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_blealoni_tsepis_1_5d52df99d3.jpg",
+          "localFile": "media/large__large_blealoni_tsepis_1_5d52df99d3.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_blealoni_tsepis_1_5d52df99d3.jpg",
+          "localFile": "media/small__small_blealoni_tsepis_1_5d52df99d3.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_blealoni_tsepis_1_5d52df99d3.jpg",
+          "localFile": "media/medium__medium_blealoni_tsepis_1_5d52df99d3.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_blealoni_tsepis_1_5d52df99d3.jpg",
+          "localFile": "media/thumbnail__thumbnail_blealoni_tsepis_1_5d52df99d3.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "im5pa4ld0orwdsoi45t8y06i",
+      "entryId": 1018,
+      "entryLabel": "Χριστίνα Βουμβουράκη",
+      "field": "Project1Pictures[3]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/04blealoni_ormenio_5c25443c8a.jpg",
+      "localFile": "media/_04blealoni_ormenio_5c25443c8a.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_04blealoni_ormenio_5c25443c8a.jpg",
+          "localFile": "media/small__small_04blealoni_ormenio_5c25443c8a.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_04blealoni_ormenio_5c25443c8a.jpg",
+          "localFile": "media/thumbnail__thumbnail_04blealoni_ormenio_5c25443c8a.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
       "entryDocumentId": "rkn7tcbcugdvn95o8drl4916",
       "entryId": 852,
       "entryLabel": "Παναγιώτης Ανδριανόπουλος",
@@ -1247,105 +1393,57 @@
     },
     {
       "collection": "members",
-      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
-      "entryId": 901,
-      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)",
+      "entryDocumentId": "pwmsxlm404txvib14k0o9c63",
+      "entryId": 1019,
+      "entryLabel": "Στέλα Αναστασάκη",
       "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
-      "localFile": "media/_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
+      "localFile": "media/_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
       "mime": "image/jpeg",
       "formats": {
         "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
-          "localFile": "media/large__large_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
+          "localFile": "media/large__large_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
         },
         "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
-          "localFile": "media/small__small_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
+          "localFile": "media/small__small_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
         },
         "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
-          "localFile": "media/medium__medium_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
+          "localFile": "media/medium__medium_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
         },
         "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
-          "localFile": "media/thumbnail__thumbnail_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
+          "localFile": "media/thumbnail__thumbnail_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
         }
       }
     },
     {
       "collection": "members",
-      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
-      "entryId": 901,
-      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)",
+      "entryDocumentId": "pwmsxlm404txvib14k0o9c63",
+      "entryId": 1019,
+      "entryLabel": "Στέλα Αναστασάκη",
       "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_2ee20b1d2e.jpg",
-      "localFile": "media/_project1_2ee20b1d2e.jpg",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_02da6cbf77.jpg",
+      "localFile": "media/_project1_02da6cbf77.jpg",
       "mime": "image/jpeg",
       "formats": {
         "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_2ee20b1d2e.jpg",
-          "localFile": "media/large__large_project1_2ee20b1d2e.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_02da6cbf77.jpg",
+          "localFile": "media/large__large_project1_02da6cbf77.jpg"
         },
         "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_2ee20b1d2e.jpg",
-          "localFile": "media/small__small_project1_2ee20b1d2e.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_02da6cbf77.jpg",
+          "localFile": "media/small__small_project1_02da6cbf77.jpg"
         },
         "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_2ee20b1d2e.jpg",
-          "localFile": "media/medium__medium_project1_2ee20b1d2e.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_02da6cbf77.jpg",
+          "localFile": "media/medium__medium_project1_02da6cbf77.jpg"
         },
         "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_2ee20b1d2e.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_2ee20b1d2e.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
-      "entryId": 901,
-      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)",
-      "field": "Project2Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
-      "localFile": "media/_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
-          "localFile": "media/small__small_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
-          "localFile": "media/medium__medium_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
-          "localFile": "media/thumbnail__thumbnail_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
-      "entryId": 901,
-      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)",
-      "field": "Project2Pictures[1]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
-      "localFile": "media/_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
-          "localFile": "media/small__small_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
-          "localFile": "media/medium__medium_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
-          "localFile": "media/thumbnail__thumbnail_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_02da6cbf77.jpg",
+          "localFile": "media/thumbnail__thumbnail_project1_02da6cbf77.jpg"
         }
       }
     },
@@ -1663,6 +1761,110 @@
     },
     {
       "collection": "members",
+      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
+      "entryId": 1023,
+      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)/TIDAL FLOW ART",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+      "localFile": "media/_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+          "localFile": "media/large__large_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+          "localFile": "media/small__small_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+          "localFile": "media/medium__medium_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg",
+          "localFile": "media/thumbnail__thumbnail_TSOYMPRI_TZENNY_IOANNA_2b363ed336_4c3346c784.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
+      "entryId": 1023,
+      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)/TIDAL FLOW ART",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_2ee20b1d2e.jpg",
+      "localFile": "media/_project1_2ee20b1d2e.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_2ee20b1d2e.jpg",
+          "localFile": "media/large__large_project1_2ee20b1d2e.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_2ee20b1d2e.jpg",
+          "localFile": "media/small__small_project1_2ee20b1d2e.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_2ee20b1d2e.jpg",
+          "localFile": "media/medium__medium_project1_2ee20b1d2e.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_2ee20b1d2e.jpg",
+          "localFile": "media/thumbnail__thumbnail_project1_2ee20b1d2e.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
+      "entryId": 1023,
+      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)/TIDAL FLOW ART",
+      "field": "Project2Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
+      "localFile": "media/_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
+          "localFile": "media/small__small_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
+          "localFile": "media/medium__medium_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg",
+          "localFile": "media/thumbnail__thumbnail_Part_I_2019_Part_Ii_2022_inline_0_6880932907.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "tjk9xl9opktjmcnmeu9ephtx",
+      "entryId": 1023,
+      "entryLabel": "Τσούμπρη Τζέννυ (Ιωάννα)/TIDAL FLOW ART",
+      "field": "Project2Pictures[1]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
+      "localFile": "media/_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
+          "localFile": "media/small__small_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
+          "localFile": "media/medium__medium_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg",
+          "localFile": "media/thumbnail__thumbnail_Part_I_2019_Part_Ii_2022_inline_1_af0b2cf891.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
       "entryDocumentId": "i2yak2xe81vq2yezhknc8y3v",
       "entryId": 929,
       "entryLabel": "Νίκος Μπαρπάκης",
@@ -1879,50 +2081,6 @@
     },
     {
       "collection": "members",
-      "entryDocumentId": "oo6zggf3xf2c20umgu042kqn",
-      "entryId": 965,
-      "entryLabel": "Αργυρώ Μπαράτα",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
-      "localFile": "media/_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
-          "localFile": "media/large__large_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
-          "localFile": "media/small__small_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
-          "localFile": "media/medium__medium_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
-          "localFile": "media/thumbnail__thumbnail_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "oo6zggf3xf2c20umgu042kqn",
-      "entryId": 965,
-      "entryLabel": "Αργυρώ Μπαράτα",
-      "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_d8132f63d5.png",
-      "localFile": "media/_project1_d8132f63d5.png",
-      "mime": "image/png",
-      "formats": {
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_d8132f63d5.png",
-          "localFile": "media/thumbnail__thumbnail_project1_d8132f63d5.png"
-        }
-      }
-    },
-    {
-      "collection": "members",
       "entryDocumentId": "ogs2ifdvk9mtfe4f6munjo62",
       "entryId": 931,
       "entryLabel": "Κωνσταντίνα Γεωργίου",
@@ -2030,62 +2188,6 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_IRIS_PEROYLIOY_SERGAKI_2321297d87_c4122c91de.jpg",
           "localFile": "media/thumbnail__thumbnail_IRIS_PEROYLIOY_SERGAKI_2321297d87_c4122c91de.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "pwmsxlm404txvib14k0o9c63",
-      "entryId": 933,
-      "entryLabel": "Στέλα Αναστασάκη",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
-      "localFile": "media/_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
-          "localFile": "media/large__large_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
-          "localFile": "media/small__small_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
-          "localFile": "media/medium__medium_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg",
-          "localFile": "media/thumbnail__thumbnail_STELA_ANASTASAKI_21165c86b5_db8795acdf.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "pwmsxlm404txvib14k0o9c63",
-      "entryId": 933,
-      "entryLabel": "Στέλα Αναστασάκη",
-      "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_02da6cbf77.jpg",
-      "localFile": "media/_project1_02da6cbf77.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_02da6cbf77.jpg",
-          "localFile": "media/large__large_project1_02da6cbf77.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_02da6cbf77.jpg",
-          "localFile": "media/small__small_project1_02da6cbf77.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_02da6cbf77.jpg",
-          "localFile": "media/medium__medium_project1_02da6cbf77.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_02da6cbf77.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_02da6cbf77.jpg"
         }
       }
     },
@@ -2242,54 +2344,6 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_55a330272b.jpg",
           "localFile": "media/thumbnail__thumbnail_project1_55a330272b.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "ipieoume9krg6cb8jixt9jre",
-      "entryId": 936,
-      "entryLabel": "Κωνσταντίνα Αγγελέτου",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
-      "localFile": "media/_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
-          "localFile": "media/large__large_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
-          "localFile": "media/small__small_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
-          "localFile": "media/medium__medium_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
-          "localFile": "media/thumbnail__thumbnail_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "ipieoume9krg6cb8jixt9jre",
-      "entryId": 936,
-      "entryLabel": "Κωνσταντίνα Αγγελέτου",
-      "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_5de70a64e4.jpg",
-      "localFile": "media/_project1_5de70a64e4.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_5de70a64e4.jpg",
-          "localFile": "media/small__small_project1_5de70a64e4.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_5de70a64e4.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_5de70a64e4.jpg"
         }
       }
     },
@@ -2723,62 +2777,6 @@
     },
     {
       "collection": "members",
-      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
-      "entryId": 822,
-      "entryLabel": "Γιώτα Πεκλάρη",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
-      "localFile": "media/_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
-          "localFile": "media/large__large_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
-          "localFile": "media/small__small_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
-          "localFile": "media/medium__medium_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
-          "localFile": "media/thumbnail__thumbnail_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
-      "entryId": 822,
-      "entryLabel": "Γιώτα Πεκλάρη",
-      "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_eaf333a25b.jpg",
-      "localFile": "media/_project1_eaf333a25b.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_eaf333a25b.jpg",
-          "localFile": "media/large__large_project1_eaf333a25b.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_eaf333a25b.jpg",
-          "localFile": "media/small__small_project1_eaf333a25b.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_eaf333a25b.jpg",
-          "localFile": "media/medium__medium_project1_eaf333a25b.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_eaf333a25b.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_eaf333a25b.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
       "entryDocumentId": "yc1thnv236c4zebhqq7pr4u0",
       "entryId": 941,
       "entryLabel": "Άννα Βεκιάρη",
@@ -2939,57 +2937,69 @@
     },
     {
       "collection": "members",
-      "entryDocumentId": "hw8v6m747ayq9s6t8359n54j",
-      "entryId": 975,
-      "entryLabel": "Φωτεινή Παπαχατζή",
+      "entryDocumentId": "oo6zggf3xf2c20umgu042kqn",
+      "entryId": 1033,
+      "entryLabel": "Αργυρώ Μπαράτα",
       "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
-      "localFile": "media/_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
+      "localFile": "media/_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
       "mime": "image/jpeg",
       "formats": {
         "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
-          "localFile": "media/large__large_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
+          "localFile": "media/large__large_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
         },
         "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
-          "localFile": "media/small__small_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
+          "localFile": "media/small__small_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
         },
         "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
-          "localFile": "media/medium__medium_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
+          "localFile": "media/medium__medium_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
         },
         "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
-          "localFile": "media/thumbnail__thumbnail_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg",
+          "localFile": "media/thumbnail__thumbnail_ARGYRO_MPARATA_4a5a5bb225_ed9baa82f3.jpg"
         }
       }
     },
     {
       "collection": "members",
-      "entryDocumentId": "hw8v6m747ayq9s6t8359n54j",
-      "entryId": 975,
-      "entryLabel": "Φωτεινή Παπαχατζή",
+      "entryDocumentId": "oo6zggf3xf2c20umgu042kqn",
+      "entryId": 1033,
+      "entryLabel": "Αργυρώ Μπαράτα",
       "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_c7a6e74571.jpg",
-      "localFile": "media/_project1_c7a6e74571.jpg",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_d8132f63d5.png",
+      "localFile": "media/_project1_d8132f63d5.png",
+      "mime": "image/png",
+      "formats": {
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_d8132f63d5.png",
+          "localFile": "media/thumbnail__thumbnail_project1_d8132f63d5.png"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "oo6zggf3xf2c20umgu042kqn",
+      "entryId": 1033,
+      "entryLabel": "Αργυρώ Μπαράτα",
+      "field": "Project2Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg",
+      "localFile": "media/_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg",
       "mime": "image/jpeg",
       "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_c7a6e74571.jpg",
-          "localFile": "media/large__large_project1_c7a6e74571.jpg"
-        },
         "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_c7a6e74571.jpg",
-          "localFile": "media/small__small_project1_c7a6e74571.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg",
+          "localFile": "media/small__small_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg"
         },
         "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_c7a6e74571.jpg",
-          "localFile": "media/medium__medium_project1_c7a6e74571.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg",
+          "localFile": "media/medium__medium_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg"
         },
         "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_c7a6e74571.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_c7a6e74571.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg",
+          "localFile": "media/thumbnail__thumbnail_504501024_24156398974018197_6556835045017888410_n_793bd2413b.jpg"
         }
       }
     },
@@ -3098,54 +3108,6 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_12be89419d.jpg",
           "localFile": "media/thumbnail__thumbnail_project1_12be89419d.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
-      "entryId": 976,
-      "entryLabel": "Ευαγγελία Πελεντρίδου",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
-      "localFile": "media/_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
-      "mime": "image/png",
-      "formats": {
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
-          "localFile": "media/small__small_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
-          "localFile": "media/thumbnail__thumbnail_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
-      "entryId": 976,
-      "entryLabel": "Ευαγγελία Πελεντρίδου",
-      "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_2e4786d91a.jpg",
-      "localFile": "media/_project1_2e4786d91a.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_2e4786d91a.jpg",
-          "localFile": "media/large__large_project1_2e4786d91a.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_2e4786d91a.jpg",
-          "localFile": "media/small__small_project1_2e4786d91a.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_2e4786d91a.jpg",
-          "localFile": "media/medium__medium_project1_2e4786d91a.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_2e4786d91a.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_2e4786d91a.jpg"
         }
       }
     },
@@ -4015,62 +3977,6 @@
     },
     {
       "collection": "members",
-      "entryDocumentId": "tsega0b58japrl328kmim4um",
-      "entryId": 992,
-      "entryLabel": "Ντίνα Ντζιώρα",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
-      "localFile": "media/_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
-      "mime": "image/png",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
-          "localFile": "media/large__large_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
-          "localFile": "media/small__small_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
-          "localFile": "media/medium__medium_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
-          "localFile": "media/thumbnail__thumbnail_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
-        }
-      }
-    },
-    {
-      "collection": "members",
-      "entryDocumentId": "tsega0b58japrl328kmim4um",
-      "entryId": 992,
-      "entryLabel": "Ντίνα Ντζιώρα",
-      "field": "Project1Pictures[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_8edbfb265a.jpg",
-      "localFile": "media/_project1_8edbfb265a.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_8edbfb265a.jpg",
-          "localFile": "media/large__large_project1_8edbfb265a.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_8edbfb265a.jpg",
-          "localFile": "media/small__small_project1_8edbfb265a.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_8edbfb265a.jpg",
-          "localFile": "media/medium__medium_project1_8edbfb265a.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_8edbfb265a.jpg",
-          "localFile": "media/thumbnail__thumbnail_project1_8edbfb265a.jpg"
-        }
-      }
-    },
-    {
-      "collection": "members",
       "entryDocumentId": "x3v0bckogw31c9xbgaucnx1p",
       "entryId": 993,
       "entryLabel": "Σοφία Ξενέλλη",
@@ -4279,6 +4185,54 @@
     },
     {
       "collection": "members",
+      "entryDocumentId": "ipieoume9krg6cb8jixt9jre",
+      "entryId": 1054,
+      "entryLabel": "Κωνσταντίνα Αγγελέτου",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
+      "localFile": "media/_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
+          "localFile": "media/large__large_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
+          "localFile": "media/small__small_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
+          "localFile": "media/medium__medium_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg",
+          "localFile": "media/thumbnail__thumbnail_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "ipieoume9krg6cb8jixt9jre",
+      "entryId": 1054,
+      "entryLabel": "Κωνσταντίνα Αγγελέτου",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_5de70a64e4.jpg",
+      "localFile": "media/_project1_5de70a64e4.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_5de70a64e4.jpg",
+          "localFile": "media/small__small_project1_5de70a64e4.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_5de70a64e4.jpg",
+          "localFile": "media/thumbnail__thumbnail_project1_5de70a64e4.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
       "entryDocumentId": "h2nu3pa8pf15uk83mmz1l3nr",
       "entryId": 1009,
       "entryLabel": "Χρύσα Πεταλά",
@@ -4323,28 +4277,8 @@
     },
     {
       "collection": "members",
-      "entryDocumentId": "im5pa4ld0orwdsoi45t8y06i",
-      "entryId": 1010,
-      "entryLabel": "Χριστίνα Βουμβουράκη",
-      "field": "Image[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Screenshot_20260310_165628_Viber_2_86ec36e810.png",
-      "localFile": "media/_Screenshot_20260310_165628_Viber_2_86ec36e810.png",
-      "mime": "image/png",
-      "formats": {
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Screenshot_20260310_165628_Viber_2_86ec36e810.png",
-          "localFile": "media/small__small_Screenshot_20260310_165628_Viber_2_86ec36e810.png"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Screenshot_20260310_165628_Viber_2_86ec36e810.png",
-          "localFile": "media/thumbnail__thumbnail_Screenshot_20260310_165628_Viber_2_86ec36e810.png"
-        }
-      }
-    },
-    {
-      "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Image[0]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Giorgos_Styl_e10abf05c1_a7e05e3e42.png",
@@ -4372,7 +4306,7 @@
     {
       "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Project1Pictures[0]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/20241130_yorgos_6_457a189ea3_9fb115ab18.jpg",
@@ -4400,7 +4334,7 @@
     {
       "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Project1Pictures[1]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/20241130_yorgos_43_568d31f4c7_9f74821012.jpg",
@@ -4428,7 +4362,7 @@
     {
       "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Project1Pictures[2]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/20241130_yorgos_26_0db036178b_65594cbf76.jpg",
@@ -4456,7 +4390,7 @@
     {
       "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Project2Pictures[0]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f.png",
@@ -4484,7 +4418,7 @@
     {
       "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Project2Pictures[1]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/AWARD_ceremony_6e3d13a455.png",
@@ -4504,7 +4438,7 @@
     {
       "collection": "members",
       "entryDocumentId": "mqswl7jw67pb1ald7gmmwzic",
-      "entryId": 1013,
+      "entryId": 1072,
       "entryLabel": "Γιώργος Στυλ",
       "field": "Project2Pictures[2]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Award_from_Instagram_post_596239890d.png",
@@ -4526,6 +4460,446 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Award_from_Instagram_post_596239890d.png",
           "localFile": "media/thumbnail__thumbnail_Award_from_Instagram_post_596239890d.png"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
+      "entryId": 1071,
+      "entryLabel": "Γιώτα Πεκλάρη",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
+      "localFile": "media/_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
+          "localFile": "media/large__large_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
+          "localFile": "media/small__small_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
+          "localFile": "media/medium__medium_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg",
+          "localFile": "media/thumbnail__thumbnail_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
+      "entryId": 1071,
+      "entryLabel": "Γιώτα Πεκλάρη",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Yiota_Peklari_600f2c6631.jpg",
+      "localFile": "media/_Yiota_Peklari_600f2c6631.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Yiota_Peklari_600f2c6631.jpg",
+          "localFile": "media/large__large_Yiota_Peklari_600f2c6631.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Yiota_Peklari_600f2c6631.jpg",
+          "localFile": "media/small__small_Yiota_Peklari_600f2c6631.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Yiota_Peklari_600f2c6631.jpg",
+          "localFile": "media/medium__medium_Yiota_Peklari_600f2c6631.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Yiota_Peklari_600f2c6631.jpg",
+          "localFile": "media/thumbnail__thumbnail_Yiota_Peklari_600f2c6631.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
+      "entryId": 1071,
+      "entryLabel": "Γιώτα Πεκλάρη",
+      "field": "Project1Pictures[1]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/unknown_19a13252b1.jpg",
+      "localFile": "media/_unknown_19a13252b1.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_unknown_19a13252b1.jpg",
+          "localFile": "media/large__large_unknown_19a13252b1.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_unknown_19a13252b1.jpg",
+          "localFile": "media/small__small_unknown_19a13252b1.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_unknown_19a13252b1.jpg",
+          "localFile": "media/medium__medium_unknown_19a13252b1.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_unknown_19a13252b1.jpg",
+          "localFile": "media/thumbnail__thumbnail_unknown_19a13252b1.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
+      "entryId": 1071,
+      "entryLabel": "Γιώτα Πεκλάρη",
+      "field": "Project2Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/IMG_20250410_WA_0003_d0dbae7a26.jpg",
+      "localFile": "media/_IMG_20250410_WA_0003_d0dbae7a26.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_IMG_20250410_WA_0003_d0dbae7a26.jpg",
+          "localFile": "media/large__large_IMG_20250410_WA_0003_d0dbae7a26.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_IMG_20250410_WA_0003_d0dbae7a26.jpg",
+          "localFile": "media/small__small_IMG_20250410_WA_0003_d0dbae7a26.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_IMG_20250410_WA_0003_d0dbae7a26.jpg",
+          "localFile": "media/medium__medium_IMG_20250410_WA_0003_d0dbae7a26.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_IMG_20250410_WA_0003_d0dbae7a26.jpg",
+          "localFile": "media/thumbnail__thumbnail_IMG_20250410_WA_0003_d0dbae7a26.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "vhcvho3aca6yvathhrtr4jav",
+      "entryId": 1071,
+      "entryLabel": "Γιώτα Πεκλάρη",
+      "field": "Project2Pictures[1]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/20250214_112344_eaf6347934.jpg",
+      "localFile": "media/_20250214_112344_eaf6347934.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_20250214_112344_eaf6347934.jpg",
+          "localFile": "media/large__large_20250214_112344_eaf6347934.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_20250214_112344_eaf6347934.jpg",
+          "localFile": "media/small__small_20250214_112344_eaf6347934.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_20250214_112344_eaf6347934.jpg",
+          "localFile": "media/medium__medium_20250214_112344_eaf6347934.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_20250214_112344_eaf6347934.jpg",
+          "localFile": "media/thumbnail__thumbnail_20250214_112344_eaf6347934.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "tsega0b58japrl328kmim4um",
+      "entryId": 1075,
+      "entryLabel": "Ντίνα Ντζιώρα",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
+      "localFile": "media/_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
+      "mime": "image/png",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
+          "localFile": "media/large__large_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
+          "localFile": "media/small__small_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
+          "localFile": "media/medium__medium_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png",
+          "localFile": "media/thumbnail__thumbnail_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "tsega0b58japrl328kmim4um",
+      "entryId": 1075,
+      "entryLabel": "Ντίνα Ντζιώρα",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_8edbfb265a.jpg",
+      "localFile": "media/_project1_8edbfb265a.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_8edbfb265a.jpg",
+          "localFile": "media/large__large_project1_8edbfb265a.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_8edbfb265a.jpg",
+          "localFile": "media/small__small_project1_8edbfb265a.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_8edbfb265a.jpg",
+          "localFile": "media/medium__medium_project1_8edbfb265a.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_8edbfb265a.jpg",
+          "localFile": "media/thumbnail__thumbnail_project1_8edbfb265a.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "hw8v6m747ayq9s6t8359n54j",
+      "entryId": 1076,
+      "entryLabel": "Φωτεινή Παπαχατζή",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+      "localFile": "media/_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+          "localFile": "media/large__large_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+          "localFile": "media/small__small_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+          "localFile": "media/medium__medium_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg",
+          "localFile": "media/thumbnail__thumbnail_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "hw8v6m747ayq9s6t8359n54j",
+      "entryId": 1076,
+      "entryLabel": "Φωτεινή Παπαχατζή",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_c7a6e74571.jpg",
+      "localFile": "media/_project1_c7a6e74571.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_c7a6e74571.jpg",
+          "localFile": "media/large__large_project1_c7a6e74571.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_c7a6e74571.jpg",
+          "localFile": "media/small__small_project1_c7a6e74571.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_c7a6e74571.jpg",
+          "localFile": "media/medium__medium_project1_c7a6e74571.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_c7a6e74571.jpg",
+          "localFile": "media/thumbnail__thumbnail_project1_c7a6e74571.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Image[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
+      "localFile": "media/_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
+      "mime": "image/png",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
+          "localFile": "media/small__small_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png",
+          "localFile": "media/thumbnail__thumbnail_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Project1Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/IMG_8730_scaled_1c456c373d.jpg",
+      "localFile": "media/_IMG_8730_scaled_1c456c373d.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_IMG_8730_scaled_1c456c373d.jpg",
+          "localFile": "media/large__large_IMG_8730_scaled_1c456c373d.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_IMG_8730_scaled_1c456c373d.jpg",
+          "localFile": "media/small__small_IMG_8730_scaled_1c456c373d.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_IMG_8730_scaled_1c456c373d.jpg",
+          "localFile": "media/medium__medium_IMG_8730_scaled_1c456c373d.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_IMG_8730_scaled_1c456c373d.jpg",
+          "localFile": "media/thumbnail__thumbnail_IMG_8730_scaled_1c456c373d.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Project1Pictures[1]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/DSCF_1757_1_scaled_f4eaa09bd2.jpg",
+      "localFile": "media/_DSCF_1757_1_scaled_f4eaa09bd2.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_DSCF_1757_1_scaled_f4eaa09bd2.jpg",
+          "localFile": "media/large__large_DSCF_1757_1_scaled_f4eaa09bd2.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_DSCF_1757_1_scaled_f4eaa09bd2.jpg",
+          "localFile": "media/small__small_DSCF_1757_1_scaled_f4eaa09bd2.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_DSCF_1757_1_scaled_f4eaa09bd2.jpg",
+          "localFile": "media/medium__medium_DSCF_1757_1_scaled_f4eaa09bd2.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_DSCF_1757_1_scaled_f4eaa09bd2.jpg",
+          "localFile": "media/thumbnail__thumbnail_DSCF_1757_1_scaled_f4eaa09bd2.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Project1Pictures[2]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/project1_2e4786d91a.jpg",
+      "localFile": "media/_project1_2e4786d91a.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_project1_2e4786d91a.jpg",
+          "localFile": "media/large__large_project1_2e4786d91a.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_project1_2e4786d91a.jpg",
+          "localFile": "media/small__small_project1_2e4786d91a.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_project1_2e4786d91a.jpg",
+          "localFile": "media/medium__medium_project1_2e4786d91a.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_project1_2e4786d91a.jpg",
+          "localFile": "media/thumbnail__thumbnail_project1_2e4786d91a.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Project2Pictures[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/20230527_Peripatos1_10_2048x1363_49542321c7.jpg",
+      "localFile": "media/_20230527_Peripatos1_10_2048x1363_49542321c7.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_20230527_Peripatos1_10_2048x1363_49542321c7.jpg",
+          "localFile": "media/large__large_20230527_Peripatos1_10_2048x1363_49542321c7.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_20230527_Peripatos1_10_2048x1363_49542321c7.jpg",
+          "localFile": "media/small__small_20230527_Peripatos1_10_2048x1363_49542321c7.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_20230527_Peripatos1_10_2048x1363_49542321c7.jpg",
+          "localFile": "media/medium__medium_20230527_Peripatos1_10_2048x1363_49542321c7.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_20230527_Peripatos1_10_2048x1363_49542321c7.jpg",
+          "localFile": "media/thumbnail__thumbnail_20230527_Peripatos1_10_2048x1363_49542321c7.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Project2Pictures[1]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/IMG_1456_2048x1406_972b9a6ac6.jpg",
+      "localFile": "media/_IMG_1456_2048x1406_972b9a6ac6.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_IMG_1456_2048x1406_972b9a6ac6.jpg",
+          "localFile": "media/large__large_IMG_1456_2048x1406_972b9a6ac6.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_IMG_1456_2048x1406_972b9a6ac6.jpg",
+          "localFile": "media/small__small_IMG_1456_2048x1406_972b9a6ac6.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_IMG_1456_2048x1406_972b9a6ac6.jpg",
+          "localFile": "media/medium__medium_IMG_1456_2048x1406_972b9a6ac6.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_IMG_1456_2048x1406_972b9a6ac6.jpg",
+          "localFile": "media/thumbnail__thumbnail_IMG_1456_2048x1406_972b9a6ac6.jpg"
+        }
+      }
+    },
+    {
+      "collection": "members",
+      "entryDocumentId": "d54msw6cfsldvum4c1oq7ogm",
+      "entryId": 1078,
+      "entryLabel": "Ευαγγελία Πελεντρίδου",
+      "field": "Project2Pictures[2]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/20230527_Peripatos2_37_2048x1363_95897ea03e.jpg",
+      "localFile": "media/_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg",
+          "localFile": "media/large__large_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg",
+          "localFile": "media/small__small_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg",
+          "localFile": "media/medium__medium_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg",
+          "localFile": "media/thumbnail__thumbnail_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg"
         }
       }
     },
@@ -4559,8 +4933,60 @@
     },
     {
       "collection": "activities",
+      "entryDocumentId": "h6o3kkcn1wpkxa5t8f1c6ptj",
+      "entryId": 489,
+      "entryLabel": "Το Culture for Change στηρίζει την ενίσχυση της ευρωπαϊκής χρηματοδότησης για τον πολιτισμό",
+      "field": "Visuals[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+      "localFile": "media/_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+          "localFile": "media/large__large_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+          "localFile": "media/small__small_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+          "localFile": "media/medium__medium_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+          "localFile": "media/thumbnail__thumbnail_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg"
+        }
+      }
+    },
+    {
+      "collection": "activities",
+      "entryDocumentId": "dzl4cm3hgf459avcan7lolod",
+      "entryId": 424,
+      "entryLabel": "Νεο Προγραμμα Του Δικτυου Culture For Change Με Χρηματοδοτηση Plato",
+      "field": "Visuals[0]",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
+      "localFile": "media/_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
+          "localFile": "media/small__small_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
+          "localFile": "media/medium__medium_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
+          "localFile": "media/thumbnail__thumbnail_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg"
+        }
+      }
+    },
+    {
+      "collection": "activities",
       "entryDocumentId": "f2atvgs3oo41uyko8hjingpi",
-      "entryId": 422,
+      "entryId": 488,
       "entryLabel": "Εναρκτήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών",
       "field": "Visuals[0]",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
@@ -4587,25 +5013,29 @@
     },
     {
       "collection": "activities",
-      "entryDocumentId": "dzl4cm3hgf459avcan7lolod",
-      "entryId": 424,
-      "entryLabel": "Νεο Προγραμμα Του Δικτυου Culture For Change Με Χρηματοδοτηση Plato",
+      "entryDocumentId": "sscszliq8zbtou4uonp55ig1",
+      "entryId": 491,
+      "entryLabel": "6η Ετήσια Γενική Συνέλευση του Δικτύου Culture for Change",
       "field": "Visuals[0]",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
-      "localFile": "media/_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/IMG_4642_2_572fa4cfb1.jpg",
+      "localFile": "media/_IMG_4642_2_572fa4cfb1.jpg",
       "mime": "image/jpeg",
       "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_IMG_4642_2_572fa4cfb1.jpg",
+          "localFile": "media/large__large_IMG_4642_2_572fa4cfb1.jpg"
+        },
         "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
-          "localFile": "media/small__small_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_IMG_4642_2_572fa4cfb1.jpg",
+          "localFile": "media/small__small_IMG_4642_2_572fa4cfb1.jpg"
         },
         "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
-          "localFile": "media/medium__medium_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_IMG_4642_2_572fa4cfb1.jpg",
+          "localFile": "media/medium__medium_IMG_4642_2_572fa4cfb1.jpg"
         },
         "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg",
-          "localFile": "media/thumbnail__thumbnail_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg"
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_IMG_4642_2_572fa4cfb1.jpg",
+          "localFile": "media/thumbnail__thumbnail_IMG_4642_2_572fa4cfb1.jpg"
         }
       }
     },
@@ -9146,6 +9576,98 @@
     },
     {
       "collection": "open-calls",
+      "entryDocumentId": "bhwc838uux98gbj2y8mq5tei",
+      "entryId": 266,
+      "entryLabel": "Θεσστιβαλάκι 2026: Φεστιβάλ Παιδικών Θεατρικών Ομάδων",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_3_a6583afa45.jpeg",
+      "localFile": "media/_images_3_a6583afa45.jpeg",
+      "mime": "image/jpeg",
+      "formats": {
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_3_a6583afa45.jpeg",
+          "localFile": "media/thumbnail__thumbnail_images_3_a6583afa45.jpeg"
+        }
+      }
+    },
+    {
+      "collection": "open-calls",
+      "entryDocumentId": "y8daj16q838qn709n57xjfnm",
+      "entryId": 268,
+      "entryLabel": "Creative Innovation Lab 2026",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Untitled_design_16_6c18ff60c8.png",
+      "localFile": "media/_Untitled_design_16_6c18ff60c8.png",
+      "mime": "image/png",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Untitled_design_16_6c18ff60c8.png",
+          "localFile": "media/large__large_Untitled_design_16_6c18ff60c8.png"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Untitled_design_16_6c18ff60c8.png",
+          "localFile": "media/small__small_Untitled_design_16_6c18ff60c8.png"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Untitled_design_16_6c18ff60c8.png",
+          "localFile": "media/medium__medium_Untitled_design_16_6c18ff60c8.png"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Untitled_design_16_6c18ff60c8.png",
+          "localFile": "media/thumbnail__thumbnail_Untitled_design_16_6c18ff60c8.png"
+        }
+      }
+    },
+    {
+      "collection": "open-calls",
+      "entryDocumentId": "xyuvxbplty1x60o6huvl961q",
+      "entryId": 270,
+      "entryLabel": "Creativity Pioneers Fund",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/arxeio_lipsis_9_7db9bd3c46.jpeg",
+      "localFile": "media/_arxeio_lipsis_9_7db9bd3c46.jpeg",
+      "mime": "image/jpeg",
+      "formats": {
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_arxeio_lipsis_9_7db9bd3c46.jpeg",
+          "localFile": "media/thumbnail__thumbnail_arxeio_lipsis_9_7db9bd3c46.jpeg"
+        }
+      }
+    },
+    {
+      "collection": "open-calls",
+      "entryDocumentId": "smj43o02pw9iutq94e6irwoo",
+      "entryId": 272,
+      "entryLabel": "BAN Reconnection Grant ",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+      "localFile": "media/_images_19_99c1e15545.png",
+      "mime": "image/png",
+      "formats": {
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+          "localFile": "media/thumbnail__thumbnail_images_19_99c1e15545.png"
+        }
+      }
+    },
+    {
+      "collection": "open-calls",
+      "entryDocumentId": "suzcu8i22b77a2m92k606boe",
+      "entryId": 274,
+      "entryLabel": "Spaces of Culture 2026",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_4_8d2f7f8fbb.jpeg",
+      "localFile": "media/_images_4_8d2f7f8fbb.jpeg",
+      "mime": "image/jpeg",
+      "formats": {
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_4_8d2f7f8fbb.jpeg",
+          "localFile": "media/thumbnail__thumbnail_images_4_8d2f7f8fbb.jpeg"
+        }
+      }
+    },
+    {
+      "collection": "open-calls",
       "entryDocumentId": "gxcarbe6gxeojzzwrpe5sl95",
       "entryId": 191,
       "entryLabel": "2025 Creative Europe",
@@ -9169,6 +9691,22 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_2025_Creative_Europe_1765318346870_9f8afa5320_ce7d98a007.jpg",
           "localFile": "media/thumbnail__thumbnail_2025_Creative_Europe_1765318346870_9f8afa5320_ce7d98a007.jpg"
+        }
+      }
+    },
+    {
+      "collection": "open-calls",
+      "entryDocumentId": "oxgojvrugnz75glim160xggu",
+      "entryId": 276,
+      "entryLabel": "BAN Learning Exchange Grants",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+      "localFile": "media/_images_19_99c1e15545.png",
+      "mime": "image/png",
+      "formats": {
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+          "localFile": "media/thumbnail__thumbnail_images_19_99c1e15545.png"
         }
       }
     },
@@ -10265,34 +10803,6 @@
     },
     {
       "collection": "projects",
-      "entryDocumentId": "ggbpl8ypqv41qcynfb0zgthu",
-      "entryId": 63,
-      "entryLabel": "Reset! Forum 2026",
-      "field": "cover_image",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
-      "localFile": "media/_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
-          "localFile": "media/large__large_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
-          "localFile": "media/small__small_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
-          "localFile": "media/medium__medium_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
-          "localFile": "media/thumbnail__thumbnail_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
-        }
-      }
-    },
-    {
-      "collection": "projects",
       "entryDocumentId": "z0431g11y7qwg3efllu60oue",
       "entryId": 64,
       "entryLabel": "Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία Των Πολιτών ",
@@ -10376,6 +10886,34 @@
       }
     },
     {
+      "collection": "projects",
+      "entryDocumentId": "ggbpl8ypqv41qcynfb0zgthu",
+      "entryId": 65,
+      "entryLabel": "Reset! Forum 2026",
+      "field": "cover_image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
+      "localFile": "media/_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
+          "localFile": "media/large__large_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
+          "localFile": "media/small__small_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
+          "localFile": "media/medium__medium_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg",
+          "localFile": "media/thumbnail__thumbnail_S_Ima_Cover_Website_1920_x_1080_px_8_99daa3f2a4.jpg"
+        }
+      }
+    },
+    {
       "collection": "working-groups",
       "entryDocumentId": "ozqj2x17qcqe93mjc8h0i8ew",
       "entryId": 4,
@@ -10433,34 +10971,6 @@
     },
     {
       "collection": "working-groups",
-      "entryDocumentId": "egzn6cslpe6fy5cr0kq1rdvw",
-      "entryId": 8,
-      "entryLabel": "egzn6cslpe6fy5cr0kq1rdvw",
-      "field": "Image",
-      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/pexels_diohasbi_3280130_214d338275.jpg",
-      "localFile": "media/_pexels_diohasbi_3280130_214d338275.jpg",
-      "mime": "image/jpeg",
-      "formats": {
-        "large": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_pexels_diohasbi_3280130_214d338275.jpg",
-          "localFile": "media/large__large_pexels_diohasbi_3280130_214d338275.jpg"
-        },
-        "small": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_pexels_diohasbi_3280130_214d338275.jpg",
-          "localFile": "media/small__small_pexels_diohasbi_3280130_214d338275.jpg"
-        },
-        "medium": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_pexels_diohasbi_3280130_214d338275.jpg",
-          "localFile": "media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg"
-        },
-        "thumbnail": {
-          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_pexels_diohasbi_3280130_214d338275.jpg",
-          "localFile": "media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg"
-        }
-      }
-    },
-    {
-      "collection": "working-groups",
       "entryDocumentId": "o42dzbjuev4zgy1oflnzfph3",
       "entryId": 10,
       "entryLabel": "o42dzbjuev4zgy1oflnzfph3",
@@ -10512,6 +11022,34 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Digital_and_AI_cdff0133e6.jpg",
           "localFile": "media/thumbnail__thumbnail_Digital_and_AI_cdff0133e6.jpg"
+        }
+      }
+    },
+    {
+      "collection": "working-groups",
+      "entryDocumentId": "egzn6cslpe6fy5cr0kq1rdvw",
+      "entryId": 14,
+      "entryLabel": "egzn6cslpe6fy5cr0kq1rdvw",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/pexels_diohasbi_3280130_214d338275.jpg",
+      "localFile": "media/_pexels_diohasbi_3280130_214d338275.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_pexels_diohasbi_3280130_214d338275.jpg",
+          "localFile": "media/large__large_pexels_diohasbi_3280130_214d338275.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_pexels_diohasbi_3280130_214d338275.jpg",
+          "localFile": "media/small__small_pexels_diohasbi_3280130_214d338275.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_pexels_diohasbi_3280130_214d338275.jpg",
+          "localFile": "media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_pexels_diohasbi_3280130_214d338275.jpg",
+          "localFile": "media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg"
         }
       }
     },
@@ -10574,7 +11112,7 @@
     {
       "collection": "coordination-teams",
       "entryDocumentId": "amgaozk2emza0tfrkh89o4gv",
-      "entryId": 14,
+      "entryId": 15,
       "entryLabel": "amgaozk2emza0tfrkh89o4gv",
       "field": "Image",
       "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Omada_Syntonismoy2_e9aeb0b872.png",
@@ -10780,6 +11318,34 @@
         "thumbnail": {
           "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_222_857370c2f7.png",
           "localFile": "media/thumbnail__thumbnail_222_857370c2f7.png"
+        }
+      }
+    },
+    {
+      "collection": "newsletters",
+      "entryDocumentId": "yv6mdqjksv1ccz5lnkdh1jnj",
+      "entryId": 19,
+      "entryLabel": "Newsletter Απριλίου 26",
+      "field": "Image",
+      "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Reset_D2_b_1_eb8a6c6347.jpg",
+      "localFile": "media/_Reset_D2_b_1_eb8a6c6347.jpg",
+      "mime": "image/jpeg",
+      "formats": {
+        "large": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Reset_D2_b_1_eb8a6c6347.jpg",
+          "localFile": "media/large__large_Reset_D2_b_1_eb8a6c6347.jpg"
+        },
+        "small": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Reset_D2_b_1_eb8a6c6347.jpg",
+          "localFile": "media/small__small_Reset_D2_b_1_eb8a6c6347.jpg"
+        },
+        "medium": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Reset_D2_b_1_eb8a6c6347.jpg",
+          "localFile": "media/medium__medium_Reset_D2_b_1_eb8a6c6347.jpg"
+        },
+        "thumbnail": {
+          "originalUrl": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Reset_D2_b_1_eb8a6c6347.jpg",
+          "localFile": "media/thumbnail__thumbnail_Reset_D2_b_1_eb8a6c6347.jpg"
         }
       }
     }

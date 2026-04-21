@@ -579,7 +579,425 @@
       "supporters_banner_dark": null
     },
     {
-      "id": 63,
+      "id": 64,
+      "documentId": "z0431g11y7qwg3efllu60oue",
+      "title": "Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία Των Πολιτών ",
+      "slug": "sima",
+      "full_description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το ",
+              "type": "text"
+            },
+            {
+              "rel": "",
+              "url": "https://www.cultureforchange.net",
+              "type": "link",
+              "target": "",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Σ.Η.μα",
+                  "type": "text"
+                },
+                {
+                  "text": ",",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": " που ξεκίνησε τον Φεβρουάριο του 2026, αποτελεί μια πρωτοβουλία του Δικτύου Culture for Change, με στόχο",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": " να ενισχυθεί ο ρόλος της Κοινωνίας των Πολιτών (ΚτΠ) στη διαμόρφωση ηθικών και θεσμικών πλαισίων για την Τεχνητή Νοημοσύνη (ΤΝ).",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η ΤΝ μετασχηματίζει ήδη τον κοινωνικοπολιτιστικό τομέα. Επηρεάζει τη δημιουργική εργασία και τα επαγγελματικά δικαιώματα, εγείρει κρίσιμα ζητήματα πνευματικής ιδιοκτησίας και δίκαιης αμοιβής, επηρεάζει την πολιτιστική πολυμορφία και τη συμπερίληψη, και διαμορφώνει νέους όρους συμμετοχής στον δημόσιο χώρο. Παράλληλα, ανακύπτουν ερωτήματα για τη διαφάνεια των αλγορίθμων, την ηθική χρήση των συστημάτων ΤΝ, την αθέμιτη χρήση προστατευμένου περιεχομένου για την εκπαίδευση μοντέλων και τις επιπτώσεις στην απασχόληση.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Παρά τη βαρύτητα αυτών των εξελίξεων, ο δημόσιος διάλογος σε εθνικό επίπεδο παραμένει περιορισμένος και η συμμετοχή των Οργανώσεων της Κοινωνίας των Πολιτών (ΟΚοιΠ) στη διαμόρφωση σχετικών πολιτικών είναι συχνά αποσπασματική. Το Σ.Η.μα. δημιουργήθηκε ακριβώς για να καλύψει αυτό το κενό, υιοθετώντας μια ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "συμμετοχική, bottom-up προσέγγιση.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Κατά τους 14 μήνες της υλοποίησής του, το έργο χαρτογραφεί το επίπεδο ετοιμότητας στις Περιφέρειες της χώρας, και αποτυπώνει συστηματικά τις ανάγκες, τις προτεραιότητες και τις ανησυχίες των ΟΚοιΠ που δραστηριοποιούνται στον κοινωνικοπολιτιστικό τομέα. ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "Οργανώνει δομημένες συζητήσεις και φέρνει κοντά εκπροσώπους των ΟΚοιΠ, πολιτιστικών φορέων και θεσμικών παραγόντων, δημιουργώντας έναν ασφαλή και χώρο ισότιμης ανταλλαγής εμπειριών και τεχνογνωσίας",
+              "type": "text"
+            },
+            {
+              "text": ".",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Στόχος του έργου είναι η ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "διαμόρφωση ενός τεκμηριωμένου σχεδίου δράσης ",
+              "type": "text"
+            },
+            {
+              "text": "που θα ενισχύει τη συμπερίληψη της ΚτΠ στη χάραξη κατευθύνσεων και πολιτικών για την ΤΝ. Με αυτόν τον τρόπο, το Σ.Η.μα επιδιώκει να μετατρέψει την ΚτΠ από παθητικό αποδέκτη τεχνολογικών εξελίξεων σε ενεργό συνδιαμορφωτή των κανόνων που τις διέπουν.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το έργο αναπτύσσει επίσης ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "συνεργασίες και διασυνδέσεις με ευρωπαϊκά δίκτυα πολιτιστικής πολιτικής",
+              "type": "text"
+            },
+            {
+              "text": ", ενισχύοντας τη σύνδεση της συζήτησης σε εθνικό επίπεδο με τις ευρωπαϊκές εξελίξεις γύρω από την ΤΝ, τα πολιτιστικά δικαιώματα και τη δημοκρατική διακυβέρνηση.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η ηθική της Τεχνητής Νοημοσύνης προϋποθέτει την ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "εμπλοκή των κοινωνικών εταίρων και των ίδιων των πολιτών",
+              "type": "text"
+            },
+            {
+              "text": ". Το Σ.Η.μα αποτελεί τον χώρο όπου αυτή η φωνή μπορεί να ακουστεί και να συνδιαμορφώσει το μέλλον.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Δηλώστε συμμετοχή στην",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": " Εναρκτήρια εκδήλωση του προγράμματος ",
+              "type": "text"
+            },
+            {
+              "url": "https://www.cultureforchange.net/news/S.i.ma%20kick%20off?from=current",
+              "type": "link",
+              "children": [
+                {
+                  "text": "εδώ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ". ",
+              "type": "text"
+            },
+            {
+              "rel": "",
+              "url": "https://www.cultureforchange.net/news/S.i.ma%20kick%20off?from=current",
+              "type": "link",
+              "target": "",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το έργο Σ.Η.μα υλοποιείται στο πλαίσιο του προγράμματος PLATO, με φορέα υλοποίησης το Culture for Change. Το πρόγραμμα “Protecting democracy, human rights and the rule of law through an open civic space” (PLATO) στοχεύει στην ενίσχυση της προστασίας των θεμελιωδών δικαιωμάτων και αξιών της Ε.Ε. και της ευαισθητοποίησης για αυτά μέσω της στήριξης Οργανώσεων της Κοινωνίας των Πολιτών (ΟΚοιΠ) στην Ελλάδα και την Κύπρο που δραστηριοποιούνται σε αυτούς τους τομείς, καθώς και μέσω της ενίσχυσης των γνώσεων, των ικανοτήτων και της βιωσιμότητάς τους. Το PLATO συγχρηματοδοτείται από την Ευρωπαϊκή Ένωση μέσω του προγράμματος Citizens, Equality, Rights and Values (CERV), το Ίδρυμα Μποδοσάκη και το Κέντρο Στήριξης ΜΚΟ με συνολικό ποσό επιχορήγησης €3,1 εκ. Συντονιστής του PLATO είναι το Ίδρυμα Μποδοσάκη (Ελλάδα), σε σύμπραξη με το Κέντρο Στήριξης ΜΚΟ (Κύπρος).",
+              "type": "text",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "project_link": null,
+      "start_date": "2026-02-01",
+      "end_date": "2027-03-31",
+      "category": "Σ.Η.μα, SI.m.a, CultureForChange, CforC, Bodossaki, AI, Μποδοσάκη, PLATO ",
+      "sort_order": 0,
+      "featured": true,
+      "createdAt": "2026-02-13T15:52:26.495Z",
+      "updatedAt": "2026-03-09T07:08:42.508Z",
+      "publishedAt": "2026-03-09T07:08:42.632Z",
+      "project_status": "in_progress",
+      "CforC_project_role": "Φορέας υλοποίησης",
+      "project_partners": null,
+      "cover_image": {
+        "id": 355,
+        "documentId": "q5k8qvhzvvs0z7gb1wr93cis",
+        "name": "SIma Cover Website (1920 x 1080 px) (9).jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
+            "hash": "large_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
+            "mime": "image/jpeg",
+            "name": "large_SIma Cover Website (1920 x 1080 px) (9).jpg",
+            "path": null,
+            "size": 119.5,
+            "width": 1000,
+            "height": 563,
+            "sizeInBytes": 119499
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
+            "hash": "small_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
+            "mime": "image/jpeg",
+            "name": "small_SIma Cover Website (1920 x 1080 px) (9).jpg",
+            "path": null,
+            "size": 35.69,
+            "width": 500,
+            "height": 281,
+            "sizeInBytes": 35690
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
+            "hash": "medium_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
+            "mime": "image/jpeg",
+            "name": "medium_SIma Cover Website (1920 x 1080 px) (9).jpg",
+            "path": null,
+            "size": 72.72,
+            "width": 750,
+            "height": 422,
+            "sizeInBytes": 72720
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
+            "hash": "thumbnail_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
+            "mime": "image/jpeg",
+            "name": "thumbnail_SIma Cover Website (1920 x 1080 px) (9).jpg",
+            "path": null,
+            "size": 10.46,
+            "width": 245,
+            "height": 138,
+            "sizeInBytes": 10462
+          }
+        },
+        "hash": "S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 359.26,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-05T14:08:28.951Z",
+        "updatedAt": "2026-03-05T14:08:28.951Z",
+        "publishedAt": "2026-03-05T14:08:28.951Z"
+      },
+      "project_images": null,
+      "partners": [],
+      "external_links": [],
+      "project_entries": [],
+      "supporters_banner_light": {
+        "id": 336,
+        "documentId": "owd7cn2aptvkmgygbkpoglnu",
+        "name": "150dpi Horizontal Consortium logos GR.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1181,
+        "height": 413,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "large_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 30.81,
+            "width": 1000,
+            "height": 350,
+            "sizeInBytes": 30807
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "small_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 11.2,
+            "width": 500,
+            "height": 175,
+            "sizeInBytes": 11199
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "medium_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 20.53,
+            "width": 750,
+            "height": 262,
+            "sizeInBytes": 20525
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "thumbnail_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 3.86,
+            "width": 245,
+            "height": 86,
+            "sizeInBytes": 3864
+          }
+        },
+        "hash": "150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 39.01,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-02-19T14:09:13.946Z",
+        "updatedAt": "2026-02-19T14:09:13.946Z",
+        "publishedAt": "2026-02-19T14:09:13.946Z"
+      },
+      "supporters_banner_dark": {
+        "id": 336,
+        "documentId": "owd7cn2aptvkmgygbkpoglnu",
+        "name": "150dpi Horizontal Consortium logos GR.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1181,
+        "height": 413,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "large_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 30.81,
+            "width": 1000,
+            "height": 350,
+            "sizeInBytes": 30807
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "small_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 11.2,
+            "width": 500,
+            "height": 175,
+            "sizeInBytes": 11199
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "medium_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 20.53,
+            "width": 750,
+            "height": 262,
+            "sizeInBytes": 20525
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+            "hash": "thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+            "mime": "image/jpeg",
+            "name": "thumbnail_150dpi Horizontal Consortium logos GR.jpg",
+            "path": null,
+            "size": 3.86,
+            "width": 245,
+            "height": 86,
+            "sizeInBytes": 3864
+          }
+        },
+        "hash": "150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 39.01,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-02-19T14:09:13.946Z",
+        "updatedAt": "2026-02-19T14:09:13.946Z",
+        "publishedAt": "2026-02-19T14:09:13.946Z"
+      }
+    },
+    {
+      "id": 65,
       "documentId": "ggbpl8ypqv41qcynfb0zgthu",
       "title": "Reset! Forum 2026",
       "slug": "ResetForum2026",
@@ -1287,7 +1705,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Αναλύοντας τις σύγχρονες προκλήσεις και τις αναδυόμενες πρακτικές, η ομιλία προσκαλεί σε έναν ουσιαστικό προβληματισμό για το πώς μπορούμε να μετριάσουμε τις αρνητικές επιπτώσεις του ψηφιακού μετασχηματισμού και να επαναπροσδιορίσουμε την έννοια της ανεξαρτησίας στο σημερινό μιντιακό και πολιτιστικό τοπίο.",
+              "text": "Αναλύοντας τις σύγχρονες προκλήσεις και τις αναδυόμενες πρακτικές, η ομιλία προσκαλεί σε έναν ουσιαστικό προβληματισμό για το πώς μπορούμε να μετριάσουμε τις αρνητικές επιπτώσεις του ψηφ��ακού μετασχηματισμού και να επαναπροσδιορίσουμε την έννοια της ανεξαρτησίας στο σημερινό μιντιακό και πολιτιστικό τοπίο.",
               "type": "text"
             }
           ]
@@ -1741,10 +2159,10 @@
       "sort_order": 0,
       "featured": true,
       "createdAt": "2026-03-02T08:51:26.519Z",
-      "updatedAt": "2026-03-09T07:06:54.377Z",
-      "publishedAt": "2026-03-09T07:06:56.876Z",
+      "updatedAt": "2026-03-19T09:38:17.520Z",
+      "publishedAt": "2026-03-19T09:38:17.680Z",
       "project_status": null,
-      "CforC_project_role": null,
+      "CforC_project_role": "Συντονισμός",
       "project_partners": null,
       "cover_image": {
         "id": 352,
@@ -1822,424 +2240,6 @@
       "project_entries": [],
       "supporters_banner_light": null,
       "supporters_banner_dark": null
-    },
-    {
-      "id": 64,
-      "documentId": "z0431g11y7qwg3efllu60oue",
-      "title": "Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία Των Πολιτών ",
-      "slug": "sima",
-      "full_description": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Το ",
-              "type": "text"
-            },
-            {
-              "rel": "",
-              "url": "https://www.cultureforchange.net",
-              "type": "link",
-              "target": "",
-              "children": [
-                {
-                  "bold": true,
-                  "text": "Σ.Η.μα",
-                  "type": "text"
-                },
-                {
-                  "text": ",",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "text": " που ξεκίνησε τον Φεβρουάριο του 2026, αποτελεί μια πρωτοβουλία του Δικτύου Culture for Change, με στόχο",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": " να ενισχυθεί ο ρόλος της Κοινωνίας των Πολιτών (ΚτΠ) στη διαμόρφωση ηθικών και θεσμικών πλαισίων για την Τεχνητή Νοημοσύνη (ΤΝ).",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Η ΤΝ μετασχηματίζει ήδη τον κοινωνικοπολιτιστικό τομέα. Επηρεάζει τη δημιουργική εργασία και τα επαγγελματικά δικαιώματα, εγείρει κρίσιμα ζητήματα πνευματικής ιδιοκτησίας και δίκαιης αμοιβής, επηρεάζει την πολιτιστική πολυμορφία και τη συμπερίληψη, και διαμορφώνει νέους όρους συμμετοχής στον δημόσιο χώρο. Παράλληλα, ανακύπτουν ερωτήματα για τη διαφάνεια των αλγορίθμων, την ηθική χρήση των συστημάτων ΤΝ, την αθέμιτη χρήση προστατευμένου περιεχομένου για την εκπαίδευση μοντέλων και τις επιπτώσεις στην απασχόληση.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Παρά τη βαρύτητα αυτών των εξελίξεων, ο δημόσιος διάλογος σε εθνικό επίπεδο παραμένει περιορισμένος και η συμμετοχή των Οργανώσεων της Κοινωνίας των Πολιτών (ΟΚοιΠ) στη διαμόρφωση σχετικών πολιτικών είναι συχνά αποσπασματική. Το Σ.Η.μα. δημιουργήθηκε ακριβώς για να καλύψει αυτό το κενό, υιοθετώντας μια ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "συμμετοχική, bottom-up προσέγγιση.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Κατά τους 14 μήνες της υλοποίησής του, το έργο χαρτογραφεί το επίπεδο ετοιμότητας στις Περιφέρειες της χώρας, και αποτυπώνει συστηματικά τις ανάγκες, τις προτεραιότητες και τις ανησυχίες των ΟΚοιΠ που δραστηριοποιούνται στον κοινωνικοπολιτιστικό τομέα. ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "Οργανώνει δομημένες συζητήσεις και φέρνει κοντά εκπροσώπους των ΟΚοιΠ, πολιτιστικών φορέων και θεσμικών παραγόντων, δημιουργώντας έναν ασφαλή και χώρο ισότιμης ανταλλαγής εμπειριών και τεχνογνωσίας",
-              "type": "text"
-            },
-            {
-              "text": ".",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Στόχος του έργου είναι η ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "διαμόρφωση ενός τεκμηριωμένου σχεδίου δράσης ",
-              "type": "text"
-            },
-            {
-              "text": "που θα ενισχύει τη συμπερίληψη της ΚτΠ στη χάραξη κατευθύνσεων και πολιτικών για την ΤΝ. Με αυτόν τον τρόπο, το Σ.Η.μα επιδιώκει να μετατρέψει την ΚτΠ από παθητικό αποδέκτη τεχνολογικών εξελίξεων σε ενεργό συνδιαμορφωτή των κανόνων που τις διέπουν.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Το έργο αναπτύσσει επίσης ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "συνεργασίες και διασυνδέσεις με ευρωπαϊκά δίκτυα πολιτιστικής πολιτικής",
-              "type": "text"
-            },
-            {
-              "text": ", ενισχύοντας τη σύνδεση της συζήτησης σε εθνικό επίπεδο με τις ευρωπαϊκές εξελίξεις γύρω από την ΤΝ, τα πολιτιστικά δικαιώματα και τη δημοκρατική διακυβέρνηση.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Η ηθική της Τεχνητής Νοημοσύνης προϋποθέτει την ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "εμπλοκή των κοινωνικών εταίρων και των ίδιων των πολιτών",
-              "type": "text"
-            },
-            {
-              "text": ". Το Σ.Η.μα αποτελεί τον χώρο όπου αυτή η φωνή μπορεί να ακουστεί και να συνδιαμορφώσει το μέλλον.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Δηλώστε συμμετοχή στην",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": " Εναρκτήρια εκδήλωση του προγράμματος ",
-              "type": "text"
-            },
-            {
-              "url": "https://www.cultureforchange.net/news/S.i.ma%20kick%20off?from=current",
-              "type": "link",
-              "children": [
-                {
-                  "text": "εδώ",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "text": ". ",
-              "type": "text"
-            },
-            {
-              "rel": "",
-              "url": "https://www.cultureforchange.net/news/S.i.ma%20kick%20off?from=current",
-              "type": "link",
-              "target": "",
-              "children": [
-                {
-                  "text": "",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "text": "",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Το έργο Σ.Η.μα υλοποιείται στο πλαίσιο του προγράμματος PLATO, με φορέα υλοποίησης το Culture for Change. Το πρόγραμμα “Protecting democracy, human rights and the rule of law through an open civic space” (PLATO) στοχεύει στην ενίσχυση της προστασίας των θεμελιωδών δικαιωμάτων και αξιών της Ε.Ε. και της ευαισθητοποίησης για αυτά μέσω της στήριξης Οργανώσεων της Κοινωνίας των Πολιτών (ΟΚοιΠ) στην Ελλάδα και την Κύπρο που δραστηριοποιούνται σε αυτούς τους τομείς, καθώς και μέσω της ενίσχυσης των γνώσεων, των ικανοτήτων και της βιωσιμότητάς τους. Το PLATO συγχρηματοδοτείται από την Ευρωπαϊκή Ένωση μέσω του προγράμματος Citizens, Equality, Rights and Values (CERV), το Ίδρυμα Μποδοσάκη και το Κέντρο Στήριξης ΜΚΟ με συνολικό ποσό επιχορήγησης €3,1 εκ. Συντονιστής του PLATO είναι το Ίδρυμα Μποδοσάκη (Ελλάδα), σε σύμπραξη με το Κέντρο Στήριξης ΜΚΟ (Κύπρος).",
-              "type": "text",
-              "italic": true
-            }
-          ]
-        }
-      ],
-      "project_link": null,
-      "start_date": "2026-02-01",
-      "end_date": "2027-03-31",
-      "category": "Σ.Η.μα, SI.m.a, CultureForChange, CforC, Bodossaki, AI, Μποδοσάκη, PLATO ",
-      "sort_order": 0,
-      "featured": true,
-      "createdAt": "2026-02-13T15:52:26.495Z",
-      "updatedAt": "2026-03-09T07:08:42.508Z",
-      "publishedAt": "2026-03-09T07:08:42.632Z",
-      "project_status": "in_progress",
-      "CforC_project_role": "Φορέας υλοποίησης",
-      "project_partners": null,
-      "cover_image": {
-        "id": 355,
-        "documentId": "q5k8qvhzvvs0z7gb1wr93cis",
-        "name": "SIma Cover Website (1920 x 1080 px) (9).jpg",
-        "alternativeText": null,
-        "caption": null,
-        "width": 1920,
-        "height": 1080,
-        "formats": {
-          "large": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
-            "hash": "large_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
-            "mime": "image/jpeg",
-            "name": "large_SIma Cover Website (1920 x 1080 px) (9).jpg",
-            "path": null,
-            "size": 119.5,
-            "width": 1000,
-            "height": 563,
-            "sizeInBytes": 119499
-          },
-          "small": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
-            "hash": "small_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
-            "mime": "image/jpeg",
-            "name": "small_SIma Cover Website (1920 x 1080 px) (9).jpg",
-            "path": null,
-            "size": 35.69,
-            "width": 500,
-            "height": 281,
-            "sizeInBytes": 35690
-          },
-          "medium": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
-            "hash": "medium_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
-            "mime": "image/jpeg",
-            "name": "medium_SIma Cover Website (1920 x 1080 px) (9).jpg",
-            "path": null,
-            "size": 72.72,
-            "width": 750,
-            "height": 422,
-            "sizeInBytes": 72720
-          },
-          "thumbnail": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
-            "hash": "thumbnail_S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
-            "mime": "image/jpeg",
-            "name": "thumbnail_SIma Cover Website (1920 x 1080 px) (9).jpg",
-            "path": null,
-            "size": 10.46,
-            "width": 245,
-            "height": 138,
-            "sizeInBytes": 10462
-          }
-        },
-        "hash": "S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "size": 359.26,
-        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Cover_Website_1920_x_1080_px_9_4e469f7ba3.jpg",
-        "previewUrl": null,
-        "provider": "strapi-provider-upload-strapi-cloud",
-        "provider_metadata": null,
-        "createdAt": "2026-03-05T14:08:28.951Z",
-        "updatedAt": "2026-03-05T14:08:28.951Z",
-        "publishedAt": "2026-03-05T14:08:28.951Z"
-      },
-      "project_images": null,
-      "partners": [],
-      "external_links": [],
-      "project_entries": [],
-      "supporters_banner_light": {
-        "id": 336,
-        "documentId": "owd7cn2aptvkmgygbkpoglnu",
-        "name": "150dpi Horizontal Consortium logos GR.jpg",
-        "alternativeText": null,
-        "caption": null,
-        "width": 1181,
-        "height": 413,
-        "formats": {
-          "large": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "large_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 30.81,
-            "width": 1000,
-            "height": 350,
-            "sizeInBytes": 30807
-          },
-          "small": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "small_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 11.2,
-            "width": 500,
-            "height": 175,
-            "sizeInBytes": 11199
-          },
-          "medium": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "medium_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 20.53,
-            "width": 750,
-            "height": 262,
-            "sizeInBytes": 20525
-          },
-          "thumbnail": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "thumbnail_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 3.86,
-            "width": 245,
-            "height": 86,
-            "sizeInBytes": 3864
-          }
-        },
-        "hash": "150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "size": 39.01,
-        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-        "previewUrl": null,
-        "provider": "strapi-provider-upload-strapi-cloud",
-        "provider_metadata": null,
-        "createdAt": "2026-02-19T14:09:13.946Z",
-        "updatedAt": "2026-02-19T14:09:13.946Z",
-        "publishedAt": "2026-02-19T14:09:13.946Z"
-      },
-      "supporters_banner_dark": {
-        "id": 336,
-        "documentId": "owd7cn2aptvkmgygbkpoglnu",
-        "name": "150dpi Horizontal Consortium logos GR.jpg",
-        "alternativeText": null,
-        "caption": null,
-        "width": 1181,
-        "height": 413,
-        "formats": {
-          "large": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "large_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "large_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 30.81,
-            "width": 1000,
-            "height": 350,
-            "sizeInBytes": 30807
-          },
-          "small": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "small_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "small_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 11.2,
-            "width": 500,
-            "height": 175,
-            "sizeInBytes": 11199
-          },
-          "medium": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "medium_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "medium_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 20.53,
-            "width": 750,
-            "height": 262,
-            "sizeInBytes": 20525
-          },
-          "thumbnail": {
-            "ext": ".jpg",
-            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-            "hash": "thumbnail_150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-            "mime": "image/jpeg",
-            "name": "thumbnail_150dpi Horizontal Consortium logos GR.jpg",
-            "path": null,
-            "size": 3.86,
-            "width": 245,
-            "height": 86,
-            "sizeInBytes": 3864
-          }
-        },
-        "hash": "150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3",
-        "ext": ".jpg",
-        "mime": "image/jpeg",
-        "size": 39.01,
-        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/150dpi_Horizontal_Consortium_logos_GR_dbee4cffe3.jpg",
-        "previewUrl": null,
-        "provider": "strapi-provider-upload-strapi-cloud",
-        "provider_metadata": null,
-        "createdAt": "2026-02-19T14:09:13.946Z",
-        "updatedAt": "2026-02-19T14:09:13.946Z",
-        "publishedAt": "2026-02-19T14:09:13.946Z"
-      }
     }
   ],
   "meta": {

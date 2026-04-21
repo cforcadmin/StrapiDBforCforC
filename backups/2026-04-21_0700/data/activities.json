@@ -1,42 +1,15 @@
 {
   "data": [
     {
-      "id": 422,
-      "documentId": "f2atvgs3oo41uyko8hjingpi",
-      "Title": "Εναρκτήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών",
+      "id": 489,
+      "documentId": "h6o3kkcn1wpkxa5t8f1c6ptj",
+      "Title": "Το Culture for Change στηρίζει την ενίσχυση της ευρωπαϊκής χρηματοδότησης για τον πολιτισμό",
       "Description": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Το ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "Σάββατο 21 Μαρτίου 2026",
-              "type": "text"
-            },
-            {
-              "text": " θα πραγματοποιηθεί η ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "εναρκτήρια εκδήλωση του έργου Σ.Η.μα",
-              "type": "text"
-            },
-            {
-              "text": ", στην ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "Τεχνόπολη Δήμου Αθηναίων. ",
-              "type": "text"
-            },
-            {
-              "text": "Θα περιλαμβάνει παρουσίαση του έργου, εισήγηση για τη δυναμική της ΚτΠ στην εποχή της ΤΝ και δράση ευαισθητοποίησης για την ανθεκτικότητα του πολιτιστικού τομέα στο νέο πλαίσιο που διαμορφώνεται.",
+              "text": "Το δίκτυο Culture for Change συνυπέγραψε επιστολή από κοινού με άλλους φορείς της Ευρώπης, με αίτημα την ενίσχυση της χρηματοδότησης του προγράμματος AgoraEU στο πλαίσιο των διαπραγματεύσεων για το επόμενο Πολυετές Δημοσιονομικό Πλαίσιο (ΠΔΠ) της Ευρωπαϊκής Ένωσης (2028-2034).",
               "type": "text"
             }
           ]
@@ -45,35 +18,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Η εκδήλωση θα φιλοξενηθεί από τις 11.30 μέχρι τις 13.00 στο κτήριο ",
-              "type": "text"
-            },
-            {
-              "url": "https://athens-technopolis.gr/index.php/el/innovathens-gr",
-              "type": "link",
-              "children": [
-                {
-                  "text": "INNOVATHENS",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "text": ", ενώ θα υπάρχει η δυνατότητα και εξ αποστάσεως συμμετοχής. Για την εγγραφή σας ακολουθήστε ",
-              "type": "text"
-            },
-            {
-              "url": "https://docs.google.com/forms/d/e/1FAIpQLScY7FeYwOK5GpUm_ZPRNZtc7BK6_XdfG3iGGY7-HeCftVPlUw/viewform?usp=dialog",
-              "type": "link",
-              "children": [
-                {
-                  "text": "αυτόν το σύνδεσμο",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "text": ". ",
+              "text": "Η πρωτοβουλία αυτή του Culture Action Europe συγκεντρώνει οργανισμούς από όλη την Ευρώπη που δραστηριοποιούνται στους τομείς του πολιτισμού, των δημιουργικών βιομηχανιών, της ανεξάρτητης δημοσιογραφίας και της κοινωνίας των πολιτών. Μέσα από την επιστολή υπογραμμίζεται η ανάγκη για ισχυρότερη και πιο σταθερή ευρωπαϊκή χρηματοδότηση, ώστε να ενισχυθούν οι πολιτιστικοί οργανισμοί, τα μέσα ενημέρωσης και οι φορείς της κοινωνίας των πολιτών σε μια περίοδο αυξανόμενων κοινωνικών, οικονομικών, τεχνολογικών και γεωπολιτικών προκλήσεων.",
               "type": "text"
             }
           ]
@@ -82,49 +27,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το έργο Σ.Η.μα υλοποιείται στο πλαίσιο του προγράμματος PLATO, με φορέα υλοποίησης το Culture for Change. Το PLATO συγχρηματοδοτείται από την Ευρωπαϊκή Ένωση, μέσω του προγράμματος Citizens, Equality, Rights and Values (CERV), το",
-              "type": "text",
-              "italic": true
-            },
-            {
-              "url": "https://www.bodossaki.gr/",
-              "type": "link",
-              "children": [
-                {
-                  "text": " Ίδρυμα Μποδοσάκη",
-                  "type": "text",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "text": " και το ",
-              "type": "text",
-              "italic": true
-            },
-            {
-              "url": "https://ngo-sc.org/",
-              "type": "link",
-              "children": [
-                {
-                  "text": "Κέντρο Στήριξης ΜΚΟ",
-                  "type": "text",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "text": " με συνολικό ποσό επιχορήγησης €3,1 εκ.",
-              "type": "text",
-              "italic": true
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "",
+              "text": "Όπως επισημαίνεται στην επιστολή, ο πολιτισμός, η ανεξάρτητη ενημέρωση και η ενεργή κοινωνία των πολιτών αποτελούν βασικούς πυλώνες της δημοκρατικής υποδομής της Ευρώπης. Η ενίσχυση του προγράμματος AgoraEU, το οποίο φιλοδοξεί να ενοποιήσει τα χρηματοδοτικά εργαλεία που στηρίζουν τον πολιτισμό, τα μέσα ενημέρωσης, τα θεμελιώδη δικαιώματα και τη δημοκρατική συμμετοχή, θεωρείται κρίσιμη για την ανθεκτικότητα και τη συνοχή των ευρωπαϊκών κοινωνιών.",
               "type": "text"
             }
           ]
@@ -133,14 +36,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "",
+              "text": "Παράλληλα, η πρωτοβουλία αναδεικνύει τις αυξανόμενες προκλήσεις που αντιμετωπίζουν τα πολιτιστικά και δημιουργικά οικοσυστήματα της Ευρώπης, σε μια περίοδο όπου οι ανάγκες χρηματοδότησης αυξάνονται, ενώ σημαντικές διεθνείς πηγές χρηματοδότησης περιορίζονται.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Με τη συμμετοχή του σε αυτή την κοινή πρωτοβουλία, το Culture for Change ενώνει τη φωνή του με ευρωπαϊκούς οργανισμούς που ζητούν από τα θεσμικά όργανα της Ευρωπαϊκής Ένωσης να διασφαλίσουν ότι το επόμενο χρηματοδοτικό πλαίσιο θα ανταποκρίνεται ουσιαστικά στις ανάγκες του πολιτιστικού, δημοσιογραφικού και κοινωνικού τομέα σε όλη την Ευρώπη.",
               "type": "text"
             },
             {
-              "rel": "",
-              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/humanitarium_work_Room_006f28a114.png",
+              "url": "https://cultureactioneurope.us4.list-manage.com/track/click?u=eb99eb61bb621ccdc0b91fb83&id=19b9cf0a3b&e=e54143d8ff",
               "type": "link",
-              "target": "",
               "children": [
                 {
                   "text": "",
@@ -153,126 +63,33 @@
               "type": "text"
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
         }
       ],
-      "Date": "2026-03-21",
-      "Category": "Εκδηλώσεις & Συναντήσεις",
+      "Date": "2026-03-16",
+      "Category": null,
       "Featured": false,
-      "createdAt": "2026-02-26T10:06:13.777Z",
-      "updatedAt": "2026-03-07T21:26:12.017Z",
-      "publishedAt": "2026-03-07T21:26:12.057Z",
-      "Slug": "S.i.ma kick off",
-      "ImageAltText": "S.I.ma Kick off",
+      "createdAt": "2026-03-17T09:46:01.610Z",
+      "updatedAt": "2026-03-23T07:25:30.846Z",
+      "publishedAt": "2026-03-23T07:25:30.912Z",
+      "Slug": "To Culture for Change stirizei tin enischysi tis evropaikis chrimatodotisis gia ton politismo",
+      "ImageAltText": "CAE",
       "EngTitle": null,
-      "EngDescription": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "On ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "Saturday, 21 March 2026,",
-              "type": "text"
-            },
-            {
-              "text": " the ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "kick-off event of the project S.I.ma",
-              "type": "text"
-            },
-            {
-              "text": " will take place at ",
-              "type": "text"
-            },
-            {
-              "bold": true,
-              "text": "Technopolis City of Athens. ",
-              "type": "text"
-            },
-            {
-              "text": "The event will include a presentation of the project, a keynote intervention on the role and potential of Civil Society in the era of Artificial Intelligence, and an awareness-raising activity on the resilience of the cultural sector within the emerging technological landscape.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The event will be held from 11:30 to 13:00 at the ",
-              "type": "text"
-            },
-            {
-              "url": "https://athens-technopolis.gr/index.php/el/innovathens-gr",
-              "type": "link",
-              "children": [
-                {
-                  "text": "INNOVATHENS ",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "text": "building, with the possibility of remote participation. To register, please follow this link.",
-              "type": "text"
-            }
-          ]
-        },
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The S.I.ma project is implemented under the PLATO programme by Culture for Change. PLATO is co-funded by the European Union through the Citizens, Equality, Rights and Values (CERV) programme, the",
-              "type": "text",
-              "italic": true
-            },
-            {
-              "url": "https://www.bodossaki.gr/",
-              "type": "link",
-              "children": [
-                {
-                  "text": " Bodossaki Foundation",
-                  "type": "text",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "text": ", and the ",
-              "type": "text",
-              "italic": true
-            },
-            {
-              "url": "https://ngo-sc.org/",
-              "type": "link",
-              "children": [
-                {
-                  "text": "NGO Support Centre",
-                  "type": "text",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "text": ", with a total grant amount of €3.1 million.",
-              "type": "text",
-              "italic": true
-            }
-          ]
-        }
-      ],
-      "Tags": "εκδήλωση, τεχνητή νοημοσύνη, plato, κοινωνία πολιτών, καινοτομία",
+      "EngDescription": null,
+      "Tags": null,
       "Visuals": [
         {
-          "id": 340,
-          "documentId": "k7q5cn3mf31auqeqv4025exu",
-          "name": "SIma Posts Kick off (1920 x 1080 px).jpg",
+          "id": 1040,
+          "documentId": "yrtx1xolfgzafvihebj75i8x",
+          "name": "Copy of Untitled (1920 x 1080 px).jpg",
           "alternativeText": null,
           "caption": null,
           "width": 1920,
@@ -280,64 +97,64 @@
           "formats": {
             "large": {
               "ext": ".jpg",
-              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
-              "hash": "large_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+              "hash": "large_Copy_of_Untitled_1920_x_1080_px_97ea6649bb",
               "mime": "image/jpeg",
-              "name": "large_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "name": "large_Copy of Untitled (1920 x 1080 px).jpg",
               "path": null,
-              "size": 50.09,
+              "size": 23.51,
               "width": 1000,
               "height": 563,
-              "sizeInBytes": 50087
+              "sizeInBytes": 23509
             },
             "small": {
               "ext": ".jpg",
-              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
-              "hash": "small_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+              "hash": "small_Copy_of_Untitled_1920_x_1080_px_97ea6649bb",
               "mime": "image/jpeg",
-              "name": "small_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "name": "small_Copy of Untitled (1920 x 1080 px).jpg",
               "path": null,
-              "size": 18.99,
+              "size": 9.7,
               "width": 500,
               "height": 281,
-              "sizeInBytes": 18994
+              "sizeInBytes": 9704
             },
             "medium": {
               "ext": ".jpg",
-              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
-              "hash": "medium_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+              "hash": "medium_Copy_of_Untitled_1920_x_1080_px_97ea6649bb",
               "mime": "image/jpeg",
-              "name": "medium_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "name": "medium_Copy of Untitled (1920 x 1080 px).jpg",
               "path": null,
-              "size": 35.14,
+              "size": 16.91,
               "width": 750,
               "height": 422,
-              "sizeInBytes": 35140
+              "sizeInBytes": 16914
             },
             "thumbnail": {
               "ext": ".jpg",
-              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
-              "hash": "thumbnail_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
+              "hash": "thumbnail_Copy_of_Untitled_1920_x_1080_px_97ea6649bb",
               "mime": "image/jpeg",
-              "name": "thumbnail_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "name": "thumbnail_Copy of Untitled (1920 x 1080 px).jpg",
               "path": null,
-              "size": 6.81,
+              "size": 4,
               "width": 245,
               "height": 138,
-              "sizeInBytes": 6806
+              "sizeInBytes": 3997
             }
           },
-          "hash": "S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+          "hash": "Copy_of_Untitled_1920_x_1080_px_97ea6649bb",
           "ext": ".jpg",
           "mime": "image/jpeg",
-          "size": 118.01,
-          "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
+          "size": 50.71,
+          "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Copy_of_Untitled_1920_x_1080_px_97ea6649bb.jpg",
           "previewUrl": null,
           "provider": "strapi-provider-upload-strapi-cloud",
           "provider_metadata": null,
-          "createdAt": "2026-02-26T10:05:45.095Z",
-          "updatedAt": "2026-02-26T10:05:45.095Z",
-          "publishedAt": "2026-02-26T10:05:45.096Z"
+          "createdAt": "2026-03-17T09:45:44.781Z",
+          "updatedAt": "2026-03-17T09:45:44.781Z",
+          "publishedAt": "2026-03-17T09:45:44.782Z"
         }
       ]
     },
@@ -562,6 +379,562 @@
           "createdAt": "2026-01-12T14:41:04.056Z",
           "updatedAt": "2026-01-12T14:41:04.056Z",
           "publishedAt": "2026-01-12T14:41:04.056Z"
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "documentId": "f2atvgs3oo41uyko8hjingpi",
+      "Title": "Εναρκτήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "Σάββατο 21 Μαρτίου 2026",
+              "type": "text"
+            },
+            {
+              "text": " θα πραγματοποιηθεί η ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "εναρκτήρια εκδ��λωση του έργου Σ.Η.μα",
+              "type": "text"
+            },
+            {
+              "text": ", στην ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "Τεχνόπολη Δήμου Αθηναίων. ",
+              "type": "text"
+            },
+            {
+              "text": "Θα περιλαμβάνει παρουσίαση του έργου, εισήγηση για τη δυναμική της ΚτΠ στην εποχή της ΤΝ και δράση ευαισθητοποίησης για την ανθεκτικότητα του πολιτιστικού τομέα στο νέο πλαίσιο που διαμορφώνεται.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η εκδήλωση θα φιλοξενηθεί από τις 11.30 μέχρι τις 13.00 στο κτήριο ",
+              "type": "text"
+            },
+            {
+              "url": "https://athens-technopolis.gr/index.php/el/innovathens-gr",
+              "type": "link",
+              "children": [
+                {
+                  "text": "INNOVATHENS",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ", ενώ θα υπάρχει η δυνατότητα και εξ αποστάσεως συμμετοχής. Για την εγγραφή σας ακολουθήστε ",
+              "type": "text"
+            },
+            {
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLScY7FeYwOK5GpUm_ZPRNZtc7BK6_XdfG3iGGY7-HeCftVPlUw/viewform?usp=dialog",
+              "type": "link",
+              "children": [
+                {
+                  "text": "αυτόν το σύνδεσμο",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": ". ",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Δείτε ",
+              "type": "text"
+            },
+            {
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/PROGRAMMA_09c3123bdc.pdf",
+              "type": "link",
+              "children": [
+                {
+                  "text": "εδώ ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "το αναλυτικό πρόγραμμα.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το έργο Σ.Η.μα υλοποιείται στο πλαίσιο του προγράμματος PLATO, με φορέα υλοποίησης το Culture for Change. Το PLATO συγχρηματοδοτείται από την Ευρωπαϊκή Ένωση, μέσω του προγράμματος Citizens, Equality, Rights and Values (CERV), το",
+              "type": "text",
+              "italic": true
+            },
+            {
+              "url": "https://www.bodossaki.gr/",
+              "type": "link",
+              "children": [
+                {
+                  "text": " Ίδρυμα Μποδοσάκη",
+                  "type": "text",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "text": " και το ",
+              "type": "text",
+              "italic": true
+            },
+            {
+              "url": "https://ngo-sc.org/",
+              "type": "link",
+              "children": [
+                {
+                  "text": "Κέντρο Στήριξης ΜΚΟ",
+                  "type": "text",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "text": " με συνολικό ποσό επιχορήγησης €3,1 εκ.",
+              "type": "text",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            },
+            {
+              "rel": "",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/humanitarium_work_Room_006f28a114.png",
+              "type": "link",
+              "target": "",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Date": "2026-03-21",
+      "Category": "Εκδηλώσεις & Συναντήσεις",
+      "Featured": false,
+      "createdAt": "2026-02-26T10:06:13.777Z",
+      "updatedAt": "2026-03-20T06:53:35.032Z",
+      "publishedAt": "2026-03-20T06:53:35.086Z",
+      "Slug": "S.i.ma kick off",
+      "ImageAltText": "S.I.ma Kick off",
+      "EngTitle": null,
+      "EngDescription": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "Saturday, 21 March 2026,",
+              "type": "text"
+            },
+            {
+              "text": " the ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "kick-off event of the project S.I.ma",
+              "type": "text"
+            },
+            {
+              "text": " will take place at ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "Technopolis City of Athens. ",
+              "type": "text"
+            },
+            {
+              "text": "The event will include a presentation of the project, a keynote intervention on the role and potential of Civil Society in the era of Artificial Intelligence, and an awareness-raising activity on the resilience of the cultural sector within the emerging technological landscape.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The event will be held from 11:30 to 13:00 at the ",
+              "type": "text"
+            },
+            {
+              "url": "https://athens-technopolis.gr/index.php/el/innovathens-gr",
+              "type": "link",
+              "children": [
+                {
+                  "text": "INNOVATHENS ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "building, with the possibility of remote participation. To register, please follow this link.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The S.I.ma project is implemented under the PLATO programme by Culture for Change. PLATO is co-funded by the European Union through the Citizens, Equality, Rights and Values (CERV) programme, the",
+              "type": "text",
+              "italic": true
+            },
+            {
+              "url": "https://www.bodossaki.gr/",
+              "type": "link",
+              "children": [
+                {
+                  "text": " Bodossaki Foundation",
+                  "type": "text",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "text": ", and the ",
+              "type": "text",
+              "italic": true
+            },
+            {
+              "url": "https://ngo-sc.org/",
+              "type": "link",
+              "children": [
+                {
+                  "text": "NGO Support Centre",
+                  "type": "text",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "text": ", with a total grant amount of €3.1 million.",
+              "type": "text",
+              "italic": true
+            }
+          ]
+        }
+      ],
+      "Tags": "εκδήλωση, τεχνητή νοημοσύνη, plato, κοινωνία πολιτών, καινοτομία",
+      "Visuals": [
+        {
+          "id": 340,
+          "documentId": "k7q5cn3mf31auqeqv4025exu",
+          "name": "SIma Posts Kick off (1920 x 1080 px).jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1920,
+          "height": 1080,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
+              "hash": "large_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "mime": "image/jpeg",
+              "name": "large_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "path": null,
+              "size": 50.09,
+              "width": 1000,
+              "height": 563,
+              "sizeInBytes": 50087
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
+              "hash": "small_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "mime": "image/jpeg",
+              "name": "small_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "path": null,
+              "size": 18.99,
+              "width": 500,
+              "height": 281,
+              "sizeInBytes": 18994
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
+              "hash": "medium_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "mime": "image/jpeg",
+              "name": "medium_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "path": null,
+              "size": 35.14,
+              "width": 750,
+              "height": 422,
+              "sizeInBytes": 35140
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
+              "hash": "thumbnail_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+              "mime": "image/jpeg",
+              "name": "thumbnail_SIma Posts Kick off (1920 x 1080 px).jpg",
+              "path": null,
+              "size": 6.81,
+              "width": 245,
+              "height": 138,
+              "sizeInBytes": 6806
+            }
+          },
+          "hash": "S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 118.01,
+          "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2026-02-26T10:05:45.095Z",
+          "updatedAt": "2026-02-26T10:05:45.095Z",
+          "publishedAt": "2026-02-26T10:05:45.096Z"
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "documentId": "sscszliq8zbtou4uonp55ig1",
+      "Title": "6η Ετήσια Γενική Συνέλευση του Δικτύου Culture for Change",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η 6η Γενική Συνέλευση του Δικτύου μας στέφθηκε με επιτυχία. Πραγματοποιήθηκε το Σάββατο 21 Μαρτίου στην Τεχνόπολη Δήμου Αθηναίων (",
+              "type": "text"
+            },
+            {
+              "url": "https://athens-technopolis.gr/index.php/el/innovathens-gr",
+              "type": "link",
+              "children": [
+                {
+                  "text": "INNOVATHENS",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "), με τη δυνατότητα ταυτόχρονης διαδικτυακής συμμετοχής.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Στη συνέλευση συμμετείχαν 40 μέλη, επιβεβαιώνοντας το έντονο ενδιαφέρον και τη δέσμευση της κοινότητάς μας για ενεργή συμμετοχή και συνδιαμόρφωση της πορείας του Δικτύου.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Κατά τη διάρκεια της ημέρας η Ομάδα Συντονισμού παρουσίασε αναλυτικά τον Απολογισμό Πεπραγμένων για το 2025, αναδεικνύοντας τα βασικά επιτεύγματα και τις δράσεις της χρονιάς, ενώ συζητήθηκε και εγκρίθηκε ο Επιχειρησιακός Σχεδιασμός και ο Προϋπολογισμός για το 2026, θέτοντας τις βάσεις για την περαιτέρω ανάπτυξη και ενδυνάμωση του Δικτύου, μέσα από συλλογικές διαδικασίες και κοινό όραμα.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Στο πρόγραμμα της ημέρας ξεχωριστή σημασία & έντονο ενδιαφέρον είχε η εναρκτήρια εκδήλωση του έργου Σ.Η.μα, αυτής της νέας, δυναμικής δράσης του Δικτύου. Περισσότερες πληροφορίες διαθέσιμες εδώ: ",
+              "type": "text"
+            },
+            {
+              "rel": "",
+              "url": "https://www.cultureforchange.net/projects/sima",
+              "type": "link",
+              "target": "",
+              "children": [
+                {
+                  "text": "https://www.cultureforchange.net/projects/sima",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Στο πλαίσιο της συνέλευσης, τέθηκαν προς συζήτηση και λήψη αποφάσεων κρίσιμα ζητήματα για τη λειτουργία και την εξέλιξη του Δικτύου, τη βελτίωση της επικοινωνίας, την ανάπτυξη συνεργειών με άλλους φορείς, όπως και θέματα που αφορούν την ενίσχυση της συμμετοχής των μελών, την προβολή του έργου τους και τη λειτουργία των ομάδων εργασίας. Παράλληλα, αναδείχθηκε η ανάγκη για πιο άμεση, ευέλικτη εσωτερική διάδραση, καθώς και για νέους τρόπους ενεργοποίησης της κοινότητας.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η συνέλευση αποτέλεσε μια ουσιαστική στιγμή ανταλλαγής απόψεων, λήψης αποφάσεων και ενίσχυσης της συνοχής της κοινότητάς μας.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Σας ευχαριστούμε θερμά όλους για τη συμμετοχή και τη συμβολή σας.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Date": "2026-03-21",
+      "Category": null,
+      "Featured": false,
+      "createdAt": "2026-03-26T20:29:58.625Z",
+      "updatedAt": "2026-03-26T20:29:58.625Z",
+      "publishedAt": "2026-03-26T20:29:58.923Z",
+      "Slug": null,
+      "ImageAltText": "diktyo",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Tags": null,
+      "Visuals": [
+        {
+          "id": 1054,
+          "documentId": "cntad7uvgdafjbykeynhk4yu",
+          "name": "IMG_4642 (2).jpg",
+          "alternativeText": null,
+          "caption": null,
+          "width": 4032,
+          "height": 3024,
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_IMG_4642_2_572fa4cfb1.jpg",
+              "hash": "large_IMG_4642_2_572fa4cfb1",
+              "mime": "image/jpeg",
+              "name": "large_IMG_4642 (2).jpg",
+              "path": null,
+              "size": 171.43,
+              "width": 1000,
+              "height": 750,
+              "sizeInBytes": 171427
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_IMG_4642_2_572fa4cfb1.jpg",
+              "hash": "small_IMG_4642_2_572fa4cfb1",
+              "mime": "image/jpeg",
+              "name": "small_IMG_4642 (2).jpg",
+              "path": null,
+              "size": 52.61,
+              "width": 500,
+              "height": 375,
+              "sizeInBytes": 52611
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_IMG_4642_2_572fa4cfb1.jpg",
+              "hash": "medium_IMG_4642_2_572fa4cfb1",
+              "mime": "image/jpeg",
+              "name": "medium_IMG_4642 (2).jpg",
+              "path": null,
+              "size": 103.32,
+              "width": 750,
+              "height": 563,
+              "sizeInBytes": 103316
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_IMG_4642_2_572fa4cfb1.jpg",
+              "hash": "thumbnail_IMG_4642_2_572fa4cfb1",
+              "mime": "image/jpeg",
+              "name": "thumbnail_IMG_4642 (2).jpg",
+              "path": null,
+              "size": 11.61,
+              "width": 208,
+              "height": 156,
+              "sizeInBytes": 11607
+            }
+          },
+          "hash": "IMG_4642_2_572fa4cfb1",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "size": 1389.19,
+          "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/IMG_4642_2_572fa4cfb1.jpg",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2026-03-26T20:29:52.529Z",
+          "updatedAt": "2026-03-26T20:29:52.529Z",
+          "publishedAt": "2026-03-26T20:29:52.529Z"
         }
       ]
     },
@@ -1065,7 +1438,7 @@
                   "type": "text"
                 },
                 {
-                  "text": "συλλογής, διαχείρισης, προστασίας δεδομένων σε εσωτερικές διαδικασίες και φόρμες σ��λλογής στοιχείων",
+                  "text": "συλλογής, διαχείρισης, προστασίας δεδομένων σε εσωτερικές διαδικασίες και φόρμες συλλογής στοιχείων",
                   "type": "text"
                 }
               ]
@@ -2303,7 +2676,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Στο πάνελ συζήτησης ήταν οι: Anita Debaere, Διευθύντρια του γραφείου του δικτύου Pearle*, η Κα. Μόνικα Τσιλιμπέρδη, Προϊσταμένη της Διεύθυνσης Ανάπτυξης Σύγχρονης δημιουργίας του ΥΠΠΟΑ και η Κα. Valeria Marcolin, Co-director NGO ",
+              "text": "Στο πάνελ συζήτησης ήταν οι: Anita Debaere, Διευθύντρ��α του γραφείου του δικτύου Pearle*, η Κα. Μόνικα Τσιλιμπέρδη, Προϊσταμένη της Διεύθυνσης Ανάπτυξης Σύγχρονης δημιουργίας του ΥΠΠΟΑ και η Κα. Valeria Marcolin, Co-director NGO ",
               "type": "text"
             },
             {
@@ -2959,7 +3332,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Culture for Change στο ELIA x CAN Webinar: Strengthening Arts in Global Education",
+              "text": "��ο Culture for Change στο ELIA x CAN Webinar: Strengthening Arts in Global Education",
               "type": "text"
             }
           ]
@@ -3571,7 +3944,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Πως η Τεχνητή Νοημοσύνη μπορεί να συνδράμει στη δημιουργία ενός καλύτερ��υ μέλλοντος;",
+              "text": "Πως η Τεχνητή Νοημοσύνη μπορεί να συνδράμει στη δημιουργία ενός καλύτερου μέλλοντος;",
               "type": "text"
             }
           ]
@@ -4093,7 +4466,7 @@
               "type": "text"
             },
             {
-              "text": ", φωτίζοντας ιστορίες, έργα και πρακτικές που αναδεικνύουν τον ρόλο της καινοτομίας στην πολιτιστική δημιουργία και συμμετοχή.",
+              "text": ", φ��τίζοντας ιστορίες, έργα και πρακτικές που αναδεικνύουν τον ρόλο της καινοτομίας στην πολιτιστική δημιουργία και συμμετοχή.",
               "type": "text"
             }
           ]
@@ -8363,7 +8736,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Σχετικά με τις επερχόμενες δράσεις που ανακοινώνονται  από το Bosch Alumni Network, όλα τα μέλη του Culture for Change μπορούν αυτόματα και χωρίς συνδρομή να εγγραφούν, να δικτυωθούν και να λαμβάνουν ενημερώσεις σχετικά με τον προγραμματισμό αν��ίστοιχων δράσεων στο link του ιστότοπου ",
+              "text": "Σχετικά με τις επερχόμενες δράσεις που ανακοινώνονται  από το Bosch Alumni Network, όλα τα μέλη του Culture for Change μπορούν αυτόματα και χωρίς συνδρομή να εγγραφούν, να δικτυωθούν και να λαμβάνουν ενημερώσεις σχετικά με τον προγραμματισμό αντίστοιχων δράσεων στο link του ιστότοπου ",
               "type": "text"
             },
             {
@@ -12328,7 +12701,7 @@
       "ImageAltText": "Ανασχηματισμος Της Ομαδας Συντονισμου Του Δικτυου Culture For Change ",
       "EngTitle": null,
       "EngDescription": null,
-      "Tags": "γενική συνέλευση, δικτύωση, κοινωνία πολιτών, πολιτισμός, διαφάνεια",
+      "Tags": "γενική συνέλευση, δικτύωση, κοινωνία πολιτών, πολιτισμός, δια��άνεια",
       "Visuals": [
         {
           "id": 75,
@@ -13406,7 +13779,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Δίκτυο “Culture for Change” (CforC) είναι ένας μη κερδοσκοπικός φορέας, που ιδρύθη��ε το 2020, με πρωτοβουλία αποφοίτων των προγραμμάτων Robert Bosch Stiftung στην Ελλάδα. Αποτελείται από σχεδόν 100 επαγγελματίες από διάφορους ακαδημαϊκούς και επαγγελματικούς χώρους, που συνδέονται μέσω κοινών αξιών και πρακτικών γύρω από την Κοινωνική και Πολιτιστική Καινοτομία.",
+              "text": "Το Δίκτυο “Culture for Change” (CforC) είναι ένας μη κερδοσκοπικός φορέας, που ιδρύθηκε το 2020, με πρωτοβουλία αποφοίτων των προγραμμάτων Robert Bosch Stiftung στην Ελλάδα. Αποτελείται από σχεδόν 100 επαγγελματίες από διάφορους ακαδημαϊκούς και επαγγελματικούς χώρους, που συνδέονται μέσω κοινών αξιών και πρακτικών γύρω από την Κοινωνική και Πολιτιστική Καινοτομία.",
               "type": "text"
             }
           ]
@@ -13907,7 +14280,7 @@
       "ImageAltText": "Ημερολογιο 2024 - Δ' Τριμηνο",
       "EngTitle": null,
       "EngDescription": null,
-      "Tags": "εκδήλωση, δικτύωση, πολιτισμός, εκ��αίδευση, κοινωνικός αντίκτυπος",
+      "Tags": "εκδήλωση, δικτύωση, πολιτισμός, εκπαίδευση, κοινωνικός αντίκτυπος",
       "Visuals": [
         {
           "id": 787,
@@ -14243,7 +14616,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Τρία μέλη του δικτύου Culture for Change παρευρέθηκαν στην ετήσια συνάντηση Global Cultural Districts Network (GCDN) – Αθήνα 2024, που πραγματοποιήθηκε στο Πολιτιστικό Κέντρο του Ιδρύματος Σταύρος Νιάρχος (ΙΣΝ) στις 22 Μαΐου. Οργανώθηκε μια ενδιαφέρουσα συζήτηση για εναλλακτικά μοντέλα διακυβέρνησης πολιτιστικών οργανώσεων και χώρων, με τη συμμετοχή των: Βίβιαν Δούμπα (Συνιδρύτρια, STIPO Greece), Ντίνα Ντζιώρα (Ιδρύτρια Διευθύντρια, We Are Community), Κωνσταντίνος Καραλιώτης (Μέλος του Νεανικού Συμβουλίου του ΙΣΝ), Νατάσα Δουρίδα (Ιδρύτρια, Communitism), Emily Harney (AEA Consulting), καθώς και μιας εξαιρετικής ομάδας καλλιτεχνών, πολιτιστικών ηγετών και ακτιβιστών. Στη συζήτηση αναδείχθηκε πώς οι κρίσεις στον τομέα της φροντίδας και η έλλειψη εμπιστοσύνης στα θεσμικά όργανα οδήγησαν σε καινοτόμους τρόπους διακυβέρνησης που σχεδιάστηκαν από την κοινότητα. Επίσης, συζητήθηκαν νέα μοντέλα διακυβέρνησης που εκδημοκρατούν τη λήψη αποφάσεων, εξασφαλίζοντας ότι οι πολιτιστικές περιοχές παραμένουν προσιτές για τους καλλιτέχνες και δημόσιοι χώροι για όλους.",
+              "text": "Τρία μέλη του δικτύου Culture for Change παρευρέθηκαν στην ετήσια συνάντηση Global Cultural Districts Network (GCDN) – Αθήνα 2024, που πραγματοποιήθηκε στο Πολιτιστικό Κέντρο του Ιδρύματος Σταύρος Νιάρχος (ΙΣΝ) στις 22 Μαΐου. Οργανώθηκε μια ενδιαφέρουσα συζήτηση για εναλλακτικά μοντέλα διακυβέρνησης πολιτιστικών οργανώσεων και χώρων, με τη συμμετοχή τ��ν: Βίβιαν Δούμπα (Συνιδρύτρια, STIPO Greece), Ντίνα Ντζιώρα (Ιδρύτρια Διευθύντρια, We Are Community), Κωνσταντίνος Καραλιώτης (Μέλος του Νεανικού Συμβουλίου του ΙΣΝ), Νατάσα Δουρίδα (Ιδρύτρια, Communitism), Emily Harney (AEA Consulting), καθώς και μιας εξαιρετικής ομάδας καλλιτεχνών, πολιτιστικών ηγετών και ακτιβιστών. Στη συζήτηση αναδείχθηκε πώς οι κρίσεις στον τομέα της φροντίδας και η έλλειψη εμπιστοσύνης στα θεσμικά όργανα οδήγησαν σε καινοτόμους τρόπους διακυβέρνησης που σχεδιάστηκαν από την κοινότητα. Επίσης, συζητήθηκαν νέα μοντέλα διακυβέρνησης που εκδημοκρατούν τη λήψη αποφάσεων, εξασφαλίζοντας ότι οι πολιτιστικές περιοχές παραμένουν προσιτές για τους καλλιτέχνες και δημόσιοι χώροι για όλους.",
               "type": "text"
             }
           ]
@@ -16699,7 +17072,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/activity_Cforc_2023_inline_1_8df4109cf3.jpg | Μεταβαση Προς Την Επαγ��ελματικη Αλληλεγγυη - Εργαστηρια & Εκδηλωσεις Του Δικτυου Cforc Στην 2023 Ελευσις | medium | center]",
+              "text": "[IMAGE: https://helpful-wealth-0a46a9eabb.media.strapiapp.com/activity_Cforc_2023_inline_1_8df4109cf3.jpg | Μεταβαση Προς Την Επαγγελματικη Αλληλεγγυη - Εργαστηρια & Εκδηλωσεις Του Δικτυου Cforc Στην 2023 Ελευσις | medium | center]",
               "type": "text"
             }
           ]
@@ -19031,7 +19404,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ο τεκμαρτός υπολογισμός του φόρου εισοδήματος, που εισάγεται με οριζόντιο χαρακτήρα, θα δημιουργήσει περισσότερες αδικίες, παρά θα λύσει προβλήματα των επαγγελματιών του κλάδου. Δεν είναι μόνο η επιπλέον οικονομική επιβάρυνση, σε συνδυασμό με παλαιότερα μέτρα που παραμένουν σε ισχύ έστω και μειωμένα, όπως το τέλος επιτηδεύματος και η προκαταβολή φόρου, αλλά και η έλλειψη φορολογικής δικαιοσύνης, καθώς η νέα φορολόγηση επιβάλλεται:",
+              "text": "Ο τεκμαρτός υπολογισμός του φόρου εισοδήματος, που εισάγεται με οριζόντιο χαρακτήρα, θα δημιουργήσει περισσότερες αδικίες, παρά θα λύσει προβλήματα των επαγγελματιών του κλάδου. Δεν είναι μόνο η επιπλέον οικονομική επιβάρυνση, σε συνδυασμό με παλαιότερα μέτρα που παρα��ένουν σε ισχύ έστω και μειωμένα, όπως το τέλος επιτηδεύματος και η προκαταβολή φόρου, αλλά και η έλλειψη φορολογικής δικαιοσύνης, καθώς η νέα φορολόγηση επιβάλλεται:",
               "type": "text"
             }
           ]
@@ -20526,7 +20899,7 @@
     "pagination": {
       "start": 0,
       "limit": 100,
-      "total": 63
+      "total": 65
     }
   }
 }
