@@ -1,18 +1,18 @@
 STRAPI BACKUP SUMMARY
 =====================
-Date: 2026-04-01T08:00:06.212Z
+Date: 2026-05-21T07:09:34.274Z
 Strapi: https://helpful-wealth-0a46a9eabb.strapiapp.com
 
 COLLECTIONS:
-  members: 93 entries
-  activities: 65 entries
-  open-calls: 79 entries
+  members: 100 entries
+  activities: 67 entries
+  open-calls: 95 entries
   projects: 3 entries
   working-groups: 5 entries
   coordination-teams: 3 entries
-  newsletters: 8 entries
+  newsletters: 10 entries
 
-MEDIA: 1897 files downloaded (0 failed)
+MEDIA: 1840 files downloaded (16 failed)
 
 MEDIA MAPPING (collection → entry → field → file):
 
@@ -41,7 +41,7 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_tsiliras_andreas_534801f334.jpg
     medium: media/medium__medium_tsiliras_andreas_534801f334.jpg
     thumbnail: media/thumbnail__thumbnail_tsiliras_andreas_534801f334.jpg
-  Πόλυ Νικολακο��ούλου
+  Πόλυ Νικολακοπούλου
     documentId: mho24j9b3puibn5muv6wt21q
     field: Image[0]
     file: media/_POLY_NIKOLAKOPOYLOY_8dc5151fd0_0426a08ef1.jpg
@@ -49,7 +49,7 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_POLY_NIKOLAKOPOYLOY_8dc5151fd0_0426a08ef1.jpg
     medium: media/medium__medium_POLY_NIKOLAKOPOYLOY_8dc5151fd0_0426a08ef1.jpg
     thumbnail: media/thumbnail__thumbnail_POLY_NIKOLAKOPOYLOY_8dc5151fd0_0426a08ef1.jpg
-  Πόλυ Νικολακο��ούλου
+  Πόλυ Νικολακοπούλου
     documentId: mho24j9b3puibn5muv6wt21q
     field: Project1Pictures[0]
     file: media/_project1_1a97052575.jpg
@@ -57,7 +57,7 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_1a97052575.jpg
     medium: media/medium__medium_project1_1a97052575.jpg
     thumbnail: media/thumbnail__thumbnail_project1_1a97052575.jpg
-  Γιολάντα Μαρκοπούλου
+  Γ��ολάντα Μαρκοπούλου
     documentId: togmfhdqg2qn9eobrqyybmto
     field: Image[0]
     file: media/_222_857370c2f7.png
@@ -88,6 +88,20 @@ MEDIA MAPPING (collection → entry → field → file):
     field: Image[0]
     file: media/_KONSTANTINOS_DIAMANTIS_c0c2a782a4_fd873be38d.jpg
     thumbnail: media/thumbnail__thumbnail_KONSTANTINOS_DIAMANTIS_c0c2a782a4_fd873be38d.jpg
+  Στεργιανή (Στέλλα) Τσιαρβούλα
+    documentId: lkyhsjonyoroap5y6c46eifx
+    field: Image[0]
+    file: media/_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
+    large: media/large__large_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
+    small: media/small__small_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
+    medium: media/medium__medium_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
+    thumbnail: media/thumbnail__thumbnail_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
+  Στεργιανή (Στέλλα) Τσιαρβούλα
+    documentId: lkyhsjonyoroap5y6c46eifx
+    field: Project1Pictures[0]
+    file: media/_project1_c6652aa88e.jpg
+    small: media/small__small_project1_c6652aa88e.jpg
+    thumbnail: media/thumbnail__thumbnail_project1_c6652aa88e.jpg
   Γιώργης Καλομοίρης
     documentId: r3ij73tz94hg3sdudyv03kig
     field: Image[0]
@@ -474,11 +488,6 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_a779033f28.jpg
     medium: media/medium__medium_project1_a779033f28.jpg
     thumbnail: media/thumbnail__thumbnail_project1_a779033f28.jpg
-  Σόνια Ντόβα 
-    documentId: jofy4hp8jvom0g8xv0rkb78q
-    field: Image[0]
-    file: media/_Sonia_Ntova_698033153b_0da81fe1bb.jpg
-    thumbnail: media/thumbnail__thumbnail_Sonia_Ntova_698033153b_0da81fe1bb.jpg
   Κατερίνα Λιαποπούλου
     documentId: dwku4h6h0f7kiwdjwxhynnj1
     field: Image[0]
@@ -627,6 +636,89 @@ MEDIA MAPPING (collection → entry → field → file):
     file: media/_MARIARINA_MPOYKIOY_9ec97c71eb_63bd3fe582.jpg
     small: media/small__small_MARIARINA_MPOYKIOY_9ec97c71eb_63bd3fe582.jpg
     thumbnail: media/thumbnail__thumbnail_MARIARINA_MPOYKIOY_9ec97c71eb_63bd3fe582.jpg
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Image[0]
+    file: media/_Yoryos_Styl_Portrait_c38574514b.png
+    large: media/large__large_Yoryos_Styl_Portrait_c38574514b.png
+    small: media/small__small_Yoryos_Styl_Portrait_c38574514b.png
+    medium: media/medium__medium_Yoryos_Styl_Portrait_c38574514b.png
+    thumbnail: media/thumbnail__thumbnail_Yoryos_Styl_Portrait_c38574514b.png
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Project1Pictures[0]
+    file: media/_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
+    large: media/large__large_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
+    small: media/small__small_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
+    medium: media/medium__medium_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
+    thumbnail: media/thumbnail__thumbnail_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Project1Pictures[1]
+    file: media/_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
+    large: media/large__large_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
+    small: media/small__small_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
+    medium: media/medium__medium_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
+    thumbnail: media/thumbnail__thumbnail_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Project1Pictures[2]
+    file: media/_20241130_yorgos_26_0db036178b_65594cbf76.jpg
+    large: media/large__large_20241130_yorgos_26_0db036178b_65594cbf76.jpg
+    small: media/small__small_20241130_yorgos_26_0db036178b_65594cbf76.jpg
+    medium: media/medium__medium_20241130_yorgos_26_0db036178b_65594cbf76.jpg
+    thumbnail: media/thumbnail__thumbnail_20241130_yorgos_26_0db036178b_65594cbf76.jpg
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Project2Pictures[0]
+    file: media/_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f_4e71390e41.png
+    large: media/large__large_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f_4e71390e41.png
+    small: media/small__small_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f_4e71390e41.png
+    medium: media/medium__medium_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f_4e71390e41.png
+    thumbnail: media/thumbnail__thumbnail_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f_4e71390e41.png
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Project2Pictures[1]
+    file: media/_AWARD_ceremony_6e3d13a455_3df049b747.png
+    small: media/small__small_AWARD_ceremony_6e3d13a455_3df049b747.png
+    thumbnail: media/thumbnail__thumbnail_AWARD_ceremony_6e3d13a455_3df049b747.png
+  Γιώργος Στυλ
+    documentId: mqswl7jw67pb1ald7gmmwzic
+    field: Project2Pictures[2]
+    file: media/_Award_from_Instagram_post_596239890d_163f21eba5.png
+    large: media/large__large_Award_from_Instagram_post_596239890d_163f21eba5.png
+    small: media/small__small_Award_from_Instagram_post_596239890d_163f21eba5.png
+    medium: media/medium__medium_Award_from_Instagram_post_596239890d_163f21eba5.png
+    thumbnail: media/thumbnail__thumbnail_Award_from_Instagram_post_596239890d_163f21eba5.png
+  Ν Β
+    documentId: br2i75ppqr829n7rm9691a8u
+    field: Image[0]
+    file: media/_unnamed_30_3f0145fe0c.jpg
+    large: media/large__large_unnamed_30_3f0145fe0c.jpg
+    small: media/small__small_unnamed_30_3f0145fe0c.jpg
+    medium: media/medium__medium_unnamed_30_3f0145fe0c.jpg
+    thumbnail: media/thumbnail__thumbnail_unnamed_30_3f0145fe0c.jpg
+  Κ Α
+    documentId: dar8som636nq32xbwhjmitrj
+    field: Image[0]
+    file: media/_humanitarium_work_Room_006f28a114.png
+    large: media/large__large_humanitarium_work_Room_006f28a114.png
+    small: media/small__small_humanitarium_work_Room_006f28a114.png
+    medium: media/medium__medium_humanitarium_work_Room_006f28a114.png
+    thumbnail: media/thumbnail__thumbnail_humanitarium_work_Room_006f28a114.png
+  Α Γ
+    documentId: s3hkcxxlm44xyssg9pj81qz6
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
+  Σόνια Ντόβα 
+    documentId: jofy4hp8jvom0g8xv0rkb78q
+    field: Image[0]
+    file: media/_Sonia_Ntova_698033153b_0da81fe1bb.jpg
+    thumbnail: media/thumbnail__thumbnail_Sonia_Ntova_698033153b_0da81fe1bb.jpg
   Ειρήνη Ράπτη
     documentId: vx7k9woidpiclqdc3mleqkht
     field: Image[0]
@@ -639,6 +731,19 @@ MEDIA MAPPING (collection → entry → field → file):
     file: media/_IRIS_PEROYLIOY_SERGAKI_2321297d87_c4122c91de.jpg
     small: media/small__small_IRIS_PEROYLIOY_SERGAKI_2321297d87_c4122c91de.jpg
     thumbnail: media/thumbnail__thumbnail_IRIS_PEROYLIOY_SERGAKI_2321297d87_c4122c91de.jpg
+  Λάουρα Ταπίνη
+    documentId: vbsu7imlb5g6zbx5zrmlwijl
+    field: Image[0]
+    file: media/_LAOYRA_TAPINI_821f083baf_732957aab9.jpg
+    thumbnail: media/thumbnail__thumbnail_LAOYRA_TAPINI_821f083baf_732957aab9.jpg
+  Λάουρα Ταπίνη
+    documentId: vbsu7imlb5g6zbx5zrmlwijl
+    field: Project1Pictures[0]
+    file: media/_project1_bd9eca7332.jpg
+    large: media/large__large_project1_bd9eca7332.jpg
+    small: media/small__small_project1_bd9eca7332.jpg
+    medium: media/medium__medium_project1_bd9eca7332.jpg
+    thumbnail: media/thumbnail__thumbnail_project1_bd9eca7332.jpg
   Μαριάννα Καπλατζή
     documentId: a3vfum5q517n8ay43li8xxp1
     field: Image[0]
@@ -684,6 +789,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_55a330272b.jpg
     medium: media/medium__medium_project1_55a330272b.jpg
     thumbnail: media/thumbnail__thumbnail_project1_55a330272b.jpg
+  Μ Κ
+    documentId: rszjgxmimw4873atfdyu6zyu
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Μαρία Μπότσογλου
     documentId: meu4htumdhehp0uc3oz2vgnk
     field: Image[0]
@@ -710,6 +823,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_9e0a150797.jpg
     medium: media/medium__medium_project1_9e0a150797.jpg
     thumbnail: media/thumbnail__thumbnail_project1_9e0a150797.jpg
+  Μ Α Κ
+    documentId: ngnmtwjx2ab13bb4zkv2lx20
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Εύα Αναγνωστάκη
     documentId: nx19yqhwycv31x0rkwxqxccs
     field: Image[0]
@@ -749,6 +870,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_dce33717d7.png
     medium: media/medium__medium_project1_dce33717d7.png
     thumbnail: media/thumbnail__thumbnail_project1_dce33717d7.png
+  Μ Λ
+    documentId: pi2vsfda2vg149o71k9tic59
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Νίκος Βανδώρος
     documentId: jxgifuyx4vvbqo0drpeh2fmh
     field: Image[0]
@@ -769,6 +898,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_Konstantina_Zoehrer_project1_301163c0c3.png
     medium: media/medium__medium_Konstantina_Zoehrer_project1_301163c0c3.png
     thumbnail: media/thumbnail__thumbnail_Konstantina_Zoehrer_project1_301163c0c3.png
+  Μ Λ
+    documentId: tmk5vfusajtf7iyymifg6fnq
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Μυρτώ Παπαδογεώργου
     documentId: iuj24n7lmqnfniyix6r8864y
     field: Image[0]
@@ -785,6 +922,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_cbebff3ef8.jpg
     medium: media/medium__medium_project1_cbebff3ef8.jpg
     thumbnail: media/thumbnail__thumbnail_project1_cbebff3ef8.jpg
+  M M
+    documentId: q91luaxypbfs8h2gfihwywl4
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Χριστίνα Παπαδοπούλου
     documentId: lj0azno37bzzaa117w8deil5
     field: Image[0]
@@ -809,6 +954,14 @@ MEDIA MAPPING (collection → entry → field → file):
     field: Image[0]
     file: media/_GRIGORIS_BARDARINOS_761ed9703e_25668385d0.png
     thumbnail: media/thumbnail__thumbnail_GRIGORIS_BARDARINOS_761ed9703e_25668385d0.png
+  Β Μ
+    documentId: mh4j5evl76m7n2b4x6hz980g
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Άννα Βεκιάρη
     documentId: yc1thnv236c4zebhqq7pr4u0
     field: Image[0]
@@ -855,22 +1008,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_2df7526c6a.jpg
     medium: media/medium__medium_project1_2df7526c6a.jpg
     thumbnail: media/thumbnail__thumbnail_project1_2df7526c6a.jpg
-  Φωτεινή Παπαχατζή
-    documentId: hw8v6m747ayq9s6t8359n54j
+  Β Α Μ
+    documentId: jzdb3r25bcro32b4rpihxxb8
     field: Image[0]
-    file: media/_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg
-    large: media/large__large_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg
-    small: media/small__small_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg
-    medium: media/medium__medium_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg
-    thumbnail: media/thumbnail__thumbnail_FOTEINI_PAPAXATZI_8559a07371_5234b98f16.jpg
-  Φωτεινή Παπαχατζή
-    documentId: hw8v6m747ayq9s6t8359n54j
-    field: Project1Pictures[0]
-    file: media/_project1_c7a6e74571.jpg
-    large: media/large__large_project1_c7a6e74571.jpg
-    small: media/small__small_project1_c7a6e74571.jpg
-    medium: media/medium__medium_project1_c7a6e74571.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_c7a6e74571.jpg
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Αργυρώ Μπαράτα
     documentId: oo6zggf3xf2c20umgu042kqn
     field: Image[0]
@@ -922,6 +1067,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_12be89419d.jpg
     medium: media/medium__medium_project1_12be89419d.jpg
     thumbnail: media/thumbnail__thumbnail_project1_12be89419d.jpg
+  Φ Μ
+    documentId: qv90n2wfqzpdjlvxivffbtn9
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Γεωργία Γεωργίου
     documentId: gxo5r37sjxw83bv1cmdn1nop
     field: Image[0]
@@ -943,6 +1096,22 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_7918aef74a.jpg
     medium: media/medium__medium_project1_7918aef74a.jpg
     thumbnail: media/thumbnail__thumbnail_project1_7918aef74a.jpg
+  Σ Π
+    documentId: wc9amjjtkt4bxfpmx7xu3iez
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
+  Σ Σ
+    documentId: ba5h5ql3j9aq27bb7yevchr7
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Έφη Πρόικου
     documentId: hfxresayxy81nr85mjxera2j
     field: Image[0]
@@ -984,6 +1153,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project2_8fee4fa785.png
     medium: media/medium__medium_project2_8fee4fa785.png
     thumbnail: media/thumbnail__thumbnail_project2_8fee4fa785.png
+  Β Σ
+    documentId: kq2x7pba3gjfdqxonh1uollp
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Θάλεια Ρίζου
     documentId: e25uamt6nvhzt8s23wo0t6xn
     field: Image[0]
@@ -1024,6 +1201,22 @@ MEDIA MAPPING (collection → entry → field → file):
     field: Image[0]
     file: media/_ELLI_ROMA_ATHANASIADOY_2b9e3111d8_b897602bf3.jpg
     thumbnail: media/thumbnail__thumbnail_ELLI_ROMA_ATHANASIADOY_2b9e3111d8_b897602bf3.jpg
+  Β Τ
+    documentId: dpuumi3k3vd3x8wyvxaircow
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
+  Χαρ. Χ
+    documentId: s7diwhu1kzrv6vko90pl68a5
+    field: Image[0]
+    file: media/_pexels_diohasbi_3280130_214d338275.jpg
+    large: media/large__large_pexels_diohasbi_3280130_214d338275.jpg
+    small: media/small__small_pexels_diohasbi_3280130_214d338275.jpg
+    medium: media/medium__medium_pexels_diohasbi_3280130_214d338275.jpg
+    thumbnail: media/thumbnail__thumbnail_pexels_diohasbi_3280130_214d338275.jpg
   Γιώργος Σαρλής
     documentId: eea6qw7ajfy69h7q6cfvxq6n
     field: Image[0]
@@ -1039,73 +1232,6 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_4b37cf0d53.jpg
     medium: media/medium__medium_project1_4b37cf0d53.jpg
     thumbnail: media/thumbnail__thumbnail_project1_4b37cf0d53.jpg
-  Λάουρα Ταπίνη
-    documentId: vbsu7imlb5g6zbx5zrmlwijl
-    field: Image[0]
-    file: media/_LAOYRA_TAPINI_821f083baf_732957aab9.jpg
-    thumbnail: media/thumbnail__thumbnail_LAOYRA_TAPINI_821f083baf_732957aab9.jpg
-  Λάουρα Ταπίνη
-    documentId: vbsu7imlb5g6zbx5zrmlwijl
-    field: Project1Pictures[0]
-    file: media/_project1_bd9eca7332.jpg
-    large: media/large__large_project1_bd9eca7332.jpg
-    small: media/small__small_project1_bd9eca7332.jpg
-    medium: media/medium__medium_project1_bd9eca7332.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_bd9eca7332.jpg
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Image[0]
-    file: media/_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png
-    small: media/small__small_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png
-    thumbnail: media/thumbnail__thumbnail_EYAGGELIA_PELENTRIDOY_f49a74acfd_140c99cc49.png
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Project1Pictures[0]
-    file: media/_IMG_8730_scaled_1c456c373d.jpg
-    large: media/large__large_IMG_8730_scaled_1c456c373d.jpg
-    small: media/small__small_IMG_8730_scaled_1c456c373d.jpg
-    medium: media/medium__medium_IMG_8730_scaled_1c456c373d.jpg
-    thumbnail: media/thumbnail__thumbnail_IMG_8730_scaled_1c456c373d.jpg
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Project1Pictures[1]
-    file: media/_DSCF_1757_1_scaled_f4eaa09bd2.jpg
-    large: media/large__large_DSCF_1757_1_scaled_f4eaa09bd2.jpg
-    small: media/small__small_DSCF_1757_1_scaled_f4eaa09bd2.jpg
-    medium: media/medium__medium_DSCF_1757_1_scaled_f4eaa09bd2.jpg
-    thumbnail: media/thumbnail__thumbnail_DSCF_1757_1_scaled_f4eaa09bd2.jpg
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Project1Pictures[2]
-    file: media/_project1_2e4786d91a.jpg
-    large: media/large__large_project1_2e4786d91a.jpg
-    small: media/small__small_project1_2e4786d91a.jpg
-    medium: media/medium__medium_project1_2e4786d91a.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_2e4786d91a.jpg
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Project2Pictures[0]
-    file: media/_20230527_Peripatos1_10_2048x1363_49542321c7.jpg
-    large: media/large__large_20230527_Peripatos1_10_2048x1363_49542321c7.jpg
-    small: media/small__small_20230527_Peripatos1_10_2048x1363_49542321c7.jpg
-    medium: media/medium__medium_20230527_Peripatos1_10_2048x1363_49542321c7.jpg
-    thumbnail: media/thumbnail__thumbnail_20230527_Peripatos1_10_2048x1363_49542321c7.jpg
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Project2Pictures[1]
-    file: media/_IMG_1456_2048x1406_972b9a6ac6.jpg
-    large: media/large__large_IMG_1456_2048x1406_972b9a6ac6.jpg
-    small: media/small__small_IMG_1456_2048x1406_972b9a6ac6.jpg
-    medium: media/medium__medium_IMG_1456_2048x1406_972b9a6ac6.jpg
-    thumbnail: media/thumbnail__thumbnail_IMG_1456_2048x1406_972b9a6ac6.jpg
-  Ευαγγελία Πελεντρίδου
-    documentId: d54msw6cfsldvum4c1oq7ogm
-    field: Project2Pictures[2]
-    file: media/_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg
-    large: media/large__large_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg
-    small: media/small__small_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg
-    medium: media/medium__medium_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg
-    thumbnail: media/thumbnail__thumbnail_20230527_Peripatos2_37_2048x1363_95897ea03e.jpg
   Βιβιάν Δούμπα
     documentId: ulvsi0l4mnx19qy99h2atry0
     field: Image[0]
@@ -1197,20 +1323,6 @@ MEDIA MAPPING (collection → entry → field → file):
     file: media/_project1_9d5ab37bd1.png
     small: media/small__small_project1_9d5ab37bd1.png
     thumbnail: media/thumbnail__thumbnail_project1_9d5ab37bd1.png
-  Στέλλα Τσιαρβούλα
-    documentId: lkyhsjonyoroap5y6c46eifx
-    field: Image[0]
-    file: media/_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
-    large: media/large__large_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
-    small: media/small__small_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
-    medium: media/medium__medium_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
-    thumbnail: media/thumbnail__thumbnail_STELLA_TSIARBOYLA_713bcf3206_4fe0c78369.jpg
-  Στέλλα Τσιαρβούλα
-    documentId: lkyhsjonyoroap5y6c46eifx
-    field: Project1Pictures[0]
-    file: media/_project1_c6652aa88e.jpg
-    small: media/small__small_project1_c6652aa88e.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_c6652aa88e.jpg
   Βιολέττα Τσιτσιλιάνη
     documentId: t5qsuluhfxqq9nje1xk3bgim
     field: Image[0]
@@ -1227,22 +1339,6 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_ANESTIS_XATZIDIAKOS_e840552c77_86bb673d62.jpg
     medium: media/medium__medium_ANESTIS_XATZIDIAKOS_e840552c77_86bb673d62.jpg
     thumbnail: media/thumbnail__thumbnail_ANESTIS_XATZIDIAKOS_e840552c77_86bb673d62.jpg
-  Ντίνα Ντζιώρα
-    documentId: tsega0b58japrl328kmim4um
-    field: Image[0]
-    file: media/_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png
-    large: media/large__large_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png
-    small: media/small__small_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png
-    medium: media/medium__medium_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png
-    thumbnail: media/thumbnail__thumbnail_NTINA_NTZIORA_8a7d4c77f9_7969c05611.png
-  Ντίνα Ντζιώρα
-    documentId: tsega0b58japrl328kmim4um
-    field: Project1Pictures[0]
-    file: media/_project1_8edbfb265a.jpg
-    large: media/large__large_project1_8edbfb265a.jpg
-    small: media/small__small_project1_8edbfb265a.jpg
-    medium: media/medium__medium_project1_8edbfb265a.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_8edbfb265a.jpg
   Σοφία Ξενέλλη
     documentId: x3v0bckogw31c9xbgaucnx1p
     field: Image[0]
@@ -1273,157 +1369,6 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_project1_f5889851f4.jpg
     medium: media/medium__medium_project1_f5889851f4.jpg
     thumbnail: media/thumbnail__thumbnail_project1_f5889851f4.jpg
-  Ηλιάνα Ζιώγα
-    documentId: iwhapacmv6g1cno61ju4gxwk
-    field: Image[0]
-    file: media/_DSC_0527a_55111709ce.jpg
-    small: media/small__small_DSC_0527a_55111709ce.jpg
-    thumbnail: media/thumbnail__thumbnail_DSC_0527a_55111709ce.jpg
-  Γιώτα Πεκλάρη
-    documentId: vhcvho3aca6yvathhrtr4jav
-    field: Image[0]
-    file: media/_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg
-    large: media/large__large_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg
-    small: media/small__small_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg
-    medium: media/medium__medium_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg
-    thumbnail: media/thumbnail__thumbnail_GIOTA_PEKLARI_9ef2cfbfad_a3c19b02fc.jpg
-  Γιώτα Πεκλάρη
-    documentId: vhcvho3aca6yvathhrtr4jav
-    field: Project1Pictures[0]
-    file: media/_Yiota_Peklari_600f2c6631.jpg
-    large: media/large__large_Yiota_Peklari_600f2c6631.jpg
-    small: media/small__small_Yiota_Peklari_600f2c6631.jpg
-    medium: media/medium__medium_Yiota_Peklari_600f2c6631.jpg
-    thumbnail: media/thumbnail__thumbnail_Yiota_Peklari_600f2c6631.jpg
-  Γιώτα Πεκλάρη
-    documentId: vhcvho3aca6yvathhrtr4jav
-    field: Project2Pictures[0]
-    file: media/_IMG_20250410_WA_0003_d0dbae7a26.jpg
-    large: media/large__large_IMG_20250410_WA_0003_d0dbae7a26.jpg
-    small: media/small__small_IMG_20250410_WA_0003_d0dbae7a26.jpg
-    medium: media/medium__medium_IMG_20250410_WA_0003_d0dbae7a26.jpg
-    thumbnail: media/thumbnail__thumbnail_IMG_20250410_WA_0003_d0dbae7a26.jpg
-  Γιώτα Πεκλάρη
-    documentId: vhcvho3aca6yvathhrtr4jav
-    field: Project2Pictures[1]
-    file: media/_20250214_112344_eaf6347934.jpg
-    large: media/large__large_20250214_112344_eaf6347934.jpg
-    small: media/small__small_20250214_112344_eaf6347934.jpg
-    medium: media/medium__medium_20250214_112344_eaf6347934.jpg
-    thumbnail: media/thumbnail__thumbnail_20250214_112344_eaf6347934.jpg
-  Φωτεινή Τζιδημοπούλου
-    documentId: o4te5lfmj9lkumzaij3wmcrp
-    field: Image[0]
-    file: media/_198_461307e7f3.png
-    large: media/large__large_198_461307e7f3.png
-    small: media/small__small_198_461307e7f3.png
-    medium: media/medium__medium_198_461307e7f3.png
-    thumbnail: media/thumbnail__thumbnail_198_461307e7f3.png
-  Δημήτριος Μοσχονάς
-    documentId: d02fkva2i4fxaj30i1rgnct4
-    field: Image[0]
-    file: media/_DIMITRIOS_MOSXONAS_268941504a_c5791a9506.jpg
-    large: media/large__large_DIMITRIOS_MOSXONAS_268941504a_c5791a9506.jpg
-    small: media/small__small_DIMITRIOS_MOSXONAS_268941504a_c5791a9506.jpg
-    medium: media/medium__medium_DIMITRIOS_MOSXONAS_268941504a_c5791a9506.jpg
-    thumbnail: media/thumbnail__thumbnail_DIMITRIOS_MOSXONAS_268941504a_c5791a9506.jpg
-  Δημήτριος Μοσχονάς
-    documentId: d02fkva2i4fxaj30i1rgnct4
-    field: Project1Pictures[0]
-    file: media/_project1_85ddd6dfee.png
-    large: media/large__large_project1_85ddd6dfee.png
-    small: media/small__small_project1_85ddd6dfee.png
-    medium: media/medium__medium_project1_85ddd6dfee.png
-    thumbnail: media/thumbnail__thumbnail_project1_85ddd6dfee.png
-  Κωνσταντίνα Αγγελέτου
-    documentId: ipieoume9krg6cb8jixt9jre
-    field: Image[0]
-    file: media/_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg
-    large: media/large__large_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg
-    small: media/small__small_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg
-    medium: media/medium__medium_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg
-    thumbnail: media/thumbnail__thumbnail_KONSTANTINA_AGGELETOY_0ec3d04256_399761bf75.jpg
-  Κωνσταντίνα Αγγελέτου
-    documentId: ipieoume9krg6cb8jixt9jre
-    field: Project1Pictures[0]
-    file: media/_project1_5de70a64e4.jpg
-    small: media/small__small_project1_5de70a64e4.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_5de70a64e4.jpg
-  Χρύσα Πεταλά
-    documentId: h2nu3pa8pf15uk83mmz1l3nr
-    field: Image[0]
-    file: media/_Chrysa_Petala_36a95ecd14.JPG
-    large: media/large__large_Chrysa_Petala_36a95ecd14.JPG
-    small: media/small__small_Chrysa_Petala_36a95ecd14.JPG
-    medium: media/medium__medium_Chrysa_Petala_36a95ecd14.JPG
-    thumbnail: media/thumbnail__thumbnail_Chrysa_Petala_36a95ecd14.JPG
-  Χρύσα Πεταλά
-    documentId: h2nu3pa8pf15uk83mmz1l3nr
-    field: Project1Pictures[0]
-    file: media/_project1_f659424034.jpg
-    thumbnail: media/thumbnail__thumbnail_project1_f659424034.jpg
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Image[0]
-    file: media/_Giorgos_Styl_e10abf05c1_a7e05e3e42.png
-    large: media/large__large_Giorgos_Styl_e10abf05c1_a7e05e3e42.png
-    small: media/small__small_Giorgos_Styl_e10abf05c1_a7e05e3e42.png
-    medium: media/medium__medium_Giorgos_Styl_e10abf05c1_a7e05e3e42.png
-    thumbnail: media/thumbnail__thumbnail_Giorgos_Styl_e10abf05c1_a7e05e3e42.png
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Project1Pictures[0]
-    file: media/_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
-    large: media/large__large_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
-    small: media/small__small_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
-    medium: media/medium__medium_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
-    thumbnail: media/thumbnail__thumbnail_20241130_yorgos_6_457a189ea3_9fb115ab18.jpg
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Project1Pictures[1]
-    file: media/_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
-    large: media/large__large_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
-    small: media/small__small_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
-    medium: media/medium__medium_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
-    thumbnail: media/thumbnail__thumbnail_20241130_yorgos_43_568d31f4c7_9f74821012.jpg
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Project1Pictures[2]
-    file: media/_20241130_yorgos_26_0db036178b_65594cbf76.jpg
-    large: media/large__large_20241130_yorgos_26_0db036178b_65594cbf76.jpg
-    small: media/small__small_20241130_yorgos_26_0db036178b_65594cbf76.jpg
-    medium: media/medium__medium_20241130_yorgos_26_0db036178b_65594cbf76.jpg
-    thumbnail: media/thumbnail__thumbnail_20241130_yorgos_26_0db036178b_65594cbf76.jpg
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Project2Pictures[0]
-    file: media/_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f.png
-    large: media/large__large_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f.png
-    small: media/small__small_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f.png
-    medium: media/medium__medium_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f.png
-    thumbnail: media/thumbnail__thumbnail_First_Contact_Agora_Kypselis_Cozy_Square3_a7135f7d94_347fb9031f.png
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Project2Pictures[1]
-    file: media/_AWARD_ceremony_6e3d13a455.png
-    small: media/small__small_AWARD_ceremony_6e3d13a455.png
-    thumbnail: media/thumbnail__thumbnail_AWARD_ceremony_6e3d13a455.png
-  Γιώργος Στυλ
-    documentId: mqswl7jw67pb1ald7gmmwzic
-    field: Project2Pictures[2]
-    file: media/_Award_from_Instagram_post_596239890d.png
-    large: media/large__large_Award_from_Instagram_post_596239890d.png
-    small: media/small__small_Award_from_Instagram_post_596239890d.png
-    medium: media/medium__medium_Award_from_Instagram_post_596239890d.png
-    thumbnail: media/thumbnail__thumbnail_Award_from_Instagram_post_596239890d.png
-  Βικτωρία Χατζηαργυρίου
-    documentId: ibkh2wu8id1ovp06wjjkdtw2
-    field: Image[0]
-    file: media/_BIKTORIA_XATZIARGYRIOY_4ef75c57e7_cde2027fab.jpg
-    large: media/large__large_BIKTORIA_XATZIARGYRIOY_4ef75c57e7_cde2027fab.jpg
-    small: media/small__small_BIKTORIA_XATZIARGYRIOY_4ef75c57e7_cde2027fab.jpg
-    medium: media/medium__medium_BIKTORIA_XATZIARGYRIOY_4ef75c57e7_cde2027fab.jpg
-    thumbnail: media/thumbnail__thumbnail_BIKTORIA_XATZIARGYRIOY_4ef75c57e7_cde2027fab.jpg
 
 ── activities ──
   Το Culture for Change στηρίζει την ενίσχυση της ευρωπαϊκής χρηματοδότησης για τον πολιτισμό
@@ -1441,7 +1386,7 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg
     medium: media/medium__medium_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg
     thumbnail: media/thumbnail__thumbnail_68f2035abac5ac3fd694efb3_940x600_PLATO_post_940x600_b8561c4343_81edde72c8.jpg
-  Εναρ��τήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών
+  Εναρκτήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών
     documentId: f2atvgs3oo41uyko8hjingpi
     field: Visuals[0]
     file: media/_S_Ima_Posts_Kick_off_1920_x_1080_px_ddb2471fc1.jpg
@@ -1457,6 +1402,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_IMG_4642_2_572fa4cfb1.jpg
     medium: media/medium__medium_IMG_4642_2_572fa4cfb1.jpg
     thumbnail: media/thumbnail__thumbnail_IMG_4642_2_572fa4cfb1.jpg
+  Εργαστήριο για τη χρήση της ΤΝ στον πολιτισμό - πρόγραμμα Σ.Η.μα
+    documentId: pkdusu42k3zvjn57eevl4b77
+    field: Visuals[0]
+    file: media/_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png
+    large: media/large__large_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png
+    small: media/small__small_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png
+    medium: media/medium__medium_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png
+    thumbnail: media/thumbnail__thumbnail_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png
   Το Culture For Change Στο Comuseum 2025
     documentId: fdxh51y0g5jwecv28rf1fvub
     field: Visuals[0]
@@ -1611,6 +1564,14 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_CULTURE_FOR_CHANGE_PM_AGORA_1765316237095_9b06f2a1e3_b537e40c21.png
     medium: media/medium__medium_CULTURE_FOR_CHANGE_PM_AGORA_1765316237095_9b06f2a1e3_b537e40c21.png
     thumbnail: media/thumbnail__thumbnail_CULTURE_FOR_CHANGE_PM_AGORA_1765316237095_9b06f2a1e3_b537e40c21.png
+  Πρόσκληση συμμετοχής στην έρευνα του έργου Σ.Η.μα
+    documentId: szc2kwthecafqai6jkwc2x5v
+    field: Visuals[0]
+    file: media/_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png
+    large: media/large__large_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png
+    small: media/small__small_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png
+    medium: media/medium__medium_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png
+    thumbnail: media/thumbnail__thumbnail_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png
   Συνεργατικοι Πολιτιστικοι Πειραματισμοι: Τα Εργαστηρια Futures Literacy
     documentId: vkwxbzdshapxnu15rd1ayuol
     field: Visuals[0]
@@ -2588,7 +2549,7 @@ MEDIA MAPPING (collection → entry → field → file):
     file: media/_Performing_Space_2025_Open_Call_1765318361153_972804807f_e66e62a3cf.jpg
     small: media/small__small_Performing_Space_2025_Open_Call_1765318361153_972804807f_e66e62a3cf.jpg
     thumbnail: media/thumbnail__thumbnail_Performing_Space_2025_Open_Call_1765318361153_972804807f_e66e62a3cf.jpg
-  ALForum 2025 – Call for Interactive & Cultural Activities
+  ALForum 2025 ��� Call for Interactive & Cultural Activities
     documentId: sdo6qlhx9p8bt8xja52xg51g
     field: Image
     file: media/_AL_Forum_2025_Call_for_Interactive_amp_Cultural_1765318382483_9f08294fd4_edd7865056.png
@@ -2616,6 +2577,11 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_OPEN_CALL_ART_PUBLIC_RESIDENCY_MONTPELLIER_FRANCE_1765318486782_d0cdf838ed_8499d7b814.jpg
     medium: media/medium__medium_OPEN_CALL_ART_PUBLIC_RESIDENCY_MONTPELLIER_FRANCE_1765318486782_d0cdf838ed_8499d7b814.jpg
     thumbnail: media/thumbnail__thumbnail_OPEN_CALL_ART_PUBLIC_RESIDENCY_MONTPELLIER_FRANCE_1765318486782_d0cdf838ed_8499d7b814.jpg
+  New European Bauhaus Facility 2026
+    documentId: hijxk862ysb7qcn8gzeki3lk
+    field: Image
+    file: media/_arxeio_lipsis_12_5966ed33bd.jpeg
+    thumbnail: media/thumbnail__thumbnail_arxeio_lipsis_12_5966ed33bd.jpeg
   Anna Lindh Foundation – Mediterranean Capitals of Cultures and Dialogue
     documentId: flvdpkdw9dsv6qe93uhv8rge
     field: Image
@@ -2766,6 +2732,57 @@ MEDIA MAPPING (collection → entry → field → file):
     field: Image
     file: media/_474099843_618669793996863_8000609501355972515_n_26d37aa02f.jpg
     thumbnail: media/thumbnail__thumbnail_474099843_618669793996863_8000609501355972515_n_26d37aa02f.jpg
+  Θεσστιβαλάκι 2026: Φεστιβάλ Παιδικών Θεατρικών Ομάδων
+    documentId: bhwc838uux98gbj2y8mq5tei
+    field: Image
+    file: media/_images_3_a6583afa45.jpeg
+    thumbnail: media/thumbnail__thumbnail_images_3_a6583afa45.jpeg
+  Anna Lindh Foundation – Call for Creators
+    documentId: tsztm7vms43813l39pjerxsn
+    field: Image
+    file: media/_Untitled_design_8_5a48da3c15.png
+    small: media/small__small_Untitled_design_8_5a48da3c15.png
+    thumbnail: media/thumbnail__thumbnail_Untitled_design_8_5a48da3c15.png
+  Creative Innovation Lab 2026
+    documentId: y8daj16q838qn709n57xjfnm
+    field: Image
+    file: media/_Untitled_design_16_6c18ff60c8.png
+    large: media/large__large_Untitled_design_16_6c18ff60c8.png
+    small: media/small__small_Untitled_design_16_6c18ff60c8.png
+    medium: media/medium__medium_Untitled_design_16_6c18ff60c8.png
+    thumbnail: media/thumbnail__thumbnail_Untitled_design_16_6c18ff60c8.png
+  Anna Lindh Foundation – Call for Community Leaders
+    documentId: ku712e77zy5nvii7n3k8iioh
+    field: Image
+    file: media/_Untitled_design_8_5a48da3c15.png
+    small: media/small__small_Untitled_design_8_5a48da3c15.png
+    thumbnail: media/thumbnail__thumbnail_Untitled_design_8_5a48da3c15.png
+  Creativity Pioneers Fund
+    documentId: xyuvxbplty1x60o6huvl961q
+    field: Image
+    file: media/_arxeio_lipsis_9_7db9bd3c46.jpeg
+    thumbnail: media/thumbnail__thumbnail_arxeio_lipsis_9_7db9bd3c46.jpeg
+  Anna Lindh Foundation – Call for Researchers
+    documentId: vhhrfaz53fbegnlo887nga2b
+    field: Image
+    file: media/_Untitled_design_8_5a48da3c15.png
+    small: media/small__small_Untitled_design_8_5a48da3c15.png
+    thumbnail: media/thumbnail__thumbnail_Untitled_design_8_5a48da3c15.png
+  BAN Reconnection Grant 
+    documentId: smj43o02pw9iutq94e6irwoo
+    field: Image
+    file: media/_images_19_99c1e15545.png
+    thumbnail: media/thumbnail__thumbnail_images_19_99c1e15545.png
+  Bosch Alumni Network – Reconnection Grants
+    documentId: v0jx33g0lairl5vtxy3ebr5k
+    field: Image
+    file: media/_images_19_99c1e15545.png
+    thumbnail: media/thumbnail__thumbnail_images_19_99c1e15545.png
+  Spaces of Culture 2026
+    documentId: suzcu8i22b77a2m92k606boe
+    field: Image
+    file: media/_images_4_8d2f7f8fbb.jpeg
+    thumbnail: media/thumbnail__thumbnail_images_4_8d2f7f8fbb.jpeg
   2025 Creative Europe
     documentId: gxcarbe6gxeojzzwrpe5sl95
     field: Image
@@ -2774,6 +2791,27 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_2025_Creative_Europe_1765318346870_9f8afa5320_ce7d98a007.jpg
     medium: media/medium__medium_2025_Creative_Europe_1765318346870_9f8afa5320_ce7d98a007.jpg
     thumbnail: media/thumbnail__thumbnail_2025_Creative_Europe_1765318346870_9f8afa5320_ce7d98a007.jpg
+  České Budějovice 2028 – (Perma)culture Call for Projects
+    documentId: li73g584gsgyz8859rw759wg
+    field: Image
+    file: media/_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg
+    large: media/large__large_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg
+    small: media/small__small_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg
+    medium: media/medium__medium_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg
+    thumbnail: media/thumbnail__thumbnail_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg
+  BAN Learning Exchange Grants
+    documentId: oxgojvrugnz75glim160xggu
+    field: Image
+    file: media/_images_19_99c1e15545.png
+    thumbnail: media/thumbnail__thumbnail_images_19_99c1e15545.png
+  MATAROA Street Contest vol. 3 – Πρόσκληση ενδιαφέροντος
+    documentId: nv1k8ctl7g5onjo9y37px43a
+    field: Image
+    file: media/_ntina_2026_05_06_T214408_982_6edb9d580b.jpg
+    large: media/large__large_ntina_2026_05_06_T214408_982_6edb9d580b.jpg
+    small: media/small__small_ntina_2026_05_06_T214408_982_6edb9d580b.jpg
+    medium: media/medium__medium_ntina_2026_05_06_T214408_982_6edb9d580b.jpg
+    thumbnail: media/thumbnail__thumbnail_ntina_2026_05_06_T214408_982_6edb9d580b.jpg
   ΚΥΚΛΟΦΟΡΙΑ ΕΥΡΩΠΑΪΚΩΝ ΛΟΓΟΤΕΧΝΙΚΩΝ ΕΡΓΩΝ: ΠΡΟΣΚΛΗΣΗ ΓΙΑ ΤΟ 2026
     documentId: heecsctnw8d7db4ivj8vd7o4
     field: Image
@@ -2782,6 +2820,19 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_Book_Fair_Web_Banner_1a59e30fca_23799770ff.jpg
     medium: media/medium__medium_Book_Fair_Web_Banner_1a59e30fca_23799770ff.jpg
     thumbnail: media/thumbnail__thumbnail_Book_Fair_Web_Banner_1a59e30fca_23799770ff.jpg
+  Bosch Alumni Network – Learning Exchange Grants
+    documentId: pdlvesm3s5uetin344tps7mg
+    field: Image
+    file: media/_images_19_99c1e15545.png
+    thumbnail: media/thumbnail__thumbnail_images_19_99c1e15545.png
+  Ίδρυμα Μποδοσάκη – Voices/CERV: Καταπολέμηση της έμφυλης βίας
+    documentId: axkuxqwhbfhxz5ni0u1mok2m
+    field: Image
+    file: media/_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg
+    large: media/large__large_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg
+    small: media/small__small_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg
+    medium: media/medium__medium_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg
+    thumbnail: media/thumbnail__thumbnail_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg
   ΑΝΟΙΧΤΗ ΠΡΟΣΚΛΗΣΗ ΣΥΜΜΕΤΟΧΗΣ: ΑΘΗΝΑ ΠΑΓΚΟΣΜΙΑ ΠΡΩΤΕΥΟΥΣΑ ΘΕΑΤΡΟΥ
     documentId: st952css0pudkuldcwuvs29s
     field: Image
@@ -3072,6 +3123,14 @@ MEDIA MAPPING (collection → entry → field → file):
     field: Image
     file: media/_arxeio_lipsis_89_386404c751.png
     thumbnail: media/thumbnail__thumbnail_arxeio_lipsis_89_386404c751.png
+  EU-Japan Fest Mobility Support 2026
+    documentId: emkjl4fmj6r6rsk7ylslmq78
+    field: Image
+    file: media/_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg
+    large: media/large__large_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg
+    small: media/small__small_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg
+    medium: media/medium__medium_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg
+    thumbnail: media/thumbnail__thumbnail_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg
   NEON Grants 2026
     documentId: g59l02cqnic0wu3aqnths9h9
     field: Image
@@ -3249,3 +3308,19 @@ MEDIA MAPPING (collection → entry → field → file):
     small: media/small__small_222_857370c2f7.png
     medium: media/medium__medium_222_857370c2f7.png
     thumbnail: media/thumbnail__thumbnail_222_857370c2f7.png
+  Newsletter Απριλίου 26
+    documentId: yv6mdqjksv1ccz5lnkdh1jnj
+    field: Image
+    file: media/_Reset_D2_b_1_eb8a6c6347.jpg
+    large: media/large__large_Reset_D2_b_1_eb8a6c6347.jpg
+    small: media/small__small_Reset_D2_b_1_eb8a6c6347.jpg
+    medium: media/medium__medium_Reset_D2_b_1_eb8a6c6347.jpg
+    thumbnail: media/thumbnail__thumbnail_Reset_D2_b_1_eb8a6c6347.jpg
+  Newsletter Μαίου 2026
+    documentId: oq8szxdv1ar14f5nmrxznh7i
+    field: Image
+    file: media/_S_Ima_Cover_Website_1920_x_1080_px_5_9af4d76a6e.png
+    large: media/large__large_S_Ima_Cover_Website_1920_x_1080_px_5_9af4d76a6e.png
+    small: media/small__small_S_Ima_Cover_Website_1920_x_1080_px_5_9af4d76a6e.png
+    medium: media/medium__medium_S_Ima_Cover_Website_1920_x_1080_px_5_9af4d76a6e.png
+    thumbnail: media/thumbnail__thumbnail_S_Ima_Cover_Website_1920_x_1080_px_5_9af4d76a6e.png

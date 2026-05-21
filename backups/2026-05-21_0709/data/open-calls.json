@@ -92,7 +92,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:33.733Z",
         "updatedAt": "2026-01-12T15:01:33.733Z",
-        "publishedAt": "2026-01-12T15:01:33.734Z"
+        "publishedAt": "2026-01-12T15:01:33.734Z",
+        "focalPoint": null
       }
     },
     {
@@ -187,7 +188,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:28.393Z",
         "updatedAt": "2026-01-12T15:02:28.393Z",
-        "publishedAt": "2026-01-12T15:02:28.394Z"
+        "publishedAt": "2026-01-12T15:02:28.394Z",
+        "focalPoint": null
       }
     },
     {
@@ -258,7 +260,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:44.357Z",
         "updatedAt": "2026-01-12T15:01:44.357Z",
-        "publishedAt": "2026-01-12T15:01:44.357Z"
+        "publishedAt": "2026-01-12T15:01:44.357Z",
+        "focalPoint": null
       }
     },
     {
@@ -341,7 +344,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:37.505Z",
         "updatedAt": "2026-01-12T15:01:37.505Z",
-        "publishedAt": "2026-01-12T15:01:37.505Z"
+        "publishedAt": "2026-01-12T15:01:37.505Z",
+        "focalPoint": null
       }
     },
     {
@@ -367,7 +371,7 @@
       "ImageAltText": "",
       "EngTitle": null,
       "EngDescription": null,
-      "Category": "Δικτύωση & Συνέδρ��α",
+      "Category": "Δικτύωση & Συνέδρια",
       "Image": {
         "id": 159,
         "documentId": "unjj8g0075gae8f1b8qxzw4v",
@@ -436,7 +440,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:50.638Z",
         "updatedAt": "2026-01-12T14:59:50.638Z",
-        "publishedAt": "2026-01-12T14:59:50.639Z"
+        "publishedAt": "2026-01-12T14:59:50.639Z",
+        "focalPoint": null
       }
     },
     {
@@ -507,7 +512,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:03:40.281Z",
         "updatedAt": "2026-01-12T15:03:40.281Z",
-        "publishedAt": "2026-01-12T15:03:40.281Z"
+        "publishedAt": "2026-01-12T15:03:40.281Z",
+        "focalPoint": null
       }
     },
     {
@@ -602,7 +608,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:26.347Z",
         "updatedAt": "2026-01-12T14:59:26.347Z",
-        "publishedAt": "2026-01-12T14:59:26.347Z"
+        "publishedAt": "2026-01-12T14:59:26.347Z",
+        "focalPoint": null
       }
     },
     {
@@ -673,13 +680,14 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:00:12.823Z",
         "updatedAt": "2026-01-12T15:00:12.823Z",
-        "publishedAt": "2026-01-12T15:00:12.823Z"
+        "publishedAt": "2026-01-12T15:00:12.823Z",
+        "focalPoint": null
       }
     },
     {
       "id": 233,
       "documentId": "sdo6qlhx9p8bt8xja52xg51g",
-      "Title": "ALForum 2025 – Call for Interactive & Cultural Activities",
+      "Title": "ALForum 2025 ��� Call for Interactive & Cultural Activities",
       "Deadline": "2025-03-30",
       "Description": [
         {
@@ -768,7 +776,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:00:19.582Z",
         "updatedAt": "2026-01-12T15:00:19.582Z",
-        "publishedAt": "2026-01-12T15:00:19.582Z"
+        "publishedAt": "2026-01-12T15:00:19.582Z",
+        "focalPoint": null
       }
     },
     {
@@ -863,7 +872,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:00:23.974Z",
         "updatedAt": "2026-01-12T15:00:23.974Z",
-        "publishedAt": "2026-01-12T15:00:23.974Z"
+        "publishedAt": "2026-01-12T15:00:23.974Z",
+        "focalPoint": null
       }
     },
     {
@@ -909,7 +919,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:00:25.600Z",
         "updatedAt": "2026-01-12T15:00:25.600Z",
-        "publishedAt": "2026-01-12T15:00:25.600Z"
+        "publishedAt": "2026-01-12T15:00:25.600Z",
+        "focalPoint": null
       }
     },
     {
@@ -1004,7 +1015,68 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:35.019Z",
         "updatedAt": "2026-01-12T15:02:35.019Z",
-        "publishedAt": "2026-01-12T15:02:35.019Z"
+        "publishedAt": "2026-01-12T15:02:35.019Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 296,
+      "documentId": "hijxk862ysb7qcn8gzeki3lk",
+      "Title": "New European Bauhaus Facility 2026",
+      "Deadline": "2026-09-01",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η πρωτοβουλία New European Bauhaus Facility 2026 απευθύνεται σε οργανισμούς, ερευνητές και φορείς που δραστηριοποιούνται στους τομείς της βιωσιμότητας, της αρχιτεκτονικής, του πολιτισμού και της καινοτομίας. Στόχος είναι η υποστήριξη έργων που συνδυάζουν πράσινη μετάβαση, αισθητική και κοινωνική ένταξη. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://new-european-bauhaus.europa.eu/funding/new-european-bauhaus-facility_en",
+      "createdAt": "2026-05-11T07:51:56.469Z",
+      "updatedAt": "2026-05-11T07:51:56.469Z",
+      "publishedAt": "2026-05-11T07:51:56.505Z",
+      "ImageAltText": "bauhaus",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1093,
+        "documentId": "z1ykwwpu21ocycan3cshb46q",
+        "name": "αρχείο λήψης (12).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 201,
+        "height": 251,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_arxeio_lipsis_12_5966ed33bd.jpeg",
+            "hash": "thumbnail_arxeio_lipsis_12_5966ed33bd",
+            "mime": "image/jpeg",
+            "name": "thumbnail_αρχείο λήψης (12).jpeg",
+            "path": null,
+            "size": 5.41,
+            "width": 125,
+            "height": 156,
+            "sizeInBytes": 5409
+          }
+        },
+        "hash": "arxeio_lipsis_12_5966ed33bd",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 10.52,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/arxeio_lipsis_12_5966ed33bd.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-05-11T07:51:41.154Z",
+        "updatedAt": "2026-05-11T07:51:41.154Z",
+        "publishedAt": "2026-05-11T07:51:41.155Z",
+        "focalPoint": null
       }
     },
     {
@@ -1099,7 +1171,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:13:21.494Z",
         "updatedAt": "2026-03-06T16:13:21.494Z",
-        "publishedAt": "2026-03-06T16:13:21.494Z"
+        "publishedAt": "2026-03-06T16:13:21.494Z",
+        "focalPoint": null
       }
     },
     {
@@ -1194,7 +1267,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:14:37.161Z",
         "updatedAt": "2026-03-06T16:14:37.161Z",
-        "publishedAt": "2026-03-06T16:14:37.161Z"
+        "publishedAt": "2026-03-06T16:14:37.161Z",
+        "focalPoint": null
       }
     },
     {
@@ -1265,7 +1339,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:14:51.371Z",
         "updatedAt": "2026-03-06T16:14:51.371Z",
-        "publishedAt": "2026-03-06T16:14:51.371Z"
+        "publishedAt": "2026-03-06T16:14:51.371Z",
+        "focalPoint": null
       }
     },
     {
@@ -1360,7 +1435,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:15:12.564Z",
         "updatedAt": "2026-03-06T16:15:12.564Z",
-        "publishedAt": "2026-03-06T16:15:12.564Z"
+        "publishedAt": "2026-03-06T16:15:12.564Z",
+        "focalPoint": null
       }
     },
     {
@@ -1455,7 +1531,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:13:49.984Z",
         "updatedAt": "2026-03-06T16:13:49.984Z",
-        "publishedAt": "2026-03-06T16:13:49.984Z"
+        "publishedAt": "2026-03-06T16:13:49.984Z",
+        "focalPoint": null
       }
     },
     {
@@ -1550,7 +1627,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:14:01.183Z",
         "updatedAt": "2026-03-06T16:14:01.183Z",
-        "publishedAt": "2026-03-06T16:14:01.183Z"
+        "publishedAt": "2026-03-06T16:14:01.183Z",
+        "focalPoint": null
       }
     },
     {
@@ -1645,7 +1723,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:14:49.563Z",
         "updatedAt": "2026-03-06T16:14:49.563Z",
-        "publishedAt": "2026-03-06T16:14:49.563Z"
+        "publishedAt": "2026-03-06T16:14:49.563Z",
+        "focalPoint": null
       }
     },
     {
@@ -1740,7 +1819,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:15:34.305Z",
         "updatedAt": "2026-03-08T20:04:06.667Z",
-        "publishedAt": "2026-03-06T16:15:34.305Z"
+        "publishedAt": "2026-03-06T16:15:34.305Z",
+        "focalPoint": null
       }
     },
     {
@@ -1835,7 +1915,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:16:10.552Z",
         "updatedAt": "2026-03-06T16:16:10.552Z",
-        "publishedAt": "2026-03-06T16:16:10.552Z"
+        "publishedAt": "2026-03-06T16:16:10.552Z",
+        "focalPoint": null
       }
     },
     {
@@ -1930,7 +2011,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:16:22.304Z",
         "updatedAt": "2026-03-14T13:18:45.762Z",
-        "publishedAt": "2026-03-06T16:16:22.304Z"
+        "publishedAt": "2026-03-06T16:16:22.304Z",
+        "focalPoint": null
       }
     },
     {
@@ -2039,7 +2121,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:16:24.298Z",
         "updatedAt": "2026-03-06T16:16:24.298Z",
-        "publishedAt": "2026-03-06T16:16:24.299Z"
+        "publishedAt": "2026-03-06T16:16:24.299Z",
+        "focalPoint": null
       }
     },
     {
@@ -2134,7 +2217,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-06T16:16:43.750Z",
         "updatedAt": "2026-03-06T16:16:43.750Z",
-        "publishedAt": "2026-03-06T16:16:43.751Z"
+        "publishedAt": "2026-03-06T16:16:43.751Z",
+        "focalPoint": null
       }
     },
     {
@@ -2202,7 +2286,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:27:51.868Z",
         "updatedAt": "2026-02-05T08:27:51.868Z",
-        "publishedAt": "2026-02-05T08:27:51.869Z"
+        "publishedAt": "2026-02-05T08:27:51.869Z",
+        "focalPoint": null
       }
     },
     {
@@ -2261,7 +2346,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:27:51.868Z",
         "updatedAt": "2026-02-05T08:27:51.868Z",
-        "publishedAt": "2026-02-05T08:27:51.869Z"
+        "publishedAt": "2026-02-05T08:27:51.869Z",
+        "focalPoint": null
       }
     },
     {
@@ -2320,7 +2406,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:24:56.240Z",
         "updatedAt": "2026-02-05T08:24:56.240Z",
-        "publishedAt": "2026-02-05T08:24:56.241Z"
+        "publishedAt": "2026-02-05T08:24:56.241Z",
+        "focalPoint": null
       }
     },
     {
@@ -2388,7 +2475,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:26:33.803Z",
         "updatedAt": "2026-02-05T08:26:33.803Z",
-        "publishedAt": "2026-02-05T08:26:33.804Z"
+        "publishedAt": "2026-02-05T08:26:33.804Z",
+        "focalPoint": null
       }
     },
     {
@@ -2456,7 +2544,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-08T15:55:07.401Z",
         "updatedAt": "2026-03-09T06:53:42.590Z",
-        "publishedAt": "2026-03-08T15:55:07.401Z"
+        "publishedAt": "2026-03-08T15:55:07.401Z",
+        "focalPoint": null
       }
     },
     {
@@ -2569,7 +2658,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-08T15:55:10.878Z",
         "updatedAt": "2026-03-08T15:55:10.878Z",
-        "publishedAt": "2026-03-08T15:55:10.878Z"
+        "publishedAt": "2026-03-08T15:55:10.878Z",
+        "focalPoint": null
       }
     },
     {
@@ -2582,7 +2672,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Social Dynamo διοργανώνει εκπαιδευτικά προγράμματα με θέμα τη συνηγορία (advocacy) και την επιτήρησ�� δημόσιων πολιτικών, με στόχο την ενίσχυση των δεξιοτήτων οργανώσεων της κοινωνίας των πολιτών. Τα εργαστήρια απευθύνονται σε ΜΚΟ, κοινωνικούς φορείς και επαγγελματίες του τρίτου τομέα που επιθυμούν να αναπτύξουν εργαλεία στρατηγικής παρέμβασης, τεκμηρίωσης και παρακολούθησης πολιτικών.",
+              "text": "Το Social Dynamo διοργανώνει εκπαιδευτικά προγράμματα με θέμα τη συνηγορία (advocacy) και την επιτήρηση δημόσιων πολιτικών, με στόχο την ενίσχυση των δεξιοτήτων οργανώσεων της κοινωνίας των πολιτών. Τα εργαστήρια απευθύνονται σε ΜΚΟ, κοινωνικούς φορείς και επαγγελματίες του τρίτου τομέα που επιθυμούν να αναπτύξουν εργαλεία στρατηγικής παρέμβασης, τεκμηρίωσης και παρακολούθησης πολιτικών.",
               "type": "text"
             }
           ]
@@ -2628,7 +2718,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-08T15:55:07.345Z",
         "updatedAt": "2026-03-08T15:55:07.345Z",
-        "publishedAt": "2026-03-08T15:55:07.345Z"
+        "publishedAt": "2026-03-08T15:55:07.345Z",
+        "focalPoint": null
       }
     },
     {
@@ -2732,7 +2823,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-08T15:55:10.439Z",
         "updatedAt": "2026-03-09T06:49:50.221Z",
-        "publishedAt": "2026-03-08T15:55:10.439Z"
+        "publishedAt": "2026-03-08T15:55:10.439Z",
+        "focalPoint": null
       }
     },
     {
@@ -2812,7 +2904,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-08T15:55:09.198Z",
         "updatedAt": "2026-03-08T15:55:09.198Z",
-        "publishedAt": "2026-03-08T15:55:09.199Z"
+        "publishedAt": "2026-03-08T15:55:09.199Z",
+        "focalPoint": null
       }
     },
     {
@@ -2880,7 +2973,638 @@
         "provider_metadata": null,
         "createdAt": "2026-03-08T15:55:07.337Z",
         "updatedAt": "2026-03-08T15:55:07.337Z",
-        "publishedAt": "2026-03-08T15:55:07.337Z"
+        "publishedAt": "2026-03-08T15:55:07.337Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 266,
+      "documentId": "bhwc838uux98gbj2y8mq5tei",
+      "Title": "Θεσστιβαλάκι 2026: Φεστιβάλ Παιδικών Θεατρικών Ομάδων",
+      "Deadline": "2026-04-19",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το 5ο Πανελλήνιο Φεστιβάλ Παιδικών Θεατρικών Ομάδων “Θεσστιβαλάκι” προσκαλεί παιδικές θεατρικές ομάδες από όλη την Ελλάδα να συμμετάσχουν σε μια διοργάνωση που προωθεί τη δημιουργική έκφραση και τη θεατρική παιδεία. Απευθύνεται σε παιδικές ομάδες και σχολικά σχήματα, προσφέροντας τη δυνατότητα παρουσίασης παραστάσεων και συμμετοχής σε ένα περιβάλλον ανταλλαγής εμπειριών και καλλιτεχνικής έκφρασης.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZAAOKarFFUQTdXUThHWTZZVzBUT1pVQVJZVTdDUzYySS4u",
+      "createdAt": "2026-04-16T09:35:16.007Z",
+      "updatedAt": "2026-04-16T09:35:16.007Z",
+      "publishedAt": "2026-04-16T09:35:16.283Z",
+      "ImageAltText": "thestivalaki",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Καλλιτεχνικές Προσκλήσεις",
+      "Image": {
+        "id": 1057,
+        "documentId": "xig8y8kitpiudtgaft97ettt",
+        "name": "images (3).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 227,
+        "height": 222,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_3_a6583afa45.jpeg",
+            "hash": "thumbnail_images_3_a6583afa45",
+            "mime": "image/jpeg",
+            "name": "thumbnail_images (3).jpeg",
+            "path": null,
+            "size": 3.57,
+            "width": 160,
+            "height": 156,
+            "sizeInBytes": 3570
+          }
+        },
+        "hash": "images_3_a6583afa45",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 5.72,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_3_a6583afa45.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.200Z",
+        "updatedAt": "2026-04-16T09:34:42.124Z",
+        "publishedAt": "2026-04-16T09:33:53.200Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 278,
+      "documentId": "tsztm7vms43813l39pjerxsn",
+      "Title": "Anna Lindh Foundation – Call for Creators",
+      "Deadline": "2026-05-23",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το Anna Lindh Foundation Call for Creators απευθύνεται σε δημιουργούς που δραστηριοποιούνται στον χώρο της αφήγησης και της πολιτιστικής παραγωγής. Το πρόγραμμα υποστηρίζει την ανάπτυξη έργων με κοινωνικό αντίκτυπο και ενισχύει τη συνεργασία στη Μεσόγειο. ",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": " https://alf.website/en/shaping-transformative-narratives-in-action-cycle3/",
+      "createdAt": "2026-05-11T07:44:08.524Z",
+      "updatedAt": "2026-05-11T07:44:08.524Z",
+      "publishedAt": "2026-05-11T07:44:08.624Z",
+      "ImageAltText": "anna",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1029,
+        "documentId": "wz3jn0uh8f5lrnwt5tl45an5",
+        "name": "Untitled-design-8.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 600,
+        "height": 600,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Untitled_design_8_5a48da3c15.png",
+            "hash": "small_Untitled_design_8_5a48da3c15",
+            "mime": "image/png",
+            "name": "small_Untitled-design-8.png",
+            "path": null,
+            "size": 75.76,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 75757
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Untitled_design_8_5a48da3c15.png",
+            "hash": "thumbnail_Untitled_design_8_5a48da3c15",
+            "mime": "image/png",
+            "name": "thumbnail_Untitled-design-8.png",
+            "path": null,
+            "size": 13.58,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 13576
+          }
+        },
+        "hash": "Untitled_design_8_5a48da3c15",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 28.01,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Untitled_design_8_5a48da3c15.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-08T15:55:09.198Z",
+        "updatedAt": "2026-03-08T15:55:09.198Z",
+        "publishedAt": "2026-03-08T15:55:09.199Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 268,
+      "documentId": "y8daj16q838qn709n57xjfnm",
+      "Title": "Creative Innovation Lab 2026",
+      "Deadline": "2026-04-23",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η Ευρωπαϊκή Επιτροπή προκηρύσσει το Creative Innovation Lab (CREA-CROSS-2026-INNOVLAB), στο πλαίσιο του προγράμματος Creative Europe, με στόχο την ενίσχυση της καινοτομίας στους πολιτιστικούς και δημιουργικούς τομείς. Η δράση απευθύνεται σε οργανισμούς και φορείς του χώρου και υποστηρίζει έργα διατομεακής συνεργασίας που αξιοποιούν ψηφιακές τεχνολογίες και νέα μοντέλα ανάπτυξης. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-CROSS-2026-INNOVLAB",
+      "createdAt": "2026-04-16T09:36:23.336Z",
+      "updatedAt": "2026-04-16T09:36:23.336Z",
+      "publishedAt": "2026-04-16T09:36:23.581Z",
+      "ImageAltText": "EU Commission",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1060,
+        "documentId": "cs1dr40i58slvtq3cq7hvf3e",
+        "name": "Untitled design (16).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_Untitled_design_16_6c18ff60c8.png",
+            "hash": "large_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "large_Untitled design (16).png",
+            "path": null,
+            "size": 270.59,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 270590
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Untitled_design_16_6c18ff60c8.png",
+            "hash": "small_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "small_Untitled design (16).png",
+            "path": null,
+            "size": 85.28,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 85275
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_Untitled_design_16_6c18ff60c8.png",
+            "hash": "medium_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "medium_Untitled design (16).png",
+            "path": null,
+            "size": 168.57,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 168570
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Untitled_design_16_6c18ff60c8.png",
+            "hash": "thumbnail_Untitled_design_16_6c18ff60c8",
+            "mime": "image/png",
+            "name": "thumbnail_Untitled design (16).png",
+            "path": null,
+            "size": 14.48,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 14475
+          }
+        },
+        "hash": "Untitled_design_16_6c18ff60c8",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 59.76,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Untitled_design_16_6c18ff60c8.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:54.234Z",
+        "updatedAt": "2026-04-16T09:33:54.234Z",
+        "publishedAt": "2026-04-16T09:33:54.234Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 280,
+      "documentId": "ku712e77zy5nvii7n3k8iioh",
+      "Title": "Anna Lindh Foundation – Call for Community Leaders",
+      "Deadline": "2026-05-23",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το Anna Lindh Foundation Call for Community Leaders απευθύνεται σε νέους ηγέτες και ενεργά μέλη κοινοτήτων. Στόχος είναι η ενίσχυση της συμμετοχής των νέων και η ανάπτυξη πρωτοβουλιών με κοινωνικό και διαπολιτισμικό αντίκτυπο. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://alf.website/en/transformative-youth-in-action-cycle3/",
+      "createdAt": "2026-05-11T07:45:00.067Z",
+      "updatedAt": "2026-05-11T07:45:00.067Z",
+      "publishedAt": "2026-05-11T07:45:00.097Z",
+      "ImageAltText": "anna",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1029,
+        "documentId": "wz3jn0uh8f5lrnwt5tl45an5",
+        "name": "Untitled-design-8.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 600,
+        "height": 600,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Untitled_design_8_5a48da3c15.png",
+            "hash": "small_Untitled_design_8_5a48da3c15",
+            "mime": "image/png",
+            "name": "small_Untitled-design-8.png",
+            "path": null,
+            "size": 75.76,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 75757
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Untitled_design_8_5a48da3c15.png",
+            "hash": "thumbnail_Untitled_design_8_5a48da3c15",
+            "mime": "image/png",
+            "name": "thumbnail_Untitled-design-8.png",
+            "path": null,
+            "size": 13.58,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 13576
+          }
+        },
+        "hash": "Untitled_design_8_5a48da3c15",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 28.01,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Untitled_design_8_5a48da3c15.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-08T15:55:09.198Z",
+        "updatedAt": "2026-03-08T15:55:09.198Z",
+        "publishedAt": "2026-03-08T15:55:09.199Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 270,
+      "documentId": "xyuvxbplty1x60o6huvl961q",
+      "Title": "Creativity Pioneers Fund",
+      "Deadline": "2026-04-24",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το Creativity Pioneers Fund απευθύνει ανοιχτή πρόσκληση σε grassroots οργανισμούς που δραστηριοποιούνται σε κοινωνική και πολιτιστική καινοτομία. Το πρόγραμμα παρέχει χρηματοδότηση και πρόσβαση σε ένα διεθνές δίκτυο υπ��στήριξης, με στόχο την ενίσχυση πρωτοβουλιών με κοινωνικό αντίκτυπο. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.creativitypioneersfund.org/opencall",
+      "createdAt": "2026-04-16T09:37:35.259Z",
+      "updatedAt": "2026-04-16T09:37:35.259Z",
+      "publishedAt": "2026-04-16T09:37:35.508Z",
+      "ImageAltText": "Creative pioneers fund",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1059,
+        "documentId": "u6qj0xw705qmge679bqd8b2w",
+        "name": "αρχείο λήψης (9).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 225,
+        "height": 225,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_arxeio_lipsis_9_7db9bd3c46.jpeg",
+            "hash": "thumbnail_arxeio_lipsis_9_7db9bd3c46",
+            "mime": "image/jpeg",
+            "name": "thumbnail_αρχείο λήψης (9).jpeg",
+            "path": null,
+            "size": 6.38,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 6375
+          }
+        },
+        "hash": "arxeio_lipsis_9_7db9bd3c46",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 10.31,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/arxeio_lipsis_9_7db9bd3c46.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.292Z",
+        "updatedAt": "2026-04-16T09:36:58.771Z",
+        "publishedAt": "2026-04-16T09:33:53.292Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 282,
+      "documentId": "vhhrfaz53fbegnlo887nga2b",
+      "Title": "Anna Lindh Foundation – Call for Researchers",
+      "Deadline": "2026-05-23",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το Anna Lindh Foundation Call for Researchers απευθύνεται σε ερευνητές που ασχολούνται με ζητήματα νεολαίας και κοινωνίας στη Μεσόγειο. Υποστηρίζει την παραγωγή γνώσης και την ενίσχυση της φωνής των νέων μέσα από ερευνητικές πρωτοβουλίες. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://alf.website/en/voicing-youth-knowledge-cycle3/",
+      "createdAt": "2026-05-11T07:45:41.128Z",
+      "updatedAt": "2026-05-11T07:45:41.128Z",
+      "publishedAt": "2026-05-11T07:45:41.171Z",
+      "ImageAltText": "anna",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1029,
+        "documentId": "wz3jn0uh8f5lrnwt5tl45an5",
+        "name": "Untitled-design-8.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 600,
+        "height": 600,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_Untitled_design_8_5a48da3c15.png",
+            "hash": "small_Untitled_design_8_5a48da3c15",
+            "mime": "image/png",
+            "name": "small_Untitled-design-8.png",
+            "path": null,
+            "size": 75.76,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 75757
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_Untitled_design_8_5a48da3c15.png",
+            "hash": "thumbnail_Untitled_design_8_5a48da3c15",
+            "mime": "image/png",
+            "name": "thumbnail_Untitled-design-8.png",
+            "path": null,
+            "size": 13.58,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 13576
+          }
+        },
+        "hash": "Untitled_design_8_5a48da3c15",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 28.01,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/Untitled_design_8_5a48da3c15.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-03-08T15:55:09.198Z",
+        "updatedAt": "2026-03-08T15:55:09.198Z",
+        "publishedAt": "2026-03-08T15:55:09.199Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 272,
+      "documentId": "smj43o02pw9iutq94e6irwoo",
+      "Title": "BAN Reconnection Grant ",
+      "Deadline": "2026-06-07",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το BAN Reconnection Grant (2ος γύρος) υποστηρίζει πρωτοβουλίες που ενισχύουν τη συνεργασία και την επανασύνδεση μεταξύ μελών του Bosch Alumni Network, χρηματοδοτώντας την ανάπτυξη κοινών έργων και δράσεων. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.boschalumni.net/opportunities/337181",
+      "createdAt": "2026-04-16T09:38:17.729Z",
+      "updatedAt": "2026-04-16T09:38:17.729Z",
+      "publishedAt": "2026-04-16T09:38:17.979Z",
+      "ImageAltText": "BAN",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1058,
+        "documentId": "e4j5m20ptxrflqdnjt8p3zw0",
+        "name": "images (19).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+            "hash": "thumbnail_images_19_99c1e15545",
+            "mime": "image/png",
+            "name": "thumbnail_images (19).png",
+            "path": null,
+            "size": 18.41,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 18410
+          }
+        },
+        "hash": "images_19_99c1e15545",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 5.62,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.285Z",
+        "updatedAt": "2026-04-16T09:33:53.285Z",
+        "publishedAt": "2026-04-16T09:33:53.285Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 284,
+      "documentId": "v0jx33g0lairl5vtxy3ebr5k",
+      "Title": "Bosch Alumni Network – Reconnection Grants",
+      "Deadline": "2026-06-07",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το BAN Reconnection Grants απευθύνεται σε μέλη του Bosch Alumni Network και υποστηρίζει πρωτοβουλίες που ενισχύουν τη συνεργασία και την επανασύνδεση μεταξύ μελών, χρηματοδοτώντας την ανάπτυξη κοινών έργων και δράσεων.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.boschalumni.net/opportunities/338364 ",
+      "createdAt": "2026-05-11T07:46:20.484Z",
+      "updatedAt": "2026-05-11T07:46:20.484Z",
+      "publishedAt": "2026-05-11T07:46:20.519Z",
+      "ImageAltText": "bosch",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1058,
+        "documentId": "e4j5m20ptxrflqdnjt8p3zw0",
+        "name": "images (19).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+            "hash": "thumbnail_images_19_99c1e15545",
+            "mime": "image/png",
+            "name": "thumbnail_images (19).png",
+            "path": null,
+            "size": 18.41,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 18410
+          }
+        },
+        "hash": "images_19_99c1e15545",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 5.62,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.285Z",
+        "updatedAt": "2026-04-16T09:33:53.285Z",
+        "publishedAt": "2026-04-16T09:33:53.285Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 274,
+      "documentId": "suzcu8i22b77a2m92k606boe",
+      "Title": "Spaces of Culture 2026",
+      "Deadline": "2026-06-11",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το δίκτυο EUNIC ανακοινώνει την πρόσκληση “Spaces of Culture 2026”, η οποία στηρίζει έργα πολιτιστικής συνεργασίας σε χώρες εκτός Ευρωπαϊκής Ένωσης. Η πρωτοβουλία απευθύνεται σε ευρωπαϊκούς πολιτιστικούς οργανισμούς και τοπικούς εταίρους, ενισχύοντας τον διαπολιτισμικό διάλογο και την ανάπτυξη συνεργασιών με τοπικές κοινότητες. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://eunic.eu/news/spaces-of-culture-2026",
+      "createdAt": "2026-04-16T09:39:33.045Z",
+      "updatedAt": "2026-04-16T09:39:33.045Z",
+      "publishedAt": "2026-04-16T09:39:33.291Z",
+      "ImageAltText": "Spaces of culture",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1056,
+        "documentId": "y4txob7j1iei5h1a5nvjcguq",
+        "name": "images (4).jpeg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpeg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_4_8d2f7f8fbb.jpeg",
+            "hash": "thumbnail_images_4_8d2f7f8fbb",
+            "mime": "image/jpeg",
+            "name": "thumbnail_images (4).jpeg",
+            "path": null,
+            "size": 7.8,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 7795
+          }
+        },
+        "hash": "images_4_8d2f7f8fbb",
+        "ext": ".jpeg",
+        "mime": "image/jpeg",
+        "size": 10.42,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_4_8d2f7f8fbb.jpeg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.186Z",
+        "updatedAt": "2026-04-16T09:33:53.186Z",
+        "publishedAt": "2026-04-16T09:33:53.187Z",
+        "focalPoint": null
       }
     },
     {
@@ -2975,7 +3699,278 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:57.958Z",
         "updatedAt": "2026-01-12T14:59:57.958Z",
-        "publishedAt": "2026-01-12T14:59:57.958Z"
+        "publishedAt": "2026-01-12T14:59:57.958Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 286,
+      "documentId": "li73g584gsgyz8859rw759wg",
+      "Title": "České Budějovice 2028 – (Perma)culture Call for Projects",
+      "Deadline": "2026-06-10",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η πρωτοβουλία České Budějovice 2028 European Capital of Culture απευθύνεται σε καλλιτέχνες, πολιτιστικούς οργανισμούς και συλλογικότητες. Στηρίζει έργα που συνδέουν τον πολιτισμό με τη βιωσιμότητα και την οικολογία, προωθώντας τη συμμετοχή της τοπικής κοινότητας στο πλαίσιο της Ευρωπαϊκής Πολιτιστικής Πρωτεύουσας. ",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.budejovice2028.eu/en/open-call",
+      "createdAt": "2026-05-11T07:48:12.160Z",
+      "updatedAt": "2026-05-11T07:48:12.160Z",
+      "publishedAt": "2026-05-11T07:48:12.209Z",
+      "ImageAltText": "b28",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1091,
+        "documentId": "q7ir20rcedet1yjguh02x1yn",
+        "name": "ntina - 2026-05-06T214251.813.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg",
+            "hash": "large_ntina_2026_05_06_T214251_813_82bff7d5c3",
+            "mime": "image/jpeg",
+            "name": "large_ntina - 2026-05-06T214251.813.jpg",
+            "path": null,
+            "size": 28.18,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 28179
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg",
+            "hash": "small_ntina_2026_05_06_T214251_813_82bff7d5c3",
+            "mime": "image/jpeg",
+            "name": "small_ntina - 2026-05-06T214251.813.jpg",
+            "path": null,
+            "size": 13,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 13002
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg",
+            "hash": "medium_ntina_2026_05_06_T214251_813_82bff7d5c3",
+            "mime": "image/jpeg",
+            "name": "medium_ntina - 2026-05-06T214251.813.jpg",
+            "path": null,
+            "size": 19.6,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 19598
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_ntina_2026_05_06_T214251_813_82bff7d5c3.jpg",
+            "hash": "thumbnail_ntina_2026_05_06_T214251_813_82bff7d5c3",
+            "mime": "image/jpeg",
+            "name": "thumbnail_ntina - 2026-05-06T214251.813.jpg",
+            "path": null,
+            "size": 3.68,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 3677
+          }
+        },
+        "hash": "ntina_2026_05_06_T214251_813_82bff7d5c3",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 28.87,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/ntina_2026_05_06_T214251_813_82bff7d5c3.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-05-11T07:47:22.593Z",
+        "updatedAt": "2026-05-11T07:47:22.593Z",
+        "publishedAt": "2026-05-11T07:47:22.593Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 276,
+      "documentId": "oxgojvrugnz75glim160xggu",
+      "Title": "BAN Learning Exchange Grants",
+      "Deadline": "2026-06-21",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Τα BAN Learning Exchange Grants απευθύνονται σε μέλη του Bosch Alumni Network και υποστηρίζουν δράσεις ανταλλαγής γνώσης και εμπειριών. Παρέχουν χρηματοδότηση για τη διοργάνωση επισκέψεων, εργαστηρίων και συνεργατικών πρωτοβουλιών μεταξύ μελών του δικτύου. ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.boschalumni.net/opportunities/335045",
+      "createdAt": "2026-04-16T09:40:13.247Z",
+      "updatedAt": "2026-04-16T09:40:13.247Z",
+      "publishedAt": "2026-04-16T09:40:13.506Z",
+      "ImageAltText": "ban",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1058,
+        "documentId": "e4j5m20ptxrflqdnjt8p3zw0",
+        "name": "images (19).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+            "hash": "thumbnail_images_19_99c1e15545",
+            "mime": "image/png",
+            "name": "thumbnail_images (19).png",
+            "path": null,
+            "size": 18.41,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 18410
+          }
+        },
+        "hash": "images_19_99c1e15545",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 5.62,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.285Z",
+        "updatedAt": "2026-04-16T09:33:53.285Z",
+        "publishedAt": "2026-04-16T09:33:53.285Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 288,
+      "documentId": "nv1k8ctl7g5onjo9y37px43a",
+      "Title": "MATAROA Street Contest vol. 3 – Πρόσκληση ενδιαφέροντος",
+      "Deadline": "2026-06-15",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το MATAROA Street Contest vol. 3 απευθύνεται σε street artists και δημιουργούς αστικής τέχνης. Η πρόσκληση προσφέρει τη δυνατότητα συμμετοχής στον διαγωνισμό καλλιτεχνικής δημιουργίας σε δημόσιο χώρο, ενισχύοντας την καλλιτεχνική έκφραση και την ορατότητα των συμμετεχόντων. ",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.culturalsociety.gr/uncategorized/mataroa-street-contest-vol-3-prosklisi-endiaferontos",
+      "createdAt": "2026-05-11T07:48:48.558Z",
+      "updatedAt": "2026-05-11T07:48:48.558Z",
+      "publishedAt": "2026-05-11T07:48:48.596Z",
+      "ImageAltText": "mataora",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1092,
+        "documentId": "xn1bou0ui7ysef2aep640qb2",
+        "name": "ntina - 2026-05-06T214408.982.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_ntina_2026_05_06_T214408_982_6edb9d580b.jpg",
+            "hash": "large_ntina_2026_05_06_T214408_982_6edb9d580b",
+            "mime": "image/jpeg",
+            "name": "large_ntina - 2026-05-06T214408.982.jpg",
+            "path": null,
+            "size": 34.04,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 34042
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_ntina_2026_05_06_T214408_982_6edb9d580b.jpg",
+            "hash": "small_ntina_2026_05_06_T214408_982_6edb9d580b",
+            "mime": "image/jpeg",
+            "name": "small_ntina - 2026-05-06T214408.982.jpg",
+            "path": null,
+            "size": 14.22,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 14220
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_ntina_2026_05_06_T214408_982_6edb9d580b.jpg",
+            "hash": "medium_ntina_2026_05_06_T214408_982_6edb9d580b",
+            "mime": "image/jpeg",
+            "name": "medium_ntina - 2026-05-06T214408.982.jpg",
+            "path": null,
+            "size": 23.21,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 23207
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_ntina_2026_05_06_T214408_982_6edb9d580b.jpg",
+            "hash": "thumbnail_ntina_2026_05_06_T214408_982_6edb9d580b",
+            "mime": "image/jpeg",
+            "name": "thumbnail_ntina - 2026-05-06T214408.982.jpg",
+            "path": null,
+            "size": 3.26,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 3259
+          }
+        },
+        "hash": "ntina_2026_05_06_T214408_982_6edb9d580b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 36.58,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/ntina_2026_05_06_T214408_982_6edb9d580b.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-05-11T07:47:22.670Z",
+        "updatedAt": "2026-05-11T07:47:22.670Z",
+        "publishedAt": "2026-05-11T07:47:22.670Z",
+        "focalPoint": null
       }
     },
     {
@@ -3070,7 +4065,173 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:07.292Z",
         "updatedAt": "2026-01-12T14:57:07.292Z",
-        "publishedAt": "2026-01-12T14:57:07.292Z"
+        "publishedAt": "2026-01-12T14:57:07.292Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 290,
+      "documentId": "pdlvesm3s5uetin344tps7mg",
+      "Title": "Bosch Alumni Network – Learning Exchange Grants",
+      "Deadline": "2026-06-21",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tα BAN Learning Exchange Grants απευθύνονται σε μέλη του Bosch Alumni Network και υποστηρίζουν δράσεις ανταλλαγής γνώσης και εμπειριών. Παρέχουν χρηματοδότηση για τη διοργάνωση επισκέψεων, εργαστηρίων και συνεργατικών πρωτοβουλιών μεταξύ μελών του δικτύου. ",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.boschalumni.net/opportunities/335045",
+      "createdAt": "2026-05-11T07:49:27.828Z",
+      "updatedAt": "2026-05-11T07:49:27.828Z",
+      "publishedAt": "2026-05-11T07:49:27.872Z",
+      "ImageAltText": "bosch",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1058,
+        "documentId": "e4j5m20ptxrflqdnjt8p3zw0",
+        "name": "images (19).png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 192,
+        "height": 192,
+        "formats": {
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_images_19_99c1e15545.png",
+            "hash": "thumbnail_images_19_99c1e15545",
+            "mime": "image/png",
+            "name": "thumbnail_images (19).png",
+            "path": null,
+            "size": 18.41,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 18410
+          }
+        },
+        "hash": "images_19_99c1e15545",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 5.62,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/images_19_99c1e15545.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-04-16T09:33:53.285Z",
+        "updatedAt": "2026-04-16T09:33:53.285Z",
+        "publishedAt": "2026-04-16T09:33:53.285Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 292,
+      "documentId": "axkuxqwhbfhxz5ni0u1mok2m",
+      "Title": "Ίδρυμα Μποδοσάκη – Voices/CERV: Καταπολέμηση της έμφυλης βίας",
+      "Deadline": "2026-07-01",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το πρόγραμμα Voices/CERV του Ίδρυμα Μποδοσάκη απευθύνεται σε οργανώσεις της κοινωνίας των πολιτών που δραστηριοποιούνται στην καταπολέμηση της έμφυλης βίας. Παρέχει χρηματοδότηση για δράσεις πρόληψης, υποστήριξης θυμάτων και ευαισθητοποίησης, ενισχύοντας την προστασία των θεμελιωδών δικαιωμάτων.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.bodossaki.gr/draseis-synergasias/thesmikoiforeis/voices-cerv/prosklisi-ypovolis-protaseon/",
+      "createdAt": "2026-05-11T07:50:11.360Z",
+      "updatedAt": "2026-05-11T07:50:11.360Z",
+      "publishedAt": "2026-05-11T07:50:11.401Z",
+      "ImageAltText": "voices",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1090,
+        "documentId": "ybqb68p3yzfpb5f56r76ets3",
+        "name": "ntina - 2026-05-06T214707.582.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg",
+            "hash": "large_ntina_2026_05_06_T214707_582_c16ae3efe2",
+            "mime": "image/jpeg",
+            "name": "large_ntina - 2026-05-06T214707.582.jpg",
+            "path": null,
+            "size": 41.02,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 41017
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg",
+            "hash": "small_ntina_2026_05_06_T214707_582_c16ae3efe2",
+            "mime": "image/jpeg",
+            "name": "small_ntina - 2026-05-06T214707.582.jpg",
+            "path": null,
+            "size": 16.23,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 16226
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg",
+            "hash": "medium_ntina_2026_05_06_T214707_582_c16ae3efe2",
+            "mime": "image/jpeg",
+            "name": "medium_ntina - 2026-05-06T214707.582.jpg",
+            "path": null,
+            "size": 28.2,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 28199
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_ntina_2026_05_06_T214707_582_c16ae3efe2.jpg",
+            "hash": "thumbnail_ntina_2026_05_06_T214707_582_c16ae3efe2",
+            "mime": "image/jpeg",
+            "name": "thumbnail_ntina - 2026-05-06T214707.582.jpg",
+            "path": null,
+            "size": 4.01,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 4007
+          }
+        },
+        "hash": "ntina_2026_05_06_T214707_582_c16ae3efe2",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 45.24,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/ntina_2026_05_06_T214707_582_c16ae3efe2.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-05-11T07:47:22.592Z",
+        "updatedAt": "2026-05-11T07:47:22.592Z",
+        "publishedAt": "2026-05-11T07:47:22.592Z",
+        "focalPoint": null
       }
     },
     {
@@ -3165,7 +4326,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:12.955Z",
         "updatedAt": "2026-01-12T14:57:12.955Z",
-        "publishedAt": "2026-01-12T14:57:12.956Z"
+        "publishedAt": "2026-01-12T14:57:12.956Z",
+        "focalPoint": null
       }
     },
     {
@@ -3260,7 +4422,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:15.326Z",
         "updatedAt": "2026-01-12T14:57:15.326Z",
-        "publishedAt": "2026-01-12T14:57:15.326Z"
+        "publishedAt": "2026-01-12T14:57:15.326Z",
+        "focalPoint": null
       }
     },
     {
@@ -3355,7 +4518,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:32.149Z",
         "updatedAt": "2026-01-12T14:57:32.149Z",
-        "publishedAt": "2026-01-12T14:57:32.150Z"
+        "publishedAt": "2026-01-12T14:57:32.150Z",
+        "focalPoint": null
       }
     },
     {
@@ -3450,7 +4614,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:38.321Z",
         "updatedAt": "2026-01-12T14:57:38.321Z",
-        "publishedAt": "2026-01-12T14:57:38.321Z"
+        "publishedAt": "2026-01-12T14:57:38.321Z",
+        "focalPoint": null
       }
     },
     {
@@ -3545,7 +4710,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:48.892Z",
         "updatedAt": "2026-01-12T14:57:48.892Z",
-        "publishedAt": "2026-01-12T14:57:48.892Z"
+        "publishedAt": "2026-01-12T14:57:48.892Z",
+        "focalPoint": null
       }
     },
     {
@@ -3640,7 +4806,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:03:29.540Z",
         "updatedAt": "2026-01-12T15:03:29.540Z",
-        "publishedAt": "2026-01-12T15:03:29.541Z"
+        "publishedAt": "2026-01-12T15:03:29.541Z",
+        "focalPoint": null
       }
     },
     {
@@ -3735,7 +4902,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:21.999Z",
         "updatedAt": "2026-01-12T14:57:21.999Z",
-        "publishedAt": "2026-01-12T14:57:21.999Z"
+        "publishedAt": "2026-01-12T14:57:21.999Z",
+        "focalPoint": null
       }
     },
     {
@@ -3830,7 +4998,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:57:54.981Z",
         "updatedAt": "2026-01-12T14:57:54.981Z",
-        "publishedAt": "2026-01-12T14:57:54.981Z"
+        "publishedAt": "2026-01-12T14:57:54.981Z",
+        "focalPoint": null
       }
     },
     {
@@ -3925,7 +5094,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:29.889Z",
         "updatedAt": "2026-01-12T14:58:29.889Z",
-        "publishedAt": "2026-01-12T14:58:29.889Z"
+        "publishedAt": "2026-01-12T14:58:29.889Z",
+        "focalPoint": null
       }
     },
     {
@@ -4020,7 +5190,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:39.027Z",
         "updatedAt": "2026-01-12T15:02:39.027Z",
-        "publishedAt": "2026-01-12T15:02:39.027Z"
+        "publishedAt": "2026-01-12T15:02:39.027Z",
+        "focalPoint": null
       }
     },
     {
@@ -4115,7 +5286,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:42.355Z",
         "updatedAt": "2026-01-12T15:02:42.355Z",
-        "publishedAt": "2026-01-12T15:02:42.356Z"
+        "publishedAt": "2026-01-12T15:02:42.356Z",
+        "focalPoint": null
       }
     },
     {
@@ -4210,7 +5382,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:03:35.941Z",
         "updatedAt": "2026-01-12T15:03:35.941Z",
-        "publishedAt": "2026-01-12T15:03:35.941Z"
+        "publishedAt": "2026-01-12T15:03:35.941Z",
+        "focalPoint": null
       }
     },
     {
@@ -4305,7 +5478,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:49.510Z",
         "updatedAt": "2026-01-12T15:02:49.510Z",
-        "publishedAt": "2026-01-12T15:02:49.510Z"
+        "publishedAt": "2026-01-12T15:02:49.510Z",
+        "focalPoint": null
       }
     },
     {
@@ -4364,7 +5538,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:03:41.685Z",
         "updatedAt": "2026-01-12T15:03:41.685Z",
-        "publishedAt": "2026-01-12T15:03:41.685Z"
+        "publishedAt": "2026-01-12T15:03:41.685Z",
+        "focalPoint": null
       }
     },
     {
@@ -4459,7 +5634,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:07.522Z",
         "updatedAt": "2026-01-12T14:58:07.522Z",
-        "publishedAt": "2026-01-12T14:58:07.523Z"
+        "publishedAt": "2026-01-12T14:58:07.523Z",
+        "focalPoint": null
       }
     },
     {
@@ -4518,7 +5694,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:09.628Z",
         "updatedAt": "2026-01-12T14:58:09.628Z",
-        "publishedAt": "2026-01-12T14:58:09.628Z"
+        "publishedAt": "2026-01-12T14:58:09.628Z",
+        "focalPoint": null
       }
     },
     {
@@ -4613,7 +5790,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:18.280Z",
         "updatedAt": "2026-01-12T14:58:18.280Z",
-        "publishedAt": "2026-01-12T14:58:18.280Z"
+        "publishedAt": "2026-01-12T14:58:18.280Z",
+        "focalPoint": null
       }
     },
     {
@@ -4672,7 +5850,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:20.256Z",
         "updatedAt": "2026-01-12T14:58:20.256Z",
-        "publishedAt": "2026-01-12T14:58:20.256Z"
+        "publishedAt": "2026-01-12T14:58:20.256Z",
+        "focalPoint": null
       }
     },
     {
@@ -4755,7 +5934,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:24.441Z",
         "updatedAt": "2026-01-12T14:58:24.441Z",
-        "publishedAt": "2026-01-12T14:58:24.441Z"
+        "publishedAt": "2026-01-12T14:58:24.441Z",
+        "focalPoint": null
       }
     },
     {
@@ -4850,7 +6030,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:44.106Z",
         "updatedAt": "2026-01-12T14:58:44.106Z",
-        "publishedAt": "2026-01-12T14:58:44.107Z"
+        "publishedAt": "2026-01-12T14:58:44.107Z",
+        "focalPoint": null
       }
     },
     {
@@ -4921,7 +6102,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:28.319Z",
         "updatedAt": "2026-01-12T14:59:28.319Z",
-        "publishedAt": "2026-01-12T14:59:28.319Z"
+        "publishedAt": "2026-01-12T14:59:28.319Z",
+        "focalPoint": null
       }
     },
     {
@@ -5016,7 +6198,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:36.584Z",
         "updatedAt": "2026-01-12T14:59:36.584Z",
-        "publishedAt": "2026-01-12T14:59:36.584Z"
+        "publishedAt": "2026-01-12T14:59:36.584Z",
+        "focalPoint": null
       }
     },
     {
@@ -5111,7 +6294,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:47.027Z",
         "updatedAt": "2026-01-12T14:58:47.027Z",
-        "publishedAt": "2026-01-12T14:58:47.027Z"
+        "publishedAt": "2026-01-12T14:58:47.027Z",
+        "focalPoint": null
       }
     },
     {
@@ -5182,7 +6366,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:15.616Z",
         "updatedAt": "2026-01-12T14:59:15.616Z",
-        "publishedAt": "2026-01-12T14:59:15.616Z"
+        "publishedAt": "2026-01-12T14:59:15.616Z",
+        "focalPoint": null
       }
     },
     {
@@ -5277,7 +6462,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:00:07.733Z",
         "updatedAt": "2026-01-12T15:00:07.733Z",
-        "publishedAt": "2026-01-12T15:00:07.733Z"
+        "publishedAt": "2026-01-12T15:00:07.733Z",
+        "focalPoint": null
       }
     },
     {
@@ -5372,7 +6558,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:42.937Z",
         "updatedAt": "2026-01-12T15:01:42.937Z",
-        "publishedAt": "2026-01-12T15:01:42.937Z"
+        "publishedAt": "2026-01-12T15:01:42.937Z",
+        "focalPoint": null
       }
     },
     {
@@ -5431,7 +6618,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:54.453Z",
         "updatedAt": "2026-01-12T15:01:54.453Z",
-        "publishedAt": "2026-01-12T15:01:54.453Z"
+        "publishedAt": "2026-01-12T15:01:54.453Z",
+        "focalPoint": null
       }
     },
     {
@@ -5526,7 +6714,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:40.117Z",
         "updatedAt": "2026-01-12T15:01:40.117Z",
-        "publishedAt": "2026-01-12T15:01:40.117Z"
+        "publishedAt": "2026-01-12T15:01:40.117Z",
+        "focalPoint": null
       }
     },
     {
@@ -5621,7 +6810,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:24.899Z",
         "updatedAt": "2026-01-12T15:02:24.899Z",
-        "publishedAt": "2026-01-12T15:02:24.899Z"
+        "publishedAt": "2026-01-12T15:02:24.899Z",
+        "focalPoint": null
       }
     },
     {
@@ -5680,7 +6870,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:29.843Z",
         "updatedAt": "2026-01-12T15:02:29.843Z",
-        "publishedAt": "2026-01-12T15:02:29.843Z"
+        "publishedAt": "2026-01-12T15:02:29.843Z",
+        "focalPoint": null
       }
     },
     {
@@ -5693,7 +6884,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Ίδρυμα Μποδοσάκη, με την ιδιότητα του συγχρηματοδότη και συντονιστή, σε σύμπραξη με το Κέντρο Στήριξης ΜΚΟ (Κύπρος), ανακοινώνει την έναρξη του προγράμματος “Preventing gender-based violence and violence against children” (PREVENT) με συνολική χρηματοδότηση ύψους €2,3 εκ., που θα ενισχύσει την Κοινωνία των Πολιτών στην Ελλάδα και στην Κύπρο. H ανοιχτή πρόσκληση εκδήλωσης ενδιαφέροντος θα ανακοινωθεί σύντομα και οι ενδιαφερόμενες οργανώσεις μπορούν να υποβάλουν τις αιτήσεις τους έως τις 25 Σεπτεμβρίου 2024. Για αναλυτικές πληροφορίες για το νέο πρόγραμμα, τις ευκαιρίες χρηματοδότησης και οργανωτικής ενδυνάμωσης σας προσκαλούμε στην εκδήλωση έναρξης του PREVENT που θα πραγματοποιηθεί την Τετάρτη 5 Ιουνίου στις 10.00 π.μ., στο Μουσείο Μπενάκη - Πειραιώς 138. Θα ακολουθήσει σειρά εργαστήριων συγγραφής αιτήσεων σε Αθήνα, Θεσσαλονίκη, Ηράκλειο και Πάτρα.",
+              "text": "Το Ίδρυμα Μποδοσάκη, με την ιδιότητα του συγχρηματοδότη και συντονιστή, σε σύμπραξη με το Κέντρο Στήριξης ΜΚΟ (Κύπρος), ανακοινώνει την έναρξη του προγράμματος “Preventing gender-based violence and violence against children” (PREVENT) με συνολική χρηματοδότηση ύψους €2,3 εκ., που θα ενισχύσει την Κοινωνία των Πολιτών στην Ελλάδα και στην Κύπρο. H ανοιχτή πρόσκληση εκδήλωσης ενδιαφέροντος θα ανακοινωθεί σύντομα και οι ενδιαφερόμενες οργανώσεις μπορούν να υποβάλουν τις αιτήσεις τους έως τις 25 Σεπτεμβρίου 2024. Για αναλυτικές πληροφορίες για το νέο πρόγραμμα, τις ευκαιρίες χρηματοδότησης και οργανωτικής ενδυνάμωσης σας προσκαλούμε στην εκδήλωση έναρξης του PREVENT που θα πραγμ��τοποιηθεί την Τετάρτη 5 Ιουνίου στις 10.00 π.μ., στο Μουσείο Μπενάκη - Πειραιώς 138. Θα ακολουθήσει σειρά εργαστήριων συγγραφής αιτήσεων σε Αθήνα, Θεσσαλονίκη, Ηράκλειο και Πάτρα.",
               "type": "text"
             }
           ]
@@ -5775,7 +6966,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:44.418Z",
         "updatedAt": "2026-01-12T15:02:44.418Z",
-        "publishedAt": "2026-01-12T15:02:44.418Z"
+        "publishedAt": "2026-01-12T15:02:44.418Z",
+        "focalPoint": null
       }
     },
     {
@@ -5870,7 +7062,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:02:47.118Z",
         "updatedAt": "2026-01-12T15:02:47.118Z",
-        "publishedAt": "2026-01-12T15:02:47.118Z"
+        "publishedAt": "2026-01-12T15:02:47.118Z",
+        "focalPoint": null
       }
     },
     {
@@ -5965,7 +7158,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:03:38.623Z",
         "updatedAt": "2026-01-12T15:03:38.623Z",
-        "publishedAt": "2026-01-12T15:03:38.624Z"
+        "publishedAt": "2026-01-12T15:03:38.624Z",
+        "focalPoint": null
       }
     },
     {
@@ -6060,7 +7254,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:03:44.607Z",
         "updatedAt": "2026-01-12T15:03:44.607Z",
-        "publishedAt": "2026-01-12T15:03:44.607Z"
+        "publishedAt": "2026-01-12T15:03:44.607Z",
+        "focalPoint": null
       }
     },
     {
@@ -6119,7 +7314,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:29:55.048Z",
         "updatedAt": "2026-02-05T08:31:03.269Z",
-        "publishedAt": "2026-02-05T08:29:55.049Z"
+        "publishedAt": "2026-02-05T08:29:55.049Z",
+        "focalPoint": null
       }
     },
     {
@@ -6214,7 +7410,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T15:01:52.784Z",
         "updatedAt": "2026-01-12T15:01:52.784Z",
-        "publishedAt": "2026-01-12T15:01:52.786Z"
+        "publishedAt": "2026-01-12T15:01:52.786Z",
+        "focalPoint": null
       }
     },
     {
@@ -6297,7 +7494,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:58:26.787Z",
         "updatedAt": "2026-01-12T14:58:26.787Z",
-        "publishedAt": "2026-01-12T14:58:26.787Z"
+        "publishedAt": "2026-01-12T14:58:26.787Z",
+        "focalPoint": null
       }
     },
     {
@@ -6392,7 +7590,8 @@
         "provider_metadata": null,
         "createdAt": "2026-01-12T14:59:55.352Z",
         "updatedAt": "2026-01-12T14:59:55.352Z",
-        "publishedAt": "2026-01-12T14:59:55.352Z"
+        "publishedAt": "2026-01-12T14:59:55.352Z",
+        "focalPoint": null
       }
     },
     {
@@ -6460,7 +7659,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:29:55.048Z",
         "updatedAt": "2026-02-05T08:31:03.269Z",
-        "publishedAt": "2026-02-05T08:29:55.049Z"
+        "publishedAt": "2026-02-05T08:29:55.049Z",
+        "focalPoint": null
       }
     },
     {
@@ -6519,7 +7719,113 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:28:54.416Z",
         "updatedAt": "2026-02-05T08:28:54.416Z",
-        "publishedAt": "2026-02-05T08:28:54.417Z"
+        "publishedAt": "2026-02-05T08:28:54.417Z",
+        "focalPoint": null
+      }
+    },
+    {
+      "id": 294,
+      "documentId": "emkjl4fmj6r6rsk7ylslmq78",
+      "Title": "EU-Japan Fest Mobility Support 2026",
+      "Deadline": "2026-05-31",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το EU-Japan Fest Mobility Support 2026 απευθύνεται σε καλλιτέχνες και πολιτιστικούς επαγγελματίες που συνεργάζονται με πόλεις που φέρουν τον τίτλο της Ευρωπαϊκής Πολιτιστικής Πρωτεύουσας. Παρέχει χρηματοδότηση για ταξίδια και καλλιτεχνικές ανταλλαγές με την Ιαπωνία, ενισχύοντας τη διεθνή πολιτιστική συνεργασία. Αιτήσεις ως 6 εβδομάδες πριν το ταξίδι.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " ",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Link": "https://www.eu-japanfest.org/en/support/apply-mobility-support-program2026/",
+      "createdAt": "2026-05-11T07:50:51.602Z",
+      "updatedAt": "2026-05-11T07:50:51.602Z",
+      "publishedAt": "2026-05-11T07:50:51.646Z",
+      "ImageAltText": "japan",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Category": "Χρηματοδοτήσεις & Επιχορηγήσεις",
+      "Image": {
+        "id": 1089,
+        "documentId": "qzt2zk4ak4bwatltn01twr0h",
+        "name": "ntina - 2026-05-06T214805.495.jpg",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1080,
+        "height": 1080,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg",
+            "hash": "large_ntina_2026_05_06_T214805_495_4e5c8e0d63",
+            "mime": "image/jpeg",
+            "name": "large_ntina - 2026-05-06T214805.495.jpg",
+            "path": null,
+            "size": 41.53,
+            "width": 1000,
+            "height": 1000,
+            "sizeInBytes": 41533
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg",
+            "hash": "small_ntina_2026_05_06_T214805_495_4e5c8e0d63",
+            "mime": "image/jpeg",
+            "name": "small_ntina - 2026-05-06T214805.495.jpg",
+            "path": null,
+            "size": 18.92,
+            "width": 500,
+            "height": 500,
+            "sizeInBytes": 18920
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg",
+            "hash": "medium_ntina_2026_05_06_T214805_495_4e5c8e0d63",
+            "mime": "image/jpeg",
+            "name": "medium_ntina - 2026-05-06T214805.495.jpg",
+            "path": null,
+            "size": 29.18,
+            "width": 750,
+            "height": 750,
+            "sizeInBytes": 29175
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg",
+            "hash": "thumbnail_ntina_2026_05_06_T214805_495_4e5c8e0d63",
+            "mime": "image/jpeg",
+            "name": "thumbnail_ntina - 2026-05-06T214805.495.jpg",
+            "path": null,
+            "size": 5.22,
+            "width": 156,
+            "height": 156,
+            "sizeInBytes": 5220
+          }
+        },
+        "hash": "ntina_2026_05_06_T214805_495_4e5c8e0d63",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 42.21,
+        "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/ntina_2026_05_06_T214805_495_4e5c8e0d63.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-strapi-cloud",
+        "provider_metadata": null,
+        "createdAt": "2026-05-11T07:47:22.487Z",
+        "updatedAt": "2026-05-11T07:47:22.487Z",
+        "publishedAt": "2026-05-11T07:47:22.488Z",
+        "focalPoint": null
       }
     },
     {
@@ -6574,7 +7880,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:36:21.699Z",
         "updatedAt": "2026-02-05T08:36:21.699Z",
-        "publishedAt": "2026-02-05T08:36:21.700Z"
+        "publishedAt": "2026-02-05T08:36:21.700Z",
+        "focalPoint": null
       }
     },
     {
@@ -6666,7 +7973,8 @@
         "provider_metadata": null,
         "createdAt": "2026-02-05T08:20:00.354Z",
         "updatedAt": "2026-02-19T07:54:57.725Z",
-        "publishedAt": "2026-02-05T08:20:00.354Z"
+        "publishedAt": "2026-02-05T08:20:00.354Z",
+        "focalPoint": null
       }
     }
   ],
@@ -6674,7 +7982,7 @@
     "pagination": {
       "start": 0,
       "limit": 100,
-      "total": 79
+      "total": 95
     }
   }
 }

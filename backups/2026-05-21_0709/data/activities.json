@@ -154,7 +154,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-17T09:45:44.781Z",
           "updatedAt": "2026-03-17T09:45:44.781Z",
-          "publishedAt": "2026-03-17T09:45:44.782Z"
+          "publishedAt": "2026-03-17T09:45:44.782Z",
+          "focalPoint": null
         }
       ]
     },
@@ -378,14 +379,15 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:04.056Z",
           "updatedAt": "2026-01-12T14:41:04.056Z",
-          "publishedAt": "2026-01-12T14:41:04.056Z"
+          "publishedAt": "2026-01-12T14:41:04.056Z",
+          "focalPoint": null
         }
       ]
     },
     {
       "id": 488,
       "documentId": "f2atvgs3oo41uyko8hjingpi",
-      "Title": "Εναρ��τήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών",
+      "Title": "Εναρκτήρια Εκδήλωση του έργου Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην Εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών",
       "Description": [
         {
           "type": "paragraph",
@@ -441,7 +443,7 @@
               ]
             },
             {
-              "text": ", ��νώ θα υπάρχει η δυνατότητα και εξ αποστάσεως συμμετοχής. Για την εγγραφή σας ακολουθήστε ",
+              "text": ", ενώ θα υπάρχει η δυνατότητα και εξ αποστάσεως συμμετοχής. Για την εγγραφή σας ακολουθήστε ",
               "type": "text"
             },
             {
@@ -742,7 +744,8 @@
           "provider_metadata": null,
           "createdAt": "2026-02-26T10:05:45.095Z",
           "updatedAt": "2026-02-26T10:05:45.095Z",
-          "publishedAt": "2026-02-26T10:05:45.096Z"
+          "publishedAt": "2026-02-26T10:05:45.096Z",
+          "focalPoint": null
         }
       ]
     },
@@ -934,7 +937,281 @@
           "provider_metadata": null,
           "createdAt": "2026-03-26T20:29:52.529Z",
           "updatedAt": "2026-03-26T20:29:52.529Z",
-          "publishedAt": "2026-03-26T20:29:52.529Z"
+          "publishedAt": "2026-03-26T20:29:52.529Z",
+          "focalPoint": null
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "documentId": "pkdusu42k3zvjn57eevl4b77",
+      "Title": "Εργαστήριο για τη χρήση της ΤΝ στον πολιτισμό - πρόγραμμα Σ.Η.μα",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ολοκληρώθηκε τη ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "Δευτέρα 27 Απριλίου 2026 ",
+              "type": "text"
+            },
+            {
+              "text": "το εργαστήριο του προγράμματος Σ.Η.μα με τίτλο ",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": "«Ενδεδειγμένη χρήση της ΑΙ και διεθνείς καλές πρακτικές: το παράδειγμα του Culture Action Europe»,",
+              "type": "text"
+            },
+            {
+              "text": " το οποίο πραγματοποιήθηκε διαδικτυακά.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Πληροφορίες για το Εργαστήριο",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το εργαστήριο υλοποιήθηκε με εισηγητές τον Γιώργο Στυλ και τη Στέλλα Τσιαρβούλα, μέλη της ομάδας Digital Transformation & AI του Culture for Change, οι οποίοι εκπροσωπούν το δίκτυο στα αντίστοιχα action groups για την Τεχνητή Νοημοσύνη.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Κατά τη διάρκεια της συνάντησης, οι εισηγητές μετέφεραν τα βασικά σημεία της πρόσφατης και καθοριστικής συνάντησης του AI action group του Culture Action Europe (CAE), εστιάζοντας στο κείμενο θέσεων του ευρωπαϊκού δικτύου σχετικά με την εφαρμογή του AI Act της Ευρωπαϊκής Ένωσης στον πολιτιστικό τομέα.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ιδιαίτερη έμφαση δόθηκε στις διαδικασίες που απορρέουν από τον κανονισμό, όπως:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- οι υποχρεώσεις διαφάνειας και γνωστοποίησης για συστήματα ΤΝ σε πολιτιστικά πλαίσια",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- οι μηχανισμοί ανθρώπινης εποπτείας και διακυβέρνηση",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Οι παραπάνω πτ��χές αναδείχθηκαν ως κρίσιμες για τη διασφάλιση ότι καλλιτέχνες και πολιτιστικοί οργανισμοί παραμένουν ενεργοί συνδιαμορφωτές των κανόνων που διέπουν τη χρήση της τεχνητής νοημοσύνης.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Δομή εργαστηρίου",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το εργαστήριο περιλάμβανε τις εξής ενότητες:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Παρουσίαση της ομάδας AI του Culture for Change και της εκπροσώπησης του δικτύου στο CAE",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Ανάλυση του κειμένου θέσεων του CAE και του συντονισμού του διαλόγου με τα μέλη του",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Παρουσίαση της συνεισφοράς και της προσέγγισης των εκπροσώπων του Culture for Change στον ευρωπαϊκό διάλογο",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "- Διάδραση με το κοινό και ανοιχτή συζήτηση μέσω ερωτήσεων",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η συνάντηση αποτέλεσε μια σημαντική ευκαιρία ενημέρωσης και ανταλλαγής γνώσεων γύρω από τη διαμόρφωση του ευρωπαϊκού πλαισίου για την τεχνητή νοημοσύνη στον πολιτισμό, ενισχύοντας τη συμμετοχή των μελών του δικτύου στις σχετικές εξελίξεις.",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Date": "2026-04-27",
+      "Category": "Εκδηλώσεις & Συναντήσεις",
+      "Featured": false,
+      "createdAt": "2026-05-04T15:49:43.017Z",
+      "updatedAt": "2026-05-04T15:49:43.017Z",
+      "publishedAt": "2026-05-04T15:49:43.112Z",
+      "Slug": null,
+      "ImageAltText": "sima ergastirio",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Tags": null,
+      "Visuals": [
+        {
+          "id": 1083,
+          "documentId": "e37kmcy9nrtz58c5z9jac3ro",
+          "name": "SIma Cover Website (1920 x 1080 px) (2).png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1920,
+          "height": 1080,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png",
+              "hash": "large_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12",
+              "mime": "image/png",
+              "name": "large_SIma Cover Website (1920 x 1080 px) (2).png",
+              "path": null,
+              "size": 715.74,
+              "width": 1000,
+              "height": 563,
+              "sizeInBytes": 715736
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png",
+              "hash": "small_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12",
+              "mime": "image/png",
+              "name": "small_SIma Cover Website (1920 x 1080 px) (2).png",
+              "path": null,
+              "size": 200.89,
+              "width": 500,
+              "height": 281,
+              "sizeInBytes": 200887
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png",
+              "hash": "medium_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12",
+              "mime": "image/png",
+              "name": "medium_SIma Cover Website (1920 x 1080 px) (2).png",
+              "path": null,
+              "size": 417.6,
+              "width": 750,
+              "height": 422,
+              "sizeInBytes": 417597
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png",
+              "hash": "thumbnail_S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12",
+              "mime": "image/png",
+              "name": "thumbnail_SIma Cover Website (1920 x 1080 px) (2).png",
+              "path": null,
+              "size": 60.8,
+              "width": 245,
+              "height": 138,
+              "sizeInBytes": 60796
+            }
+          },
+          "hash": "S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 585.4,
+          "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Cover_Website_1920_x_1080_px_2_b5cc41fb12.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2026-05-04T15:49:09.999Z",
+          "updatedAt": "2026-05-04T15:49:09.999Z",
+          "publishedAt": "2026-05-04T15:49:10.000Z",
+          "focalPoint": null
         }
       ]
     },
@@ -1210,7 +1487,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:05.121Z",
           "updatedAt": "2026-01-12T14:42:05.121Z",
-          "publishedAt": "2026-01-12T14:42:05.121Z"
+          "publishedAt": "2026-01-12T14:42:05.121Z",
+          "focalPoint": null
         },
         {
           "id": 12,
@@ -1280,7 +1558,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:22.789Z",
           "updatedAt": "2026-01-12T14:42:22.789Z",
-          "publishedAt": "2026-01-12T14:42:22.789Z"
+          "publishedAt": "2026-01-12T14:42:22.789Z",
+          "focalPoint": null
         }
       ]
     },
@@ -1749,7 +2028,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:59.001Z",
           "updatedAt": "2026-01-12T14:42:59.001Z",
-          "publishedAt": "2026-01-12T14:42:59.001Z"
+          "publishedAt": "2026-01-12T14:42:59.001Z",
+          "focalPoint": null
         }
       ]
     },
@@ -1790,7 +2070,7 @@
               ]
             },
             {
-              "text": " και συνέλεξαν πλήθος κόσμου από πολύ διαφορετικά backgrounds: φοιτήτριες/τές, καλλιτέχνες, εκπαιδευτικούς, επαγγελματίες του πολιτισμού και άτομα που ενδιαφέρονταν για την Τεχνητή Νοημοσύνη και την προσωπική ανάπτυξη.",
+              "text": " και συνέλεξαν πλήθος κόσμου από πολύ διαφορετικά backgrounds: φοιτήτριες/τές, καλλιτέχνες, εκπαιδευτικούς, επαγγελματίες του πολιτισμού και άτομα που ενδιαφέρονταν για την Τεχνητή Νοημοσύν�� και την προσωπική ανάπτυξη.",
               "type": "text"
             }
           ]
@@ -1808,7 +2088,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Η διαδικασία ήταν πειραματική και συλλογική. Μέσα από βιωματικές ασκήσεις, συζητήσεις και δημιουργικά σενάρια, οι συμμετέχοντες εξερεύνησαν πώς φαντάζονται τα πιθανά μέλλοντα. Όχιχι μόνο/αποκλειστικά ως προβλέψεις, αλλά ως χώρο για σκέψη, αναστοχα��μό και δράση. Αναδύθηκαν ερωτήματα όπως:",
+              "text": "Η διαδικασία ήταν πειραματική και συλλογική. Μέσα από βιωματικές ασκήσεις, συζητήσεις και δημιουργικά σενάρια, οι συμμετέχοντες εξερεύνησαν πώς φαντάζονται τα πιθανά μέλλοντα. Όχιχι μόνο/αποκλειστικά ως προβλέψεις, αλλά ως χώρο για σκέψη, αναστοχασμό και δράση. Αναδύθηκαν ερωτήματα όπως:",
               "type": "text"
             }
           ]
@@ -1987,7 +2267,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:10.374Z",
           "updatedAt": "2026-01-12T14:41:10.374Z",
-          "publishedAt": "2026-01-12T14:41:10.374Z"
+          "publishedAt": "2026-01-12T14:41:10.374Z",
+          "focalPoint": null
         }
       ]
     },
@@ -2347,7 +2628,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:16.622Z",
           "updatedAt": "2026-01-12T14:41:16.622Z",
-          "publishedAt": "2026-01-12T14:41:16.622Z"
+          "publishedAt": "2026-01-12T14:41:16.622Z",
+          "focalPoint": null
         },
         {
           "id": 4,
@@ -2417,7 +2699,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:24.871Z",
           "updatedAt": "2026-01-12T14:41:24.871Z",
-          "publishedAt": "2026-01-12T14:41:24.871Z"
+          "publishedAt": "2026-01-12T14:41:24.871Z",
+          "focalPoint": null
         },
         {
           "id": 5,
@@ -2487,7 +2770,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:29.452Z",
           "updatedAt": "2026-01-12T14:41:29.452Z",
-          "publishedAt": "2026-01-12T14:41:29.452Z"
+          "publishedAt": "2026-01-12T14:41:29.452Z",
+          "focalPoint": null
         },
         {
           "id": 6,
@@ -2557,7 +2841,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:37.713Z",
           "updatedAt": "2026-01-12T14:41:37.713Z",
-          "publishedAt": "2026-01-12T14:41:37.713Z"
+          "publishedAt": "2026-01-12T14:41:37.713Z",
+          "focalPoint": null
         },
         {
           "id": 7,
@@ -2627,7 +2912,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:47.627Z",
           "updatedAt": "2026-01-12T14:41:47.627Z",
-          "publishedAt": "2026-01-12T14:41:47.627Z"
+          "publishedAt": "2026-01-12T14:41:47.627Z",
+          "focalPoint": null
         }
       ]
     },
@@ -2861,7 +3147,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:36.527Z",
           "updatedAt": "2026-01-12T14:43:36.527Z",
-          "publishedAt": "2026-01-12T14:43:36.527Z"
+          "publishedAt": "2026-01-12T14:43:36.527Z",
+          "focalPoint": null
         },
         {
           "id": 24,
@@ -2919,7 +3206,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:40.883Z",
           "updatedAt": "2026-01-12T14:43:40.883Z",
-          "publishedAt": "2026-01-12T14:43:40.883Z"
+          "publishedAt": "2026-01-12T14:43:40.883Z",
+          "focalPoint": null
         }
       ]
     },
@@ -2941,7 +3229,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Culture for Change εκπροσωπήθηκε από τον Γιώργο Στυλ, μέλος της Συντονιστικής Ομάδας, ο οποίος συμμετείχε στη συνάντηση επαφών με εκπροσώπους οργανισμών από Σουηδία, Αυστρία, Ολλανδία, Σκωτία, Πολωνία και Ελλάδα, και συζήτησε δυνατότητες συνεργασίας για μελλοντικά προγράμματα.",
+              "text": "Το Culture for Change εκπροσωπήθηκε από τον Γιώργο Στυλ, μέλος της Συντονιστικής Ομάδας, ο οποίος συμμετείχε στη συνάντηση επαφών με εκπροσώπους οργανισμών από Σουηδία, Αυστρία, Ολλανδία, Σκωτία, Πολωνία και Ελλάδα, και συζήτησε δυνατότητες συνεργασίας για μελλοντικά προ��ράμματα.",
               "type": "text"
             }
           ]
@@ -3109,7 +3397,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:21.848Z",
           "updatedAt": "2026-01-12T14:45:21.848Z",
-          "publishedAt": "2026-01-12T14:45:21.849Z"
+          "publishedAt": "2026-01-12T14:45:21.849Z",
+          "focalPoint": null
         },
         {
           "id": 41,
@@ -3179,7 +3468,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:31.159Z",
           "updatedAt": "2026-01-12T14:45:31.159Z",
-          "publishedAt": "2026-01-12T14:45:31.160Z"
+          "publishedAt": "2026-01-12T14:45:31.160Z",
+          "focalPoint": null
         },
         {
           "id": 42,
@@ -3249,7 +3539,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:40.927Z",
           "updatedAt": "2026-01-12T14:45:40.927Z",
-          "publishedAt": "2026-01-12T14:45:40.928Z"
+          "publishedAt": "2026-01-12T14:45:40.928Z",
+          "focalPoint": null
         },
         {
           "id": 43,
@@ -3319,7 +3610,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:46.592Z",
           "updatedAt": "2026-01-12T14:45:46.592Z",
-          "publishedAt": "2026-01-12T14:45:46.592Z"
+          "publishedAt": "2026-01-12T14:45:46.592Z",
+          "focalPoint": null
         }
       ]
     },
@@ -3341,7 +3633,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Η Κωνσταντίνα Καραμέρη, Γενική Γ��αμματέας του Culture for Change, συμμετείχε στο διεθνές webinar ELIA x CAN: Strengthening Arts in Global Education, που διοργανώθηκε από το Community Arts Network (CAN), δίκτυο στο οποίο ανήκει το Culture for Change, σε συνεργασία με το Community Arts Lab-Porticus.Κατά τη διάρκεια του webinar παρουσιάστηκε το νέο report From Margins to Masterpieces: Charting Pathways to Strengthen Arts in Global Public Education, το οποίο συγκεντρώνει δεδομένα από χώρες σε όλο τον κόσμο γύρω από την κατάσταση της καλλιτεχνικής εκπαίδευσης. Η έρευνα αναδεικνύει ότι, παρότι η καλλιτεχνική εκπαίδευση αναγνωρίζεται διεθνώς ως θεμελιώδες στοιχείο της ολιστικής μάθησης, εξακολουθεί να είναι υποχρηματοδοτούμενη και υποτιμημένη στα δημόσια σχολικά συστήματα. Το report εντοπίζει τα βασικά εμπόδια, προσδιορίζει μοχλούς αλλαγής και προτείνει στρατηγικές συστάσεις για την ενίσχυση και ουσιαστική ενσωμάτωση των τεχνών στην εκπαίδευση παγκοσμίως.",
+              "text": "Η Κωνσταντίνα Καραμέρη, Γενική Γραμματέας του Culture for Change, συμμετείχε στο διεθνές webinar ELIA x CAN: Strengthening Arts in Global Education, που διοργανώθηκε από το Community Arts Network (CAN), δίκτυο στο οποίο ανήκει το Culture for Change, σε συνεργασία με το Community Arts Lab-Porticus.Κατά τη διάρκεια του webinar παρουσιάστηκε το νέο report From Margins to Masterpieces: Charting Pathways to Strengthen Arts in Global Public Education, το οποίο συγκεντρώνει δεδομένα από χώρες σε όλο τον κόσμο γύρω από την κατάσταση της καλλιτεχνικής εκπαίδευσης. Η έρευνα αναδεικνύει ότι, παρότι η καλλιτεχνική εκπαίδευση αναγνωρίζεται διεθνώς ως θεμελιώδες στοιχείο της ολιστικής μάθησης, εξακολουθεί να είναι υποχρηματοδοτούμενη και υποτιμημένη στα δημόσια σχολικά συστήματα. Το report εντοπίζει τα βασικά εμπόδια, προσδιορίζει μοχλούς αλλαγής και προτείνει στρατηγικές συστάσεις για την ενίσχυση και ουσιαστική ενσωμάτωση των τεχνών στην εκπαίδευση παγκοσμίως.",
               "type": "text"
             }
           ]
@@ -3415,7 +3707,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:35.565Z",
           "updatedAt": "2026-01-12T14:42:35.565Z",
-          "publishedAt": "2026-01-12T14:42:35.566Z"
+          "publishedAt": "2026-01-12T14:42:35.566Z",
+          "focalPoint": null
         }
       ]
     },
@@ -3645,7 +3938,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:39.835Z",
           "updatedAt": "2026-01-12T14:42:39.835Z",
-          "publishedAt": "2026-01-12T14:42:39.835Z"
+          "publishedAt": "2026-01-12T14:42:39.835Z",
+          "focalPoint": null
         },
         {
           "id": 16,
@@ -3715,7 +4009,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:43.392Z",
           "updatedAt": "2026-01-12T14:42:43.392Z",
-          "publishedAt": "2026-01-12T14:42:43.392Z"
+          "publishedAt": "2026-01-12T14:42:43.392Z",
+          "focalPoint": null
         },
         {
           "id": 17,
@@ -3785,7 +4080,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:47.526Z",
           "updatedAt": "2026-01-12T14:42:47.526Z",
-          "publishedAt": "2026-01-12T14:42:47.526Z"
+          "publishedAt": "2026-01-12T14:42:47.526Z",
+          "focalPoint": null
         },
         {
           "id": 18,
@@ -3843,7 +4139,490 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:53.277Z",
           "updatedAt": "2026-01-12T14:42:53.277Z",
-          "publishedAt": "2026-01-12T14:42:53.277Z"
+          "publishedAt": "2026-01-12T14:42:53.277Z",
+          "focalPoint": null
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "documentId": "szc2kwthecafqai6jkwc2x5v",
+      "Title": "Πρόσκληση συμμετοχής στην έρευνα του έργου Σ.Η.μα",
+      "Description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το Culture for Change καλεί τις οργανώσεις του δικτύου του να συμμετάσχουν στην πανελλαδική έρευνα που υλοποιείται στο πλαίσιο του έργου «Σ.Η.μα – Συνδιαμόρφωση Ηθικών Πλαισίων στην εποχή της Τεχνητής Νοημοσύνης από την Κοινωνία των Πολιτών».",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Σκοπός της έρευνας",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η έρευνα αποσκοπεί στη χαρτογράφηση:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "του επιπέδου ενημέρωσης των κοινωνικοπολιτιστικών ορ��ανώσεων σχετικά με την Τεχνητή Νοημοσύνη",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "των αναγκών, προκλήσεων και ανησυχιών που ανακύπτουν στο πεδίο της ΤΝ και της κοινωνικής δικαιοσύνης",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "της εξοικείωσης των οργανώσεων με συμμετοχικές διαδικασίες και εργαλεία συνδιαμόρφωσης πολιτικής",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list",
+          "format": "unordered",
+          "children": [
+            {
+              "type": "list-item",
+              "children": [
+                {
+                  "text": "του ρόλου που μπορεί να διαδραματίσει η Κοινωνία των Πολιτών στη διαμόρφωση ενός ηθικού και δημοκρατικού πλαισίου για την ΤΝ",
+                  "type": "text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Τα ευρήματα θα συμβάλουν ουσιαστικά στον διάλογο για τη διαμόρφωση εθνικών πολιτικών στον τομέα της Τεχνητής Νοημοσύνης.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Ποιοι μπορούν να συμμετάσχουν",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το ερωτηματολόγιο απευθύνεται αποκλειστικά σε Οργανώσεις της Κοινωνίας των Πολιτών που δραστηριοποιούνται στο κοινωνικό και πολιτιστικό πεδίο.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Συμπληρώνεται μία απάντηση ανά οργάνωση, από τον/την εκπρόσωπό της.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Συμμετοχή",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η συμπλήρωση του ερωτηματολογίου διαρκεί λίγα λεπτά και μπορεί να πραγματοποιηθεί στον παρακάτω σύνδεσμο:",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 👉 ",
+              "type": "text"
+            },
+            {
+              "url": "https://forms.gle/S9WfsQY4F1oKj6qKA",
+              "type": "link",
+              "children": [
+                {
+                  "text": "https://forms.gle/S9WfsQY4F1oKj6qKA",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Προθεσμία υποβολής:",
+              "type": "text"
+            },
+            {
+              "bold": true,
+              "text": " 22 Μαΐου 2026",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η συμμετοχή των οργανώσεων είναι ιδιαίτερα σημαντική, καθώς οι εμπειρίες και η γνώση από την κοινωνική βάση σε όλη την Ελλάδα αποτελούν κρίσιμο στοιχείο για τα επόμενα βήματα του έργου.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Προστασία δεδομένων",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Οι απαντήσεις αποθηκεύονται με ασφάλεια και αναλύονται ανώνυμα, σύμφωνα με τον GDPR. Δεν κοινοποιούνται σε τρίτους, παρά μόνο σε μορφή ανώνυμων ομαδοποιημένων δεδομένων με τους εταίρους του προγράμματος PLATO/CERV.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Οι συμμετέχοντες μπορούν να αποχωρήσουν από την έρευνα οποιαδήποτε στιγμή χωρίς καμία συνέπεια.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "bold": true,
+              "text": "Επικοινωνία",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Για οποιαδήποτε ερώτηση σχετικά με την έρευνα ή τα δεδομένα σας, μπορείτε να επικοινωνήσετε στο: sima@cultureforchange.net",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Η συμβολή σας είναι καθοριστική ώστε η φωνή των οργανώσεων να ακουστεί δυνατά στη δημόσια συζήτηση για την Τεχνητή Νοημοσύνη.",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Το έργο Σ.Η.μα υλοποιείται στο πλαίσιο του προγράμματος PLATO, με φορέα υλοποίησης το Culture for Change. Το πρόγραμμα “Protecting democracy, human rights and the rule of law through an open civic space” (PLATO) στοχεύει στην ενίσχυση της προστασίας των θεμελιωδών δικαιωμάτων και αξιών της Ε.Ε. και της ευαισθητοποίησης για αυτά μέσω της στήριξης Οργανώσεων της Κοινωνίας των Πολιτών (ΟΚοιΠ) στην Ελλάδα και την Κύπρο που δραστηριοποιούνται σε αυτούς τους τομείς, καθώς και μέσω της ενίσχυσης των γνώσεων, των ικανοτήτων και της βιωσιμότητάς τους. Το PLATO συγχρηματοδοτείται από την Ευρωπαϊκή Ένωση μέσω του προγράμματος Citizens, Equality, Rights and Values (CERV), το Ίδρυμα Μποδοσάκη και το Κέντρο Στήριξης ΜΚΟ με συνολικό ποσό επιχορήγησης €3,1 εκ. Συντονιστής του PLATO είναι το Ίδρυμα Μποδοσάκη (Ελλάδα), σε σύμπραξη με το Κέντρο Στήριξης ΜΚΟ (Κύπρος).",
+              "type": "text",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "",
+              "type": "text"
+            }
+          ]
+        }
+      ],
+      "Date": "2026-05-07",
+      "Category": "Εκδηλώσεις & Συναντήσεις",
+      "Featured": false,
+      "createdAt": "2026-05-11T12:55:14.826Z",
+      "updatedAt": "2026-05-11T12:57:16.372Z",
+      "publishedAt": "2026-05-11T12:57:16.417Z",
+      "Slug": null,
+      "ImageAltText": "διπλη ερευνα",
+      "EngTitle": null,
+      "EngDescription": null,
+      "Tags": null,
+      "Visuals": [
+        {
+          "id": 1095,
+          "documentId": "boxyic9fyitlht12qg0w3rp0",
+          "name": "SIma Cover Website (1920 x 1080 px) (5).png",
+          "alternativeText": null,
+          "caption": null,
+          "width": 1920,
+          "height": 1080,
+          "formats": {
+            "large": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/large_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png",
+              "hash": "large_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81",
+              "mime": "image/png",
+              "name": "large_SIma Cover Website (1920 x 1080 px) (5).png",
+              "path": null,
+              "size": 820.96,
+              "width": 1000,
+              "height": 563,
+              "sizeInBytes": 820958
+            },
+            "small": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/small_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png",
+              "hash": "small_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81",
+              "mime": "image/png",
+              "name": "small_SIma Cover Website (1920 x 1080 px) (5).png",
+              "path": null,
+              "size": 228.41,
+              "width": 500,
+              "height": 281,
+              "sizeInBytes": 228406
+            },
+            "medium": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/medium_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png",
+              "hash": "medium_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81",
+              "mime": "image/png",
+              "name": "medium_SIma Cover Website (1920 x 1080 px) (5).png",
+              "path": null,
+              "size": 478.41,
+              "width": 750,
+              "height": 422,
+              "sizeInBytes": 478412
+            },
+            "thumbnail": {
+              "ext": ".png",
+              "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/thumbnail_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png",
+              "hash": "thumbnail_S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81",
+              "mime": "image/png",
+              "name": "thumbnail_SIma Cover Website (1920 x 1080 px) (5).png",
+              "path": null,
+              "size": 65.84,
+              "width": 245,
+              "height": 138,
+              "sizeInBytes": 65842
+            }
+          },
+          "hash": "S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81",
+          "ext": ".png",
+          "mime": "image/png",
+          "size": 639.72,
+          "url": "https://helpful-wealth-0a46a9eabb.media.strapiapp.com/S_Ima_Cover_Website_1920_x_1080_px_5_c1133aec81.png",
+          "previewUrl": null,
+          "provider": "strapi-provider-upload-strapi-cloud",
+          "provider_metadata": null,
+          "createdAt": "2026-05-11T12:56:37.433Z",
+          "updatedAt": "2026-05-11T12:56:37.433Z",
+          "publishedAt": "2026-05-11T12:56:37.433Z",
+          "focalPoint": null
         }
       ]
     },
@@ -4066,7 +4845,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:28.317Z",
           "updatedAt": "2026-01-12T14:42:28.317Z",
-          "publishedAt": "2026-01-12T14:42:28.317Z"
+          "publishedAt": "2026-01-12T14:42:28.317Z",
+          "focalPoint": null
         }
       ]
     },
@@ -4207,7 +4987,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:42:56.092Z",
           "updatedAt": "2026-01-12T14:42:56.092Z",
-          "publishedAt": "2026-01-12T14:42:56.092Z"
+          "publishedAt": "2026-01-12T14:42:56.092Z",
+          "focalPoint": null
         }
       ]
     },
@@ -4247,7 +5028,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Στη Συνέλευση παρουσιάστηκε ο ετήσιος προϋπολογισμός του δικτύου καθώς και ο Στρατηγικός Σχεδιασμός 2021–2025. Η συνέλευση αποτέλεσε ένα ζωντανό πεδίο διαλόγου και δημοκρατικής συμμετοχής, όπου τα μέλη είχαν τη δυ��ατότητα να εκφράσουν σκέψεις, να διατυπώσουν προτάσεις και να ψηφίσουν επί των θεμάτων της ημερήσιας διάταξης. Όλες οι αποφάσεις ελήφθησαν συλλογικά, με διαφάνεια και ισότιμη εκπροσώπηση, αναδεικνύοντας τη δημοκρατική λειτουργία του δικτύου. Παράλληλα, μέσα από ",
+              "text": "Στη Συνέλευση παρουσιάστηκε ο ετήσιος προϋπολογισμός του δικτύου καθώς και ο Στρατηγικός Σχεδιασμός 2021–2025. Η συνέλευση αποτέλεσε ένα ζωντανό πεδίο διαλόγου και δημοκρατικής συμμετοχής, όπου τα μέλη είχαν τη δυνατότητα να εκφράσουν σκέψεις, να διατυπώσουν προτάσεις και να ψηφίσουν επί των θεμάτων της ημερήσιας διάταξης. Όλες οι αποφάσεις ελήφθησαν συλλογικά, με διαφάνεια και ισότιμη εκπροσώπηση, αναδεικνύοντας τη δημοκρατική λειτουργία του δικτύου. Παράλληλα, μέσα από ",
               "type": "text"
             },
             {
@@ -4365,7 +5146,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:52.175Z",
           "updatedAt": "2026-01-12T14:41:52.175Z",
-          "publishedAt": "2026-01-12T14:41:52.175Z"
+          "publishedAt": "2026-01-12T14:41:52.175Z",
+          "focalPoint": null
         },
         {
           "id": 10,
@@ -4435,7 +5217,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:59.016Z",
           "updatedAt": "2026-01-12T14:41:59.016Z",
-          "publishedAt": "2026-01-12T14:41:59.016Z"
+          "publishedAt": "2026-01-12T14:41:59.016Z",
+          "focalPoint": null
         }
       ]
     },
@@ -4484,7 +5267,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Η αποστολή μας παραμένει η ίδια: να δημιουργήσουμε μια ζωντανή κοινότητα επαγγελματιών του πολιτισμού που μαθαίνουν, συνεργάζονται και δρουν με θετικό κοινωνικό και περιβαλλοντικό αντίκτυπο. Κάθε τεύχος επιμελείται από μέλη του Δικτύου Culture for Change, με στόχο να προσφέρει έμπνευση, γνώση και σύνδεση γύρω από τις 7 βασικές θεματικές παρέμβασης του CforC.",
+              "text": "Η αποστολή μας παραμένει η ίδια: να δημιουργήσουμε μια ζωντανή κοινότητα επαγγελματιών του πολιτισμού που μαθαίνουν, συ��εργάζονται και δρουν με θετικό κοινωνικό και περιβαλλοντικό αντίκτυπο. Κάθε τεύχος επιμελείται από μέλη του Δικτύου Culture for Change, με στόχο να προσφέρει έμπνευση, γνώση και σύνδεση γύρω από τις 7 βασικές θεματικές παρέμβασης του CforC.",
               "type": "text"
             }
           ]
@@ -4608,7 +5391,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:09:58.574Z",
           "updatedAt": "2026-03-05T19:09:58.574Z",
-          "publishedAt": "2026-03-05T19:09:58.574Z"
+          "publishedAt": "2026-03-05T19:09:58.574Z",
+          "focalPoint": null
         }
       ]
     },
@@ -4803,7 +5587,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:07.930Z",
           "updatedAt": "2026-01-12T14:43:07.930Z",
-          "publishedAt": "2026-01-12T14:43:07.930Z"
+          "publishedAt": "2026-01-12T14:43:07.930Z",
+          "focalPoint": null
         }
       ]
     },
@@ -4958,7 +5743,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:11.326Z",
           "updatedAt": "2026-01-12T14:43:11.326Z",
-          "publishedAt": "2026-01-12T14:43:11.326Z"
+          "publishedAt": "2026-01-12T14:43:11.326Z",
+          "focalPoint": null
         }
       ]
     },
@@ -5253,7 +6039,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:41:50.806Z",
           "updatedAt": "2026-01-12T14:41:50.806Z",
-          "publishedAt": "2026-01-12T14:41:50.807Z"
+          "publishedAt": "2026-01-12T14:41:50.807Z",
+          "focalPoint": null
         }
       ]
     },
@@ -5390,7 +6177,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:49.855Z",
           "updatedAt": "2026-01-12T14:45:49.855Z",
-          "publishedAt": "2026-01-12T14:45:49.856Z"
+          "publishedAt": "2026-01-12T14:45:49.856Z",
+          "focalPoint": null
         }
       ]
     },
@@ -5539,7 +6327,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:44.472Z",
           "updatedAt": "2026-01-12T14:43:44.472Z",
-          "publishedAt": "2026-01-12T14:43:44.472Z"
+          "publishedAt": "2026-01-12T14:43:44.472Z",
+          "focalPoint": null
         },
         {
           "id": 26,
@@ -5609,7 +6398,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:54.213Z",
           "updatedAt": "2026-01-12T14:43:54.213Z",
-          "publishedAt": "2026-01-12T14:43:54.213Z"
+          "publishedAt": "2026-01-12T14:43:54.213Z",
+          "focalPoint": null
         },
         {
           "id": 27,
@@ -5679,7 +6469,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:43:57.934Z",
           "updatedAt": "2026-01-12T14:43:57.934Z",
-          "publishedAt": "2026-01-12T14:43:57.934Z"
+          "publishedAt": "2026-01-12T14:43:57.934Z",
+          "focalPoint": null
         }
       ]
     },
@@ -6376,7 +7167,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:46:04.249Z",
           "updatedAt": "2026-01-12T14:46:04.249Z",
-          "publishedAt": "2026-01-12T14:46:04.249Z"
+          "publishedAt": "2026-01-12T14:46:04.249Z",
+          "focalPoint": null
         },
         {
           "id": 48,
@@ -6446,7 +7238,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:46:16.798Z",
           "updatedAt": "2026-01-12T14:46:16.798Z",
-          "publishedAt": "2026-01-12T14:46:16.798Z"
+          "publishedAt": "2026-01-12T14:46:16.798Z",
+          "focalPoint": null
         },
         {
           "id": 49,
@@ -6516,7 +7309,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:46:27.093Z",
           "updatedAt": "2026-01-12T14:46:27.093Z",
-          "publishedAt": "2026-01-12T14:46:27.093Z"
+          "publishedAt": "2026-01-12T14:46:27.093Z",
+          "focalPoint": null
         },
         {
           "id": 50,
@@ -6586,7 +7380,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:46:39.023Z",
           "updatedAt": "2026-01-12T14:46:39.023Z",
-          "publishedAt": "2026-01-12T14:46:39.024Z"
+          "publishedAt": "2026-01-12T14:46:39.024Z",
+          "focalPoint": null
         },
         {
           "id": 51,
@@ -6644,7 +7439,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:46:41.379Z",
           "updatedAt": "2026-01-12T14:46:41.379Z",
-          "publishedAt": "2026-01-12T14:46:41.379Z"
+          "publishedAt": "2026-01-12T14:46:41.379Z",
+          "focalPoint": null
         }
       ]
     },
@@ -7049,7 +7845,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:46:43.624Z",
           "updatedAt": "2026-01-12T14:46:43.624Z",
-          "publishedAt": "2026-01-12T14:46:43.625Z"
+          "publishedAt": "2026-01-12T14:46:43.625Z",
+          "focalPoint": null
         }
       ]
     },
@@ -7607,7 +8404,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:12:10.943Z",
           "updatedAt": "2026-03-05T19:12:10.943Z",
-          "publishedAt": "2026-03-05T19:12:10.943Z"
+          "publishedAt": "2026-03-05T19:12:10.943Z",
+          "focalPoint": null
         }
       ]
     },
@@ -7645,7 +8443,7 @@
       "ImageAltText": "Σεμιναριο Ο Πολιτισμος Ως Τομεας Πολιτικης Στην Εε",
       "EngTitle": null,
       "EngDescription": null,
-      "Tags": "εργαστ��ριο, πολιτιστική πολιτική, ευρωπαϊκή συνεργασία, εκπαίδευση, πολιτισμός",
+      "Tags": "εργαστήριο, πολιτιστική πολιτική, ευρωπαϊκή συνεργασία, εκπαίδευση, πολιτισμός",
       "Visuals": [
         {
           "id": 61,
@@ -7715,7 +8513,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:36.333Z",
           "updatedAt": "2026-01-12T14:47:36.333Z",
-          "publishedAt": "2026-01-12T14:47:36.333Z"
+          "publishedAt": "2026-01-12T14:47:36.333Z",
+          "focalPoint": null
         }
       ]
     },
@@ -7959,7 +8758,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:51.823Z",
           "updatedAt": "2026-01-12T14:44:51.823Z",
-          "publishedAt": "2026-01-12T14:44:51.823Z"
+          "publishedAt": "2026-01-12T14:44:51.823Z",
+          "focalPoint": null
         },
         {
           "id": 34,
@@ -8017,7 +8817,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:53.355Z",
           "updatedAt": "2026-01-12T14:44:53.355Z",
-          "publishedAt": "2026-01-12T14:44:53.355Z"
+          "publishedAt": "2026-01-12T14:44:53.355Z",
+          "focalPoint": null
         },
         {
           "id": 35,
@@ -8087,7 +8888,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:57.448Z",
           "updatedAt": "2026-01-12T14:44:57.448Z",
-          "publishedAt": "2026-01-12T14:44:57.448Z"
+          "publishedAt": "2026-01-12T14:44:57.448Z",
+          "focalPoint": null
         },
         {
           "id": 36,
@@ -8157,7 +8959,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:02.879Z",
           "updatedAt": "2026-01-12T14:45:02.879Z",
-          "publishedAt": "2026-01-12T14:45:02.879Z"
+          "publishedAt": "2026-01-12T14:45:02.879Z",
+          "focalPoint": null
         },
         {
           "id": 37,
@@ -8227,7 +9030,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:07.348Z",
           "updatedAt": "2026-01-12T14:45:07.348Z",
-          "publishedAt": "2026-01-12T14:45:07.348Z"
+          "publishedAt": "2026-01-12T14:45:07.348Z",
+          "focalPoint": null
         },
         {
           "id": 38,
@@ -8297,7 +9101,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:11.138Z",
           "updatedAt": "2026-01-12T14:45:11.138Z",
-          "publishedAt": "2026-01-12T14:45:11.138Z"
+          "publishedAt": "2026-01-12T14:45:11.138Z",
+          "focalPoint": null
         },
         {
           "id": 39,
@@ -8367,7 +9172,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:15.967Z",
           "updatedAt": "2026-01-12T14:45:15.967Z",
-          "publishedAt": "2026-01-12T14:45:15.968Z"
+          "publishedAt": "2026-01-12T14:45:15.968Z",
+          "focalPoint": null
         }
       ]
     },
@@ -8646,7 +9452,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:15:10.399Z",
           "updatedAt": "2026-03-05T19:15:10.399Z",
-          "publishedAt": "2026-03-05T19:15:10.399Z"
+          "publishedAt": "2026-03-05T19:15:10.399Z",
+          "focalPoint": null
         }
       ]
     },
@@ -8887,7 +9694,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:07.703Z",
           "updatedAt": "2026-01-12T14:47:07.703Z",
-          "publishedAt": "2026-01-12T14:47:07.704Z"
+          "publishedAt": "2026-01-12T14:47:07.704Z",
+          "focalPoint": null
         },
         {
           "id": 54,
@@ -8945,7 +9753,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:13.961Z",
           "updatedAt": "2026-01-12T14:47:13.961Z",
-          "publishedAt": "2026-01-12T14:47:13.961Z"
+          "publishedAt": "2026-01-12T14:47:13.961Z",
+          "focalPoint": null
         },
         {
           "id": 55,
@@ -8991,7 +9800,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:16.709Z",
           "updatedAt": "2026-01-12T14:47:16.709Z",
-          "publishedAt": "2026-01-12T14:47:16.709Z"
+          "publishedAt": "2026-01-12T14:47:16.709Z",
+          "focalPoint": null
         }
       ]
     },
@@ -9153,7 +9963,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:23.975Z",
           "updatedAt": "2026-01-12T14:49:23.975Z",
-          "publishedAt": "2026-01-12T14:49:23.977Z"
+          "publishedAt": "2026-01-12T14:49:23.977Z",
+          "focalPoint": null
         }
       ]
     },
@@ -9413,7 +10224,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:52.739Z",
           "updatedAt": "2026-01-12T14:45:52.739Z",
-          "publishedAt": "2026-01-12T14:45:52.739Z"
+          "publishedAt": "2026-01-12T14:45:52.739Z",
+          "focalPoint": null
         },
         {
           "id": 46,
@@ -9483,7 +10295,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:45:55.593Z",
           "updatedAt": "2026-01-12T14:45:55.593Z",
-          "publishedAt": "2026-01-12T14:45:55.595Z"
+          "publishedAt": "2026-01-12T14:45:55.595Z",
+          "focalPoint": null
         }
       ]
     },
@@ -9619,7 +10432,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:13:50.692Z",
           "updatedAt": "2026-03-05T19:13:50.692Z",
-          "publishedAt": "2026-03-05T19:13:50.692Z"
+          "publishedAt": "2026-03-05T19:13:50.692Z",
+          "focalPoint": null
         }
       ]
     },
@@ -9990,7 +10804,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:01.216Z",
           "updatedAt": "2026-01-12T14:44:01.216Z",
-          "publishedAt": "2026-01-12T14:44:01.217Z"
+          "publishedAt": "2026-01-12T14:44:01.217Z",
+          "focalPoint": null
         },
         {
           "id": 29,
@@ -10060,7 +10875,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:21.895Z",
           "updatedAt": "2026-01-12T14:44:21.895Z",
-          "publishedAt": "2026-01-12T14:44:21.895Z"
+          "publishedAt": "2026-01-12T14:44:21.895Z",
+          "focalPoint": null
         },
         {
           "id": 30,
@@ -10130,7 +10946,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:36.709Z",
           "updatedAt": "2026-01-12T14:44:36.709Z",
-          "publishedAt": "2026-01-12T14:44:36.709Z"
+          "publishedAt": "2026-01-12T14:44:36.709Z",
+          "focalPoint": null
         },
         {
           "id": 31,
@@ -10188,7 +11005,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:42.502Z",
           "updatedAt": "2026-01-12T14:44:42.502Z",
-          "publishedAt": "2026-01-12T14:44:42.502Z"
+          "publishedAt": "2026-01-12T14:44:42.502Z",
+          "focalPoint": null
         },
         {
           "id": 32,
@@ -10234,7 +11052,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:44:46.471Z",
           "updatedAt": "2026-01-12T14:44:46.471Z",
-          "publishedAt": "2026-01-12T14:44:46.471Z"
+          "publishedAt": "2026-01-12T14:44:46.471Z",
+          "focalPoint": null
         }
       ]
     },
@@ -10380,7 +11199,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:23.405Z",
           "updatedAt": "2026-01-12T14:47:23.405Z",
-          "publishedAt": "2026-01-12T14:47:23.405Z"
+          "publishedAt": "2026-01-12T14:47:23.405Z",
+          "focalPoint": null
         }
       ]
     },
@@ -10508,7 +11328,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Για να δηλώσετε συμμετοχή, παρακαλούμε συ��πληρώστε τη ",
+              "text": "Για να δηλώσετε συμμετοχή, παρακαλούμε συμπληρώστε τη ",
               "type": "text"
             },
             {
@@ -10635,7 +11455,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:13.222Z",
           "updatedAt": "2026-01-12T14:49:13.222Z",
-          "publishedAt": "2026-01-12T14:49:13.223Z"
+          "publishedAt": "2026-01-12T14:49:13.223Z",
+          "focalPoint": null
         }
       ]
     },
@@ -10770,7 +11591,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:27.046Z",
           "updatedAt": "2026-01-12T14:47:27.046Z",
-          "publishedAt": "2026-01-12T14:47:27.046Z"
+          "publishedAt": "2026-01-12T14:47:27.046Z",
+          "focalPoint": null
         },
         {
           "id": 59,
@@ -10840,7 +11662,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:29.530Z",
           "updatedAt": "2026-01-12T14:47:29.530Z",
-          "publishedAt": "2026-01-12T14:47:29.530Z"
+          "publishedAt": "2026-01-12T14:47:29.530Z",
+          "focalPoint": null
         },
         {
           "id": 60,
@@ -10910,7 +11733,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:32.029Z",
           "updatedAt": "2026-01-12T14:47:32.029Z",
-          "publishedAt": "2026-01-12T14:47:32.029Z"
+          "publishedAt": "2026-01-12T14:47:32.029Z",
+          "focalPoint": null
         }
       ]
     },
@@ -10923,7 +11747,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το Σωματείο Culture for Change υλοποίησε επιτυχώς το δεύτερο mid-term event στην Πρέβεζα, μεταξύ 4-6 Νοεμβρίου 2022, φιλοξενούμενο από το μέλος Φωτεινή Παπαχατζή. Οι εκδηλώσεις πραγματοποιήθηκαν στην Δημοτική πινακοθήκη \"Γιάννης Μόραλης\" και το ξενοδοχείο Preveza City Hotel.Το πρόγραμμα περιλάμβανε διάφορες δραστηριότητες, όπως καλωσόρισμα από το Διοικητικό Συμβούλιο, παρουσίαση εξαμήνου, συζητήσεις για την πλατφόρμα και την επικοινωνία του Σωματείου, αναθεώρηση του εσωτερικού κανονισμού, επαφή με την τοπική κοινότητα και δείπνα σε τοπικά εστιατόρια. ",
+              "text": "Το Σωματείο Culture for Change υλοποίησε επιτυχώς το δεύτερο mid-term event στην Πρέβεζα, μεταξύ 4-6 Νοεμβρίου 2022, φιλοξενούμενο από το μέλος Φωτεινή Παπαχατζή. Οι εκδηλώσεις πραγματοποιήθηκαν στην Δημοτική πινακοθήκη \"Γιάννης Μόραλης\" και το ξενοδοχείο Preveza City Hotel.Το πρόγραμμα περιλάμβανε διάφορες δραστηριότητες, όπως καλωσόρισμα από το Διοικητικό Συμβούλιο, παρουσίαση εξαμήνου, συζητήσεις για την πλατφόρμα και την επικοινωνία του Σωματείου, αναθεώρηση του εσωτερικού κανονισ��ού, επαφή με την τοπική κοινότητα και δείπνα σε τοπικά εστιατόρια. ",
               "type": "text"
             }
           ]
@@ -11153,7 +11977,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:18:58.162Z",
           "updatedAt": "2026-03-05T19:18:58.162Z",
-          "publishedAt": "2026-03-05T19:18:58.162Z"
+          "publishedAt": "2026-03-05T19:18:58.162Z",
+          "focalPoint": null
         }
       ]
     },
@@ -11369,7 +12194,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:31.186Z",
           "updatedAt": "2026-01-12T14:55:31.186Z",
-          "publishedAt": "2026-01-12T14:55:31.186Z"
+          "publishedAt": "2026-01-12T14:55:31.186Z",
+          "focalPoint": null
         }
       ]
     },
@@ -11523,7 +12349,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:14:08.674Z",
           "updatedAt": "2026-03-05T19:14:08.674Z",
-          "publishedAt": "2026-03-05T19:14:08.674Z"
+          "publishedAt": "2026-03-05T19:14:08.674Z",
+          "focalPoint": null
         }
       ]
     },
@@ -11563,7 +12390,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Έχουν γίνει online συναντήσεις εργασίας πριν και μετά τις Ευρωεκλογές. Τα δύο μέλη του Δικτύου Culture for Change συμμετέχουν ενεργά σ��ις προγραμματισμένες συναντήσεις, ενημερώνονται, υποβάλλουν σχόλια/παρατηρήσεις για όσα είναι στην ατζέντα και στη συνέχεια μεταφέρουν τα αποτελέσματα και τη συλλογική γνώση, καθώς και επισημαίνουν την ανάγκη για συνηγορία που ανακύπτει και μπορεί να αναπτύξει το Δίκτυο Culture for Change. ",
+              "text": "Έχουν γίνει online συναντήσεις εργασίας πριν και μετά τις Ευρωεκλογές. Τα δύο μέλη του Δικτύου Culture for Change συμμετέχουν ενεργά στις προγραμματισμένες συναντήσεις, ενημερώνονται, υποβάλλουν σχόλια/παρατηρήσεις για όσα είναι στην ατζέντα και στη συνέχεια μεταφέρουν τα αποτελέσματα και τη συλλογική γνώση, καθώς και επισημαίνουν την ανάγκη για συνηγορία που ανακύπτει και μπορεί να αναπτύξει το Δίκτυο Culture for Change. ",
               "type": "text"
             }
           ]
@@ -11664,7 +12491,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:13:44.423Z",
           "updatedAt": "2026-03-05T19:13:44.423Z",
-          "publishedAt": "2026-03-05T19:13:44.423Z"
+          "publishedAt": "2026-03-05T19:13:44.423Z",
+          "focalPoint": null
         }
       ]
     },
@@ -11805,7 +12633,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:20.920Z",
           "updatedAt": "2026-01-12T14:47:20.920Z",
-          "publishedAt": "2026-01-12T14:47:20.920Z"
+          "publishedAt": "2026-01-12T14:47:20.920Z",
+          "focalPoint": null
         }
       ]
     },
@@ -11863,7 +12692,7 @@
               "type": "text"
             },
             {
-              "text": " να ενημερωθούν και να διασφαλίσουν ότι ακολουθούν τις σωστές διαδικασίες.",
+              "text": " να ενημερωθούν και ν�� διασφαλίσουν ότι ακολουθούν τις σωστές διαδικασίες.",
               "type": "text"
             }
           ]
@@ -11964,7 +12793,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:00.778Z",
           "updatedAt": "2026-01-12T14:49:00.778Z",
-          "publishedAt": "2026-01-12T14:49:00.778Z"
+          "publishedAt": "2026-01-12T14:49:00.778Z",
+          "focalPoint": null
         }
       ]
     },
@@ -12216,7 +13046,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:47:55.516Z",
           "updatedAt": "2026-01-12T14:47:55.516Z",
-          "publishedAt": "2026-01-12T14:47:55.517Z"
+          "publishedAt": "2026-01-12T14:47:55.517Z",
+          "focalPoint": null
         },
         {
           "id": 63,
@@ -12286,7 +13117,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:48:15.515Z",
           "updatedAt": "2026-01-12T14:48:15.515Z",
-          "publishedAt": "2026-01-12T14:48:15.516Z"
+          "publishedAt": "2026-01-12T14:48:15.516Z",
+          "focalPoint": null
         },
         {
           "id": 64,
@@ -12356,7 +13188,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:48:23.733Z",
           "updatedAt": "2026-01-12T14:48:23.733Z",
-          "publishedAt": "2026-01-12T14:48:23.733Z"
+          "publishedAt": "2026-01-12T14:48:23.733Z",
+          "focalPoint": null
         },
         {
           "id": 65,
@@ -12426,7 +13259,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:48:36.346Z",
           "updatedAt": "2026-01-12T14:48:36.346Z",
-          "publishedAt": "2026-01-12T14:48:36.346Z"
+          "publishedAt": "2026-01-12T14:48:36.346Z",
+          "focalPoint": null
         },
         {
           "id": 66,
@@ -12496,7 +13330,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:48:51.858Z",
           "updatedAt": "2026-01-12T14:48:51.858Z",
-          "publishedAt": "2026-01-12T14:48:51.859Z"
+          "publishedAt": "2026-01-12T14:48:51.859Z",
+          "focalPoint": null
         }
       ]
     },
@@ -12582,7 +13417,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:03.192Z",
           "updatedAt": "2026-01-12T14:49:03.192Z",
-          "publishedAt": "2026-01-12T14:49:03.192Z"
+          "publishedAt": "2026-01-12T14:49:03.192Z",
+          "focalPoint": null
         }
       ]
     },
@@ -12771,7 +13607,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:31.837Z",
           "updatedAt": "2026-01-12T14:49:31.837Z",
-          "publishedAt": "2026-01-12T14:49:31.837Z"
+          "publishedAt": "2026-01-12T14:49:31.837Z",
+          "focalPoint": null
         }
       ]
     },
@@ -12961,7 +13798,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:50:11.842Z",
           "updatedAt": "2026-01-12T14:50:11.842Z",
-          "publishedAt": "2026-01-12T14:50:11.847Z"
+          "publishedAt": "2026-01-12T14:50:11.847Z",
+          "focalPoint": null
         },
         {
           "id": 82,
@@ -13031,7 +13869,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:51:05.453Z",
           "updatedAt": "2026-01-12T14:51:05.453Z",
-          "publishedAt": "2026-01-12T14:51:05.453Z"
+          "publishedAt": "2026-01-12T14:51:05.453Z",
+          "focalPoint": null
         },
         {
           "id": 83,
@@ -13101,7 +13940,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:51:20.337Z",
           "updatedAt": "2026-01-12T14:51:20.337Z",
-          "publishedAt": "2026-01-12T14:51:20.337Z"
+          "publishedAt": "2026-01-12T14:51:20.337Z",
+          "focalPoint": null
         },
         {
           "id": 84,
@@ -13171,7 +14011,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:51:31.462Z",
           "updatedAt": "2026-01-12T14:51:31.462Z",
-          "publishedAt": "2026-01-12T14:51:31.463Z"
+          "publishedAt": "2026-01-12T14:51:31.463Z",
+          "focalPoint": null
         },
         {
           "id": 85,
@@ -13241,7 +14082,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:51:50.414Z",
           "updatedAt": "2026-01-12T14:51:50.414Z",
-          "publishedAt": "2026-01-12T14:51:50.414Z"
+          "publishedAt": "2026-01-12T14:51:50.414Z",
+          "focalPoint": null
         },
         {
           "id": 86,
@@ -13311,7 +14153,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:05.589Z",
           "updatedAt": "2026-01-12T14:52:05.589Z",
-          "publishedAt": "2026-01-12T14:52:05.589Z"
+          "publishedAt": "2026-01-12T14:52:05.589Z",
+          "focalPoint": null
         }
       ]
     },
@@ -13361,7 +14204,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "‍",
+              "text": "���",
               "type": "text"
             }
           ]
@@ -13551,7 +14394,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:16.227Z",
           "updatedAt": "2026-01-12T14:49:16.227Z",
-          "publishedAt": "2026-01-12T14:49:16.227Z"
+          "publishedAt": "2026-01-12T14:49:16.227Z",
+          "focalPoint": null
         }
       ]
     },
@@ -13677,7 +14521,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:05.430Z",
           "updatedAt": "2026-01-12T14:49:05.430Z",
-          "publishedAt": "2026-01-12T14:49:05.430Z"
+          "publishedAt": "2026-01-12T14:49:05.430Z",
+          "focalPoint": null
         },
         {
           "id": 70,
@@ -13747,7 +14592,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:09.893Z",
           "updatedAt": "2026-01-12T14:49:09.893Z",
-          "publishedAt": "2026-01-12T14:49:09.893Z"
+          "publishedAt": "2026-01-12T14:49:09.893Z",
+          "focalPoint": null
         }
       ]
     },
@@ -14213,7 +15059,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:27.488Z",
           "updatedAt": "2026-01-12T14:49:27.488Z",
-          "publishedAt": "2026-01-12T14:49:27.489Z"
+          "publishedAt": "2026-01-12T14:49:27.489Z",
+          "focalPoint": null
         }
       ]
     },
@@ -14350,7 +15197,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:15:00.461Z",
           "updatedAt": "2026-03-05T19:15:00.461Z",
-          "publishedAt": "2026-03-05T19:15:00.461Z"
+          "publishedAt": "2026-03-05T19:15:00.461Z",
+          "focalPoint": null
         }
       ]
     },
@@ -14603,7 +15451,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:34.917Z",
           "updatedAt": "2026-01-12T14:49:34.917Z",
-          "publishedAt": "2026-01-12T14:49:34.917Z"
+          "publishedAt": "2026-01-12T14:49:34.917Z",
+          "focalPoint": null
         }
       ]
     },
@@ -14747,7 +15596,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:41.920Z",
           "updatedAt": "2026-01-12T14:49:41.920Z",
-          "publishedAt": "2026-01-12T14:49:41.920Z"
+          "publishedAt": "2026-01-12T14:49:41.920Z",
+          "focalPoint": null
         },
         {
           "id": 78,
@@ -14817,7 +15667,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:45.630Z",
           "updatedAt": "2026-01-12T14:49:45.630Z",
-          "publishedAt": "2026-01-12T14:49:45.631Z"
+          "publishedAt": "2026-01-12T14:49:45.631Z",
+          "focalPoint": null
         },
         {
           "id": 79,
@@ -14887,7 +15738,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:50.179Z",
           "updatedAt": "2026-01-12T14:49:50.179Z",
-          "publishedAt": "2026-01-12T14:49:50.179Z"
+          "publishedAt": "2026-01-12T14:49:50.179Z",
+          "focalPoint": null
         },
         {
           "id": 80,
@@ -14957,7 +15809,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:49:54.915Z",
           "updatedAt": "2026-01-12T14:49:54.915Z",
-          "publishedAt": "2026-01-12T14:49:54.916Z"
+          "publishedAt": "2026-01-12T14:49:54.916Z",
+          "focalPoint": null
         }
       ]
     },
@@ -15119,7 +15972,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:14.662Z",
           "updatedAt": "2026-01-12T14:52:14.662Z",
-          "publishedAt": "2026-01-12T14:52:14.663Z"
+          "publishedAt": "2026-01-12T14:52:14.663Z",
+          "focalPoint": null
         },
         {
           "id": 88,
@@ -15189,7 +16043,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:28.129Z",
           "updatedAt": "2026-01-12T14:52:28.129Z",
-          "publishedAt": "2026-01-12T14:52:28.130Z"
+          "publishedAt": "2026-01-12T14:52:28.130Z",
+          "focalPoint": null
         },
         {
           "id": 89,
@@ -15259,7 +16114,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:36.807Z",
           "updatedAt": "2026-01-12T14:52:36.807Z",
-          "publishedAt": "2026-01-12T14:52:36.807Z"
+          "publishedAt": "2026-01-12T14:52:36.807Z",
+          "focalPoint": null
         },
         {
           "id": 90,
@@ -15329,7 +16185,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:45.731Z",
           "updatedAt": "2026-01-12T14:52:45.731Z",
-          "publishedAt": "2026-01-12T14:52:45.731Z"
+          "publishedAt": "2026-01-12T14:52:45.731Z",
+          "focalPoint": null
         },
         {
           "id": 91,
@@ -15399,7 +16256,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:48.637Z",
           "updatedAt": "2026-01-12T14:52:48.637Z",
-          "publishedAt": "2026-01-12T14:52:48.638Z"
+          "publishedAt": "2026-01-12T14:52:48.638Z",
+          "focalPoint": null
         },
         {
           "id": 92,
@@ -15469,7 +16327,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:52:56.104Z",
           "updatedAt": "2026-01-12T14:52:56.104Z",
-          "publishedAt": "2026-01-12T14:52:56.104Z"
+          "publishedAt": "2026-01-12T14:52:56.104Z",
+          "focalPoint": null
         },
         {
           "id": 93,
@@ -15539,7 +16398,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:02.862Z",
           "updatedAt": "2026-01-12T14:53:02.862Z",
-          "publishedAt": "2026-01-12T14:53:02.862Z"
+          "publishedAt": "2026-01-12T14:53:02.862Z",
+          "focalPoint": null
         },
         {
           "id": 94,
@@ -15609,7 +16469,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:09.620Z",
           "updatedAt": "2026-01-12T14:53:09.620Z",
-          "publishedAt": "2026-01-12T14:53:09.620Z"
+          "publishedAt": "2026-01-12T14:53:09.620Z",
+          "focalPoint": null
         },
         {
           "id": 95,
@@ -15679,7 +16540,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:17.602Z",
           "updatedAt": "2026-01-12T14:53:17.602Z",
-          "publishedAt": "2026-01-12T14:53:17.602Z"
+          "publishedAt": "2026-01-12T14:53:17.602Z",
+          "focalPoint": null
         },
         {
           "id": 96,
@@ -15749,7 +16611,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:23.831Z",
           "updatedAt": "2026-01-12T14:53:23.831Z",
-          "publishedAt": "2026-01-12T14:53:23.831Z"
+          "publishedAt": "2026-01-12T14:53:23.831Z",
+          "focalPoint": null
         },
         {
           "id": 97,
@@ -15819,7 +16682,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:29.334Z",
           "updatedAt": "2026-01-12T14:53:29.334Z",
-          "publishedAt": "2026-01-12T14:53:29.334Z"
+          "publishedAt": "2026-01-12T14:53:29.334Z",
+          "focalPoint": null
         },
         {
           "id": 98,
@@ -15889,7 +16753,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:34.022Z",
           "updatedAt": "2026-01-12T14:53:34.022Z",
-          "publishedAt": "2026-01-12T14:53:34.022Z"
+          "publishedAt": "2026-01-12T14:53:34.022Z",
+          "focalPoint": null
         }
       ]
     },
@@ -16171,7 +17036,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:17:09.412Z",
           "updatedAt": "2026-03-05T19:17:09.412Z",
-          "publishedAt": "2026-03-05T19:17:09.412Z"
+          "publishedAt": "2026-03-05T19:17:09.412Z",
+          "focalPoint": null
         }
       ]
     },
@@ -16301,7 +17167,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Λίγα λόγια για το δίκτυο Culture for Change\n \nTo Culture for Change (CforC) είναι το πρώτο ελληνικό δίκτυο που εκπροσωπεί τη φωνή περισσότερων από 75 επαγγελματιών διαφορετικού ακαδημαϊκού υπόβαθρου και πολλαπλών δεξιοτήτων από όλη τη χώρα, συμπεριλαμβανομένων –ενδεικτικά– πολιτιστικών διαχειριστών, καλλιτεχνών, νομικών, επιστημόνων συμπεριφοράς, σχεδιαστών, αρχιτεκτόνων, πολεοδόμων, περιβαλλοντολόγων και άλλων ειδικοτήτων, που συνδέονται με κοινές απόψεις και πρακτικές γύρω από την ανάπτυξη της κοινωνικής καινοτομίας, αναδεικνύοντας τον θετικό αντίκτυπο του πολιτισμού στ��ν κοινωνία. Μια υβριδική συλλογικότητα που υποστηρίζει και αναδεικνύει τις πρωτοβουλίες των μελών της, παρέχοντάς τους δομές, πρακτικές, κατευθυντήριες γραμμές, ευκαιρίες συνεχιζόμενης εκπαίδευσης, δημιουργικές συνεργασίες με άλλα άτομα, δίκτυα και οργανισμούς, καθιστώντας το έργο τους πιο βιώσιμο και αποτελεσματικό. Απώτερος στόχος του δικτύου είναι η ενίσχυση του Πολιτιστικού τομέα και της Κοινωνίας των Πολιτών τόσο σε εθνικό όσο και διεθνές επίπεδο. Κατά τη διάρκεια της δράσης θα πραγματοποιηθεί η ετήσια Γενική Συνέλευση του CforC, οι εργασίες της οποίας θα είναι ανοιχτές στο κοινό προς παρατήρηση του μοντέλου λειτουργίας του.",
+              "text": "Λίγα λόγια για το δίκτυο Culture for Change\n \nTo Culture for Change (CforC) είναι το πρώτο ελληνικό δίκτυο που εκπροσωπεί τη φωνή περισσότερων από 75 επαγγελματιών διαφορετικού ακαδημαϊκού υπόβαθρου και πολλαπλών δεξιοτήτων από όλη τη χώρα, συμπεριλαμβανομένων –ενδεικτικά– πολιτιστικών διαχειριστών, καλλιτεχνών, νομικών, επιστημόνων συμπεριφοράς, σχεδιαστών, αρχιτεκτόνων, πολεοδόμων, περιβαλλοντολόγων και άλλων ειδικοτήτων, που συνδέονται με κοινές απόψεις και πρακτικές γύρω από την ανάπτυξη της κοινωνικής καινοτομίας, αναδεικνύοντας τον θετικό αντίκτυπο του πολιτισμού στην κοινωνία. Μια υβριδική συλλογικότητα που υποστηρίζει και αναδεικνύει τις πρωτοβουλίες των μελών της, παρέχοντάς τους δομές, πρακτικές, κατευθυντήριες γραμμές, ευκαιρίες συνεχιζόμενης εκπαίδευσης, δημιουργικές συνεργασίες με άλλα άτομα, δίκτυα και οργανισμούς, καθιστώντας το έργο τους πιο βιώσιμο και αποτελεσματικό. Απώτερος στόχος του δικτύου είναι η ενίσχυση του Πολιτιστικού τομέα και της Κοινωνίας των Πολιτών τόσο σε εθνικό όσο και διεθνές επίπεδο. Κατά τη διάρκεια της δράσης θα πραγματοποιηθεί η ετήσια Γενική Συνέλευση του CforC, οι εργασίες της οποίας θα είναι ανοιχτές στο κοινό προς παρατήρηση του μοντέλου λειτουργίας του.",
               "type": "text"
             }
           ]
@@ -16495,7 +17361,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:37.436Z",
           "updatedAt": "2026-01-12T14:53:37.436Z",
-          "publishedAt": "2026-01-12T14:53:37.436Z"
+          "publishedAt": "2026-01-12T14:53:37.436Z",
+          "focalPoint": null
         },
         {
           "id": 100,
@@ -16565,7 +17432,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:39.951Z",
           "updatedAt": "2026-01-12T14:53:39.951Z",
-          "publishedAt": "2026-01-12T14:53:39.952Z"
+          "publishedAt": "2026-01-12T14:53:39.952Z",
+          "focalPoint": null
         },
         {
           "id": 101,
@@ -16635,7 +17503,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:53:53.996Z",
           "updatedAt": "2026-01-12T14:53:53.996Z",
-          "publishedAt": "2026-01-12T14:53:53.997Z"
+          "publishedAt": "2026-01-12T14:53:53.997Z",
+          "focalPoint": null
         },
         {
           "id": 102,
@@ -16705,7 +17574,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:54:06.263Z",
           "updatedAt": "2026-01-12T14:54:06.263Z",
-          "publishedAt": "2026-01-12T14:54:06.264Z"
+          "publishedAt": "2026-01-12T14:54:06.264Z",
+          "focalPoint": null
         },
         {
           "id": 103,
@@ -16775,7 +17645,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:54:23.734Z",
           "updatedAt": "2026-01-12T14:54:23.734Z",
-          "publishedAt": "2026-01-12T14:54:23.734Z"
+          "publishedAt": "2026-01-12T14:54:23.734Z",
+          "focalPoint": null
         },
         {
           "id": 104,
@@ -16845,7 +17716,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:54:35.098Z",
           "updatedAt": "2026-01-12T14:54:35.098Z",
-          "publishedAt": "2026-01-12T14:54:35.098Z"
+          "publishedAt": "2026-01-12T14:54:35.098Z",
+          "focalPoint": null
         },
         {
           "id": 105,
@@ -16915,7 +17787,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:54:47.886Z",
           "updatedAt": "2026-01-12T14:54:47.886Z",
-          "publishedAt": "2026-01-12T14:54:47.886Z"
+          "publishedAt": "2026-01-12T14:54:47.886Z",
+          "focalPoint": null
         }
       ]
     },
@@ -17579,7 +18452,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:17:55.908Z",
           "updatedAt": "2026-03-05T19:17:55.908Z",
-          "publishedAt": "2026-03-05T19:17:55.908Z"
+          "publishedAt": "2026-03-05T19:17:55.908Z",
+          "focalPoint": null
         }
       ]
     },
@@ -18077,7 +18951,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:26.048Z",
           "updatedAt": "2026-01-12T14:55:26.048Z",
-          "publishedAt": "2026-01-12T14:55:26.048Z"
+          "publishedAt": "2026-01-12T14:55:26.048Z",
+          "focalPoint": null
         }
       ]
     },
@@ -18225,7 +19100,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "2. η πρόσφατη απόφαση της 21 ης Νοεμβρίου του Ευρωπαϊκού Κοινοβουλίου για την ανάληψη ειδικών νομοθετικών ρυθμίσεων από τα κράτη μέλη της ΕΕ για την προστασία των καλλιτεχνών και επαγγελματιών του πολιτισμού ενάντια στις επισφαλείς συνθήκες εργασίας. Ειναι η πρώτη φορά που το Ευρωπαϊκό Κοινοβούλιο νομοθετεί προκειμένου να ληφθούν νομοθετικές παρεμβάσεις και δεν εκδίδει μια απλή οδηγία, δηλώντας με αυτό τον τρόπο την επιτακτική ανάγκη στήριξης της συγκεκριμένης επαγγελματικής ομάδας",
+              "text": "2. η πρόσφατη απόφαση της 21 ης Νοεμβρίου του Ευρωπαϊκού Κοινοβουλίου για την ανάληψη ειδικών νομοθετικών ρυθμίσεων από τα κρά��η μέλη της ΕΕ για την προστασία των καλλιτεχνών και επαγγελματιών του πολιτισμού ενάντια στις επισφαλείς συνθήκες εργασίας. Ειναι η πρώτη φορά που το Ευρωπαϊκό Κοινοβούλιο νομοθετεί προκειμένου να ληφθούν νομοθετικές παρεμβάσεις και δεν εκδίδει μια απλή οδηγία, δηλώντας με αυτό τον τρόπο την επιτακτική ανάγκη στήριξης της συγκεκριμένης επαγγελματικής ομάδας",
               "type": "text"
             }
           ]
@@ -18356,7 +19231,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:36.409Z",
           "updatedAt": "2026-01-12T14:55:36.409Z",
-          "publishedAt": "2026-01-12T14:55:36.409Z"
+          "publishedAt": "2026-01-12T14:55:36.409Z",
+          "focalPoint": null
         }
       ]
     },
@@ -18599,7 +19475,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:44.395Z",
           "updatedAt": "2026-01-12T14:55:44.395Z",
-          "publishedAt": "2026-01-12T14:55:44.396Z"
+          "publishedAt": "2026-01-12T14:55:44.396Z",
+          "focalPoint": null
         }
       ]
     },
@@ -18887,7 +19764,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:56:14.302Z",
           "updatedAt": "2026-01-12T14:56:14.302Z",
-          "publishedAt": "2026-01-12T14:56:14.303Z"
+          "publishedAt": "2026-01-12T14:56:14.303Z",
+          "focalPoint": null
         },
         {
           "id": 125,
@@ -18957,7 +19835,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:56:24.274Z",
           "updatedAt": "2026-01-12T14:56:24.274Z",
-          "publishedAt": "2026-01-12T14:56:24.274Z"
+          "publishedAt": "2026-01-12T14:56:24.274Z",
+          "focalPoint": null
         },
         {
           "id": 126,
@@ -19027,7 +19906,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:56:37.753Z",
           "updatedAt": "2026-01-12T14:56:37.753Z",
-          "publishedAt": "2026-01-12T14:56:37.753Z"
+          "publishedAt": "2026-01-12T14:56:37.753Z",
+          "focalPoint": null
         },
         {
           "id": 127,
@@ -19097,7 +19977,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:56:47.241Z",
           "updatedAt": "2026-01-12T14:56:47.241Z",
-          "publishedAt": "2026-01-12T14:56:47.241Z"
+          "publishedAt": "2026-01-12T14:56:47.241Z",
+          "focalPoint": null
         },
         {
           "id": 128,
@@ -19167,7 +20048,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:57:00.028Z",
           "updatedAt": "2026-01-12T14:57:00.028Z",
-          "publishedAt": "2026-01-12T14:57:00.028Z"
+          "publishedAt": "2026-01-12T14:57:00.028Z",
+          "focalPoint": null
         }
       ]
     },
@@ -19180,7 +20062,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Το συγκεκριμένο online εργαστήριο με εισηγήτρια τη Ματίνα Μάγκου, μέλος του Σωματείου, αφορά τα οικονομικά τακτοποιημένα μέλη. Τέτοιου είδους ευκαιρίες εκπαίδευσης και εργαστήρια είναι μερικά από τα π��ονόμια των μελών του Σωματείου.",
+              "text": "Το συγκεκριμένο online εργαστήριο με εισηγήτρια τη Ματίνα Μάγκου, μέλος του Σωματείου, αφορά τα οικονομικά τακτοποιημένα μέλη. Τέτοιου είδους ευκαιρίες εκπαίδευσης και εργαστήρια είναι μερικά από τα προνόμια των μελών του Σωματείου.",
               "type": "text"
             }
           ]
@@ -19355,7 +20237,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:33.812Z",
           "updatedAt": "2026-01-12T14:55:33.812Z",
-          "publishedAt": "2026-01-12T14:55:33.812Z"
+          "publishedAt": "2026-01-12T14:55:33.812Z",
+          "focalPoint": null
         }
       ]
     },
@@ -19634,7 +20517,8 @@
           "provider_metadata": null,
           "createdAt": "2026-03-05T19:18:31.033Z",
           "updatedAt": "2026-03-05T19:18:31.033Z",
-          "publishedAt": "2026-03-05T19:18:31.035Z"
+          "publishedAt": "2026-03-05T19:18:31.035Z",
+          "focalPoint": null
         }
       ]
     },
@@ -19878,7 +20762,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:54:55.324Z",
           "updatedAt": "2026-01-12T14:54:55.324Z",
-          "publishedAt": "2026-01-12T14:54:55.324Z"
+          "publishedAt": "2026-01-12T14:54:55.324Z",
+          "focalPoint": null
         },
         {
           "id": 107,
@@ -19948,7 +20833,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:00.284Z",
           "updatedAt": "2026-01-12T14:55:00.284Z",
-          "publishedAt": "2026-01-12T14:55:00.284Z"
+          "publishedAt": "2026-01-12T14:55:00.284Z",
+          "focalPoint": null
         },
         {
           "id": 108,
@@ -20018,7 +20904,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:05.147Z",
           "updatedAt": "2026-01-12T14:55:05.147Z",
-          "publishedAt": "2026-01-12T14:55:05.147Z"
+          "publishedAt": "2026-01-12T14:55:05.147Z",
+          "focalPoint": null
         },
         {
           "id": 109,
@@ -20088,7 +20975,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:11.542Z",
           "updatedAt": "2026-01-12T14:55:11.542Z",
-          "publishedAt": "2026-01-12T14:55:11.542Z"
+          "publishedAt": "2026-01-12T14:55:11.542Z",
+          "focalPoint": null
         },
         {
           "id": 110,
@@ -20158,7 +21046,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:15.337Z",
           "updatedAt": "2026-01-12T14:55:15.337Z",
-          "publishedAt": "2026-01-12T14:55:15.338Z"
+          "publishedAt": "2026-01-12T14:55:15.338Z",
+          "focalPoint": null
         },
         {
           "id": 111,
@@ -20228,7 +21117,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:18.220Z",
           "updatedAt": "2026-01-12T14:55:18.220Z",
-          "publishedAt": "2026-01-12T14:55:18.220Z"
+          "publishedAt": "2026-01-12T14:55:18.220Z",
+          "focalPoint": null
         },
         {
           "id": 112,
@@ -20298,7 +21188,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:22.110Z",
           "updatedAt": "2026-01-12T14:55:22.110Z",
-          "publishedAt": "2026-01-12T14:55:22.110Z"
+          "publishedAt": "2026-01-12T14:55:22.110Z",
+          "focalPoint": null
         }
       ]
     },
@@ -20415,7 +21306,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:39.465Z",
           "updatedAt": "2026-01-12T14:55:39.465Z",
-          "publishedAt": "2026-01-12T14:55:39.465Z"
+          "publishedAt": "2026-01-12T14:55:39.465Z",
+          "focalPoint": null
         }
       ]
     },
@@ -20446,7 +21338,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Επίσης, κάποια μέλη συμμετείχαν διαδικτυακά στη συνεδρία. Μετά την ολοκλήρωση της 2ης Γενικής Συνέλευσης, ανανεώνεται η δέσμευση του Διοικητικού Συμβουλίου για συνεργασία και επανασύνδεση. Η πανδημία δημιούργησε δυσκολίες, αλλά η συνέλευση υπενθύμισε ό��ι δεν είναι μόνοι και ότι οι επόμενες εξελίξεις θα καθοριστούν κοινούς. ",
+              "text": "Επίσης, κάποια μέλη συμμετείχαν διαδικτυακά στη συνεδρία. Μετά την ολοκλήρωση της 2ης Γενικής Συνέλευσης, ανανεώνεται η δέσμευση του Διοικητικού Συμβουλίου για συνεργασία και επανασύνδεση. Η πανδημία δημιούργησε δυσκολίες, αλλά η συνέλευση υπενθύμισε ότι δεν είναι μόνοι και ότι οι επόμενες εξελίξεις θα καθοριστούν κοινούς. ",
               "type": "text"
             }
           ]
@@ -20529,7 +21421,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:57:04.225Z",
           "updatedAt": "2026-01-12T14:57:04.225Z",
-          "publishedAt": "2026-01-12T14:57:04.225Z"
+          "publishedAt": "2026-01-12T14:57:04.225Z",
+          "focalPoint": null
         }
       ]
     },
@@ -20560,7 +21453,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Με την ολοκλήρωση του event, απεστάλη σε όλους τους συμμετέχοντες μια φόρμα αξιολόγησης. Η συνάντηση αυτή αποτέλεσε μια αυθεντική ευκαιρία για τα μέλη να συναντηθούν, να ανταλλάξουν απόψεις και να ανακαλύψουν νέα μέρη. Παρά τις προκλήσεις που προέκυψαν λόγω της δια ζώσης οργάνωσης, η ενέργεια και η προσοχή που δόθηκαν από το Διοικητικό Συμβούλιο και την Επιτροπή Ανάπτυξης άξιζαν τον κόπο.",
+              "text": "Με την ολοκλήρωση του event, απεστάλη σε όλους τους συμμετέχοντες μια φόρμα αξιολόγησης. Η συνάντηση αυτή αποτέλεσε μια αυθεντική ευκαιρία για τα μέλη να συναντηθούν, να ανταλλάξουν απόψεις και να ανακαλύψουν νέα μέ��η. Παρά τις προκλήσεις που προέκυψαν λόγω της δια ζώσης οργάνωσης, η ενέργεια και η προσοχή που δόθηκαν από το Διοικητικό Συμβούλιο και την Επιτροπή Ανάπτυξης άξιζαν τον κόπο.",
               "type": "text"
             }
           ]
@@ -20670,7 +21563,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:48.613Z",
           "updatedAt": "2026-01-12T14:55:48.613Z",
-          "publishedAt": "2026-01-12T14:55:48.613Z"
+          "publishedAt": "2026-01-12T14:55:48.613Z",
+          "focalPoint": null
         },
         {
           "id": 120,
@@ -20728,7 +21622,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:52.165Z",
           "updatedAt": "2026-01-12T14:55:52.165Z",
-          "publishedAt": "2026-01-12T14:55:52.165Z"
+          "publishedAt": "2026-01-12T14:55:52.165Z",
+          "focalPoint": null
         },
         {
           "id": 121,
@@ -20786,7 +21681,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:55.000Z",
           "updatedAt": "2026-01-12T14:55:55.000Z",
-          "publishedAt": "2026-01-12T14:55:55.000Z"
+          "publishedAt": "2026-01-12T14:55:55.000Z",
+          "focalPoint": null
         },
         {
           "id": 122,
@@ -20832,7 +21728,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:55:58.645Z",
           "updatedAt": "2026-01-12T14:55:58.645Z",
-          "publishedAt": "2026-01-12T14:55:58.645Z"
+          "publishedAt": "2026-01-12T14:55:58.645Z",
+          "focalPoint": null
         },
         {
           "id": 123,
@@ -20890,7 +21787,8 @@
           "provider_metadata": null,
           "createdAt": "2026-01-12T14:56:02.811Z",
           "updatedAt": "2026-01-12T14:56:02.811Z",
-          "publishedAt": "2026-01-12T14:56:02.811Z"
+          "publishedAt": "2026-01-12T14:56:02.811Z",
+          "focalPoint": null
         }
       ]
     }
@@ -20899,7 +21797,7 @@
     "pagination": {
       "start": 0,
       "limit": 100,
-      "total": 65
+      "total": 67
     }
   }
 }

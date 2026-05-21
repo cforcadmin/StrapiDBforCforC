@@ -83,7 +83,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-02T12:46:30.021Z",
         "updatedAt": "2026-03-02T12:50:36.123Z",
-        "publishedAt": "2026-03-02T12:46:30.022Z"
+        "publishedAt": "2026-03-02T12:46:30.022Z",
+        "focalPoint": null
       },
       "Coordinator": {
         "id": 943,
@@ -306,7 +307,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Έχει συνεργαστεί με κορυφαίους πολιτιστικούς οργανισμούς της χώρας και έχει υλοποιήσει παραγωγές σε εμβληματικούς χώρους όπως το Αρχαίο Θέατρο της Επιδαύρου και το Ωδείο Ηρώδου του Αττικού, καθώς και σε θέατρα στην Ελλάδα και το εξωτερικό. Διαθέτει εμπειρία στη διαχείριση σύνθετων παραγωγών, στον συντονισμό ομάδων και στη διαπολιτισμική επικοινωνία, διασφαλίζοντας την υλοποίηση κάθε έργου με στρατηγική σκέψη, ακρίβεια και δημιουργικότητα.",
+                  "text": "Έχει συνεργαστεί με κορυφαίους πολι��ιστικούς οργανισμούς της χώρας και έχει υλοποιήσει παραγωγές σε εμβληματικούς χώρους όπως το Αρχαίο Θέατρο της Επιδαύρου και το Ωδείο Ηρώδου του Αττικού, καθώς και σε θέατρα στην Ελλάδα και το εξωτερικό. Διαθέτει εμπειρία στη διαχείριση σύνθετων παραγωγών, στον συντονισμό ομάδων και στη διαπολιτισμική επικοινωνία, διασφαλίζοντας την υλοποίηση κάθε έργου με στρατηγική σκέψη, ακρίβεια και δημιουργικότητα.",
                   "type": "text"
                 }
               ]
@@ -458,7 +459,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Η Νατάσσα αυτοπροσδιορίζεται ως πολιτιστική μηχανικός: Η δουλειά της συνίσταται στην εφεύρεση μεθόδων συσπείρωσης κοινοτήτων δημιουργικών επαγγελματιών και ενεργοποίησης τους προς την αναβίωση εγκαταλειμμένων ιστορικών μνημείων της Αθήνας. Σπούδασε πολιτικός μηχανικός και ειδικεύτηκε στην προστασία μνημείων στην αρχιτεκτονική του ΕΜΠ. Κατά τη διάρκεια του fellowship stArt του Robert Bosch Stiftung, διατύπωσε το project Communitism, το οποίο συνίστατο στη μεθοδολογία ανάπτυξης κοινότητας που θα ίδρυε ένα community-run κοινωνικό και πολιτισμικό κέντρο, σε ένα κτήριο που οι ιδιοκτήτες θα παρείχαν δωρεάν προκειμένου να εξασφαλίσουν τη συντήρησή του. Το project εξελίχθηκε στο σωματείο με τίτλο \"Ένωση πολιτών για τη διατήρηση της νεότερης πολιτισμικής κληρονομιάς με το διακριτικό τίτλο Communitism\", το οποίο λειτούργησε για 6 χρόνια το sociocultural κέντρο Communitism στην Κεραμεικού 28, στο Μεταξουργείο. Μέσα σε αυτό το περιβάλλον, συνεισφέρει ως μέλος του Δ.Σ. του σωματείου, ενώ παράλληλα αναπτύσσει τις διεθνείς, στρατηγικές  συνεργασίες και δημιουργεί εκπαιδευτικά και καλλιτεχνικά προγράμματα χρηματοδοτήσεων. Ανέπτυξε πρακτικές οργάνωσης συμμετοχικών καλλιτεχνικών events, και παρέχει ��υμβουλευτική υποστήριξη σε κοινότητες σε όλη την Ευρώπη για ζητήματα που άπτονται των δραστηριοτήτων της. Η δυναμική του συνδιασμού αναξιοποίητης πολιτισμικής κληρονομιάς και αναξιοποίητων δημιουργικών ατόμων, είναι αντικείμενο έρευνας μέσω της συνεργασίας μου με την έδρα Newrope του πολυτεχνέιου ETH Zurich.",
+                  "text": "Η Νατάσσα αυτοπροσδιορίζεται ως πολιτιστική μηχανικός: Η δουλειά της συνίσταται στην εφεύρεση μεθόδων συσπείρωσης κοινοτήτων δημιουργικών επαγγελματιών και ενεργοποίησης τους προς την αναβίωση εγκαταλειμμένων ιστορικών μνημείων της Αθήνας. Σπούδασε πολιτικός μηχανικός και ειδικεύτηκε στην προστασία μνημείων στην αρχιτεκτονική του ΕΜΠ. Κατά τη διάρκεια του fellowship stArt του Robert Bosch Stiftung, διατύπωσε το project Communitism, το οποίο συνίστατο στη μεθοδολογία ανάπτυξης κοινότητας που θα ίδρυε ένα community-run κοινωνικό και πολιτισμικό κέντρο, σε ένα κτήριο που οι ιδιοκτήτες θα παρείχαν δωρεάν προκειμένου να εξασφαλίσουν τη συντήρησή του. Το project εξελίχθηκε στο σωματείο με τίτλο \"Ένωση πολιτών για τη διατήρηση της νεότερης πολιτισμικής κληρονομιάς με το διακριτικό τίτλο Communitism\", το οποίο λειτούργησε για 6 χρόνια το sociocultural κέντρο Communitism στην Κεραμεικού 28, στο Μεταξουργείο. Μέσα σε αυτό το περιβάλλον, συνεισφέρει ως μέλος του Δ.Σ. του σωματείου, ενώ παράλληλα αναπτύσσει τις διεθνείς, στρατηγικές  συνεργασίες και δημιουργεί εκπαιδευτικά και καλλιτεχνικά προγράμματα χρηματοδοτήσεων. Ανέπτυξε πρακτικές οργάνωσης συμμετοχικών καλλιτεχνικών events, και παρέχει συμβουλευτική υποστήριξη σε κοινότητες σε όλη την Ευρώπη για ζητήματα που άπτονται των δραστηριοτήτων της. Η δυναμική του συνδιασμού αναξιοποίητης πολιτισμικής κληρονομιάς και αναξιοποίητων δημιουργικών ατόμων, είναι αντικείμενο έρευνας μέσω της συνεργασίας μου με την έδρα Newrope του πολυτεχνέιου ETH Zurich.",
                   "type": "text"
                 }
               ]
@@ -617,7 +618,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "O Γιάννης σπούδασε Ιταλική Γλώσσα & Φιλολογία στο ΕΚΠΑ, απέκτησε μεταπτυχιακό στη Διερμηνεία Συνεδρίων από το Πανεπιστήμιο του Στρασβούργου (EN & FR > GR) και έχει επίσης επαγγελματικό δίπλωμα στο Digital Marketing από το Alba Graduate Business School. Είναι COO της MENTOR, μιας επιτυχημένης εταιρείας που συνίδρυσε το 2014, η οποία παρέχει καινοτόμες υπηρεσίες πολιτιστικής παραγωγής και διαχείρισης. Η MENTOR επενδύει στην ανάπτυξη συνεργειών με δημόσιους και ιδιωτικούς φορείς και επαγγελματίες του πολιτιστικού και δημιουργικού τομέα, καθώς και με την ακαδημαϊκή και ερευνητική κοινότητα σε εθνικό και διεθνές επίπεδο. Είναι επίσης συνιδρυτής της CHORUS, ενός μη κερδοσκοπικού οργανισμού που υποστηρίζει πρωτοβουλίες της κοινωνίας των πολιτών, προωθεί τον σεβασμό των ανθρωπίνων δικαιωμάτων και υπερασπίζεται τα ανθρωπιστικά ιδανικά μέσω της τέχνης, του πολιτισμού και της εκπαίδευσης. Το Study Abroad in Greece (SAiG) είναι μια από τις σημαντικότερες πρωτοβουλίες της CHORUS, μέσω της οποίας διεθνείς φοιτητές συμμετέχουν σε εξειδικευμένα προγράμματα ακαδημαϊκού τουρισμού σε όλη την Ελλάδα. Συνοψίζοντας, είναι ένας Χιώτης, που εργάζεται και αναπτύσσεται στο πεδίο του πολιτισμού ως creative producer, με αλλεργία στις προκαταλήψεις, τον φανατισμό, τη σωματική και λεκτική κακοποίηση οποιουδήποτε πλάσματος, και που επίσης πιστεύει ακράδαντα στη δύναμη των κοινωνικά ενεργών ανθρώπων να επηρεάζουν θετικά την αλλαγή στον κόσμο μέσω των λόγων, των πράξεων, των πεποιθήσεων και των αντιλήψεών τους.",
+                  "text": "O Γιάννης σπούδασε Ιταλική Γλώσσα & Φιλολογία στο ΕΚΠΑ, απέκτησε μεταπτυχιακό στη Διερμηνεία Συνεδρίων από το Πανεπιστήμιο του Στρασβούργου (EN & FR > GR) και έχει επίσης επαγγελματικό δίπλωμα στο Digital Marketing από το Alba Graduate Business School. Είν��ι COO της MENTOR, μιας επιτυχημένης εταιρείας που συνίδρυσε το 2014, η οποία παρέχει καινοτόμες υπηρεσίες πολιτιστικής παραγωγής και διαχείρισης. Η MENTOR επενδύει στην ανάπτυξη συνεργειών με δημόσιους και ιδιωτικούς φορείς και επαγγελματίες του πολιτιστικού και δημιουργικού τομέα, καθώς και με την ακαδημαϊκή και ερευνητική κοινότητα σε εθνικό και διεθνές επίπεδο. Είναι επίσης συνιδρυτής της CHORUS, ενός μη κερδοσκοπικού οργανισμού που υποστηρίζει πρωτοβουλίες της κοινωνίας των πολιτών, προωθεί τον σεβασμό των ανθρωπίνων δικαιωμάτων και υπερασπίζεται τα ανθρωπιστικά ιδανικά μέσω της τέχνης, του πολιτισμού και της εκπαίδευσης. Το Study Abroad in Greece (SAiG) είναι μια από τις σημαντικότερες πρωτοβουλίες της CHORUS, μέσω της οποίας διεθνείς φοιτητές συμμετέχουν σε εξειδικευμένα προγράμματα ακαδημαϊκού τουρισμού σε όλη την Ελλάδα. Συνοψίζοντας, είναι ένας Χιώτης, που εργάζεται και αναπτύσσεται στο πεδίο του πολιτισμού ως creative producer, με αλλεργία στις προκαταλήψεις, τον φανατισμό, τη σωματική και λεκτική κακοποίηση οποιουδήποτε πλάσματος, και που επίσης πιστεύει ακράδαντα στη δύναμη των κοινωνικά ενεργών ανθρώπων να επηρεάζουν θετικά την αλλαγή στον κόσμο μέσω των λόγων, των πράξεων, των πεποιθήσεων και των αντιλήψεών τους.",
                   "type": "text"
                 }
               ]
@@ -689,7 +690,7 @@
           "EngProject2Tags": null
         },
         {
-          "id": 1037,
+          "id": 1078,
           "documentId": "d54msw6cfsldvum4c1oq7ogm",
           "Name": "Ευαγγελία Πελεντρίδου",
           "Bio": [
@@ -815,25 +816,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Το έργο Artemis & Diana (Erasmus+ KA2) επικεντρώνεται στην ενδυνάμωση των γυναικών, σε προσωπικό και επαγγελματικό επίπεδο, μέσω εξατομικευμένων εργαστηρίων, αφιερωμένων στην καλλιέργεια των δεξιοτήτων τους, όσον αφορά την τοπική πολιτιστική και φυσική κληρονομιά, καθώς και την επιχειρηματικότητα. Συνδυάζοντας την ενδυνάμωση των γυναικών, την ισότητα των φύλων, τη διατήρηση της πολιτιστικής κληρονομιάς και την προστασία του περιβάλλοντος, το έργο στοχεύει να έχει θετικό αντίκτυπο στις μη αστικές κοινότητες, ενισχύοντας τόσο την κοινωνικοπολιτιστική όσο και την περιβαλλοντική ευημερία.",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "‍",
-                  "type": "text"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "‍",
+                  "text": "The Artemis & Diana project (Erasmus+ KA2) focuses on empowering women personally and professionally, through tailor-made workshops dedicated to cultivating their skills regarding local cultural and natural heritage, as well as entrepreneurship. By intertwining women’s empowerment, gender equality, cultural heritage preservation, and environmental protection, the project aims to make a positive impact on rural communities, promoting both sociocultural and environmental well-being.",
                   "type": "text"
                 }
               ]
@@ -846,22 +829,16 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Η δράση ",
+                  "text": "The ",
                   "type": "text"
                 },
                 {
-                  "url": "https://2023eleusis.eu/mystirio-68-stalker_2023",
-                  "type": "link",
-                  "children": [
-                    {
-                      "text": "Μυστήριο 68 Στάλκερ",
-                      "type": "text",
-                      "underline": true
-                    }
-                  ]
+                  "bold": true,
+                  "text": "Mystery 68 Stalker",
+                  "type": "text"
                 },
                 {
-                  "text": ", την οποία υλοποιήσαμε σε συνεργασία με την ",
+                  "text": " action , which we implemented in collaboration with the ",
                   "type": "text"
                 },
                 {
@@ -869,14 +846,14 @@
                   "type": "link",
                   "children": [
                     {
-                      "text": "2023 Ελεύσις Πολιτιστική Πρωτεύουσα της Ευρώπης",
+                      "text": "2023 Eleusis European Capital of Culture",
                       "type": "text",
                       "underline": true
                     }
                   ]
                 },
                 {
-                  "text": ", συμπεριλαμβάνει όλα τα στοιχεία που αξιοποιούμε στο έργο μας για την ανάδειξη της πολιτιστικής κληρονομιάς: συμμετοχή της τοπικής κοινότητας, με μία «από τα κάτω» (bottom-up) προσέγγιση, μέσα από δημιουργικές και βιωματικές διαδικασίες. ",
+                  "text": " , includes all the elements we love to use in our work, so as to promote cultural heritage and engage local communities; a “bottom-up” approach through creative and interactive processes.",
                   "type": "text"
                 }
               ]
@@ -885,7 +862,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Στόχος μας ήταν να επανασυστήσουμε την πόλη της Ελευσίνας μέσα από τα μάτια των ανθρώπων της. Πρόκειται για ένα συμμετοχικό έργο παρακαταθήκης, συνδημιουργίας περιπατητικών διαδρομών και παιχνιδιών πόλης, σε συνεργασία με την τοπική κοινωνία. Πολίτες συνεργάστηκαν με διαχειριστές/τριες πολιτιστικής κληρονομιάς, ξεναγούς, ειδικούς/ές επιστήμονες και καλλιτέχνες/ιδες, για να αναπτύξουν διαδραστικές εμπειρίες στον δημόσιο χώρο. Το αποτέλεσμα εκφράζει την κοινότητα, με θεματικές το περιβάλλον, τη βιομηχανική κληρονομιά, την αρχαιολογία και ιστορία, κ.α. Έπειτα, οι ίδιοι οι πολίτες ανέλαβαν τον ρόλο του/της αφηγητή/τριας / οδηγού / Στάλκερ και προσκάλεσαν επισκέπτες και επισκέπτριες να ανακαλύψουν την πολύπτυχη Ελευσίνα.",
+                  "text": "Our goal was to reintroduce the city of Elefsina through the perspective of its people. It is a participative legacy project, of co-creating walking routes and urban games, in collaboration with the local community. Citizens collaborated with cultural heritage managers, tour guides, experts, and artists to develop interactive experiences in public space. The result expresses the community’s insights on topics such as environment, industrial heritage, archeology, history, etc. Afterwards, the citizens themselves undertook the role of storyteller / guide / Stalker and invited visitors to discover the multifaceted Elefsina.",
                   "type": "text"
                 }
               ]
@@ -894,7 +871,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Ύστερα από έναν χρόνο δημιουργικής συνεργασίας, εξερεύνησης και ανακάλυψης, 70 κάτοικοι και λάτρεις της Ελευσίνας ανέπτυξαν διαδραστικές εμπειρίες στον δημόσιο χώρο, που εκφράζουν την κοινότητά τους. Οι πολίτες ανέλαβαν τον ρόλο του αφηγητή και οδήγησαν περίπου 1000 επισκέπτριες και επισκέπτες σε διαδραστικές, πολιτιστικές εμπειρίες στο δημόσιο τοπίο.",
+                  "text": "After a year of creative collaboration, exploration and discovery, 70 residents and enthusiasts of Eleusis developed interactive experiences in public space that express their community. Citizens took on the role of narrator and led approximately 1000 visitors to interactive, cultural experiences in the public landscape.",
                   "type": "text"
                 }
               ]
@@ -906,14 +883,14 @@
           "magicLinkExpiry": null,
           "lastLoginAt": null,
           "createdAt": "2026-01-12T15:11:15.340Z",
-          "updatedAt": "2026-03-23T13:42:41.576Z",
-          "publishedAt": "2026-03-23T13:42:41.822Z",
+          "updatedAt": "2026-04-20T07:56:19.884Z",
+          "publishedAt": "2026-04-20T07:56:20.045Z",
           "ProfileImageAltText": " εικόνα γυναίκας στη φύση που χαμογελάει",
-          "Project1PicturesAltText": "στιγμιότυπα από το Erasmus+ έργο γυναικείας ενδυνάμωσης με τίτλο Artemis & Diana",
-          "Project2PicturesAltText": "στιγμιότυπα από τη συμμετοχική διαδικασία συν-σχεδιασμού εμπειριών πόλης, στο πλαίσιο του έργου Μυστήριο_68",
+          "Project1PicturesAltText": "snapshots from the Erasmus+ women's empowerment project entitled Artemis & Diana",
+          "Project2PicturesAltText": "snapshots from the participatory process of co-designing urban experiences with the local community, within the framework of the project Mystery_68",
           "HideProfile": false,
-          "Project1Links": "https://peripatos.net/artemis-and-diana/",
-          "Project2Links": "https://peripatos.net/mystirio-68-stalker/",
+          "Project1Links": "https://peripatos.net/en/artemis-and-diana-en/",
+          "Project2Links": "https://peripatos.net/en/mystery-68-stalker/",
           "EngName": "Evangelia Pelentridou",
           "EngBio": [
             {
@@ -1032,12 +1009,74 @@
             }
           ],
           "AddedToPaidGroup": null,
-          "EngProject1Title": null,
-          "EngProject1Description": null,
-          "EngProject1Tags": null,
-          "EngProject2Title": null,
-          "EngProject2Description": null,
-          "EngProject2Tags": null
+          "EngProject1Title": "Artemis & Diana",
+          "EngProject1Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The Artemis & Diana project (Erasmus+ KA2) focuses on empowering women personally and professionally, through tailor-made workshops dedicated to cultivating their skills regarding local cultural and natural heritage, as well as entrepreneurship. By intertwining women’s empowerment, gender equality, cultural heritage preservation, and environmental protection, the project aims to make a positive impact on rural communities, promoting both sociocultural and environmental well-being.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "EngProject1Tags": "women empowerment, rural areas, Erasmus+",
+          "EngProject2Title": "Mystery 68 Stalker",
+          "EngProject2Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "The ",
+                  "type": "text"
+                },
+                {
+                  "bold": true,
+                  "text": "Mystery 68 Stalker",
+                  "type": "text"
+                },
+                {
+                  "text": " action , which we implemented in collaboration with the ",
+                  "type": "text"
+                },
+                {
+                  "url": "https://2023eleusis.eu/",
+                  "type": "link",
+                  "children": [
+                    {
+                      "text": "2023 Eleusis European Capital of Culture",
+                      "type": "text",
+                      "underline": true
+                    }
+                  ]
+                },
+                {
+                  "text": " , includes all the elements we love to use in our work, so as to promote cultural heritage and engage local communities; a “bottom-up” approach through creative and interactive processes.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Our goal was to reintroduce the city of Elefsina through the perspective of its people. It is a participative legacy project, of co-creating walking routes and urban games, in collaboration with the local community. Citizens collaborated with cultural heritage managers, tour guides, experts, and artists to develop interactive experiences in public space. The result expresses the community’s insights on topics such as environment, industrial heritage, archeology, history, etc. Afterwards, the citizens themselves undertook the role of storyteller / guide / Stalker and invited visitors to discover the multifaceted Elefsina.",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After a year of creative collaboration, exploration and discovery, 70 residents and enthusiasts of Eleusis developed interactive experiences in public space that express their community. Citizens took on the role of narrator and led approximately 1000 visitors to interactive, cultural experiences in the public landscape.",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "EngProject2Tags": "participatory design, urban experiences, performative walk, treasure hunt"
         },
         {
           "id": 986,
@@ -1225,7 +1264,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-02T12:46:37.108Z",
         "updatedAt": "2026-03-02T12:46:37.108Z",
-        "publishedAt": "2026-03-02T12:46:37.108Z"
+        "publishedAt": "2026-03-02T12:46:37.108Z",
+        "focalPoint": null
       },
       "Coordinator": {
         "id": 1033,
@@ -1943,7 +1983,8 @@
         "provider_metadata": null,
         "createdAt": "2026-03-01T13:32:50.334Z",
         "updatedAt": "2026-03-01T13:32:50.334Z",
-        "publishedAt": "2026-03-01T13:32:50.334Z"
+        "publishedAt": "2026-03-01T13:32:50.334Z",
+        "focalPoint": null
       },
       "Coordinator": {
         "id": 979,
@@ -2103,57 +2144,67 @@
           "EngProject2Tags": null
         },
         {
-          "id": 989,
+          "id": 1090,
           "documentId": "lkyhsjonyoroap5y6c46eifx",
-          "Name": "Στέλλα Τσιαρβούλα",
+          "Name": "Στεργιανή (Στέλλα) Τσιαρβούλα",
           "Bio": [
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Η Στεργιανή (Στέλλα) σπούδασε Συστηματική Φιλοσοφία στο ΑΠΘ. Απέκτησε μεταπτυχιακά διπλώματα στα πεδία: Επικοινωνία & Πολιτισμός / Διοίκηση Πολιτισμικών Μονάδων. Είναι Υποψήφια Διδάκτωρ Πολιτισμικής Πολιτικής στο Τμήμα Δημοσιογραφίας & ΜΜΕ- ΑΠΘ. Ξεκίνησε την επαγγελματική της διαδρομή στην Τράπεζα Πειραιώς. Έχει εργαστεί σε μουσεία της Θεσσαλονίκης (Μουσείο Αρχαίων, Βυζαντινών & Μεταβυζαντινών Μουσικών Οργάνων της Τράπεζας Μακεδονίας Θράκης / Μουσείο Φωτογραφίας Θεσσαλονίκης / Αρχαιολογικό Μουσείο Θεσσαλονίκης / Τελλόγλειο Ίδρυμα Τεχνών ΑΠΘ) ως διοικητικό στέλεχος. To διάστημα 7/2019-2/2022 ήταν η Τhessaloniki Area Manager της ActionAid Hellas, έχοντας την ευθύνη για τη δημιουργία της δομής/υποκαταστήματος της οργάνωσης στην πόλη. Στο διάστημα αυτό δημιούργησε το πρώτο ιδιωτικό Κέντρο Νεότητας στην Ελλάδα. Ζει στη Θεσσαλονίκη όπου και δραστηριοποιείται ως Creative-Cultural Manager / Development Expert. Έχει συνεργαστεί με θεσμικούς και μη φορείς, εκδοτικούς οίκους, δημιουργικά γραφεία, καλλιτεχνικά σχήματα σε πληθώρα projects. Συμμετέχει σε συνέδρια και ημερίδες με εισηγήσεις συναφείς με τα ερευνητικά ενδιαφέροντα και την επαγγελματική της πορεία. Είναι μέλος πολλών ακαδημαϊκών φορέων & επαγγελματικών οργανώσεων.",
+                  "text": "Η Στεργιανή (Στέλλα) σπούδασε Συστηματική Φιλοσοφία στο ΑΠΘ. Απέκτησε μεταπτυχιακά διπλώματα στα πεδία: Επικοινωνία & Πολιτισμός / Διοίκηση Πολιτισμικών Μονάδων. Είναι Υποψήφια Διδάκτωρ Πολιτισμικής Πολιτικής στο Τμήμα Δημοσιογραφίας & ΜΜΕ- ΑΠΘ. Ξεκίνησε την επαγγελματική της διαδρομή, πριν 30 έτη, στην Τράπεζα Πειραιώς. Έχει εργαστεί σε μουσεία της Θεσσαλονίκης (Μουσείο Αρχαίων, Βυζαντινών & Μεταβυζαντινών Μουσικών Οργάνων Τράπεζας Μακεδονίας Θράκης / Μουσείο Φωτογραφίας Θεσσαλονίκης / Αρχαιολογικό Μουσείο Θεσσαλονίκης / Τελλόγλειο Ίδρυμα Τεχνών ΑΠΘ) ως διοικητικό στέλεχος. To διάστημα 7/2019-2/2022 ήταν η Τhessaloniki Area Manager της ActionAid Hellas, είχε την ευθύνη δημιουργίας της δομής/υποκαταστήματος της οργάνωσης στην πόλη, που ήταν και το πρώτο ιδιωτικό Κέντρο Νεότητας στην Ελλάδα. Ζει στη Θεσσαλονίκη. Δραστηριοποιείται ως Creative-Cultural Manager / Development Expert. Έχει συνεργαστεί με θεσμικούς και μη φορείς, εκδοτικούς οίκους, δημιουργικά γραφεία, καλλιτεχνικά σχήματα σε πληθώρα projects. Συμμετέχει σε συνέδρια, ημερίδες με εισηγήσεις συναφείς με τα ερευνητικά ενδιαφέροντα και την επαγγελματική της πορεία. Είναι μέλος ακαδημαϊκών φορέων & επαγγελματικών οργανώσεων.",
                   "type": "text"
                 }
               ]
             }
           ],
-          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Παραγωγή & Οργάνωση, Πολιτιστική Επικοινωνία, Πολιτιστική Πολιτική, Μουσεία",
+          "FieldsOfWork": "Πολιτιστική Διαχείριση & Επικοινωνία, Παραγωγή & Οργάνωση, Μουσεία, Πολιτιστική Επιχειρηματικότητα, Πολιτιστική Πολιτική",
           "City": "Θεσσαλονίκη",
           "Province": "Κεντρική Μακεδονία",
           "Email": "stella.tsiarvoula@gmail.com",
           "Slug": "stella-tsiarvoyla",
           "Phone": "6972842905",
           "Websites": "http://www.linkedin.com/in/stella-tsiarvoula-63879029/",
-          "Project1Title": "Το Μουσειο Φωτογραφιας Θες/Νικης Αναμεσα Στα 7 Καλυτερα Της Ευρωπης | 04/07/2016",
+          "Project1Title": "Το Μουσείο Φωτογραφίας Θεσσαλονίκης ανάμεσα στα 7 Καλύτερα της Ευρώπης | 04/07/2016",
           "Project1Description": [
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "",
+                  "text": "Το διάστημα που ήμουν Υπεύθυνη Διοίκησης στο Μουσείο Φωτογραφίας Θεσσαλονίκης διακρίθηκε ανάμεσα στα 7 καλύτερα της Ευρώπης από χρήστες ολλανδικής διαδικτυακής πλατφόρμας. Ήταν μια εξαιρετικά σημαντική διάκριση και μια όμορφη επιβράβευση των όσων καθημερινά προσπαθούσαμε να κάνουμε πράξη μια ολιγομελής ομάδα, με ελάχιστους πόρους και περιορισμένες δυνατότητες, αλλά με πολύ κέφι, άψογη συνεργασία και δημιουργική διάθεση.",
                   "type": "text"
                 }
               ]
             }
           ],
-          "Project1Tags": "",
-          "Project2Title": "",
-          "Project2Description": [],
-          "Project2Tags": "",
+          "Project1Tags": "Awards, Audiovisual arts, Management, Museums",
+          "Project2Title": "Μια τοιχογραφία σε Δημοτικό Σχολείο στο κέντρο της Θεσσαλονίκης, ένα μεγάλο/συμμετοχικό έργο στον δημόσιο χώρο της πόλης",
+          "Project2Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Τον Σεπτέμβριο του 2021 ως Thessaloniki Area Manager της ActionAid Hellas είχα το project management, σε συνεργασία με το Ινστιτούτο Mural Arts (Philadelphia) και με την υποστήριξη της Πρεσβείας των ΗΠΑ στην Ελλάδα, τη δημιουργία ενός mural (τοιχογραφίας) στον εξωτερικό τοίχο του 43ου Δημοτικού Σχολείου Θεσσαλονίκης επί της οδού Προξένου Κορομηλά 25. Το έργο φιλοτεχνήθηκε από τον street artist Ap.Set με τη θεματική της τοιχογραφίας να είναι η πανδημία της covid-19, η νεολαία και η ψυχική υγεία, τα οποία επέλεξαν νέοι 18-30 ετών της πόλης που συμμετείχαν ενεργά σε όλο το project. Κατά τη διάρκεια του τριημέρου υλοποίησης του έργου, πραγματοποιήθηκαν στο σημείο εργαστήρια για παιδιά και καλλιτεχνικά δρώμενα για νέους και νέες από φορείς και οργανώσεις της πόλης, όπως το Irida Center, το Πρόγραμμα Προαγωγής Αυτοβοήθειας, η Σχεδία στην Πόλη, το Μουσείο Μακεδονικού Αγώνα και η ΙΑΣΙΣ, ενώ έλαβαν χώρα και ποικίλα μουσικά δρώμενα. ",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "Project2Tags": "street art, δημόσιος χώρος, youth, ΜΚΟ, συμμετοχική δημιουργία",
           "password": null,
           "magicLinkToken": null,
           "magicLinkExpiry": null,
           "lastLoginAt": null,
           "createdAt": "2026-01-12T15:04:28.080Z",
-          "updatedAt": "2026-03-08T06:58:07.735Z",
-          "publishedAt": "2026-03-08T06:58:08.200Z",
-          "ProfileImageAltText": " ",
-          "Project1PicturesAltText": "Το Μουσειο Φωτογραφιας Θες/Νικης Αναμεσα Στα 7 Καλυτερα Της Ευρωπης | 04/07/2016",
-          "Project2PicturesAltText": null,
-          "HideProfile": null,
+          "updatedAt": "2026-04-22T10:08:48.083Z",
+          "publishedAt": "2026-04-22T10:08:48.201Z",
+          "ProfileImageAltText": " Γυναίκα με μακριά σγουρά μαλλιά χαμογελά",
+          "Project1PicturesAltText": "Ομαδική φωτογραφία όλων όσοι εργάζονταν στο Μουσείο Φωτογραφίας Θεσσαλονίκης κατά την περίοδο εκείνη",
+          "Project2PicturesAltText": "Φωτογραφίες δράσεων με τη συμμετοχή των νέων, του καλλιτέχνη, του κοινού από το τριήμερο δημιουργίας της τοιχογραφίας",
+          "HideProfile": false,
           "Project1Links": "https://www.oneman.gr/synentefxeis/to-moyseio-fwtografias-thessalonikhs-anamesa-sta-7-kalutera-ths-eyrwphs/",
-          "Project2Links": null,
-          "EngName": "Stella Tsiarvoula",
+          "Project2Links": "https://www.youtube.com/watch?v=HOUt7VG_tfw",
+          "EngName": "Stergiani (Stella) Tsiarvoula",
           "EngBio": [
             {
               "type": "paragraph",
@@ -2175,15 +2226,15 @@
             }
           ],
           "AddedToPaidGroup": null,
-          "EngProject1Title": null,
+          "EngProject1Title": "",
           "EngProject1Description": null,
-          "EngProject1Tags": null,
-          "EngProject2Title": null,
+          "EngProject1Tags": "",
+          "EngProject2Title": "",
           "EngProject2Description": null,
-          "EngProject2Tags": null
+          "EngProject2Tags": ""
         },
         {
-          "id": 1065,
+          "id": 1111,
           "documentId": "mqswl7jw67pb1ald7gmmwzic",
           "Name": "Γιώργος Στυλ",
           "Bio": [
@@ -2191,7 +2242,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Ο Γιώργος Στυλ, ασχολείται για πάνω από 10 χρόνια με τη σκηνοθεσία, το performing/υποκριτική, τη συγγραφή σεναρίων, τη φωτογραφία, τον προγραμματισμό και πιο πρόσφατα με την ψυχοθεραπεία, τη δημιουργία ασφαλών/συμπεριληπτικών χώρων και την εκπαίδευση καλλιτεχνών. Είναι απόφοιτος της Δραματικής Σχολής του Ωδείου Αθηνών και έχει δημιουργήσει δύο τεχνικές καλλιτεχνικής έκρασης, το  (Why? Ohhh) και το Improv-acting. Ίδρυσε τις καλλιτεχνικές ομάδες , Καλειδοσκόπιο 4, Εκ παραδρομής, Gallactica, Why not? και Κυνιcς και έχει συμμετάσχει σε διάφορες θεατρικές και κινηματογραφικές παραγωγές.",
+                  "text": "Ο Γιώργος Στυλ, ασχολείται για πάνω από 10 χρόνια με τη σκηνοθεσία, το performing/υποκριτική, τη συγγραφή σεναρίων, τη φωτογραφία, τον προγραμματισμό και πιο πρόσφατα με την ψυχοθεραπεία, τη δημιουργία ασφαλών/συμπεριληπτικών χώρων και την εκπαίδευση καλλιτεχνών. Είναι απόφοιτος της Δραματικής Σχολής του Ωδείου Αθηνών και έχει δημιουργήσει δύο τεχνικές καλλιτεχνικής έκρασης, το  (Why? Ohhh) και το Improv-acting. Ίδρυσε τις καλλιτεχνικές ομάδες , Καλειδοσκόπιο 4, Εκ παραδρομής, Gallactica, Why not? και Κυνιcς και έχει συμμετάσχει σε διάφορ��ς θεατρικές και κινηματογραφικές παραγωγές.",
                   "type": "text"
                 }
               ]
@@ -2388,13 +2439,13 @@
             }
           ],
           "Project1Tags": "VR, AI, Digital art, confession, religion",
-          "Project2Title": "First Contact ",
+          "Project2Title": "",
           "Project2Description": [
             {
               "type": "paragraph",
               "children": [
                 {
-                  "text": "First Contact | Inside Spaceman \r",
+                  "text": "First Contact | Inside Spaceman",
                   "type": "text"
                 }
               ]
@@ -2403,7 +2454,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION\r",
+                  "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION",
                   "type": "text"
                 }
               ]
@@ -2412,7 +2463,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\r",
+                  "text": "",
                   "type": "text"
                 }
               ]
@@ -2421,7 +2472,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "It is a brave new world\r",
+                  "text": "It is a brave new world",
                   "type": "text"
                 }
               ]
@@ -2430,7 +2481,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market\r",
+                  "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market",
                   "type": "text"
                 }
               ]
@@ -2439,7 +2490,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What will the future resemble? You can, now, catch a glimpse of it\r",
+                  "text": "What will the future resemble? You can, now, catch a glimpse of it",
                   "type": "text"
                 }
               ]
@@ -2448,7 +2499,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?\r",
+                  "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?",
                   "type": "text"
                 }
               ]
@@ -2457,7 +2508,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Do feelings of loneliness plague your every moment?\r",
+                  "text": "Do feelings of loneliness plague your every moment?",
                   "type": "text"
                 }
               ]
@@ -2466,7 +2517,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?\r",
+                  "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?",
                   "type": "text"
                 }
               ]
@@ -2475,7 +2526,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Do you have a vested interest in self-improvement?\r",
+                  "text": "Do you have a vested interest in self-improvement?",
                   "type": "text"
                 }
               ]
@@ -2484,7 +2535,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life\r",
+                  "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life",
                   "type": "text"
                 }
               ]
@@ -2493,7 +2544,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "For YOU\r",
+                  "text": "For YOU",
                   "type": "text"
                 }
               ]
@@ -2502,7 +2553,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Don't miss out on the chance to be the first to experience it!\r",
+                  "text": "Don't miss out on the chance to be the first to experience it!",
                   "type": "text"
                 }
               ]
@@ -2511,7 +2562,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate\r",
+                  "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate",
                   "type": "text"
                 }
               ]
@@ -2520,7 +2571,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: https://firstcontact.gr\r",
+                  "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: ",
                   "type": "text"
                 }
               ]
@@ -2529,7 +2580,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?\r",
+                  "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?",
                   "type": "text"
                 }
               ]
@@ -2538,7 +2589,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Crew:\r",
+                  "text": "Crew:",
                   "type": "text"
                 }
               ]
@@ -2547,7 +2598,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Concept/ Direction/ Production: Yoryos Styl\r",
+                  "text": "Concept/ Direction/ Production: Yoryos Styl",
                   "type": "text"
                 }
               ]
@@ -2556,7 +2607,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Costume Design: Theodora Soumaleuri\r",
+                  "text": "Costume Design: Theodora Soumaleuri",
                   "type": "text"
                 }
               ]
@@ -2565,7 +2616,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis\r",
+                  "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis",
                   "type": "text"
                 }
               ]
@@ -2574,7 +2625,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Video Shoot: Giorgos Voursoukis\r",
+                  "text": "Video Shoot: Giorgos Voursoukis",
                   "type": "text"
                 }
               ]
@@ -2583,7 +2634,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Video Edit: Yoryos Styl\r",
+                  "text": "Video Edit: Yoryos Styl",
                   "type": "text"
                 }
               ]
@@ -2592,7 +2643,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Photos: Philip Mnis\r",
+                  "text": "Photos: Philip Mnis",
                   "type": "text"
                 }
               ]
@@ -2619,7 +2670,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version\r",
+                  "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version",
                   "type": "text"
                 }
               ]
@@ -2628,7 +2679,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award\r",
+                  "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award",
                   "type": "text"
                 }
               ]
@@ -2637,7 +2688,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "3rd Presentation: TAF | The Art Foundation\r",
+                  "text": "3rd Presentation: TAF | The Art Foundation",
                   "type": "text"
                 }
               ]
@@ -2646,7 +2697,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "2nd Presentation: Prague's Biennale\r",
+                  "text": "2nd Presentation: Prague's Biennale",
                   "type": "text"
                 }
               ]
@@ -2661,14 +2712,14 @@
               ]
             }
           ],
-          "Project2Tags": "AI, Performance, Humanoids, Inside Spaceman, STOFF24",
+          "Project2Tags": "",
           "password": null,
           "magicLinkToken": null,
           "magicLinkExpiry": null,
           "lastLoginAt": null,
           "createdAt": "2026-01-12T15:05:18.356Z",
-          "updatedAt": "2026-03-31T16:08:42.357Z",
-          "publishedAt": "2026-03-31T16:08:42.820Z",
+          "updatedAt": "2026-05-02T20:01:53.819Z",
+          "publishedAt": "2026-05-02T20:01:53.984Z",
           "ProfileImageAltText": "Άντρας στα 50 του με γαλάζια μάτια, ουδέτερη έκφραση, κοντό κούρεμα και καλλιτεχνικό πουκάμισο",
           "Project1PicturesAltText": "Ενήλικες φοράνε γυαλιά επαυξημένης πραγματικότητας μέσα σ' έναν θόλο επιστημονικής φαντασιας, μωβ χρωματικη παλέτα",
           "Project2PicturesAltText": "Κοπέλα με άσπρα ρούχα, καθισμένη σε άσπρη καρέκλα μπροστά από θεατή κάνει κίνηση επικοινωνίας προς τον θεατή",
@@ -2854,9 +2905,280 @@
             }
           ],
           "EngProject1Tags": "",
-          "EngProject2Title": "",
-          "EngProject2Description": null,
-          "EngProject2Tags": ""
+          "EngProject2Title": "First Contact",
+          "EngProject2Description": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "First Contact | Inside Spaceman",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "It is a brave new world",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What will the future resemble? You can, now, catch a glimpse of it",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Do feelings of loneliness plague your every moment?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Do you have a vested interest in self-improvement?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "For YOU",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Don't miss out on the chance to be the first to experience it!",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: ",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Crew:",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Concept/ Direction/ Production: Yoryos Styl",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Costume Design: Theodora Soumaleuri",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Video Shoot: Giorgos Voursoukis",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Video Edit: Yoryos Styl",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Photos: Philip Mnis",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "6th Presentation: Eugenidion Foundation",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "3rd Presentation: TAF | The Art Foundation",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "2nd Presentation: Prague's Biennale",
+                  "type": "text"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "1st Presentation: Thess Fringe",
+                  "type": "text"
+                }
+              ]
+            }
+          ],
+          "EngProject2Tags": "AI, Performance, Humanoids, Inside Spaceman, STOFF24"
         },
         {
           "id": 954,
@@ -3041,7 +3363,7 @@
         }
       ],
       "Admin": {
-        "id": 559,
+        "id": 1148,
         "documentId": "jofy4hp8jvom0g8xv0rkb78q",
         "Name": "Σόνια Ντόβα ",
         "Bio": [
@@ -3049,19 +3371,23 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Τριαλαλο",
+                "text": "Η Σόνια είναι επαγγελματίας με πολύπλευρο υπόβαθρο στη διαχείριση καλλιτεχνικών έργων, τον χορό και την παιδαγωγική. Διαθέτει εξειδίκευση στην επικοινωνία, την επιμέλεια ψηφιακού υλικού και τη διοικητική υποστήριξη, καλύπτοντας τομείς όπως οι χρηματοδοτήσεις, ο προϋπολογισμός και η οργάνωση εκδηλώσεων.  Είναι η Γενική Διαχειρίστρια του Culture For Change.\n\n",
+                "type": "text"
+              },
+              {
+                "text": "Η ενεργή πρακτική της στον χορό τής επιτρέπει να συνδυάζει αρμονικά την καλλιτεχνική με τη διαχειριστική τεχνογνωσία, ανταποκρινόμενη με ακρίβεια στις ανάγκες κάθε εγχειρήματος. Το έργο στο κλάδο του σύγχρονου χορού περιλαμβάνει διδασκαλία, έρευνα και χορογραφία, με μια κινητική πρακτική που διερευνά τις αισθητηριακές λειτουργίες. Εξειδικεύεται σε συμμετοχικές δομές αυτοσχεδιασμού, επιδιώκοντας να καταστήσει τις ποιοτικές καλλιτεχνικές διαδικασίες προσβάσιμες σε όλους. Χρησιμοποιεί τη χορογραφία ως σχεσιακό πεδίο που ενεργοποιεί το σώμα ως ζωτική δύναμη σε παιδαγωγικά, πολιτικά και κοινωνικά πλαίσια. Το έργο της αμφισβητεί τις σχέσεις εξουσίας και εξερευνά τη σύνδεση μεταξύ του ανθρώπινου και του «μη-ανθρώπινου» κόσμου. Η κύρια εστίασή της βρίσκεται στη δημιουργία μετασχηματιστικών, συμμετοχικών χορογραφικών χώρων.",
                 "type": "text"
               }
             ]
           }
         ],
-        "FieldsOfWork": "Διοίκηση CforC",
+        "FieldsOfWork": "Διοίκηση CforC, Μη Τυπική Εκπαίδευση, Πολιτιστική Διαχείριση & Επικοινωνία, Χορός / Performing Arts, Εκπαιδευτικά Εργαλεία για Συμπερίληψη",
         "City": "Καλαμπάκα",
         "Province": "Θεσσαλία",
         "Email": "hello@cultureforchange.net",
         "Slug": "Sonia-ntova",
         "Phone": "6975121171",
-        "Websites": "",
+        "Websites": "https://soniantova.wixsite.com/dance, https://www.instagram.com/sonia.ntova/,  linkedin.com/in/sonia-ntova-27685b59",
         "Project1Title": "",
         "Project1Description": null,
         "Project1Tags": "",
@@ -3073,23 +3399,23 @@
         "magicLinkExpiry": null,
         "lastLoginAt": null,
         "createdAt": "2026-01-12T15:03:46.410Z",
-        "updatedAt": "2026-02-08T18:25:56.696Z",
-        "publishedAt": "2026-02-08T18:25:57.169Z",
-        "ProfileImageAltText": "Χαμογελαστή γυναίκα με πιασμένα μακρυά μαλιά με φόντο ένα δέντρο ",
-        "Project1PicturesAltText": null,
-        "Project2PicturesAltText": null,
-        "HideProfile": null,
-        "Project1Links": null,
-        "Project2Links": null,
-        "EngName": null,
+        "updatedAt": "2026-05-08T07:44:53.800Z",
+        "publishedAt": "2026-05-08T07:44:53.930Z",
+        "ProfileImageAltText": "Πρόσωπο, χαμογελάστό, καστανά μαλλία και μάτια, μαλλία ανέμελα κατσαρά ελαφρώς πιασμένα. με υπόβαθρο πράσινα φύλλα δέντρου",
+        "Project1PicturesAltText": "",
+        "Project2PicturesAltText": "",
+        "HideProfile": false,
+        "Project1Links": "",
+        "Project2Links": "",
+        "EngName": "",
         "EngBio": null,
         "AddedToPaidGroup": null,
-        "EngProject1Title": null,
+        "EngProject1Title": "",
         "EngProject1Description": null,
-        "EngProject1Tags": null,
-        "EngProject2Title": null,
+        "EngProject1Tags": "",
+        "EngProject2Title": "",
         "EngProject2Description": null,
-        "EngProject2Tags": null
+        "EngProject2Tags": ""
       },
       "Comms": {
         "id": 990,
@@ -3153,7 +3479,7 @@
         "EngProject2Tags": null
       },
       "IT": {
-        "id": 1065,
+        "id": 1111,
         "documentId": "mqswl7jw67pb1ald7gmmwzic",
         "Name": "Γιώργος Στυλ",
         "Bio": [
@@ -3358,13 +3684,13 @@
           }
         ],
         "Project1Tags": "VR, AI, Digital art, confession, religion",
-        "Project2Title": "First Contact ",
+        "Project2Title": "",
         "Project2Description": [
           {
             "type": "paragraph",
             "children": [
               {
-                "text": "First Contact | Inside Spaceman \r",
+                "text": "First Contact | Inside Spaceman",
                 "type": "text"
               }
             ]
@@ -3373,7 +3699,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION\r",
+                "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION",
                 "type": "text"
               }
             ]
@@ -3382,7 +3708,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "\r",
+                "text": "",
                 "type": "text"
               }
             ]
@@ -3391,7 +3717,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "It is a brave new world\r",
+                "text": "It is a brave new world",
                 "type": "text"
               }
             ]
@@ -3400,7 +3726,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market\r",
+                "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market",
                 "type": "text"
               }
             ]
@@ -3409,7 +3735,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "What will the future resemble? You can, now, catch a glimpse of it\r",
+                "text": "What will the future resemble? You can, now, catch a glimpse of it",
                 "type": "text"
               }
             ]
@@ -3418,7 +3744,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?\r",
+                "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?",
                 "type": "text"
               }
             ]
@@ -3427,7 +3753,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Do feelings of loneliness plague your every moment?\r",
+                "text": "Do feelings of loneliness plague your every moment?",
                 "type": "text"
               }
             ]
@@ -3436,7 +3762,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?\r",
+                "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?",
                 "type": "text"
               }
             ]
@@ -3445,7 +3771,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Do you have a vested interest in self-improvement?\r",
+                "text": "Do you have a vested interest in self-improvement?",
                 "type": "text"
               }
             ]
@@ -3454,7 +3780,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life\r",
+                "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life",
                 "type": "text"
               }
             ]
@@ -3463,7 +3789,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "For YOU\r",
+                "text": "For YOU",
                 "type": "text"
               }
             ]
@@ -3472,7 +3798,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Don't miss out on the chance to be the first to experience it!\r",
+                "text": "Don't miss out on the chance to be the first to experience it!",
                 "type": "text"
               }
             ]
@@ -3481,7 +3807,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate\r",
+                "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate",
                 "type": "text"
               }
             ]
@@ -3490,7 +3816,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: https://firstcontact.gr\r",
+                "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: ",
                 "type": "text"
               }
             ]
@@ -3499,7 +3825,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?\r",
+                "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?",
                 "type": "text"
               }
             ]
@@ -3508,7 +3834,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Crew:\r",
+                "text": "Crew:",
                 "type": "text"
               }
             ]
@@ -3517,7 +3843,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Concept/ Direction/ Production: Yoryos Styl\r",
+                "text": "Concept/ Direction/ Production: Yoryos Styl",
                 "type": "text"
               }
             ]
@@ -3526,7 +3852,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Costume Design: Theodora Soumaleuri\r",
+                "text": "Costume Design: Theodora Soumaleuri",
                 "type": "text"
               }
             ]
@@ -3535,7 +3861,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis\r",
+                "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis",
                 "type": "text"
               }
             ]
@@ -3544,7 +3870,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Video Shoot: Giorgos Voursoukis\r",
+                "text": "Video Shoot: Giorgos Voursoukis",
                 "type": "text"
               }
             ]
@@ -3553,7 +3879,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Video Edit: Yoryos Styl\r",
+                "text": "Video Edit: Yoryos Styl",
                 "type": "text"
               }
             ]
@@ -3562,7 +3888,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "Photos: Philip Mnis\r",
+                "text": "Photos: Philip Mnis",
                 "type": "text"
               }
             ]
@@ -3589,7 +3915,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version\r",
+                "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version",
                 "type": "text"
               }
             ]
@@ -3598,7 +3924,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award\r",
+                "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award",
                 "type": "text"
               }
             ]
@@ -3607,7 +3933,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "3rd Presentation: TAF | The Art Foundation\r",
+                "text": "3rd Presentation: TAF | The Art Foundation",
                 "type": "text"
               }
             ]
@@ -3616,7 +3942,7 @@
             "type": "paragraph",
             "children": [
               {
-                "text": "2nd Presentation: Prague's Biennale\r",
+                "text": "2nd Presentation: Prague's Biennale",
                 "type": "text"
               }
             ]
@@ -3631,14 +3957,14 @@
             ]
           }
         ],
-        "Project2Tags": "AI, Performance, Humanoids, Inside Spaceman, STOFF24",
+        "Project2Tags": "",
         "password": null,
         "magicLinkToken": null,
         "magicLinkExpiry": null,
         "lastLoginAt": null,
         "createdAt": "2026-01-12T15:05:18.356Z",
-        "updatedAt": "2026-03-31T16:08:42.357Z",
-        "publishedAt": "2026-03-31T16:08:42.820Z",
+        "updatedAt": "2026-05-02T20:01:53.819Z",
+        "publishedAt": "2026-05-02T20:01:53.984Z",
         "ProfileImageAltText": "Άντρας στα 50 του με γαλάζια μάτια, ουδέτερη έκφραση, κοντό κούρεμα και καλλιτεχνικό πουκάμισο",
         "Project1PicturesAltText": "Ενήλικες φοράνε γυαλιά επαυξημένης πραγματικότητας μέσα σ' έναν θόλο επιστημονικής φαντασιας, μωβ χρωματικη παλέτα",
         "Project2PicturesAltText": "Κοπέλα με άσπρα ρούχα, καθισμένη σε άσπρη καρέκλα μπροστά από θεατή κάνει κίνηση επικοινωνίας προς τον θεατή",
@@ -3824,9 +4150,280 @@
           }
         ],
         "EngProject1Tags": "",
-        "EngProject2Title": "",
-        "EngProject2Description": null,
-        "EngProject2Tags": ""
+        "EngProject2Title": "First Contact",
+        "EngProject2Description": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "First Contact | Inside Spaceman",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "* STOFF24: Audio Visual Excellence AWARD, Performance Excellence NOMINATION",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "It is a brave new world",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Skynet revolutionises the AI field by presenting the first Humanoids that will soon hit the market",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What will the future resemble? You can, now, catch a glimpse of it",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Have you ever found yourself trapped in the monotony of daily tasks, yearning for something more?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Do feelings of loneliness plague your every moment?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "What if I told you that a perfect friend, one who will change your life forever, is within reach?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Do you have a vested interest in self-improvement?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "If your response is affirmative to any of the previous inquiries, \"First Contact\" is a project that will profoundly alter your way of life",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "For YOU",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Don't miss out on the chance to be the first to experience it!",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "As we say here in Skynet: If the humanoid asserts it, it is accurate",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Links: FB: Inside FB link | Insta: Inside Insta link | Site: ",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "A performance about the revolutionary (?) appliction of AI in sectors previously unreachable. What our increasing need for it will lead to? Do we really need it? How much of a help is it really? How our daily lives and personalities will be affected by it?",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Crew:",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Concept/ Direction/ Production: Yoryos Styl",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Costume Design: Theodora Soumaleuri",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Performer: Katerina Drakopoulou, Katerina Kas, Yoryos Styl, Katerina Gadis",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Video Shoot: Giorgos Voursoukis",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Video Edit: Yoryos Styl",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Photos: Philip Mnis",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "6th Presentation: Eugenidion Foundation",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "5th Presentation: Kypseli Municipal Market - Long Duration (8H) Version",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "4th Presentation: AI Museum | Stockholm Fringe Festival - Audio Visual Excellence Award",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "3rd Presentation: TAF | The Art Foundation",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "2nd Presentation: Prague's Biennale",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "1st Presentation: Thess Fringe",
+                "type": "text"
+              }
+            ]
+          }
+        ],
+        "EngProject2Tags": "AI, Performance, Humanoids, Inside Spaceman, STOFF24"
       }
     }
   ],
