@@ -73,6 +73,56 @@
       "relation": "manyToOne",
       "target": "api::member.member"
     },
+    "Community": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "Financer": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "Outreach": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "CoordinatorEmail": {
+      "type": "email",
+      "default": "coordinator@cultureforchange.net",
+      "required": false
+    },
+    "AdminEmail": {
+      "type": "email",
+      "default": "hello@cultureforchange.net",
+      "required": false
+    },
+    "CommsEmail": {
+      "type": "email",
+      "default": "communication@cultureforchange.net",
+      "required": false
+    },
+    "CommunityEmail": {
+      "type": "email",
+      "default": "community@cultureforchange.net",
+      "required": false
+    },
+    "FinancerEmail": {
+      "type": "email",
+      "default": "finance@cultureforchange.net",
+      "required": false
+    },
+    "OutreachEmail": {
+      "type": "email",
+      "default": "outreach@cultureforchange.net",
+      "required": false
+    },
+    "ITEmail": {
+      "type": "email",
+      "default": "it@cultureforchange.net",
+      "required": false
+    },
     "SortOrder": {
       "type": "integer",
       "default": 0,
