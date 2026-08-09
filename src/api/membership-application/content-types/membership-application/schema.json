@@ -1,0 +1,258 @@
+{
+  "kind": "collectionType",
+  "collectionName": "membership_applications",
+  "info": {
+    "singularName": "membership-application",
+    "pluralName": "membership-applications",
+    "displayName": "Membership Application",
+    "description": "Permanent dossier of every membership application (immutable after decision). No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FirstName": {
+      "type": "string",
+      "required": true
+    },
+    "LastName": {
+      "type": "string",
+      "required": true
+    },
+    "NameLatin": {
+      "type": "string",
+      "required": false
+    },
+    "Profession": {
+      "type": "string",
+      "required": true
+    },
+    "AgeRange": {
+      "type": "enumeration",
+      "enum": ["20-24", "25-29", "30-34", "35-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65+"],
+      "required": false
+    },
+    "Gender": {
+      "type": "enumeration",
+      "enum": ["Γυναίκα", "Άνδρας", "Μη-δυαδικό", "Επιθυμώ να μη δηλώσω"],
+      "required": false
+    },
+    "Disability": {
+      "type": "enumeration",
+      "enum": ["Ναι", "Όχι", "Επιθυμώ να μη δηλώσω"],
+      "required": false
+    },
+    "ResidenceCity": {
+      "type": "string",
+      "required": true
+    },
+    "ResidenceRegion": {
+      "type": "string",
+      "required": false
+    },
+    "Address": {
+      "type": "string",
+      "required": false
+    },
+    "ActivityCityA": {
+      "type": "string",
+      "required": true
+    },
+    "ActivityCityB": {
+      "type": "string",
+      "required": false
+    },
+    "Email": {
+      "type": "email",
+      "required": true
+    },
+    "Phone": {
+      "type": "string",
+      "required": true
+    },
+    "Bio": {
+      "type": "text",
+      "required": true
+    },
+    "BioEn": {
+      "type": "text",
+      "required": false
+    },
+    "Photo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
+    "Website": {
+      "type": "string",
+      "required": false
+    },
+    "Facebook": {
+      "type": "string",
+      "required": false
+    },
+    "LinkedIn": {
+      "type": "string",
+      "required": false
+    },
+    "Instagram": {
+      "type": "string",
+      "required": false
+    },
+    "BoschProfile": {
+      "type": "string",
+      "required": false
+    },
+    "PublishConsent": {
+      "type": "json",
+      "required": false
+    },
+    "Education": {
+      "type": "text",
+      "required": false
+    },
+    "EmploymentStatus": {
+      "type": "json",
+      "required": false
+    },
+    "EmploymentDetails": {
+      "type": "json",
+      "required": false
+    },
+    "BoschAlumni": {
+      "type": "enumeration",
+      "enum": ["Ναι", "Όχι"],
+      "required": false
+    },
+    "BoschPrograms": {
+      "type": "text",
+      "required": false
+    },
+    "StartFellow": {
+      "type": "enumeration",
+      "enum": ["Ναι", "Όχι"],
+      "required": false
+    },
+    "Experience": {
+      "type": "text",
+      "required": false
+    },
+    "FieldsOfActivity": {
+      "type": "json",
+      "required": false
+    },
+    "ActionFormats": {
+      "type": "json",
+      "required": false
+    },
+    "AudienceGroups": {
+      "type": "json",
+      "required": false
+    },
+    "Themes": {
+      "type": "json",
+      "required": false
+    },
+    "Challenges": {
+      "type": "json",
+      "required": false
+    },
+    "ProposedSolutions": {
+      "type": "text",
+      "required": false
+    },
+    "NetworkContribution": {
+      "type": "text",
+      "required": false
+    },
+    "ReceiptType": {
+      "type": "enumeration",
+      "enum": ["Φυσικό πρόσωπο", "Εταιρεία"],
+      "default": "Φυσικό πρόσωπο",
+      "required": false
+    },
+    "FatherName": {
+      "type": "string",
+      "required": false
+    },
+    "TaxId": {
+      "type": "string",
+      "maxLength": 9,
+      "minLength": 9,
+      "required": false
+    },
+    "CompanyName": {
+      "type": "string",
+      "required": false
+    },
+    "CompanyAddress": {
+      "type": "string",
+      "required": false
+    },
+    "CompanyTaxId": {
+      "type": "string",
+      "maxLength": 9,
+      "minLength": 9,
+      "required": false
+    },
+    "NewsletterOptIn": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "AcceptStatute": {
+      "type": "boolean",
+      "required": true
+    },
+    "AcceptRegulation": {
+      "type": "boolean",
+      "required": true
+    },
+    "AcceptPrivacy": {
+      "type": "boolean",
+      "required": true
+    },
+    "ApplicationState": {
+      "type": "enumeration",
+      "enum": ["submitted", "approved", "rejected", "completed"],
+      "default": "submitted",
+      "required": true
+    },
+    "SubmittedAt": {
+      "type": "datetime",
+      "required": false
+    },
+    "DecisionDate": {
+      "type": "datetime",
+      "required": false
+    },
+    "DecisionBy": {
+      "type": "string",
+      "required": false
+    },
+    "DecisionNote": {
+      "type": "text",
+      "required": false
+    },
+    "AssignedAM": {
+      "type": "integer",
+      "required": false
+    },
+    "Votes": {
+      "type": "json",
+      "required": false
+    },
+    "SheetSynced": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "linkedMember": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::member.member"
+    }
+  }
+}

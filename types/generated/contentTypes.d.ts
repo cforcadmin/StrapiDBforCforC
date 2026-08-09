@@ -505,6 +505,115 @@ export interface ApiAuthTokenAuthToken extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiMembershipApplicationMembershipApplication
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'membership_applications';
+  info: {
+    description: 'Permanent dossier of every membership application (immutable after decision). No public API access — server token only.';
+    displayName: 'Membership Application';
+    pluralName: 'membership-applications';
+    singularName: 'membership-application';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    AcceptPrivacy: Schema.Attribute.Boolean & Schema.Attribute.Required;
+    AcceptRegulation: Schema.Attribute.Boolean & Schema.Attribute.Required;
+    AcceptStatute: Schema.Attribute.Boolean & Schema.Attribute.Required;
+    ActionFormats: Schema.Attribute.JSON;
+    ActivityCityA: Schema.Attribute.String & Schema.Attribute.Required;
+    ActivityCityB: Schema.Attribute.String;
+    Address: Schema.Attribute.String;
+    AgeRange: Schema.Attribute.Enumeration<
+      [
+        '20-24',
+        '25-29',
+        '30-34',
+        '35-39',
+        '40-44',
+        '45-49',
+        '50-54',
+        '55-59',
+        '60-64',
+        '65+',
+      ]
+    >;
+    ApplicationState: Schema.Attribute.Enumeration<
+      ['submitted', 'approved', 'rejected', 'completed']
+    > &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'submitted'>;
+    AssignedAM: Schema.Attribute.Integer;
+    AudienceGroups: Schema.Attribute.JSON;
+    Bio: Schema.Attribute.Text & Schema.Attribute.Required;
+    BioEn: Schema.Attribute.Text;
+    BoschAlumni: Schema.Attribute.Enumeration<['Ναι', 'Όχι']>;
+    BoschPrograms: Schema.Attribute.Text;
+    BoschProfile: Schema.Attribute.String;
+    Challenges: Schema.Attribute.JSON;
+    CompanyAddress: Schema.Attribute.String;
+    CompanyName: Schema.Attribute.String;
+    CompanyTaxId: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{ maxLength: 9; minLength: 9 }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    DecisionBy: Schema.Attribute.String;
+    DecisionDate: Schema.Attribute.DateTime;
+    DecisionNote: Schema.Attribute.Text;
+    Disability: Schema.Attribute.Enumeration<
+      ['Ναι', 'Όχι', 'Επιθυμώ να μη δηλώσω']
+    >;
+    Education: Schema.Attribute.Text;
+    Email: Schema.Attribute.Email & Schema.Attribute.Required;
+    EmploymentDetails: Schema.Attribute.JSON;
+    EmploymentStatus: Schema.Attribute.JSON;
+    Experience: Schema.Attribute.Text;
+    Facebook: Schema.Attribute.String;
+    FatherName: Schema.Attribute.String;
+    FieldsOfActivity: Schema.Attribute.JSON;
+    FirstName: Schema.Attribute.String & Schema.Attribute.Required;
+    Gender: Schema.Attribute.Enumeration<
+      ['Γυναίκα', 'Άνδρας', 'Μη-δυαδικό', 'Επιθυμώ να μη δηλώσω']
+    >;
+    Instagram: Schema.Attribute.String;
+    LastName: Schema.Attribute.String & Schema.Attribute.Required;
+    LinkedIn: Schema.Attribute.String;
+    linkedMember: Schema.Attribute.Relation<'oneToOne', 'api::member.member'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::membership-application.membership-application'
+    > &
+      Schema.Attribute.Private;
+    NameLatin: Schema.Attribute.String;
+    NetworkContribution: Schema.Attribute.Text;
+    NewsletterOptIn: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    Phone: Schema.Attribute.String & Schema.Attribute.Required;
+    Photo: Schema.Attribute.Media<'images'>;
+    ProposedSolutions: Schema.Attribute.Text;
+    Profession: Schema.Attribute.String & Schema.Attribute.Required;
+    PublishConsent: Schema.Attribute.JSON;
+    publishedAt: Schema.Attribute.DateTime;
+    ReceiptType: Schema.Attribute.Enumeration<['Φυσικό πρόσωπο', 'Εταιρεία']> &
+      Schema.Attribute.DefaultTo<'Φυσικό πρόσωπο'>;
+    ResidenceCity: Schema.Attribute.String & Schema.Attribute.Required;
+    ResidenceRegion: Schema.Attribute.String;
+    SheetSynced: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    StartFellow: Schema.Attribute.Enumeration<['Ναι', 'Όχι']>;
+    SubmittedAt: Schema.Attribute.DateTime;
+    TaxId: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{ maxLength: 9; minLength: 9 }>;
+    Themes: Schema.Attribute.JSON;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Votes: Schema.Attribute.JSON;
+    Website: Schema.Attribute.String;
+  };
+}
+
 export interface ApiMemberMember extends Struct.CollectionTypeSchema {
   collectionName: 'members';
   info: {
@@ -1421,6 +1530,7 @@ declare module '@strapi/strapi' {
       'api::auth-token.auth-token': ApiAuthTokenAuthToken;
       'api::coordination-team.coordination-team': ApiCoordinationTeamCoordinationTeam;
       'api::member.member': ApiMemberMember;
+      'api::membership-application.membership-application': ApiMembershipApplicationMembershipApplication;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::newsletter-subscriber.newsletter-subscriber': ApiNewsletterSubscriberNewsletterSubscriber;
       'api::open-call.open-call': ApiOpenCallOpenCall;
