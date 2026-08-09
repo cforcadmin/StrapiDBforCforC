@@ -525,20 +525,7 @@ export interface ApiMembershipApplicationMembershipApplication
     ActivityCityA: Schema.Attribute.String & Schema.Attribute.Required;
     ActivityCityB: Schema.Attribute.String;
     Address: Schema.Attribute.String;
-    AgeRange: Schema.Attribute.Enumeration<
-      [
-        '20-24',
-        '25-29',
-        '30-34',
-        '35-39',
-        '40-44',
-        '45-49',
-        '50-54',
-        '55-59',
-        '60-64',
-        '65+',
-      ]
-    >;
+    AgeRange: Schema.Attribute.String;
     ApplicationState: Schema.Attribute.Enumeration<
       ['submitted', 'approved', 'rejected', 'completed']
     > &
