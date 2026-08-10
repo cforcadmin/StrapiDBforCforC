@@ -182,6 +182,81 @@
       "type": "boolean",
       "default": false,
       "required": false
+    },
+    "AM": {
+      "type": "integer",
+      "unique": true,
+      "required": false
+    },
+    "RegistrationYear": {
+      "type": "integer",
+      "required": false
+    },
+    "BoardApprovalDate": {
+      "type": "date",
+      "required": false
+    },
+    "Gender": {
+      "type": "enumeration",
+      "enum": ["Γυναίκα", "Άνδρας", "Μη-δυαδικό", "Επιθυμώ να μη δηλώσω"],
+      "required": false
+    },
+    "BAN": {
+      "type": "enumeration",
+      "enum": ["Ναι", "Όχι"],
+      "required": false
+    },
+    "StartFellow": {
+      "type": "enumeration",
+      "enum": ["Ναι", "Όχι"],
+      "required": false
+    },
+    "SocialMediaPresented": {
+      "type": "enumeration",
+      "enum": ["Ναι", "Όχι"],
+      "required": false
+    },
+    "Payments": {
+      "type": "json",
+      "required": false
+    },
+    "ReceiptType": {
+      "type": "enumeration",
+      "enum": ["Φυσικό πρόσωπο", "Εταιρεία"],
+      "default": "Φυσικό πρόσωπο",
+      "required": false
+    },
+    "FatherName": {
+      "type": "string",
+      "required": false
+    },
+    "TaxId": {
+      "type": "string",
+      "maxLength": 9,
+      "minLength": 9,
+      "required": false
+    },
+    "CompanyName": {
+      "type": "string",
+      "required": false
+    },
+    "CompanyAddress": {
+      "type": "string",
+      "required": false
+    },
+    "CompanyTaxId": {
+      "type": "string",
+      "maxLength": 9,
+      "minLength": 9,
+      "required": false
+    },
+    "AdminNotes": {
+      "type": "text",
+      "required": false
+    },
+    "CommunityNotes": {
+      "type": "text",
+      "required": false
     }
   }
 }
