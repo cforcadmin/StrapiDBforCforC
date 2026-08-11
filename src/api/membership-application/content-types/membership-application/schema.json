@@ -34,12 +34,21 @@
     },
     "Gender": {
       "type": "enumeration",
-      "enum": ["Γυναίκα", "Άνδρας", "Μη-δυαδικό", "Επιθυμώ να μη δηλώσω"],
+      "enum": [
+        "Γυναίκα",
+        "Άνδρας",
+        "Μη-δυαδικό",
+        "Επιθυμώ να μη δηλώσω"
+      ],
       "required": false
     },
     "Disability": {
       "type": "enumeration",
-      "enum": ["Ναι", "Όχι", "Επιθυμώ να μη δηλώσω"],
+      "enum": [
+        "Ναι",
+        "Όχι",
+        "Επιθυμώ να μη δηλώσω"
+      ],
       "required": false
     },
     "ResidenceCity": {
@@ -82,7 +91,9 @@
       "type": "media",
       "multiple": false,
       "required": false,
-      "allowedTypes": ["images"]
+      "allowedTypes": [
+        "images"
+      ]
     },
     "Website": {
       "type": "string",
@@ -122,7 +133,10 @@
     },
     "BoschAlumni": {
       "type": "enumeration",
-      "enum": ["Ναι", "Όχι"],
+      "enum": [
+        "Ναι",
+        "Όχι"
+      ],
       "required": false
     },
     "BoschPrograms": {
@@ -131,7 +145,10 @@
     },
     "StartFellow": {
       "type": "enumeration",
-      "enum": ["Ναι", "Όχι"],
+      "enum": [
+        "Ναι",
+        "Όχι"
+      ],
       "required": false
     },
     "Experience": {
@@ -168,7 +185,10 @@
     },
     "ReceiptType": {
       "type": "enumeration",
-      "enum": ["Φυσικό πρόσωπο", "Εταιρεία"],
+      "enum": [
+        "Φυσικό πρόσωπο",
+        "Εταιρεία"
+      ],
       "default": "Φυσικό πρόσωπο",
       "required": false
     },
@@ -215,7 +235,12 @@
     },
     "ApplicationState": {
       "type": "enumeration",
-      "enum": ["submitted", "approved", "rejected", "completed"],
+      "enum": [
+        "submitted",
+        "approved",
+        "rejected",
+        "completed"
+      ],
       "default": "submitted",
       "required": true
     },
@@ -233,6 +258,10 @@
     },
     "DecisionNote": {
       "type": "text",
+      "required": false
+    },
+    "PaymentClaimedAt": {
+      "type": "datetime",
       "required": false
     },
     "AssignedAM": {
