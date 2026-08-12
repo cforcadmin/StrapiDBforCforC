@@ -505,6 +505,51 @@ export interface ApiAuthTokenAuthToken extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiExitSurveyExitSurvey extends Struct.CollectionTypeSchema {
+  collectionName: 'exit_surveys';
+  info: {
+    description: '\u03A6\u03CC\u03C1\u03BC\u03B5\u03C2 \u03B1\u03C0\u03BF\u03C7\u03CE\u03C1\u03B7\u03C3\u03B7\u03C2 \u03BC\u03B5\u03BB\u03CE\u03BD';
+    displayName: 'Exit Survey';
+    pluralName: 'exit-surveys';
+    singularName: 'exit-survey';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    AllowFollowUp: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    Anonymous: Schema.Attribute.Boolean &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<true>;
+    Barriers: Schema.Attribute.JSON;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    FinalComment: Schema.Attribute.Text;
+    KeepNewsletter: Schema.Attribute.Boolean;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::exit-survey.exit-survey'
+    > &
+      Schema.Attribute.Private;
+    MemberDocId: Schema.Attribute.String;
+    MemberName: Schema.Attribute.String;
+    MostUseful: Schema.Attribute.JSON;
+    publishedAt: Schema.Attribute.DateTime;
+    ReasonOther: Schema.Attribute.String;
+    Reasons: Schema.Attribute.JSON;
+    Satisfaction: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<{ max: 5; min: 1 }, number>;
+    SubmittedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    WouldChange: Schema.Attribute.Text;
+    WouldReturn: Schema.Attribute.JSON;
+  };
+}
+
 export interface ApiMembershipApplicationMembershipApplication
   extends Struct.CollectionTypeSchema {
   collectionName: 'membership_applications';
@@ -1517,6 +1562,7 @@ declare module '@strapi/strapi' {
       'api::auth-token.auth-token': ApiAuthTokenAuthToken;
       'api::coordination-team.coordination-team': ApiCoordinationTeamCoordinationTeam;
       'api::member.member': ApiMemberMember;
+      'api::exit-survey.exit-survey': ApiExitSurveyExitSurvey;
       'api::membership-application.membership-application': ApiMembershipApplicationMembershipApplication;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
       'api::newsletter-subscriber.newsletter-subscriber': ApiNewsletterSubscriberNewsletterSubscriber;

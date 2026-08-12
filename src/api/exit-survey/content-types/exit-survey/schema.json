@@ -1,0 +1,76 @@
+{
+  "kind": "collectionType",
+  "collectionName": "exit_surveys",
+  "info": {
+    "singularName": "exit-survey",
+    "pluralName": "exit-surveys",
+    "displayName": "Exit Survey",
+    "description": "Φόρμες αποχώρησης μελών — ανώνυμες εκτός αν το μέλος επιλέξει να δηλώσει το όνομά του. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "MemberName": {
+      "type": "string",
+      "required": false
+    },
+    "MemberDocId": {
+      "type": "string",
+      "required": false
+    },
+    "Anonymous": {
+      "type": "boolean",
+      "default": true,
+      "required": true
+    },
+    "Reasons": {
+      "type": "json",
+      "required": false
+    },
+    "ReasonOther": {
+      "type": "string",
+      "required": false
+    },
+    "Satisfaction": {
+      "type": "integer",
+      "min": 1,
+      "max": 5,
+      "required": false
+    },
+    "MostUseful": {
+      "type": "json",
+      "required": false
+    },
+    "Barriers": {
+      "type": "json",
+      "required": false
+    },
+    "WouldChange": {
+      "type": "text",
+      "required": false
+    },
+    "WouldReturn": {
+      "type": "json",
+      "required": false
+    },
+    "KeepNewsletter": {
+      "type": "boolean",
+      "required": false
+    },
+    "AllowFollowUp": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "FinalComment": {
+      "type": "text",
+      "required": false
+    },
+    "SubmittedAt": {
+      "type": "datetime",
+      "required": false
+    }
+  }
+}
