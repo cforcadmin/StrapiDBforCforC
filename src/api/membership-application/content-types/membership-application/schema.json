@@ -264,6 +264,15 @@
       "type": "datetime",
       "required": false
     },
+    "PaymentReceipt": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
+    },
     "AssignedAM": {
       "type": "integer",
       "required": false
