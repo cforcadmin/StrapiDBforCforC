@@ -1,0 +1,99 @@
+{
+  "kind": "collectionType",
+  "collectionName": "receipts",
+  "info": {
+    "singularName": "receipt",
+    "pluralName": "receipts",
+    "displayName": "Receipt",
+    "description": "Μητρώο αποδείξεων είσπραξης — ενιαία σειρά ΑΠ. ΕΙΣ. με το OC ως μοναδική αρχή αρίθμησης. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Number": {
+      "type": "integer",
+      "required": true,
+      "unique": true,
+      "min": 1
+    },
+    "Type": {
+      "type": "enumeration",
+      "enum": ["registration", "subscription", "extraordinary", "donation", "grant", "other"],
+      "required": true
+    },
+    "RegistrationFee": {
+      "type": "decimal",
+      "required": false
+    },
+    "SubscriptionFee": {
+      "type": "decimal",
+      "required": false
+    },
+    "Amount": {
+      "type": "decimal",
+      "required": true
+    },
+    "SubscriptionYear": {
+      "type": "integer",
+      "required": false
+    },
+    "PaymentDate": {
+      "type": "date",
+      "required": false
+    },
+    "IssueDate": {
+      "type": "date",
+      "required": true
+    },
+    "PayerName": {
+      "type": "string",
+      "required": false
+    },
+    "MemberName": {
+      "type": "string",
+      "required": false
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "TransactionId": {
+      "type": "string",
+      "required": false
+    },
+    "PaymentMethod": {
+      "type": "enumeration",
+      "enum": ["bank", "cash"],
+      "default": "bank",
+      "required": false
+    },
+    "CompanyName": {
+      "type": "string",
+      "required": false
+    },
+    "CompanyAddress": {
+      "type": "string",
+      "required": false
+    },
+    "CompanyTaxId": {
+      "type": "string",
+      "required": false
+    },
+    "SheetSynced": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    },
+    "CreatedBy": {
+      "type": "string",
+      "required": false
+    }
+  }
+}

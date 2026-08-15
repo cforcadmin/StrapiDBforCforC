@@ -955,6 +955,67 @@ export interface ApiCoordinationTeamCoordinationTeam
   };
 }
 
+export interface ApiReceiptReceipt extends Struct.CollectionTypeSchema {
+  collectionName: 'receipts';
+  info: {
+    description: '\u039C\u03B7\u03C4\u03C1\u03CE\u03BF \u03B1\u03C0\u03BF\u03B4\u03B5\u03AF\u03BE\u03B5\u03C9\u03BD \u03B5\u03AF\u03C3\u03C0\u03C1\u03B1\u03BE\u03B7\u03C2';
+    displayName: 'Receipt';
+    pluralName: 'receipts';
+    singularName: 'receipt';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    Amount: Schema.Attribute.Decimal & Schema.Attribute.Required;
+    CompanyAddress: Schema.Attribute.String;
+    CompanyName: Schema.Attribute.String;
+    CompanyTaxId: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    CreatedBy: Schema.Attribute.String;
+    IssueDate: Schema.Attribute.Date & Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::receipt.receipt'
+    > &
+      Schema.Attribute.Private;
+    member: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
+    MemberName: Schema.Attribute.String;
+    Notes: Schema.Attribute.Text;
+    Number: Schema.Attribute.Integer &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique &
+      Schema.Attribute.SetMinMax<{ min: 1 }, number>;
+    PayerName: Schema.Attribute.String;
+    PaymentDate: Schema.Attribute.Date;
+    PaymentMethod: Schema.Attribute.Enumeration<['bank', 'cash']> &
+      Schema.Attribute.DefaultTo<'bank'>;
+    publishedAt: Schema.Attribute.DateTime;
+    RegistrationFee: Schema.Attribute.Decimal;
+    SheetSynced: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    SubscriptionFee: Schema.Attribute.Decimal;
+    SubscriptionYear: Schema.Attribute.Integer;
+    TransactionId: Schema.Attribute.String;
+    Type: Schema.Attribute.Enumeration<
+      [
+        'registration',
+        'subscription',
+        'extraordinary',
+        'donation',
+        'grant',
+        'other',
+      ]
+    > &
+      Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiWorkingGroupWorkingGroup
   extends Struct.CollectionTypeSchema {
   collectionName: 'working_groups';
@@ -1571,6 +1632,7 @@ declare module '@strapi/strapi' {
       'api::working-group.working-group': ApiWorkingGroupWorkingGroup;
       'api::project.project': ApiProjectProject;
       'api::project-entry.project-entry': ApiProjectEntryProjectEntry;
+      'api::receipt.receipt': ApiReceiptReceipt;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;
