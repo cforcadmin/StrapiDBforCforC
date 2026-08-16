@@ -27,7 +27,17 @@
     },
     "Category": {
       "type": "enumeration",
-      "enum": ["Office Expenses", "Services", "Travel and Accommodation", "Others"],
+      "enum": [
+        "Office Expenses",
+        "Services",
+        "Travel and Accommodation",
+        "Others"
+      ],
+      "required": false
+    },
+    "AutoPaid": {
+      "type": "boolean",
+      "default": false,
       "required": false
     },
     "DefaultDocPrefix": {

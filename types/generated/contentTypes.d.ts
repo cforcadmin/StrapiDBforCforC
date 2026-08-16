@@ -627,6 +627,7 @@ export interface ApiSupplierAliasSupplierAlias
     AliasKey: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.Unique;
+    AutoPaid: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     Category: Schema.Attribute.Enumeration<
       ['Office Expenses', 'Services', 'Travel and Accommodation', 'Others']
     >;
