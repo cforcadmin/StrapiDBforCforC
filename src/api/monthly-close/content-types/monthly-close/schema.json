@@ -1,0 +1,42 @@
+{
+  "kind": "collectionType",
+  "collectionName": "monthly_closes",
+  "info": {
+    "singularName": "monthly-close",
+    "pluralName": "monthly-closes",
+    "displayName": "Monthly Close",
+    "description": "Κλείσιμο μήνα εσόδων — πότε στάλθηκε η μηνιαία εικόνα στο λογιστήριο. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Month": {
+      "type": "string",
+      "required": true,
+      "unique": true,
+      "regex": "^\\d{4}-\\d{2}$"
+    },
+    "ReadyAt": {
+      "type": "datetime",
+      "required": false
+    },
+    "ReadyBy": {
+      "type": "string",
+      "required": false
+    },
+    "SentAt": {
+      "type": "datetime",
+      "required": false
+    },
+    "SentBy": {
+      "type": "string",
+      "required": false
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    }
+  }
+}

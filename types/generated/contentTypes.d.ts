@@ -991,6 +991,40 @@ export interface ApiPayerAliasPayerAlias extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiMonthlyCloseMonthlyClose extends Struct.CollectionTypeSchema {
+  collectionName: 'monthly_closes';
+  info: {
+    description: '\u039A\u03BB\u03B5\u03AF\u03C3\u03B9\u03BC\u03BF \u03BC\u03AE\u03BD\u03B1 \u03B5\u03C3\u03CC\u03B4\u03C9\u03BD';
+    displayName: 'Monthly Close';
+    pluralName: 'monthly-closes';
+    singularName: 'monthly-close';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::monthly-close.monthly-close'
+    > &
+      Schema.Attribute.Private;
+    Month: Schema.Attribute.String & Schema.Attribute.Required & Schema.Attribute.Unique;
+    Notes: Schema.Attribute.Text;
+    publishedAt: Schema.Attribute.DateTime;
+    ReadyAt: Schema.Attribute.DateTime;
+    ReadyBy: Schema.Attribute.String;
+    SentAt: Schema.Attribute.DateTime;
+    SentBy: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiReceiptReceipt extends Struct.CollectionTypeSchema {
   collectionName: 'receipts';
   info: {
@@ -1670,6 +1704,7 @@ declare module '@strapi/strapi' {
       'api::project.project': ApiProjectProject;
       'api::project-entry.project-entry': ApiProjectEntryProjectEntry;
       'api::payer-alias.payer-alias': ApiPayerAliasPayerAlias;
+      'api::monthly-close.monthly-close': ApiMonthlyCloseMonthlyClose;
       'api::receipt.receipt': ApiReceiptReceipt;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
