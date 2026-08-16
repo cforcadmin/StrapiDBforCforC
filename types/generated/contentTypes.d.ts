@@ -505,6 +505,54 @@ export interface ApiAuthTokenAuthToken extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiIncomeRecordIncomeRecord
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'income_records';
+  info: {
+    description: '\u0388\u03C3\u03BF\u03B4\u03B1 \u03C7\u03C9\u03C1\u03AF\u03C2 \u03B1\u03C0\u03CC\u03B4\u03B5\u03B9\u03BE\u03B7';
+    displayName: 'Income Record';
+    pluralName: 'income-records';
+    singularName: 'income-record';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    Aa: Schema.Attribute.String;
+    Amount: Schema.Attribute.Decimal & Schema.Attribute.Required;
+    Category: Schema.Attribute.Enumeration<
+      ['grant', 'donation', 'extraordinary', 'business', 'other']
+    > &
+      Schema.Attribute.Required;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    CreatedBy: Schema.Attribute.String;
+    Description: Schema.Attribute.String;
+    DocRef: Schema.Attribute.String;
+    FileId: Schema.Attribute.String;
+    FileName: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::income-record.income-record'
+    > &
+      Schema.Attribute.Private;
+    Month: Schema.Attribute.String & Schema.Attribute.Required;
+    Notes: Schema.Attribute.Text;
+    PayerName: Schema.Attribute.String;
+    PaymentDate: Schema.Attribute.Date;
+    PaymentMethod: Schema.Attribute.Enumeration<['bank', 'cash', 'offset']> &
+      Schema.Attribute.DefaultTo<'bank'>;
+    publishedAt: Schema.Attribute.DateTime;
+    SheetSynced: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    TransactionId: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExpenseExpense extends Struct.CollectionTypeSchema {
   collectionName: 'expenses';
   info: {
@@ -1792,6 +1840,7 @@ declare module '@strapi/strapi' {
       'api::auth-token.auth-token': ApiAuthTokenAuthToken;
       'api::coordination-team.coordination-team': ApiCoordinationTeamCoordinationTeam;
       'api::member.member': ApiMemberMember;
+      'api::income-record.income-record': ApiIncomeRecordIncomeRecord;
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::exit-survey.exit-survey': ApiExitSurveyExitSurvey;

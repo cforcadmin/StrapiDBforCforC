@@ -1,0 +1,81 @@
+{
+  "kind": "collectionType",
+  "collectionName": "income_records",
+  "info": {
+    "singularName": "income-record",
+    "pluralName": "income-records",
+    "displayName": "Income Record",
+    "description": "Έσοδα ΧΩΡΙΣ απόδειξη (χορηγίες, επιχορηγήσεις, λοιπά) — μπαίνουν στο ΕΣΟΔΑ με αναφορά τράπεζας/χρηματοδότη, χωρίς να καταναλώνουν αριθμό σειράς ΑΠ. ΕΙΣ. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Month": {
+      "type": "string",
+      "required": true,
+      "regex": "^\\d{4}-\\d{2}$"
+    },
+    "Aa": {
+      "type": "string",
+      "required": false
+    },
+    "DocRef": {
+      "type": "string",
+      "required": false
+    },
+    "PayerName": {
+      "type": "string",
+      "required": false
+    },
+    "Description": {
+      "type": "string",
+      "required": false
+    },
+    "Category": {
+      "type": "enumeration",
+      "enum": ["grant", "donation", "extraordinary", "business", "other"],
+      "required": true
+    },
+    "Amount": {
+      "type": "decimal",
+      "required": true
+    },
+    "PaymentDate": {
+      "type": "date",
+      "required": false
+    },
+    "PaymentMethod": {
+      "type": "enumeration",
+      "enum": ["bank", "cash", "offset"],
+      "default": "bank",
+      "required": false
+    },
+    "TransactionId": {
+      "type": "string",
+      "required": false
+    },
+    "FileName": {
+      "type": "string",
+      "required": false
+    },
+    "FileId": {
+      "type": "string",
+      "required": false
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    },
+    "SheetSynced": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "CreatedBy": {
+      "type": "string",
+      "required": false
+    }
+  }
+}
