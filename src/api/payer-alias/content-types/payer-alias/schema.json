@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "payer_aliases",
+  "info": {
+    "singularName": "payer-alias",
+    "pluralName": "payer-aliases",
+    "displayName": "Payer Alias",
+    "description": "Learned αντιστοιχίσεις πληρωτή τράπεζας → μέλους (π.χ. εταιρεία που πληρώνει για μέλος). Γράφονται από τις διορθώσεις του Financer στον έλεγχο κινήσεων. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "AliasKey": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "PayerName": {
+      "type": "string",
+      "required": true
+    },
+    "member": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
+    "MemberName": {
+      "type": "string",
+      "required": false
+    },
+    "Confirmations": {
+      "type": "integer",
+      "default": 1,
+      "required": false
+    },
+    "LastUsed": {
+      "type": "date",
+      "required": false
+    }
+  }
+}

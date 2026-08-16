@@ -955,6 +955,42 @@ export interface ApiCoordinationTeamCoordinationTeam
   };
 }
 
+export interface ApiPayerAliasPayerAlias extends Struct.CollectionTypeSchema {
+  collectionName: 'payer_aliases';
+  info: {
+    description: 'Learned \u03b1\u03bd\u03c4\u03b9\u03c3\u03c4\u03bf\u03b9\u03c7\u03af\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae \u2192 \u03bc\u03ad\u03bb\u03bf\u03c5\u03c2';
+    displayName: 'Payer Alias';
+    pluralName: 'payer-aliases';
+    singularName: 'payer-alias';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    AliasKey: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    Confirmations: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<1>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    LastUsed: Schema.Attribute.Date;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::payer-alias.payer-alias'
+    > &
+      Schema.Attribute.Private;
+    member: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
+    MemberName: Schema.Attribute.String;
+    PayerName: Schema.Attribute.String & Schema.Attribute.Required;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiReceiptReceipt extends Struct.CollectionTypeSchema {
   collectionName: 'receipts';
   info: {
@@ -1632,6 +1668,7 @@ declare module '@strapi/strapi' {
       'api::working-group.working-group': ApiWorkingGroupWorkingGroup;
       'api::project.project': ApiProjectProject;
       'api::project-entry.project-entry': ApiProjectEntryProjectEntry;
+      'api::payer-alias.payer-alias': ApiPayerAliasPayerAlias;
       'api::receipt.receipt': ApiReceiptReceipt;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
