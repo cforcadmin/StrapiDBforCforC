@@ -1,0 +1,115 @@
+{
+  "kind": "collectionType",
+  "collectionName": "expenses",
+  "info": {
+    "singularName": "expense",
+    "pluralName": "expenses",
+    "displayName": "Expense",
+    "description": "Έξοδα ανά μήνα έκδοσης παραστατικού — καθρέφτης του φύλλου ΕΞΟΔΑ. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Month": {
+      "type": "string",
+      "required": true,
+      "regex": "^\\d{4}-\\d{2}$"
+    },
+    "Aa": {
+      "type": "string",
+      "required": true
+    },
+    "IssueDate": {
+      "type": "date",
+      "required": true
+    },
+    "DocRef": {
+      "type": "string",
+      "required": false
+    },
+    "DocNumber": {
+      "type": "string",
+      "required": false
+    },
+    "Mark": {
+      "type": "string",
+      "required": false
+    },
+    "SupplierName": {
+      "type": "string",
+      "required": false
+    },
+    "SupplierTaxId": {
+      "type": "string",
+      "required": false
+    },
+    "Category": {
+      "type": "enumeration",
+      "enum": ["Office Expenses", "Services", "Travel and Accommodation", "Others"],
+      "required": false
+    },
+    "NetAmount": {
+      "type": "decimal",
+      "required": false
+    },
+    "VatAmount": {
+      "type": "decimal",
+      "required": false
+    },
+    "Withholding": {
+      "type": "decimal",
+      "required": false
+    },
+    "PayableAmount": {
+      "type": "decimal",
+      "required": false
+    },
+    "PaymentMethod": {
+      "type": "enumeration",
+      "enum": ["bank", "cash", "offset", "unpaid"],
+      "default": "unpaid",
+      "required": false
+    },
+    "PaymentDate": {
+      "type": "date",
+      "required": false
+    },
+    "TransactionId": {
+      "type": "string",
+      "required": false
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    },
+    "FileName": {
+      "type": "string",
+      "required": false
+    },
+    "FileId": {
+      "type": "string",
+      "required": false
+    },
+    "State": {
+      "type": "enumeration",
+      "enum": ["draft", "approved"],
+      "default": "draft",
+      "required": true
+    },
+    "SheetSynced": {
+      "type": "boolean",
+      "default": false,
+      "required": false
+    },
+    "ApprovedAt": {
+      "type": "datetime",
+      "required": false
+    },
+    "ApprovedBy": {
+      "type": "string",
+      "required": false
+    }
+  }
+}

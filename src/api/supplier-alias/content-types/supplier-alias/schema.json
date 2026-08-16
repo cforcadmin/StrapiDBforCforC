@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "supplier_aliases",
+  "info": {
+    "singularName": "supplier-alias",
+    "pluralName": "supplier-aliases",
+    "displayName": "Supplier Alias",
+    "description": "Μαθαινόμενο μητρώο προμηθευτών: το κείμενο του ονόματος αρχείου («alpha») → επίσημη επωνυμία, ΑΦΜ, κατηγορία. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "AliasKey": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "SupplierName": {
+      "type": "string",
+      "required": true
+    },
+    "SupplierTaxId": {
+      "type": "string",
+      "required": false
+    },
+    "Category": {
+      "type": "enumeration",
+      "enum": ["Office Expenses", "Services", "Travel and Accommodation", "Others"],
+      "required": false
+    },
+    "DefaultDocPrefix": {
+      "type": "string",
+      "default": "2.1",
+      "required": false
+    },
+    "Confirmations": {
+      "type": "integer",
+      "default": 1,
+      "required": false
+    },
+    "Notes": {
+      "type": "text",
+      "required": false
+    }
+  }
+}

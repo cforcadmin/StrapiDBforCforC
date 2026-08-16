@@ -505,6 +505,104 @@ export interface ApiAuthTokenAuthToken extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiExpenseExpense extends Struct.CollectionTypeSchema {
+  collectionName: 'expenses';
+  info: {
+    description: '\u0388\u03BE\u03BF\u03B4\u03B1 \u03B1\u03BD\u03AC \u03BC\u03AE\u03BD\u03B1';
+    displayName: 'Expense';
+    pluralName: 'expenses';
+    singularName: 'expense';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    Aa: Schema.Attribute.String & Schema.Attribute.Required;
+    ApprovedAt: Schema.Attribute.DateTime;
+    ApprovedBy: Schema.Attribute.String;
+    Category: Schema.Attribute.Enumeration<
+      ['Office Expenses', 'Services', 'Travel and Accommodation', 'Others']
+    >;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    DocNumber: Schema.Attribute.String;
+    DocRef: Schema.Attribute.String;
+    FileId: Schema.Attribute.String;
+    FileName: Schema.Attribute.String;
+    IssueDate: Schema.Attribute.Date & Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::expense.expense'
+    > &
+      Schema.Attribute.Private;
+    Mark: Schema.Attribute.String;
+    Month: Schema.Attribute.String & Schema.Attribute.Required;
+    NetAmount: Schema.Attribute.Decimal;
+    Notes: Schema.Attribute.Text;
+    PayableAmount: Schema.Attribute.Decimal;
+    PaymentDate: Schema.Attribute.Date;
+    PaymentMethod: Schema.Attribute.Enumeration<
+      ['bank', 'cash', 'offset', 'unpaid']
+    > &
+      Schema.Attribute.DefaultTo<'unpaid'>;
+    publishedAt: Schema.Attribute.DateTime;
+    SheetSynced: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    State: Schema.Attribute.Enumeration<['draft', 'approved']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'draft'>;
+    SupplierName: Schema.Attribute.String;
+    SupplierTaxId: Schema.Attribute.String;
+    TransactionId: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    VatAmount: Schema.Attribute.Decimal;
+    Withholding: Schema.Attribute.Decimal;
+  };
+}
+
+export interface ApiSupplierAliasSupplierAlias
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'supplier_aliases';
+  info: {
+    description: '\u039C\u03B7\u03C4\u03C1\u03CE\u03BF \u03C0\u03C1\u03BF\u03BC\u03B7\u03B8\u03B5\u03C5\u03C4\u03CE\u03BD';
+    displayName: 'Supplier Alias';
+    pluralName: 'supplier-aliases';
+    singularName: 'supplier-alias';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    AliasKey: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    Category: Schema.Attribute.Enumeration<
+      ['Office Expenses', 'Services', 'Travel and Accommodation', 'Others']
+    >;
+    Confirmations: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<1>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    DefaultDocPrefix: Schema.Attribute.String &
+      Schema.Attribute.DefaultTo<'2.1'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::supplier-alias.supplier-alias'
+    > &
+      Schema.Attribute.Private;
+    Notes: Schema.Attribute.Text;
+    publishedAt: Schema.Attribute.DateTime;
+    SupplierName: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExitSurveyExitSurvey extends Struct.CollectionTypeSchema {
   collectionName: 'exit_surveys';
   info: {
@@ -1694,6 +1792,8 @@ declare module '@strapi/strapi' {
       'api::auth-token.auth-token': ApiAuthTokenAuthToken;
       'api::coordination-team.coordination-team': ApiCoordinationTeamCoordinationTeam;
       'api::member.member': ApiMemberMember;
+      'api::expense.expense': ApiExpenseExpense;
+      'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::exit-survey.exit-survey': ApiExitSurveyExitSurvey;
       'api::membership-application.membership-application': ApiMembershipApplicationMembershipApplication;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;
