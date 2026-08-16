@@ -182,6 +182,10 @@
       "type": "datetime",
       "required": false
     },
+    "ReminderSentAt": {
+      "type": "datetime",
+      "required": false
+    },
     "AddedToPaidGroup": {
       "type": "boolean",
       "default": false,
