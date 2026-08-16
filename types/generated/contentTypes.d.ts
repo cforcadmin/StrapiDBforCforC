@@ -1031,6 +1031,7 @@ export interface ApiReceiptReceipt extends Struct.CollectionTypeSchema {
       Schema.Attribute.DefaultTo<'bank'>;
     publishedAt: Schema.Attribute.DateTime;
     RegistrationFee: Schema.Attribute.Decimal;
+    SentAt: Schema.Attribute.DateTime;
     SheetSynced: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     SubscriptionFee: Schema.Attribute.Decimal;
     SubscriptionYear: Schema.Attribute.Integer;

@@ -87,6 +87,10 @@
       "default": false,
       "required": false
     },
+    "SentAt": {
+      "type": "datetime",
+      "required": false
+    },
     "Notes": {
       "type": "text",
       "required": false
