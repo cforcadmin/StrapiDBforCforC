@@ -178,6 +178,10 @@
       "default": false,
       "required": false
     },
+    "RenewalClaimedAt": {
+      "type": "datetime",
+      "required": false
+    },
     "AddedToPaidGroup": {
       "type": "boolean",
       "default": false,
