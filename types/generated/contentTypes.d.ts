@@ -652,6 +652,40 @@ export interface ApiSupplierAliasSupplierAlias
   };
 }
 
+export interface ApiTreasuryBalanceTreasuryBalance
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'treasury_balances';
+  info: {
+    description: '\u03A7\u03B5\u03B9\u03C1\u03BF\u03BA\u03AF\u03BD\u03B7\u03C4\u03B7 \u03BC\u03AD\u03C4\u03C1\u03B7\u03C3\u03B7 \u03C4\u03B1\u03BC\u03B5\u03AF\u03BF\u03C5';
+    displayName: 'Treasury Balance';
+    pluralName: 'treasury-balances';
+    singularName: 'treasury-balance';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    AsOf: Schema.Attribute.Date & Schema.Attribute.Required;
+    Bank: Schema.Attribute.Decimal & Schema.Attribute.Required;
+    Cash: Schema.Attribute.Decimal;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::treasury-balance.treasury-balance'
+    > &
+      Schema.Attribute.Private;
+    Notes: Schema.Attribute.Text;
+    publishedAt: Schema.Attribute.DateTime;
+    RecordedBy: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExitSurveyExitSurvey extends Struct.CollectionTypeSchema {
   collectionName: 'exit_surveys';
   info: {
@@ -1845,6 +1879,7 @@ declare module '@strapi/strapi' {
       'api::income-record.income-record': ApiIncomeRecordIncomeRecord;
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
+      'api::treasury-balance.treasury-balance': ApiTreasuryBalanceTreasuryBalance;
       'api::exit-survey.exit-survey': ApiExitSurveyExitSurvey;
       'api::membership-application.membership-application': ApiMembershipApplicationMembershipApplication;
       'api::newsletter.newsletter': ApiNewsletterNewsletter;

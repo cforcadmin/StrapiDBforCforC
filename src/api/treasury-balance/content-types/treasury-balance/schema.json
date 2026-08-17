@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "treasury_balances",
+  "info": {
+    "singularName": "treasury-balance",
+    "pluralName": "treasury-balances",
+    "displayName": "Treasury Balance",
+    "description": "Χειροκίνητη μέτρηση ταμείου (τράπεζα + μετρητά) από τον/την Financer. Κάθε μέτρηση κρατιέται — δεν αντικαθιστά την προηγούμενη."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "AsOf": {
+      "type": "date",
+      "required": true
+    },
+    "Bank": {
+      "type": "decimal",
+      "required": true
+    },
+    "Cash": {
+      "type": "decimal"
+    },
+    "Notes": {
+      "type": "text"
+    },
+    "RecordedBy": {
+      "type": "string"
+    }
+  }
+}
