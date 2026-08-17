@@ -1184,6 +1184,7 @@ export interface ApiReceiptReceipt extends Struct.CollectionTypeSchema {
     draftAndPublish: false;
   };
   attributes: {
+    Aa: Schema.Attribute.String;
     Amount: Schema.Attribute.Decimal & Schema.Attribute.Required;
     CompanyAddress: Schema.Attribute.String;
     CompanyName: Schema.Attribute.String;

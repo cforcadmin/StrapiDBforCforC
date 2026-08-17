@@ -18,9 +18,19 @@
       "unique": true,
       "min": 1
     },
+    "Aa": {
+      "type": "string"
+    },
     "Type": {
       "type": "enumeration",
-      "enum": ["registration", "subscription", "extraordinary", "donation", "grant", "other"],
+      "enum": [
+        "registration",
+        "subscription",
+        "extraordinary",
+        "donation",
+        "grant",
+        "other"
+      ],
       "required": true
     },
     "RegistrationFee": {
@@ -66,7 +76,10 @@
     },
     "PaymentMethod": {
       "type": "enumeration",
-      "enum": ["bank", "cash"],
+      "enum": [
+        "bank",
+        "cash"
+      ],
       "default": "bank",
       "required": false
     },
