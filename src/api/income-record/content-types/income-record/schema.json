@@ -35,8 +35,24 @@
     },
     "Category": {
       "type": "enumeration",
-      "enum": ["grant", "donation", "extraordinary", "business", "other"],
+      "enum": [
+        "grant",
+        "donation",
+        "extraordinary",
+        "business",
+        "other"
+      ],
       "required": true
+    },
+    "FunderType": {
+      "type": "enumeration",
+      "enum": [
+        "public",
+        "european",
+        "private",
+        "services",
+        "other"
+      ]
     },
     "Amount": {
       "type": "decimal",
@@ -48,7 +64,11 @@
     },
     "PaymentMethod": {
       "type": "enumeration",
-      "enum": ["bank", "cash", "offset"],
+      "enum": [
+        "bank",
+        "cash",
+        "offset"
+      ],
       "default": "bank",
       "required": false
     },

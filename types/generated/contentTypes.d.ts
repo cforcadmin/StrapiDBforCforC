@@ -530,6 +530,9 @@ export interface ApiIncomeRecordIncomeRecord
     CreatedBy: Schema.Attribute.String;
     Description: Schema.Attribute.String;
     DocRef: Schema.Attribute.String;
+    FunderType: Schema.Attribute.Enumeration<
+      ['public', 'european', 'private', 'services', 'other']
+    >;
     FileId: Schema.Attribute.String;
     FileName: Schema.Attribute.String;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
