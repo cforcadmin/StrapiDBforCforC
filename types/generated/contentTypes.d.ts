@@ -815,6 +815,43 @@ export interface ApiEventAttendanceEventAttendance
   };
 }
 
+export interface ApiListSnapshotListSnapshot
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'list_snapshots';
+  info: {
+    description: '\u039C\u03B7\u03BD\u03B9\u03B1\u03AF\u03BF \u03C3\u03C4\u03B9\u03B3\u03BC\u03B9\u03CC\u03C4\u03C5\u03C0\u03BF \u03BB\u03B9\u03C3\u03C4\u03CE\u03BD';
+    displayName: 'List Snapshot';
+    pluralName: 'list-snapshots';
+    singularName: 'list-snapshot';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    CapturedAt: Schema.Attribute.DateTime;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    External: Schema.Attribute.Integer;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::list-snapshot.list-snapshot'
+    > &
+      Schema.Attribute.Private;
+    Media: Schema.Attribute.Integer;
+    Members: Schema.Attribute.Integer;
+    Month: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    Paid: Schema.Attribute.Integer;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExitSurveyExitSurvey extends Struct.CollectionTypeSchema {
   collectionName: 'exit_surveys';
   info: {
@@ -2009,6 +2046,7 @@ declare module '@strapi/strapi' {
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::event-attendance.event-attendance': ApiEventAttendanceEventAttendance;
+      'api::list-snapshot.list-snapshot': ApiListSnapshotListSnapshot;
       'api::oc-task-board.oc-task-board': ApiOcTaskBoardOcTaskBoard;
       'api::oc-task.oc-task': ApiOcTaskOcTask;
       'api::treasury-balance.treasury-balance': ApiTreasuryBalanceTreasuryBalance;

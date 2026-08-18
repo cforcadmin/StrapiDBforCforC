@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "list_snapshots",
+  "info": {
+    "singularName": "list-snapshot",
+    "pluralName": "list-snapshots",
+    "displayName": "List Snapshot",
+    "description": "Μηνιαίο στιγμιότυπο μεγεθών λιστών newsletter. Το Sender δίνει ΜΟΝΟ τον σημερινό αριθμό — χωρίς αυτές τις εγγραφές καμία καμπύλη ανάπτυξης δεν ανασυντίθεται εκ των υστέρων."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "Month": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "Paid": {
+      "type": "integer"
+    },
+    "External": {
+      "type": "integer"
+    },
+    "Media": {
+      "type": "integer"
+    },
+    "Members": {
+      "type": "integer"
+    },
+    "CapturedAt": {
+      "type": "datetime"
+    }
+  }
+}
