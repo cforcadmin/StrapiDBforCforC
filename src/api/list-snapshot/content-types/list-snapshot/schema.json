@@ -5,7 +5,7 @@
     "singularName": "list-snapshot",
     "pluralName": "list-snapshots",
     "displayName": "List Snapshot",
-    "description": "Μηνιαίο στιγμιότυπο μεγεθών λιστών newsletter. Το Sender δίνει ΜΟΝΟ τον σημερινό αριθμό — χωρίς αυτές τις εγγραφές καμία καμπύλη ανάπτυξης δεν ανασυντίθεται εκ των υστέρων."
+    "description": "Μηνιαίο στιγμιότυπο μεγεθών λιστών. Το Sender δίνει ΜΟΝΟ τον σημερινό αριθμό — χωρίς αυτό, καμία καμπύλη ανάπτυξης δεν ανασυντίθεται εκ των υστέρων."
   },
   "options": {
     "draftAndPublish": false

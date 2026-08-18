@@ -296,6 +296,16 @@
     },
     "Reminder28SentAt": {
       "type": "datetime"
+    },
+    "AutoRemindersArmed": {
+      "type": "boolean",
+      "default": false
+    },
+    "AutoRemindersArmedAt": {
+      "type": "datetime"
+    },
+    "AutoRemindersArmedBy": {
+      "type": "string"
     }
   }
 }
