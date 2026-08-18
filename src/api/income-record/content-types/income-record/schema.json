@@ -44,8 +44,15 @@
       ],
       "required": true
     },
-    "FunderTypes": {
-      "type": "json"
+    "FunderType": {
+      "type": "enumeration",
+      "enum": [
+        "public",
+        "european",
+        "private",
+        "services",
+        "other"
+      ]
     },
     "Amount": {
       "type": "decimal",
