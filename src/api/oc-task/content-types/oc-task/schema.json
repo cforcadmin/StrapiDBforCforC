@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "oc_tasks",
+  "info": {
+    "singularName": "oc-task",
+    "pluralName": "oc-tasks",
+    "displayName": "OC Task",
+    "description": "Εκκρεμότητα σε πίνακα. Το Completed είναι το τικ· το Status είναι η πορεία — ένα θέμα μπορεί να κλείσει ενώ ήταν «In progress», όπως ακριβώς στο Slack."
+  },
+  "options": { "draftAndPublish": false },
+  "attributes": {
+    "board": { "type": "relation", "relation": "manyToOne", "target": "api::oc-task-board.oc-task-board" },
+    "Title": { "type": "string", "required": true },
+    "Completed": { "type": "boolean", "default": false },
+    "Status": {
+      "type": "enumeration",
+      "enum": ["not_started", "in_progress", "done"],
+      "default": "not_started"
+    },
+    "Categories": { "type": "json" },
+    "Description": { "type": "text" },
+    "Links": { "type": "text" },
+    "assignees": { "type": "relation", "relation": "oneToMany", "target": "api::member.member" },
+    "DueDate": { "type": "date" },
+    "Priority": {
+      "type": "enumeration",
+      "enum": ["low", "normal", "high"],
+      "default": "normal"
+    },
+    "CompletedAt": { "type": "datetime" },
+    "SortIndex": { "type": "integer", "default": 0 },
+    "CreatedBy": { "type": "string" },
+    "LegacyAssignees": { "type": "json" }
+  }
+}

@@ -686,6 +686,91 @@ export interface ApiTreasuryBalanceTreasuryBalance
   };
 }
 
+export interface ApiOcTaskBoardOcTaskBoard
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'oc_task_boards';
+  info: {
+    description: '\u03A0\u03AF\u03BD\u03B1\u03BA\u03B1\u03C2 \u03B5\u03BA\u03BA\u03C1\u03B5\u03BC\u03BF\u03C4\u03AE\u03C4\u03C9\u03BD';
+    displayName: 'OC Task Board';
+    pluralName: 'oc-task-boards';
+    singularName: 'oc-task-board';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    Archived: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Description: Schema.Attribute.Text;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::oc-task-board.oc-task-board'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    Scope: Schema.Attribute.Enumeration<
+      ['coordination', 'members', 'project']
+    > &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'coordination'>;
+    Slug: Schema.Attribute.UID<'Title'>;
+    SortIndex: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    Title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiOcTaskOcTask extends Struct.CollectionTypeSchema {
+  collectionName: 'oc_tasks';
+  info: {
+    description: '\u0395\u03BA\u03BA\u03C1\u03B5\u03BC\u03CC\u03C4\u03B7\u03C4\u03B1 \u03C3\u03B5 \u03C0\u03AF\u03BD\u03B1\u03BA\u03B1';
+    displayName: 'OC Task';
+    pluralName: 'oc-tasks';
+    singularName: 'oc-task';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    assignees: Schema.Attribute.Relation<'oneToMany', 'api::member.member'>;
+    board: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::oc-task-board.oc-task-board'
+    >;
+    Categories: Schema.Attribute.JSON;
+    Completed: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    CompletedAt: Schema.Attribute.DateTime;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    CreatedBy: Schema.Attribute.String;
+    Description: Schema.Attribute.Text;
+    DueDate: Schema.Attribute.Date;
+    LegacyAssignees: Schema.Attribute.JSON;
+    Links: Schema.Attribute.Text;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::oc-task.oc-task'> &
+      Schema.Attribute.Private;
+    Priority: Schema.Attribute.Enumeration<['low', 'normal', 'high']> &
+      Schema.Attribute.DefaultTo<'normal'>;
+    publishedAt: Schema.Attribute.DateTime;
+    SortIndex: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    Status: Schema.Attribute.Enumeration<
+      ['not_started', 'in_progress', 'done']
+    > &
+      Schema.Attribute.DefaultTo<'not_started'>;
+    Title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExitSurveyExitSurvey extends Struct.CollectionTypeSchema {
   collectionName: 'exit_surveys';
   info: {
@@ -1879,6 +1964,8 @@ declare module '@strapi/strapi' {
       'api::income-record.income-record': ApiIncomeRecordIncomeRecord;
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
+      'api::oc-task-board.oc-task-board': ApiOcTaskBoardOcTaskBoard;
+      'api::oc-task.oc-task': ApiOcTaskOcTask;
       'api::treasury-balance.treasury-balance': ApiTreasuryBalanceTreasuryBalance;
       'api::exit-survey.exit-survey': ApiExitSurveyExitSurvey;
       'api::membership-application.membership-application': ApiMembershipApplicationMembershipApplication;
