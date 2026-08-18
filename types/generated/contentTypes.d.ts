@@ -774,6 +774,47 @@ export interface ApiOcTaskOcTask extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiEventAttendanceEventAttendance
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'event_attendances';
+  info: {
+    description: '\u03A0\u03B1\u03C1\u03BF\u03C5\u03C3\u03AF\u03B5\u03C2 \u03C3\u03B5 \u03B4\u03C1\u03AC\u03C3\u03B7';
+    displayName: 'Event Attendance';
+    pluralName: 'event-attendances';
+    singularName: 'event-attendance';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    attendees: Schema.Attribute.Relation<'manyToMany', 'api::member.member'>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    EventCategory: Schema.Attribute.String;
+    EventDate: Schema.Attribute.Date & Schema.Attribute.Required;
+    EventId: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    EventTitle: Schema.Attribute.String & Schema.Attribute.Required;
+    GuestNames: Schema.Attribute.Text;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::event-attendance.event-attendance'
+    > &
+      Schema.Attribute.Private;
+    NonMemberCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    Notes: Schema.Attribute.Text;
+    publishedAt: Schema.Attribute.DateTime;
+    RecordedAt: Schema.Attribute.DateTime;
+    RecordedBy: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExitSurveyExitSurvey extends Struct.CollectionTypeSchema {
   collectionName: 'exit_surveys';
   info: {
@@ -1967,6 +2008,7 @@ declare module '@strapi/strapi' {
       'api::income-record.income-record': ApiIncomeRecordIncomeRecord;
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
+      'api::event-attendance.event-attendance': ApiEventAttendanceEventAttendance;
       'api::oc-task-board.oc-task-board': ApiOcTaskBoardOcTaskBoard;
       'api::oc-task.oc-task': ApiOcTaskOcTask;
       'api::treasury-balance.treasury-balance': ApiTreasuryBalanceTreasuryBalance;

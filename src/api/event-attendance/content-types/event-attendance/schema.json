@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "event_attendances",
+  "info": {
+    "singularName": "event-attendance",
+    "pluralName": "event-attendances",
+    "displayName": "Event Attendance",
+    "description": "Παρουσίες σε δράση του ημερολογίου. Ο τίτλος και η ημερομηνία κρατιούνται ως στιγμιότυπο: το γεγονός στο Google Calendar μπορεί να αλλάξει ή να διαγραφεί, η καταγραφή όχι."
+  },
+  "options": { "draftAndPublish": false },
+  "attributes": {
+    "EventId": { "type": "string", "required": true, "unique": true },
+    "EventTitle": { "type": "string", "required": true },
+    "EventDate": { "type": "date", "required": true },
+    "EventCategory": { "type": "string" },
+    "attendees": { "type": "relation", "relation": "manyToMany", "target": "api::member.member" },
+    "NonMemberCount": { "type": "integer", "default": 0 },
+    "GuestNames": { "type": "text" },
+    "Notes": { "type": "text" },
+    "RecordedBy": { "type": "string" },
+    "RecordedAt": { "type": "datetime" }
+  }
+}
