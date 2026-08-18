@@ -737,7 +737,7 @@ export interface ApiOcTaskOcTask extends Struct.CollectionTypeSchema {
     draftAndPublish: false;
   };
   attributes: {
-    assignees: Schema.Attribute.Relation<'oneToMany', 'api::member.member'>;
+    assignees: Schema.Attribute.Relation<'manyToMany', 'api::member.member'>;
     board: Schema.Attribute.Relation<
       'manyToOne',
       'api::oc-task-board.oc-task-board'
