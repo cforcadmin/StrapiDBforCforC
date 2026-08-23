@@ -869,6 +869,45 @@ export interface ApiLibraryItemLibraryItem extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiLibraryRejectionLibraryRejection
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'library_rejections';
+  info: {
+    description: '\u038A\u03C7\u03BD\u03BF\u03C2 \u03B1\u03C0\u03BF\u03C1\u03C1\u03B9\u03C6\u03B8\u03B5\u03AF\u03C3\u03B1\u03C2 \u03BA\u03B1\u03C4\u03B1\u03C7\u03CE\u03C1\u03B7\u03C3\u03B7\u03C2 \u03C3\u03C4\u03B7\u03BD \u0391\u03BD\u03BF\u03B9\u03C7\u03C4\u03AE \u0392\u03B9\u03B2\u03BB\u03B9\u03BF\u03B8\u03AE\u03BA\u03B7';
+    displayName: 'Library Rejection';
+    pluralName: 'library-rejections';
+    singularName: 'library-rejection';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    DriveFileId: Schema.Attribute.String;
+    DuplicateOfTitle: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::library-rejection.library-rejection'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    RejectedBy: Schema.Attribute.String;
+    RejectionReason: Schema.Attribute.Text;
+    SharedWords: Schema.Attribute.Integer;
+    SubmittedAt: Schema.Attribute.DateTime;
+    SubmittedByEmail: Schema.Attribute.String;
+    SubmittedByName: Schema.Attribute.String;
+    Theme: Schema.Attribute.String;
+    Title: Schema.Attribute.String & Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiListSnapshotListSnapshot
   extends Struct.CollectionTypeSchema {
   collectionName: 'list_snapshots';
@@ -2103,6 +2142,7 @@ declare module '@strapi/strapi' {
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::event-attendance.event-attendance': ApiEventAttendanceEventAttendance;
       'api::library-item.library-item': ApiLibraryItemLibraryItem;
+      'api::library-rejection.library-rejection': ApiLibraryRejectionLibraryRejection;
       'api::list-snapshot.list-snapshot': ApiListSnapshotListSnapshot;
       'api::oc-task-board.oc-task-board': ApiOcTaskBoardOcTaskBoard;
       'api::oc-task.oc-task': ApiOcTaskOcTask;

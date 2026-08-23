@@ -1,0 +1,49 @@
+{
+  "kind": "collectionType",
+  "collectionName": "library_rejections",
+  "info": {
+    "singularName": "library-rejection",
+    "pluralName": "library-rejections",
+    "displayName": "Library Rejection",
+    "description": "Ίχνος απορριφθείσας καταχώρησης στην Ανοιχτή Βιβλιοθήκη. Το ίδιο το τεκμήριο διαγράφεται· εδώ μένει μόνο τι ζητήθηκε, από ποιον, τι διπλοέγραφε και ποιος το απέρριψε — για να μπορεί να απαντηθεί μια ένσταση."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "Theme": {
+      "type": "string"
+    },
+    "DuplicateOfTitle": {
+      "type": "string",
+      "description": "Ο τίτλος του τεκμηρίου που ήδη υπήρχε. Κείμενο και όχι σχέση: αν το αρχικό διαγραφεί κάποτε, το ίχνος πρέπει να παραμείνει αναγνώσιμο."
+    },
+    "SubmittedByName": {
+      "type": "string"
+    },
+    "SubmittedByEmail": {
+      "type": "string"
+    },
+    "SubmittedAt": {
+      "type": "datetime"
+    },
+    "RejectedBy": {
+      "type": "string"
+    },
+    "RejectionReason": {
+      "type": "text"
+    },
+    "SharedWords": {
+      "type": "integer",
+      "description": "Πόσες κοινές λέξεις είχε ο τίτλος με το υπάρχον — δείχνει αν η σήμανση ήταν οριακή."
+    },
+    "DriveFileId": {
+      "type": "string",
+      "description": "Το αρχείο είναι στον κάδο του Drive, όχι διαγραμμένο. Κρατάμε το id ώστε να επαναφέρεται αν η απόρριψη ήταν λάθος."
+    }
+  }
+}
