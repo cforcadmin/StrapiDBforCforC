@@ -815,6 +815,60 @@ export interface ApiEventAttendanceEventAttendance
   };
 }
 
+export interface ApiLibraryItemLibraryItem extends Struct.CollectionTypeSchema {
+  collectionName: 'library_items';
+  info: {
+    description: '\u03A4\u03B5\u03BA\u03BC\u03AE\u03C1\u03B9\u03BF \u03C4\u03B7\u03C2 \u0391\u03BD\u03BF\u03B9\u03C7\u03C4\u03AE\u03C2 \u0392\u03B9\u03B2\u03BB\u03B9\u03BF\u03B8\u03AE\u03BA\u03B7\u03C2';
+    displayName: 'Library Item';
+    pluralName: 'library-items';
+    singularName: 'library-item';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Description: Schema.Attribute.Text;
+    DocType: Schema.Attribute.String & Schema.Attribute.Required;
+    DriveFileId: Schema.Attribute.String;
+    DuplicateOf: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::library-item.library-item'
+    >;
+    FileName: Schema.Attribute.String;
+    FileSize: Schema.Attribute.Integer;
+    Language: Schema.Attribute.Enumeration<
+      ['\u0395\u03BB\u03BB\u03B7\u03BD\u03B9\u03BA\u03AC', '\u0391\u03B3\u03B3\u03BB\u03B9\u03BA\u03AC', '\u0394\u03AF\u03B3\u03BB\u03C9\u03C3\u03C3\u03BF', '\u0386\u03BB\u03BB\u03B7']
+    >;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::library-item.library-item'
+    > &
+      Schema.Attribute.Private;
+    MimeType: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    RejectionReason: Schema.Attribute.Text;
+    ReviewedAt: Schema.Attribute.DateTime;
+    ReviewedBy: Schema.Attribute.String;
+    SourceUrl: Schema.Attribute.String;
+    State: Schema.Attribute.Enumeration<['published', 'pending', 'rejected']> &
+      Schema.Attribute.DefaultTo<'published'>;
+    Subthemes: Schema.Attribute.JSON;
+    SubmittedBy: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
+    SubmittedByName: Schema.Attribute.String;
+    Theme: Schema.Attribute.String & Schema.Attribute.Required;
+    Title: Schema.Attribute.String & Schema.Attribute.Required;
+    TitleKey: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    Year: Schema.Attribute.Integer;
+  };
+}
+
 export interface ApiListSnapshotListSnapshot
   extends Struct.CollectionTypeSchema {
   collectionName: 'list_snapshots';
@@ -1020,6 +1074,8 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
       true
     > &
       Schema.Attribute.Required;
+    IsLibrarian: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    LibrarianUntil: Schema.Attribute.Date;
     lastLoginAt: Schema.Attribute.DateTime;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
@@ -2046,6 +2102,7 @@ declare module '@strapi/strapi' {
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::event-attendance.event-attendance': ApiEventAttendanceEventAttendance;
+      'api::library-item.library-item': ApiLibraryItemLibraryItem;
       'api::list-snapshot.list-snapshot': ApiListSnapshotListSnapshot;
       'api::oc-task-board.oc-task-board': ApiOcTaskBoardOcTaskBoard;
       'api::oc-task.oc-task': ApiOcTaskOcTask;

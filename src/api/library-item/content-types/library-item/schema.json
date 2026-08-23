@@ -1,0 +1,92 @@
+{
+  "kind": "collectionType",
+  "collectionName": "library_items",
+  "info": {
+    "singularName": "library-item",
+    "pluralName": "library-items",
+    "displayName": "Library Item",
+    "description": "Τεκμήριο της Ανοιχτής Βιβλιοθήκης. Το αρχείο ζει στο Drive με «Περιορισμένη πρόσβαση»· το site το σερβίρει στα συνδεδεμένα μέλη. Η Θεματική αποθηκεύεται χωριστά από τις Υποθεματικές, γι' αυτό το «Άλλο» είναι σαφές εδώ ενώ στα μέλη δεν θα ήταν."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Year": {
+      "type": "integer"
+    },
+    "Theme": {
+      "type": "string",
+      "required": true
+    },
+    "Subthemes": {
+      "type": "json",
+      "description": "Πίνακας υποθεματικών. Πίνακας και όχι κείμενο με κόμματα: υποθεματικές όπως «Λογοτεχνία / Βιβλίο / Εκδόσεις» περιέχουν ήδη διαχωριστικά."
+    },
+    "DocType": {
+      "type": "string",
+      "required": true
+    },
+    "SourceUrl": {
+      "type": "string",
+      "description": "Η σελίδα του εκδότη. Προαιρετικό."
+    },
+    "DriveFileId": {
+      "type": "string",
+      "description": "Το αρχείο στο Assets_documents. Κρατάμε το id και όχι διεύθυνση: η διεύθυνση του Drive δεν λειτουργεί για τα μέλη — το αρχείο είναι σκόπιμα περιορισμένο."
+    },
+    "FileName": {
+      "type": "string"
+    },
+    "MimeType": {
+      "type": "string"
+    },
+    "FileSize": {
+      "type": "integer"
+    },
+    "Language": {
+      "type": "enumeration",
+      "enum": ["Ελληνικά", "Αγγλικά", "Δίγλωσσο", "Άλλη"]
+    },
+    "State": {
+      "type": "enumeration",
+      "enum": ["published", "pending", "rejected"],
+      "default": "published",
+      "description": "pending = ύποπτο για διπλοεγγραφή, περιμένει τον Βιβλιοθηκάριο."
+    },
+    "TitleKey": {
+      "type": "string",
+      "description": "Ο τίτλος κανονικοποιημένος (πεζά, χωρίς τόνους και σημεία στίξης) για τον εντοπισμό διπλοεγγραφών. Αποθηκεύεται ώστε ο έλεγχος να μη διαβάζει κάθε φορά ολόκληρη τη βιβλιοθήκη."
+    },
+    "DuplicateOf": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::library-item.library-item"
+    },
+    "SubmittedBy": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member",
+      "description": "Ποιος το καταχώρησε — και ο δείκτης δραστηριότητας μελών στο OC."
+    },
+    "SubmittedByName": {
+      "type": "string",
+      "description": "Αντίγραφο του ονόματος τη στιγμή της καταχώρησης, ώστε να μη χαθεί η πληροφορία αν διαγραφεί το μέλος."
+    },
+    "ReviewedBy": {
+      "type": "string"
+    },
+    "ReviewedAt": {
+      "type": "datetime"
+    },
+    "RejectionReason": {
+      "type": "text"
+    }
+  }
+}
