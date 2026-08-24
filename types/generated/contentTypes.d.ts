@@ -856,6 +856,7 @@ export interface ApiLibraryItemLibraryItem extends Struct.CollectionTypeSchema {
     SourceUrl: Schema.Attribute.String;
     State: Schema.Attribute.Enumeration<['published', 'pending', 'rejected']> &
       Schema.Attribute.DefaultTo<'published'>;
+    SecondaryThemes: Schema.Attribute.JSON;
     Subthemes: Schema.Attribute.JSON;
     SubmittedBy: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
     SubmittedByName: Schema.Attribute.String;
