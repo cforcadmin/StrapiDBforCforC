@@ -763,6 +763,8 @@ export interface ApiOcContractOcContract extends Struct.CollectionTypeSchema {
     > &
       Schema.Attribute.Private;
     Name: Schema.Attribute.String & Schema.Attribute.Required;
+    NoReminders: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    ReminderLog: Schema.Attribute.JSON;
     NextPaymentDate: Schema.Attribute.Date;
     NextPaymentStatus: Schema.Attribute.String;
     PaymentFrequency: Schema.Attribute.String;
