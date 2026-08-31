@@ -728,6 +728,63 @@ export interface ApiOcTaskBoardOcTaskBoard
   };
 }
 
+export interface ApiOcContractOcContract extends Struct.CollectionTypeSchema {
+  collectionName: 'oc_contracts';
+  info: {
+    description: '\u039C\u03B7\u03C4\u03C1\u03CE\u03BF \u03A3\u03C5\u03BC\u03B2\u03AC\u03C3\u03B5\u03C9\u03BD & \u03A0\u03BB\u03B7\u03C1\u03C9\u03BC\u03CE\u03BD \u03A3\u03C5\u03BD\u03B5\u03C1\u03B3\u03B1\u03C4\u03CE\u03BD \u2014 \u03B1\u03C5\u03B8\u03B5\u03BD\u03C4\u03AF\u03B1\u00B7 \u03C4\u03BF Google Sheet \u03B5\u03AF\u03BD\u03B1\u03B9 \u03BA\u03B1\u03B8\u03C1\u03AD\u03C6\u03C4\u03B7\u03C2';
+    displayName: 'OC Contract';
+    pluralName: 'oc-contracts';
+    singularName: 'oc-contract';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    Aa: Schema.Attribute.Integer;
+    Amount: Schema.Attribute.Decimal;
+    Archived: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    BankIban: Schema.Attribute.String;
+    ContractFile: Schema.Attribute.String;
+    ContractNotes: Schema.Attribute.Text;
+    ContractStatus: Schema.Attribute.String;
+    ContractType: Schema.Attribute.String;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    CreatedByName: Schema.Attribute.String;
+    Email: Schema.Attribute.String;
+    EndDate: Schema.Attribute.Date;
+    ExpenseDocsLink: Schema.Attribute.String;
+    ExpenseListLink: Schema.Attribute.String;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::oc-contract.oc-contract'
+    > &
+      Schema.Attribute.Private;
+    Name: Schema.Attribute.String & Schema.Attribute.Required;
+    NextPaymentDate: Schema.Attribute.Date;
+    NextPaymentStatus: Schema.Attribute.String;
+    PaymentFrequency: Schema.Attribute.String;
+    PaymentHistory: Schema.Attribute.Text;
+    PaymentMethod: Schema.Attribute.String;
+    PaymentNotes: Schema.Attribute.Text;
+    PaymentSchedule: Schema.Attribute.Text;
+    PaymentStatus: Schema.Attribute.String;
+    Phone: Schema.Attribute.String;
+    Project: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    Role: Schema.Attribute.Text;
+    SortIndex: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    StartDate: Schema.Attribute.Date;
+    TaxId: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    UpdatedByName: Schema.Attribute.String;
+  };
+}
+
 export interface ApiOcTaskOcTask extends Struct.CollectionTypeSchema {
   collectionName: 'oc_tasks';
   info: {
@@ -2145,6 +2202,7 @@ declare module '@strapi/strapi' {
       'api::library-item.library-item': ApiLibraryItemLibraryItem;
       'api::library-rejection.library-rejection': ApiLibraryRejectionLibraryRejection;
       'api::list-snapshot.list-snapshot': ApiListSnapshotListSnapshot;
+      'api::oc-contract.oc-contract': ApiOcContractOcContract;
       'api::oc-task-board.oc-task-board': ApiOcTaskBoardOcTaskBoard;
       'api::oc-task.oc-task': ApiOcTaskOcTask;
       'api::treasury-balance.treasury-balance': ApiTreasuryBalanceTreasuryBalance;

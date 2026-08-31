@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "oc_contracts",
+  "info": {
+    "singularName": "oc-contract",
+    "pluralName": "oc-contracts",
+    "displayName": "OC Contract",
+    "description": "Μητρώο Συμβάσεων & Πληρωμών Συνεργατών — αυθεντία· το Google Sheet είναι καθρέφτης. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Aa": { "type": "integer", "required": false },
+    "Name": { "type": "string", "required": true },
+    "Role": { "type": "text", "required": false },
+    "Email": { "type": "string", "required": false },
+    "Phone": { "type": "string", "required": false },
+    "TaxId": { "type": "string", "required": false },
+    "ContractType": { "type": "string", "required": false },
+    "Project": { "type": "string", "required": false },
+    "StartDate": { "type": "date", "required": false },
+    "EndDate": { "type": "date", "required": false },
+    "ContractStatus": { "type": "string", "required": false },
+    "ContractFile": { "type": "string", "required": false },
+    "ContractNotes": { "type": "text", "required": false },
+    "Amount": { "type": "decimal", "required": false },
+    "PaymentMethod": { "type": "string", "required": false },
+    "PaymentFrequency": { "type": "string", "required": false },
+    "PaymentSchedule": { "type": "text", "required": false },
+    "NextPaymentDate": { "type": "date", "required": false },
+    "NextPaymentStatus": { "type": "string", "required": false },
+    "PaymentHistory": { "type": "text", "required": false },
+    "BankIban": { "type": "string", "required": false },
+    "PaymentStatus": { "type": "string", "required": false },
+    "PaymentNotes": { "type": "text", "required": false },
+    "ExpenseDocsLink": { "type": "string", "required": false },
+    "ExpenseListLink": { "type": "string", "required": false },
+    "Archived": { "type": "boolean", "default": false },
+    "SortIndex": { "type": "integer", "default": 0 },
+    "CreatedByName": { "type": "string", "required": false },
+    "UpdatedByName": { "type": "string", "required": false }
+  }
+}
