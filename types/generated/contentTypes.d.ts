@@ -1155,6 +1155,7 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
     draftAndPublish: true;
   };
   attributes: {
+    OcPrefs: Schema.Attribute.JSON;
     Bio: Schema.Attribute.Blocks & Schema.Attribute.Required;
     City: Schema.Attribute.String & Schema.Attribute.Required;
     EngBio: Schema.Attribute.Blocks;
