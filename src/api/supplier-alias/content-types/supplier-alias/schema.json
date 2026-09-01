@@ -53,6 +53,13 @@
     "Notes": {
       "type": "text",
       "required": false
+    },
+    "MonthlyConsolidated": {
+      "type": "boolean",
+      "default": false
+    },
+    "ChargePattern": {
+      "type": "string"
     }
   }
 }

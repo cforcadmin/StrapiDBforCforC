@@ -628,6 +628,8 @@ export interface ApiSupplierAliasSupplierAlias
     draftAndPublish: false;
   };
   attributes: {
+    ChargePattern: Schema.Attribute.String;
+    MonthlyConsolidated: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     AliasKey: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.Unique;
