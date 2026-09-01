@@ -568,6 +568,7 @@ export interface ApiExpenseExpense extends Struct.CollectionTypeSchema {
     draftAndPublish: false;
   };
   attributes: {
+    ReconAcked: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     Aa: Schema.Attribute.String & Schema.Attribute.Required;
     ApprovedAt: Schema.Attribute.DateTime;
     ApprovedBy: Schema.Attribute.String;
