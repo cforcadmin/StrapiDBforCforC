@@ -1,0 +1,147 @@
+{
+  "kind": "collectionType",
+  "collectionName": "expense_claims",
+  "info": {
+    "singularName": "expense-claim",
+    "pluralName": "expense-claims",
+    "displayName": "Expense Claim",
+    "description": "Εξοδολόγια μελών — κάλυψη εξόδων μετακίνησης/διαμονής/διατροφής για δράσεις του δικτύου. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ClaimNumber": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "MemberName": {
+      "type": "string",
+      "required": true
+    },
+    "MemberEmail": {
+      "type": "string",
+      "required": true
+    },
+    "MemberPhone": {
+      "type": "string"
+    },
+    "linkedMember": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::member.member"
+    },
+    "EventType": {
+      "type": "enumeration",
+      "enum": [
+        "Γενική Συνέλευση",
+        "Midterm",
+        "ΟΣ meetup",
+        "Δράση εσωτερικού",
+        "Δράση εξωτερικού",
+        "Project",
+        "Άλλο"
+      ],
+      "required": true
+    },
+    "EventName": {
+      "type": "string"
+    },
+    "EventStart": {
+      "type": "date",
+      "required": true
+    },
+    "EventEnd": {
+      "type": "date",
+      "required": true
+    },
+    "EventDays": {
+      "type": "integer"
+    },
+    "TravelFrom": {
+      "type": "string"
+    },
+    "TravelTo": {
+      "type": "string"
+    },
+    "TravelMode": {
+      "type": "string"
+    },
+    "CoTravellers": {
+      "type": "text"
+    },
+    "Lines": {
+      "type": "json",
+      "required": true
+    },
+    "Total": {
+      "type": "decimal",
+      "required": true
+    },
+    "Advance": {
+      "type": "decimal",
+      "default": 0
+    },
+    "Payable": {
+      "type": "decimal",
+      "required": true
+    },
+    "BankName": {
+      "type": "string"
+    },
+    "AccountHolder": {
+      "type": "string"
+    },
+    "Iban": {
+      "type": "string"
+    },
+    "Signature": {
+      "type": "text"
+    },
+    "Attachments": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": ["images", "files"]
+    },
+    "SubmittedAt": {
+      "type": "datetime",
+      "required": true
+    },
+    "SubmittedIp": {
+      "type": "string"
+    },
+    "State": {
+      "type": "enumeration",
+      "enum": ["submitted", "paid", "cancelled"],
+      "default": "submitted",
+      "required": true
+    },
+    "PaidAt": {
+      "type": "datetime"
+    },
+    "PaidBy": {
+      "type": "string"
+    },
+    "PaymentNote": {
+      "type": "text"
+    },
+    "PdfFileId": {
+      "type": "string"
+    },
+    "PdfUrl": {
+      "type": "string"
+    },
+    "FolderUrl": {
+      "type": "string"
+    },
+    "ReminderLog": {
+      "type": "json"
+    },
+    "Notes": {
+      "type": "text"
+    }
+  }
+}

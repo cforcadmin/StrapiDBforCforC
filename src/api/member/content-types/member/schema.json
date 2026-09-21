@@ -294,6 +294,16 @@
     },
     "OcPrefs": {
       "type": "json"
+    },
+    "BankName": {
+      "type": "string"
+    },
+    "AccountHolder": {
+      "type": "string"
+    },
+    "Iban": {
+      "type": "string",
+      "private": true
     }
   }
 }

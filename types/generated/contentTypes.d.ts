@@ -556,6 +556,84 @@ export interface ApiIncomeRecordIncomeRecord
   };
 }
 
+export interface ApiExpenseClaimExpenseClaim
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'expense_claims';
+  info: {
+    description: '\u0395\u03BE\u03BF\u03B4\u03BF\u03BB\u03CC\u03B3\u03B9\u03B1 \u03BC\u03B5\u03BB\u03CE\u03BD';
+    displayName: 'Expense Claim';
+    pluralName: 'expense-claims';
+    singularName: 'expense-claim';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    AccountHolder: Schema.Attribute.String;
+    Advance: Schema.Attribute.Decimal & Schema.Attribute.DefaultTo<0>;
+    Attachments: Schema.Attribute.Media<'images' | 'files', true>;
+    BankName: Schema.Attribute.String;
+    ClaimNumber: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.Unique;
+    CoTravellers: Schema.Attribute.Text;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    EventDays: Schema.Attribute.Integer;
+    EventEnd: Schema.Attribute.Date & Schema.Attribute.Required;
+    EventName: Schema.Attribute.String;
+    EventStart: Schema.Attribute.Date & Schema.Attribute.Required;
+    EventType: Schema.Attribute.Enumeration<
+      [
+        '\u0393\u03B5\u03BD\u03B9\u03BA\u03AE \u03A3\u03C5\u03BD\u03AD\u03BB\u03B5\u03C5\u03C3\u03B7',
+        'Midterm',
+        '\u039F\u03A3 meetup',
+        '\u0394\u03C1\u03AC\u03C3\u03B7 \u03B5\u03C3\u03C9\u03C4\u03B5\u03C1\u03B9\u03BA\u03BF\u03CD',
+        '\u0394\u03C1\u03AC\u03C3\u03B7 \u03B5\u03BE\u03C9\u03C4\u03B5\u03C1\u03B9\u03BA\u03BF\u03CD',
+        'Project',
+        '\u0386\u03BB\u03BB\u03BF',
+      ]
+    > &
+      Schema.Attribute.Required;
+    FolderUrl: Schema.Attribute.String;
+    Iban: Schema.Attribute.String;
+    Lines: Schema.Attribute.JSON & Schema.Attribute.Required;
+    linkedMember: Schema.Attribute.Relation<'oneToOne', 'api::member.member'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::expense-claim.expense-claim'
+    > &
+      Schema.Attribute.Private;
+    MemberEmail: Schema.Attribute.String & Schema.Attribute.Required;
+    MemberName: Schema.Attribute.String & Schema.Attribute.Required;
+    MemberPhone: Schema.Attribute.String;
+    Notes: Schema.Attribute.Text;
+    PaidAt: Schema.Attribute.DateTime;
+    PaidBy: Schema.Attribute.String;
+    Payable: Schema.Attribute.Decimal & Schema.Attribute.Required;
+    PaymentNote: Schema.Attribute.Text;
+    PdfFileId: Schema.Attribute.String;
+    PdfUrl: Schema.Attribute.String;
+    publishedAt: Schema.Attribute.DateTime;
+    ReminderLog: Schema.Attribute.JSON;
+    Signature: Schema.Attribute.Text;
+    State: Schema.Attribute.Enumeration<['submitted', 'paid', 'cancelled']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'submitted'>;
+    SubmittedAt: Schema.Attribute.DateTime & Schema.Attribute.Required;
+    SubmittedIp: Schema.Attribute.String;
+    Total: Schema.Attribute.Decimal & Schema.Attribute.Required;
+    TravelFrom: Schema.Attribute.String;
+    TravelMode: Schema.Attribute.String;
+    TravelTo: Schema.Attribute.String;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExpenseExpense extends Struct.CollectionTypeSchema {
   collectionName: 'expenses';
   info: {
@@ -1161,6 +1239,9 @@ export interface ApiMemberMember extends Struct.CollectionTypeSchema {
   };
   attributes: {
     OcPrefs: Schema.Attribute.JSON;
+    AccountHolder: Schema.Attribute.String;
+    BankName: Schema.Attribute.String;
+    Iban: Schema.Attribute.String & Schema.Attribute.Private;
     Bio: Schema.Attribute.Blocks & Schema.Attribute.Required;
     City: Schema.Attribute.String & Schema.Attribute.Required;
     EngBio: Schema.Attribute.Blocks;
@@ -2202,6 +2283,7 @@ declare module '@strapi/strapi' {
       'api::coordination-team.coordination-team': ApiCoordinationTeamCoordinationTeam;
       'api::member.member': ApiMemberMember;
       'api::income-record.income-record': ApiIncomeRecordIncomeRecord;
+      'api::expense-claim.expense-claim': ApiExpenseClaimExpenseClaim;
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::event-attendance.event-attendance': ApiEventAttendanceEventAttendance;
