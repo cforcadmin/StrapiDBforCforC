@@ -618,6 +618,8 @@ export interface ApiExpenseClaimExpenseClaim
     PdfUrl: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     ReminderLog: Schema.Attribute.JSON;
+    ReturnIncluded: Schema.Attribute.Boolean &
+      Schema.Attribute.DefaultTo<true>;
     Signature: Schema.Attribute.Text;
     State: Schema.Attribute.Enumeration<['submitted', 'paid', 'cancelled']> &
       Schema.Attribute.Required &
@@ -626,6 +628,7 @@ export interface ApiExpenseClaimExpenseClaim
     SubmittedIp: Schema.Attribute.String;
     Total: Schema.Attribute.Decimal & Schema.Attribute.Required;
     TravelFrom: Schema.Attribute.String;
+    TravelLegs: Schema.Attribute.JSON;
     TravelMode: Schema.Attribute.String;
     TravelTo: Schema.Attribute.String;
     updatedAt: Schema.Attribute.DateTime;

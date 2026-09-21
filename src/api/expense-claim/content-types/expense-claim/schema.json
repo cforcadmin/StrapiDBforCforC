@@ -104,7 +104,10 @@
       "type": "media",
       "multiple": true,
       "required": false,
-      "allowedTypes": ["images", "files"]
+      "allowedTypes": [
+        "images",
+        "files"
+      ]
     },
     "SubmittedAt": {
       "type": "datetime",
@@ -115,7 +118,11 @@
     },
     "State": {
       "type": "enumeration",
-      "enum": ["submitted", "paid", "cancelled"],
+      "enum": [
+        "submitted",
+        "paid",
+        "cancelled"
+      ],
       "default": "submitted",
       "required": true
     },
@@ -142,6 +149,13 @@
     },
     "Notes": {
       "type": "text"
+    },
+    "TravelLegs": {
+      "type": "json"
+    },
+    "ReturnIncluded": {
+      "type": "boolean",
+      "default": true
     }
   }
 }
