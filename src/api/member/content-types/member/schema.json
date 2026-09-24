@@ -304,6 +304,9 @@
     "Iban": {
       "type": "string",
       "private": true
+    },
+    "ReminderLog": {
+      "type": "json"
     }
   }
 }
