@@ -88,6 +88,11 @@
       "relation": "manyToOne",
       "target": "api::member.member"
     },
+    "Media": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::member.member"
+    },
     "CoordinatorEmail": {
       "type": "email",
       "default": "coordinator@cultureforchange.net",
@@ -121,6 +126,11 @@
     "ITEmail": {
       "type": "email",
       "default": "it@cultureforchange.net",
+      "required": false
+    },
+    "MediaEmail": {
+      "type": "email",
+      "default": "media@cultureforchange.net",
       "required": false
     },
     "SortOrder": {

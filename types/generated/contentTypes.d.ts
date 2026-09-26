@@ -1608,6 +1608,9 @@ export interface ApiCoordinationTeamCoordinationTeam
       'api::coordination-team.coordination-team'
     > &
       Schema.Attribute.Private;
+    Media: Schema.Attribute.Relation<'manyToOne', 'api::member.member'>;
+    MediaEmail: Schema.Attribute.Email &
+      Schema.Attribute.DefaultTo<'media@cultureforchange.net'>;
     Members: Schema.Attribute.Relation<'manyToMany', 'api::member.member'>;
     Name: Schema.Attribute.String & Schema.Attribute.Required;
     Period: Schema.Attribute.String & Schema.Attribute.Required;
