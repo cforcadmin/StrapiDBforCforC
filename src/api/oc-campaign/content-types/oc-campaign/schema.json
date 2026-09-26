@@ -17,6 +17,10 @@
       "required": true,
       "maxLength": 200
     },
+    "Desk": {
+      "type": "string",
+      "maxLength": 40
+    },
     "Preheader": {
       "type": "string",
       "maxLength": 200

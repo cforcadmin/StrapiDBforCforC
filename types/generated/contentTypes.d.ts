@@ -577,6 +577,10 @@ export interface ApiOcCampaignOcCampaign extends Struct.CollectionTypeSchema {
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
     CreatedByName: Schema.Attribute.String;
+    Desk: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 40;
+      }>;
     FailedCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     FooterStyle: Schema.Attribute.Enumeration<
       ['signature', 'compact', 'organisation', 'detailed']
