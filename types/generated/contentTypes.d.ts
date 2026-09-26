@@ -576,6 +576,10 @@ export interface ApiOcCampaignOcCampaign extends Struct.CollectionTypeSchema {
       Schema.Attribute.Private;
     CreatedByName: Schema.Attribute.String;
     FailedCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    FooterStyle: Schema.Attribute.Enumeration<
+      ['signature', 'compact', 'organisation', 'detailed']
+    > &
+      Schema.Attribute.DefaultTo<'signature'>;
     IsTemplate: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     LastRunAt: Schema.Attribute.DateTime;
     locale: Schema.Attribute.String & Schema.Attribute.Private;

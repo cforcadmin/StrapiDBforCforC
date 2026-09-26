@@ -21,6 +21,16 @@
       "type": "string",
       "maxLength": 200
     },
+    "FooterStyle": {
+      "type": "enumeration",
+      "enum": [
+        "signature",
+        "compact",
+        "organisation",
+        "detailed"
+      ],
+      "default": "signature"
+    },
     "Blocks": {
       "type": "json",
       "required": true
