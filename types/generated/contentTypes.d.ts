@@ -568,6 +568,8 @@ export interface ApiOcCampaignOcCampaign extends Struct.CollectionTypeSchema {
     draftAndPublish: false;
   };
   attributes: {
+    Archived: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    ArchivedAt: Schema.Attribute.DateTime;
     Blocks: Schema.Attribute.JSON & Schema.Attribute.Required;
     Cc: Schema.Attribute.JSON;
     CompletedAt: Schema.Attribute.DateTime;

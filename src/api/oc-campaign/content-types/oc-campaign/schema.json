@@ -81,6 +81,13 @@
       "default": "draft",
       "required": true
     },
+    "Archived": {
+      "type": "boolean",
+      "default": false
+    },
+    "ArchivedAt": {
+      "type": "datetime"
+    },
     "Cc": {
       "type": "json"
     },
