@@ -1,0 +1,83 @@
+{
+  "kind": "collectionType",
+  "collectionName": "oc_campaigns",
+  "info": {
+    "singularName": "oc-campaign",
+    "pluralName": "oc-campaigns",
+    "displayName": "OC Campaign",
+    "description": "Μαζικές αποστολές email από το OC. Τα μπλοκ αποθηκεύονται ως JSON και αποδίδονται τη στιγμή της αποστολής — όχι έτοιμο HTML — ώστε μια μελλοντική αλλαγή στην ταυτότητα να ισχύει και για παλιές καμπάνιες. No public API access — server token only."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Subject": {
+      "type": "string",
+      "required": true,
+      "maxLength": 200
+    },
+    "Preheader": {
+      "type": "string",
+      "maxLength": 200
+    },
+    "Blocks": {
+      "type": "json",
+      "required": true
+    },
+    "Recipients": {
+      "type": "json",
+      "required": true
+    },
+    "State": {
+      "type": "enumeration",
+      "enum": [
+        "draft",
+        "queued",
+        "sending",
+        "sent",
+        "cancelled"
+      ],
+      "default": "draft",
+      "required": true
+    },
+    "Cc": {
+      "type": "json"
+    },
+    "SentCount": {
+      "type": "integer",
+      "default": 0
+    },
+    "FailedCount": {
+      "type": "integer",
+      "default": 0
+    },
+    "TotalCount": {
+      "type": "integer",
+      "default": 0
+    },
+    "QueuedAt": {
+      "type": "datetime"
+    },
+    "LastRunAt": {
+      "type": "datetime"
+    },
+    "CompletedAt": {
+      "type": "datetime"
+    },
+    "CreatedByName": {
+      "type": "string"
+    },
+    "Notes": {
+      "type": "text"
+    },
+    "IsTemplate": {
+      "type": "boolean",
+      "default": false
+    },
+    "TemplateName": {
+      "type": "string",
+      "maxLength": 120
+    }
+  }
+}

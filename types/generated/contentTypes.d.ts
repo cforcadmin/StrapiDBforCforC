@@ -556,6 +556,62 @@ export interface ApiIncomeRecordIncomeRecord
   };
 }
 
+export interface ApiOcCampaignOcCampaign extends Struct.CollectionTypeSchema {
+  collectionName: 'oc_campaigns';
+  info: {
+    description: '\u039C\u03B1\u03B6\u03B9\u03BA\u03AD\u03C2 \u03B1\u03C0\u03BF\u03C3\u03C4\u03BF\u03BB\u03AD\u03C2 email \u03B1\u03C0\u03CC \u03C4\u03BF OC';
+    displayName: 'OC Campaign';
+    pluralName: 'oc-campaigns';
+    singularName: 'oc-campaign';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    Blocks: Schema.Attribute.JSON & Schema.Attribute.Required;
+    Cc: Schema.Attribute.JSON;
+    CompletedAt: Schema.Attribute.DateTime;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    CreatedByName: Schema.Attribute.String;
+    FailedCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    IsTemplate: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    LastRunAt: Schema.Attribute.DateTime;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::oc-campaign.oc-campaign'
+    > &
+      Schema.Attribute.Private;
+    Notes: Schema.Attribute.Text;
+    Preheader: Schema.Attribute.String & Schema.Attribute.SetMinMaxLength<{
+      maxLength: 200;
+    }>;
+    publishedAt: Schema.Attribute.DateTime;
+    QueuedAt: Schema.Attribute.DateTime;
+    Recipients: Schema.Attribute.JSON & Schema.Attribute.Required;
+    SentCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    State: Schema.Attribute.Enumeration<
+      ['draft', 'queued', 'sending', 'sent', 'cancelled']
+    > &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'draft'>;
+    Subject: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    TemplateName: Schema.Attribute.String & Schema.Attribute.SetMinMaxLength<{
+      maxLength: 120;
+    }>;
+    TotalCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiExpenseClaimExpenseClaim
   extends Struct.CollectionTypeSchema {
   collectionName: 'expense_claims';
@@ -2287,6 +2343,7 @@ declare module '@strapi/strapi' {
       'api::member.member': ApiMemberMember;
       'api::income-record.income-record': ApiIncomeRecordIncomeRecord;
       'api::expense-claim.expense-claim': ApiExpenseClaimExpenseClaim;
+      'api::oc-campaign.oc-campaign': ApiOcCampaignOcCampaign;
       'api::expense.expense': ApiExpenseExpense;
       'api::supplier-alias.supplier-alias': ApiSupplierAliasSupplierAlias;
       'api::event-attendance.event-attendance': ApiEventAttendanceEventAttendance;
