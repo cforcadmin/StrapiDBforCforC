@@ -580,6 +580,14 @@ export interface ApiOcCampaignOcCampaign extends Struct.CollectionTypeSchema {
       ['signature', 'compact', 'organisation', 'detailed']
     > &
       Schema.Attribute.DefaultTo<'signature'>;
+    FooterLogo: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    FooterLook: Schema.Attribute.Enumeration<
+      ['plain', 'cream', 'coral', 'dark', 'creamFull', 'coralFull', 'darkFull']
+    > &
+      Schema.Attribute.DefaultTo<'plain'>;
+    HeaderLogo: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    HeaderStyle: Schema.Attribute.Enumeration<['coral', 'light', 'dark']> &
+      Schema.Attribute.DefaultTo<'coral'>;
     IsTemplate: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     LastRunAt: Schema.Attribute.DateTime;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
@@ -596,6 +604,7 @@ export interface ApiOcCampaignOcCampaign extends Struct.CollectionTypeSchema {
     QueuedAt: Schema.Attribute.DateTime;
     Recipients: Schema.Attribute.JSON & Schema.Attribute.Required;
     SentCount: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    Signer: Schema.Attribute.JSON;
     State: Schema.Attribute.Enumeration<
       ['draft', 'queued', 'sending', 'sent', 'cancelled']
     > &

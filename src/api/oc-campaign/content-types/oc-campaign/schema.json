@@ -31,6 +31,36 @@
       ],
       "default": "signature"
     },
+    "FooterLook": {
+      "type": "enumeration",
+      "enum": [
+        "plain",
+        "cream",
+        "coral",
+        "dark",
+        "creamFull",
+        "coralFull",
+        "darkFull"
+      ],
+      "default": "plain"
+    },
+    "FooterLogo": {
+      "type": "boolean",
+      "default": false
+    },
+    "HeaderStyle": {
+      "type": "enumeration",
+      "enum": [
+        "coral",
+        "light",
+        "dark"
+      ],
+      "default": "coral"
+    },
+    "HeaderLogo": {
+      "type": "boolean",
+      "default": false
+    },
     "Blocks": {
       "type": "json",
       "required": true
@@ -77,6 +107,9 @@
     },
     "CreatedByName": {
       "type": "string"
+    },
+    "Signer": {
+      "type": "json"
     },
     "Notes": {
       "type": "text"
